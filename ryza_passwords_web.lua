@@ -2,12 +2,14 @@
 local js = require("js")
 local window = js.global
 local document = window.document
+
 xml = {}
 xml.maps = nil
 xml.cats = nil
 xml.passwords = nil
 subItems = nil
-local debug = false -- only first 1000 passwords for speed
+local debug = true -- only first 1000 passwords for speed
+local debugCount = 10000 
 -- To update data, open the data/xml files and paste the contents of
 -- the xml between the [[ ]] brackets on the first/last line.
 -- (Done this way because CERTAIN WEB LUA IMPLEMENTATIONS do not support
@@ -23,10 +25,10 @@ local categories = {}
 local maps = {}
 local mainItems = {}
 
-local subItemMap = {}
-local mainItemMap = {}
+local itemMap = {}
 local mapToItem = {}
-
+local item_k = {}
+local _item_k = {}
 local function sleep(delay)
     local co = assert(coroutine.running(), "Should be run in a coroutine")
 
@@ -53,10 +55,16 @@ function parsePasswordLine(line)
         local subitem = subItems[data.subitem]
         local item = maps[data.infoIndex + 1]
         item = mapToItem[item]
-        if (not subItemMap[subitem]) then subItemMap[subitem] = {} end
-        if (not mainItemMap[item]) then mainItemMap[item] = {} end
-        subItemMap[subitem][item] = data
-        mainItemMap[item][subitem] = data
+        if (not itemMap[subitem]) then itemMap[subitem] = {} end
+        if (not itemMap[item]) then itemMap[item] = {} end
+        if (not itemMap[subitem][item]) then itemMap[subitem][item] = {} end
+        if (not itemMap[item][subitem]) then itemMap[item][subitem] = {} end
+        local a = itemMap[subitem][item]
+        a[#a + 1] = data
+        local b = itemMap[item][subitem]
+        b[#b + 1] = data
+        if (not _item_k[item]) then _item_k[item] = 1 item_k[#item_k + 1] = item end
+        if (not _item_k[subitem]) then _item_k[subitem] = 1 item_k[#item_k + 1] = subitem end
     end
 end
 local suffixes = {
@@ -87,7 +95,7 @@ function parseMapLine(line)
 end
 function parseCategoryLine(line)
     --	<FieldMixCat No="0" category="ITEM_CATEGORY_LIQUID"/>
-    line = line:match([[".*Category="ITEM_CATEGORY_(.*)".*]])
+    line = line:match([[".*category="ITEM_CATEGORY_(.*)".*]])
     if (line) then 
         categories[#categories + 1] = line
     end
@@ -104,135 +112,109 @@ function process()
     for line in file:gmatch("[^\r\n]+") do
         parseMapLine(line)
     end
+    for i,v in pairs(xml) do print(i) end
     message("Processing passwords.. This will take a long time..")
     local file = xml.passwords
     local pws = 0
     for line in file:gmatch("[^\r\n]+") do
         pws = pws + 1
         parsePasswordLine(line)
-        if (debug and pws > 1000) then break end
+        if (debug and pws > debugCount) then break end
     end 
+    table.sort(item_k)
     message("Processing complete.")
     continueAfterProcessing()
   end)()
 end
 local selectedItems = {}
-function purgeLists() 
-  selectedItems = {}
-  local mi = document:getElementById("mainItem")
-  local si = document:getElementById("subItem")
-  selectedItems[1] = mi.options[mi.selectedIndex].value
-  selectedItems[2] = si.options[si.selectedIndex].value
-  local select = document:getElementById("mainItem")
-  local length = select.options.length
-  for i=0,length do
-    select:remove(0)
-  end
+-- both if none specified
+function purgeList(list) 
+    selectedItems = {}
+    if (not list) then list = {"mainItem", "subItem"} 
+    else list = { list } end
+    for i,v in pairs(list) do
+        local select = document:getElementById(v)
+        if (select.selectedIndex > -1) then 
+            selectedItems[i] = select.options[select.selectedIndex].value
+        end
+        local length = select.options.length
+        for i=0,length do
+            select:remove(0)
+        end
+    end
 end
-function continueAfterProcessing()
-  purgeLists()
 
+function populateMainList()
+    local mainList = document:getElementById("mainItem")
+    local option = document:createElement("option")
+    option.text = "{Main Item}"
+    option.value = ""
+    mainList:add(option)    
+    for _,i in pairs(item_k) do
+        local option = document:createElement("option")
+        option.text = i
+        option.value = i
+        mainList:add(option)
+    end
+    mainList.onchange = populateSubList
 end
+function populateSubList()
+    purgeList("subItem")
+    local mainList = document:getElementById("mainItem")
+    local subList = document:getElementById("subItem")
+    local selected = mainList.options[mainList.selectedIndex].value
+    if (selected and not (selected == "")) then 
+        local option = document:createElement("option")
+        option.text = "{Sub Item}"
+        option.value = ""
+        subList:add(option)         
+        local sortsub = {}
+        local _sortsub = {}
+        for i,v in pairs(itemMap[selected]) do 
+            if (not _sortsub[i]) then _sortsub[i] = 1 sortsub[#sortsub + 1] = i end
+        end
+        table.sort(sortsub)
+        for _,i in pairs(sortsub) do
+            local option = document:createElement("option")
+            option.text = i
+            option.value = i
+            subList:add(option)
+        end
+    end
+    subList.onchange = getPasswords
+end
+
+function getPasswords()
+    local mainList = document:getElementById("mainItem")
+    local subList = document:getElementById("subItem")
+    local selectedM = mainList.options[mainList.selectedIndex].value
+    local selectedS = subList.options[subList.selectedIndex].value
+    if (selectedM and selectedS and not (selectedM == "") and not (selectedS == "")) then
+        local divText = ""..selectedM.." x "..selectedS.."<br>"
+        local pwfield = document:getElementById("passwords")
+        for i,dataset in pairs(itemMap[selectedM][selectedS]) do
+            divText = divText..assembleData(dataset).."<br>"
+        end
+        pwfield.innerHTML = divText
+    end
+end
+
+function continueAfterProcessing()
+    purgeList()
+
+    populateMainList()
+end
+
+
 process()
 
-
-function assembleData(pw)
-    local d = passwords[pw]
-    local cat = categories[d.c + 1]:gsub("ITEM_CATEGORY_","")
-    local map = maps[d.i + 1]
+function assembleData(dataset)
+    --    data.level, data.gems, data.password, data.infoIndex, data.category, data.subitem
+    local d = dataset
+    local cat = categories[tonumber(d.category + 1)]
+    local map = maps[d.infoIndex + 1]
     local uwstring = ""
-    return string.format("> %s < - Lv.%s %s [%sg], %s (s=%s)",d.p,d.l,map,d.g,cat,d.s,uwstring)
+    print(dataset)
+    return string.format("> %s < - Lv.%s %s [%sg], %s (s=%s)",d.password,d.level,map,d.gems,cat,d.subitem,uwstring)
 end
 local item = nil
-
-
-while (false) do 
-
-    print("? Please specify an item name to search for:")
-    io.write("> ")
-    item = io.read("*l")
-
-    if (not items_k[item]) then
-        local item_matches = {}
-        for i,v in pairs(mainItems) do
-            if (v:lower():match(item:lower())) then item_matches[#item_matches+1] = v end
-        end
-        if (#item_matches > 0) then
-            if (#item_matches == 1) then 
-                item = item_matches[1]
-            else
-                local loop = true
-                print("? Multiple results found. Please be more specific:")
-                while (loop) do
-                    print("["..table.concat(item_matches,", ").."]")
-                    io.write("> ")
-                    item = io.read("*l")
-                    local f = false
-                    for i,v in pairs(item_matches) do
-                        if (v:lower():match(item:lower())) then item = v f = true end
-                    end
-                    if (not f) then print("? Invalid input.")
-                    else loop = false end
-                end
-            end
-        end
-    end
-    if (item) then 
-
-        local results = {}
-        local res_k = {}
-        for pw,v in pairs(passwords) do
-            if (maps[v.i + 1]:match("^"..item)) then 
-                if (not results[v.l]) then 
-                    results[v.l] = {} 
-                    res_k[#res_k+1] = tonumber(v.l)
-                end
-                results[v.l][#results[v.l] + 1] = pw
-            end
-        end
-
-        if (#res_k > 0) then 
-            local input = tostring(res_k[1])
-            if (#res_k > 1) then 
-                table.sort(res_k)
-                print("? Found passwords for "..item.." with levels "..table.concat(res_k,", "))
-                local notok = true
-                while (notok) do
-                    print("? Please specify which level you would like to visit ("..table.concat(res_k,", ").."):")
-                    io.write("> ")
-                    input = io.read("*l")
-                    if (not results[input]) then
-                        print("? Invalid level.")
-                    else
-                        notok = false
-                    end
-                end
-            end
-            local reqBottle = 1
-            local req255 = false
-            for i,pw in pairs(results[input]) do
-                print(assembleData(pw))
-                local checked = false
-                if (not checked) then 
-                    local d = passwords[pw]
-                    local lev = tonumber(d.l)
-                    if (tonumber(d.i) > 255) then req255 = true
-                    elseif (lev > 50) then reqBottle = 5
-                    elseif (lev > 40) then reqBottle = 4
-                    elseif (lev > 30) then reqBottle = 3
-                    elseif (lev > 20) then reqBottle = 2
-                    end
-                end
-            end
-            if (req255) then 
-                print("\n! These particular passwords can only be input with Travel Bottle #5.\n")
-            elseif (reqBottle > 1) then
-                print("\n! These particular passwords can only be input once you have at least "..reqBottle.." Travel Bottles.\n")
-            end
-        else
-            print("? No results found.")
-        end
-    else
-        print("? No item with that name found.")
-    end
-end
