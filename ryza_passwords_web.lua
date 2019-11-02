@@ -2,7 +2,7 @@
 local js = require("js")
 local window = js.global
 local document = window.document
-
+print("asdf")
 xml = {}
 xml.maps = nil
 xml.cats = nil
