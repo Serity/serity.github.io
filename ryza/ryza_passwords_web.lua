@@ -249,7 +249,8 @@ function getPasswords()
     local selectedM = mainList.options[mainList.selectedIndex].value
     local selectedS = subList.options[subList.selectedIndex].value
     if (selectedM and selectedS and not (selectedM == "") and not (selectedS == "")) then
-        local divText = ""..selectedM.." x "..selectedS.."<br>"
+        local divText = "<u>"..selectedM.." + "..selectedS.."</u><br>"
+        if (selectedM == selectedS) then divText = "<u>"..selectedM.." Only</u><br>" end
         local pwfield = document:getElementById("passwords")
         local pws = {}
         for i,dataset in pairs(itemMap[selectedM][selectedS]) do
@@ -277,7 +278,7 @@ function assembleData(dataset)
     local cat = categories[tonumber(d.category + 1)]
     local map = maps[d.infoIndex + 1]
     local uwstring = ""
-    text = string.format("> %s < - Lv.%s %s [%sg], %s (s=%s)",d.password,d.level,map,d.gems,cat,d.subitem,uwstring)
+    text = string.format("> <b>%s</b> < - Lv.%s %s [%sg], %s (s=%s)",d.password,d.level,map,d.gems,cat,d.subitem,uwstring)
     local enem = mapEnemies[d.infoIndex + 1]
     if (enem) then 
         local uenem = {}
@@ -285,6 +286,23 @@ function assembleData(dataset)
         for i,v in pairs(enem) do if (not uenem[v]) then uenem[v] = 1 thisenemy[#thisenemy + 1] = v end end
         text = text.."<br>&nbsp;&nbsp;&nbsp;&nbsp;Estimated Enemies: "..table.concat(thisenemy,", ") 
     end
+    local req255 = (dataset.infoIndex > 255)
+    if (req255) then 
+        text = text.."<br>&nbsp;&nbsp;&nbsp;&nbsp;! Only accessible with Travel Bottle #5."
+    else        
+        local reqBottle = 1
+        local lev = tonumber(dataset.level)
+        if (lev > 50) then reqBottle = 5
+        elseif (lev > 40) then reqBottle = 4
+        elseif (lev > 30) then reqBottle = 3
+        elseif (lev > 20) then reqBottle = 2
+        end
+        if (reqBottle > 1) then 
+            if (reqBottle < 5) then reqBottle = tostring(reqBottle).."+" end
+            text = text.."<br>&nbsp;&nbsp;&nbsp;&nbsp;! Only accessible with "..reqBottle.." Travel Bottles."
+        end
+    end
+    text = text.."<br>"
     return text
 end
 local item = nil
