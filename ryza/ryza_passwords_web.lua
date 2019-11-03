@@ -152,20 +152,26 @@ function process()
     for line in file:gmatch("[^\r\n]+") do
         parseCategoryLine(line)
     end
+    xml.cats = nil
     message("Processing enemies..")
     local file = xml.enemyNames for line in file:gmatch("[^\r\n]+") do parseEnemyNameLine(line) end
     local file = xml.enemyData for line in file:gmatch("[^\r\n]+") do parseEnemyDataLine(line) end
     local file = xml.enemies for line in file:gmatch("[^\r\n]+") do parseEnemyLine(line) end
+    xml.enemyNames = nil
+    xml.enemyData = nil
+    xml.enemies = nil
     message("Processing map info..")
     local file = xml.mapinfo
     for line in file:gmatch("[^\r\n]+") do
         parseMapInfoLine(line)
     end
+    xml.mapinfo = nil
     message("Processing maps..")
     local file = xml.maps
     for line in file:gmatch("[^\r\n]+") do
         parseMapLine(line)
     end
+    xml.maps = nil
     message("Processing passwords (~4MB).. This will take a long time..")
     local file = xml.passwords
     local pws = 0
@@ -181,6 +187,9 @@ file:gmatch([[<FieldMixMap No="(.-)" l="(.-)" g="(.-)" p="(.-)" i="(.-)" c="(.-)
         if (debug and pws > debugCount) then break end
     end 
     table.sort(item_k)
+    xml.passwords = nil
+    file = nil
+    xml = nil
     message("Processing complete. Data is 4MB+ so recommended to leave this page open to avoid redownloads.")
     continueAfterProcessing()
   end)()
