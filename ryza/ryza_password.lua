@@ -31,9 +31,9 @@ local function sleep(delay)
 end
 function message(text)
   local l = document:getElementById("status")
-  print(text)
+  --print(text)
   l.innerHTML = text
-  sleep(10)
+  sleep(100)
 end
 coroutine.wrap(function()
 local suffixes = {
@@ -118,7 +118,6 @@ for i,v in pairs(Data.MapInfo) do
 end
 table.sort(_sortableEnemies)
 _enemies_c = nil
-message("Processing subitems...")
 function populateItemList()
     local ItemList = document:getElementById("mainItem")   
     for _,i in pairs(_items_keys) do
@@ -160,6 +159,45 @@ function findPasswordsEnemy(enemy)
         end
     end
     return passwords
+end
+function randomPasswords() 
+    coroutine.wrap(function()
+        message("Generating random passwords...")
+        local passwords = {}
+        local _pk = {}
+        local __pk = {}
+        for pw,data in pairs(Data.Passwords) do
+            if ((data.Level % 5) == 0 or data.Level == 98) then
+                if (not passwords[data.Level]) then passwords[data.Level] = {} end
+                passwords[data.Level][#passwords[data.Level] + 1] = pw
+                if (not __pk[data.Level]) then __pk[data.Level] = 1 _pk[#_pk + 1] = data.Level end
+            end
+        end
+        __pk = nil
+        table.sort(_pk)
+        local finalPWs = {}
+        for i,v in pairs(_pk) do
+            local options = passwords[v]
+            finalPWs[#finalPWs + 1] = options[math.random(1,#options)]
+            options = nil
+        end
+        passwords = nil
+        _pk = nil
+        local divText = "<u>Password Roulette!</u><br>"
+        local pwfield = document:getElementById("passwords")        
+        for _,pw in pairs(finalPWs) do
+            local pwData = Data.Passwords[pw]
+            local lv = pwData.Level
+            if (lv < 10) then lv = "0"..tostring(lv) end
+            if (pwData.Bottle5Only) then divText = divText..[[<font color="#dd2700">]] end
+            divText = divText.. string.format([[> <b>%s</b> < Lv.%s - ???]], pw, lv)
+            if (pwData.Bottle5Only) then divText = divText..[[</font>]] end
+            divText = divText.."<br>"
+        end
+        finalPWs = nil
+        pwfield.innerHTML = divText
+        message("Loading complete. Data is 1.5MB+ so recommended to leave this page open to avoid redownloads. (Probably shouldn't reload either, not very memory friendly..)")
+    end)()
 end
 function getPasswordsMI() getPasswords("mainItem") end
 function getPasswordsEC() getPasswords("enemyChoice") end
@@ -206,6 +244,7 @@ function getPasswords(list)
         end
     end)()
 end
+document:getElementById("surpriseMe").onclick = randomPasswords
 message("Populating item list...")
 populateItemList()
 message("Populating enemy list...")
