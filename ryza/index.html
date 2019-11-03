@@ -14,8 +14,10 @@
   </span>
   <span id="enemies" style="display:none">
     <select id="enemyChoice"><option value="">{Enemy}</option></select></span> 
+    <span id="codeCheck" style="display:none"><input type="text" id="codeCheckBox" placeholder="CODE" size="4" maxlength="4" style="text-transform:uppercase"></span> 
   <input type="radio" id="itemcheck" name="mode" value="items" checked autocomplete="off" onclick="showItems()"> Items 
   <input type="radio" id="enemycheck" name="mode" value="enemies"autocomplete="off" onclick="showEnemies()"> Enemies
+  <input type="radio" id="enemycheck" name="mode" value="enemies"autocomplete="off" onclick="showCodeCheck()"> Code Check
   &nbsp;&nbsp;&nbsp;<button id="surpriseMe">Surprise Me!</button>
     <br><br>
     <div id="passwords" style="font-family:'Courier New', Courier, monospace"></div>
@@ -23,14 +25,24 @@
         <script src="fengari-web.js" type="text/javascript"></script>
     <script src="ryza_password.lua" type="application/lua" async></script>
     <script>
+      function hideAll() {
+        document.getElementById('enemies').style.display ='none';
+        document.getElementById('items').style.display ='none';
+        document.getElementById('codeCheck').style.display ='none';
+      }
       function showItems(){
-  document.getElementById('enemies').style.display ='none';
+        hideAll();
   document.getElementById('items').style.display ='inline';
 }
 function showEnemies(){
-  document.getElementById('items').style.display ='none';
+  hideAll();
   document.getElementById('enemies').style.display ='inline';
-}</script>
+}
+function showCodeCheck(){
+  hideAll();
+  document.getElementById('codeCheck').style.display ='inline';
+}
+</script>
   </body>
 
 </html>

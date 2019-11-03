@@ -244,6 +244,30 @@ function getPasswords(list)
         end
     end)()
 end
+function checkPassword()
+    local text = document:getElementById("codeCheckBox").value
+    if (text and #text == 4) then
+        text = text:upper()
+        local pwData = Data.Passwords[text]
+        local divText = ""
+        if (pwData) then
+            divText = "<u>Code Check</u><br>Lv21+ requires 2+ Bottles, 31+ 3+, 41+ 4+, 51+ 5+. Red are fifth bottle only.<br>"
+            local otherItem = table.concat(pwData.Items," + ")
+            local lv = pwData.Level
+            if (lv < 10) then lv = "0"..tostring(lv) end
+            if (pwData.Bottle5Only) then divText = divText..[[<font color="#dd2700">]] end
+            divText = divText.. string.format([[> <b>%s</b> < Lv.%s]], text, lv)
+            divText = divText .. ", <b>"..otherItem.."</b>"
+            divText = divText..string.format(" [Enemies: %s] ($%s)<br>",table.concat(pwData.Enemies,", "),pwData.Gems)
+            if (pwData.Bottle5Only) then divText = divText..[[</font>]] end
+        else
+            divText = "<u>Invalid password!</u>"
+        end
+        local pwfield = document:getElementById("passwords")
+        pwfield.innerHTML = divText
+    end
+end
+document:getElementById("codeCheckBox").oninput = checkPassword
 document:getElementById("surpriseMe").onclick = randomPasswords
 message("Populating item list...")
 populateItemList()
