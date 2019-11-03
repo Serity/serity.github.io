@@ -83,7 +83,8 @@ for i,v in pairs(Data.Passwords) do
         Gems = v[3], 
         Items = { Info.Item, Data.Subitems[v[5]] },
         Enemies = { Info.Enemy, Info.Boss },
-        MapName = { Info.MapName }
+        MapName = { Info.MapName },
+        Bottle5Only = (tonumber(v[4]) > 256),
     }
     _passwords[pw_data.Password] = pw_data
 end
@@ -191,11 +192,13 @@ function getPasswords(list)
                     otherItem = table.concat(pwData.Items," + ")
                 end
                 if (lv < 10) then lv = "0"..tostring(lv) end
+                if (pwData.Bottle5Only) then divText = divText..[[<font color="#9b1c00">]] end
                 divText = divText.. string.format([[> <b>%s</b> < Lv.%s]], pass, lv)
                 if (otherItem and list == "mainItem") then divText = divText .. " + <b>"..otherItem.."</b>"
                 elseif (list == "enemyChoice") then divText = divText .. ", <b>"..otherItem.."</b>"
                 end
                 divText = divText..string.format(" [Enemies: %s] ($%s)<br>",table.concat(pwData.Enemies,", "),pwData.Gems)
+                if (pwData.Bottle5Only) then divText = divText..[[</font>]] end
             end
             _lvSort = nil
             pwfield.innerHTML = divText
