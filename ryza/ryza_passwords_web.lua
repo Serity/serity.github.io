@@ -41,6 +41,8 @@ local mapEnemies = {}
 local enemies = {}
 local enemyNames = {}
 local enemyTags = {}
+local enemiesToMap = {}
+
 local function sleep(delay)
     local co = assert(coroutine.running(), "Should be run in a coroutine")
 
@@ -76,8 +78,13 @@ function parsePasswordLine(number,level,gems,password,info,category,subitem)
         a[#a + 1] = data
         local b = itemMap[item][subitem]
         b[#b + 1] = data
-        if (not _item_k[item]) then _item_k[item] = 1 item_k[#item_k + 1] = item end
-        if (not _item_k[subitem]) then _item_k[subitem] = 1 item_k[#item_k + 1] = subitem end
+        local enem = mapEnemies[data.infoIndex + 1]
+        if (enem) then 
+            for i,v in pairs(enem) do 
+                if (not enemiesToMap[v]) then enemiesToMap[v] = {} end
+                enemiesToMap[v][#enemiesToMap[v] + 1] = { level, password }
+            end
+        end
     end
 end
 local suffixes = {
@@ -186,11 +193,12 @@ file:gmatch([[<FieldMixMap No="(.-)" l="(.-)" g="(.-)" p="(.-)" i="(.-)" c="(.-)
         if ((pws % 10000) == 0) then message("Processing passwords - "..pws.."/56000+ (~4MB).. This will take a long time..") end
         if (debug and pws > debugCount) then break end
     end 
+    for i,v in pairs(itemMap) do item_k[#item_k + 1] = i end
     table.sort(item_k)
     xml.passwords = nil
     file = nil
     xml = nil
-    message("Processing complete. Data is 4MB+ so recommended to leave this page open to avoid redownloads.")
+    message("Processing complete. Data is 4MB+ so recommended to leave this page open to avoid redownloads. (Probably shouldn't reload either, not very memory friendly..)")
     continueAfterProcessing()
   end)()
 end
@@ -198,7 +206,7 @@ local selectedItems = {}
 -- both if none specified
 function purgeList(list) 
     selectedItems = {}
-    if (not list) then list = {"mainItem", "subItem"} 
+    if (not list) then list = {"mainItem", "subItem","enemyChoice"} 
     else list = { list } end
     for i,v in pairs(list) do
         local select = document:getElementById(v)
@@ -251,7 +259,26 @@ function populateSubList()
     end
     subList.onchange = getPasswords
 end
-
+function populateEnemyList()
+    local enemies_k = {}
+    local _enk = {}
+    for i,v in pairs(enemiesToMap) do 
+        if (not _enk[i]) then _enk[i] = 1 enemies_k[#enemies_k + 1] = i end
+    end
+    table.sort(enemies_k)
+    local enemyChoice = document:getElementById("enemyChoice")
+    local option = document:createElement("option")
+    option.text = "{Enemy To Find}"
+    option.value = ""
+    enemyChoice:add(option)    
+    for _,i in pairs(enemies_k) do
+        local option = document:createElement("option")
+        option.text = i
+        option.value = i
+        enemyChoice:add(option)
+    end
+    enemyChoice.onchange = getEnemies
+end
 function getPasswords()
     local mainList = document:getElementById("mainItem")
     local subList = document:getElementById("subItem")
@@ -271,11 +298,33 @@ function getPasswords()
         pwfield.innerHTML = divText
     end
 end
-
+function getEnemies()
+    local enemyChoice = document:getElementById("enemyChoice")
+    local selectedE = enemyChoice.options[enemyChoice.selectedIndex].value
+    if (selectedE and not (selectedE == "")) then
+        local divText = "<u>"..selectedE.."</u><br>"
+        local pwfield = document:getElementById("passwords")
+        local pws = {}
+        local pwkeys = {}
+        for i,dataset in pairs(enemiesToMap[selectedE]) do
+            local level = dataset[1]
+            local pw = dataset[2]
+            if (not pws[level]) then pws[level] = pw pwkeys[#pwkeys + 1] = tonumber(level) end
+        end
+        table.sort(pwkeys)
+        for i,level in pairs(pwkeys) do
+            local pw = pws[tostring(level)]
+            if (level < 10) then level = " "..tostring(level) end
+            divText = divText.. string.format("> <b>%s</b> < - Lv.%s<br>",pw,level)
+        end
+        pwfield.innerHTML = divText
+    end
+end
 function continueAfterProcessing()
     purgeList()
 
     populateMainList()
+    populateEnemyList()
 end
 
 

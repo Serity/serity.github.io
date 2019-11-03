@@ -7,19 +7,30 @@
   </head>
   <body>
     <div id="status">Loading...</div>
-    
+    <span id="items">
     <select id="mainItem">
       <option>{Main Item}</option>
     </select>
     <select id="subItem">
       <option>{Sub Item}</option>
     </select>
-
+  </span><span id="enemies" style="display:none"><select id="enemyChoice"><option>{Enemy To Find}</option></select></span> 
+  <input type="radio" id="itemcheck" name="mode" value="items" checked autocomplete="off" onclick="showItems()"> Items 
+  <input type="radio" id="enemycheck" name="mode" value="enemies"autocomplete="off" onclick="showEnemies()"> Enemies
     <br><br>
     <div id="passwords" style="font-family:'Courier New', Courier, monospace"></div>
 
         <script src="fengari-web.js" type="text/javascript"></script>
     <script src="ryza_passwords_web.lua" type="application/lua" async></script>
+    <script>
+      function showItems(){
+  document.getElementById('enemies').style.display ='none';
+  document.getElementById('items').style.display ='inline';
+}
+function showEnemies(){
+  document.getElementById('items').style.display ='none';
+  document.getElementById('enemies').style.display ='inline';
+}</script>
   </body>
 
 </html>
