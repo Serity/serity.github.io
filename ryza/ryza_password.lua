@@ -192,7 +192,7 @@ function getPasswords(list)
                     otherItem = table.concat(pwData.Items," + ")
                 end
                 if (lv < 10) then lv = "0"..tostring(lv) end
-                if (pwData.Bottle5Only) then divText = divText..[[<font color="#9b1c00">]] end
+                if (pwData.Bottle5Only) then divText = divText..[[<font color="#dd2700">]] end
                 divText = divText.. string.format([[> <b>%s</b> < Lv.%s]], pass, lv)
                 if (otherItem and list == "mainItem") then divText = divText .. " + <b>"..otherItem.."</b>"
                 elseif (list == "enemyChoice") then divText = divText .. ", <b>"..otherItem.."</b>"
