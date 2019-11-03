@@ -183,14 +183,14 @@ function randomPasswords()
         end
         passwords = nil
         _pk = nil
-        local divText = "<u>Password Roulette!</u><br>"
+        local divText = "Lv20+ requires 2+ Bottles, 30+ 3+, 40+ 4+, 50+ 5+. Red are fifth bottle only.<br><u>Password Roulette!</u><br>"
         local pwfield = document:getElementById("passwords")        
         for _,pw in pairs(finalPWs) do
             local pwData = Data.Passwords[pw]
             local lv = pwData.Level
             if (lv < 10) then lv = "0"..tostring(lv) end
             if (pwData.Bottle5Only) then divText = divText..[[<font color="#dd2700">]] end
-            divText = divText.. string.format([[> <b>%s</b> < Lv.%s - ???]], pw, lv)
+            divText = divText.. string.format([[> <b>%s</b> < Lv.%s - ??? ($%s)]], pw, lv, pwData.Gems)
             if (pwData.Bottle5Only) then divText = divText..[[</font>]] end
             divText = divText.."<br>"
         end
@@ -207,7 +207,7 @@ function getPasswords(list)
         local selectedM = mainList.options[mainList.selectedIndex].value
         if (selectedM and not (selectedM == "")) then
             message("Loading passwords...")
-            local divText = "<u>"..selectedM.."</u><br>"
+            local divText = "Lv20+ requires 2+ Bottles, 30+ 3+, 40+ 4+, 50+ 5+. Red are fifth bottle only.<br><u>"..selectedM.."</u><br>"
             local pwfield = document:getElementById("passwords")
             local pws = nil
             if (list == "mainItem") then 
