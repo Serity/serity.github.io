@@ -177,7 +177,7 @@ file:gmatch([[<FieldMixMap No="(.-)" l="(.-)" g="(.-)" p="(.-)" i="(.-)" c="(.-)
         pws = pws + 1
         parsePasswordLine(number,level,gems,password,info,category,subitem)
         --parsePasswordLine(line)
-        if ((pws % 10000) == 0) then message("Processing passwords - "..pws.." (~4MB).. This will take a long time..") end
+        if ((pws % 10000) == 0) then message("Processing passwords - "..pws.."/56000+ (~4MB).. This will take a long time..") end
         if (debug and pws > debugCount) then break end
     end 
     table.sort(item_k)
