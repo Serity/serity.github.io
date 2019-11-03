@@ -77,6 +77,7 @@ function parseMapInfo()
     for ix,data in pairs(xmlData.mapinfo) do
         local mapName = xmlData.maps[ix].Text:gsub("%^00","")
         if (mapName == "Magma Powder Ravin") then mapName = "Magma Powder Ravine" end
+        if (mapName == "Myrietes Fish Outer Sea") then mapName = "Myria Fish Outer Sea" end
         local enemy = Data._Enemies[data.enemy:gsub("FIELD_MIX_ENEMY_","")]
         local boss = Data._Enemies[data.boss:gsub("FIELD_MIX_ENEMY_","")]
         io.write(string.format([[{"%s","%s","%s"},]],enemy, boss, mapName))
