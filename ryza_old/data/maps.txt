@@ -1,0 +1,272 @@
+Nameless Grass Forest
+Fresh Berry Forest
+Rainbow Grape Forest
+Blue Clover Forest
+Cotton Grass Forest
+Tough Log Forest
+Silver Uni Forest
+Maple Leaf Forest
+Mushroom Colony Forest
+Fossil Tree Forest
+Health Flower Grove
+Uni Grove
+Eicheloa Grove
+Restraint Silk Grove
+Spirit Flower Grove
+Poison Grass Grove
+Sweet Leaf Grove
+Silver Beehive Grove
+Blessed Pure Flower Grove
+Ancient Branch Grove
+Northern Wind Flower Meadow
+Wasser Wheat Meadow
+Eiche Meadow
+Oil Tree Fruit Meadow
+Lantern Grass Meadow
+Palma Fruit Meadow
+Bubble Grass Meadow
+Jupitonion Meadow
+Memorial Mist Flower Meadow
+Arbor Ivy Meadow
+Sunny Honey Flower Garden
+Fodder Garden
+Beehive Garden
+Tough Vine Garden
+Spirit Feather Garden
+Mossy Driftwood Garden
+Dream Mushroom Garden
+Serenity Flower Garden
+Serene Moon Flower Garden
+Underworld Rotwood Garden
+Small Crystal Trail
+Lightning Ore Trail
+Nectar Rock Trail
+Flame Black Sand Trail
+Snake Slough Trail
+Ancient Pillar Trail
+Shell Pearl Trail
+Beast Fossil Trail
+Cave Coral Trail
+Riverstone Trail
+Crimson Ore Quarry
+Dried Lumber Quarry
+Large Feather Quarry
+Koberinite Quarry
+Magma Powder Quarry
+Magnemalmoa Quarry
+Old Knight Emblem Quarry
+Dragon Meat Quarry
+Earth Fish Fang Quarry
+Mordinite Quarry
+Aqua Ore Path
+Rusted Sword Path
+Large Bone Path
+Mystery Gemstone Path
+Waterside Moss Stone Path
+Beast Shell Path
+Amber Fragment Path
+Stalactite Fragment Path
+Coral Stone Path
+Blue Flame Riverstone Path
+Sandstone Bluff
+Amatite Ore Bluff
+Eroded Stone Bluff
+Animal Hide Bluff
+Pentanite Bluff
+Beast Scales Bluff
+Cometstone Bluff
+Atonement Stinger Bluff
+Dragon Wing Bluff
+Ethereal Stone Bluff
+Clean Water Sea
+Sardine Sea
+Taun Sea
+Exofish Sea
+Green Puniball Sea
+Beast Fin Sea
+Selior Sea
+Xisor Sea
+Maple Bark Sea
+Black Puniball Sea
+Goat's Milk Beach
+Wild Potato Beach
+Blue Puniball Beach
+Crab Beach
+Unknown Egg Beach
+Roteswasser Tonic Beach
+Fertile Soil Beach
+Crimson Grass Beach
+Foamy Water Beach
+Fresh Meat Beach
+Scrap Paper Ocean
+Pretty Shell Ocean
+Beast Meat Ocean
+Plant Essence Ocean
+Natural Oil Ocean
+Spikey Ocean
+Palma Bark Ocean
+Medicine Moss Ocean
+Jade Water Ocean
+Mutant Taun Ocean
+Kurken Fruit Shore
+Purumuru Shore
+Flammable Bark Shore
+Bitter Root Shore
+Tall Taun Shore
+Red Puniball Shore
+Sapling Branch Shore
+Honey Tree Branch Shore
+Smoky Charcoal Shore
+Sawe Fish Shore
+Seven Stars Ruins
+Kumine Fruit Ruins
+Kumine Poison Ruins
+Emerald Glass Ruins
+Giant Beetle Ruins
+Fragrant Honey Tree Ruins
+Lunatic Poison Lance Ruins
+Resentful Scream Ruins
+Rotwood Miasma Ruins
+Lapis Papillion Ruins
+Soft Sand Remnants
+Fairystone Fragment Remnants
+Burning Sand Remnants
+Polluted Humus Remnants
+Bomb Dragoon Remnants
+Rotten Tree Bark Remnants
+Spear Worm Remnants
+Underworld Core Remnants
+Old Magic Tome Remnants
+Holy Tree Leaf Remnants
+Honey Ant Tower
+Ashen Sand Tower
+Rose Bee Tower
+Mushroom Powder Tower
+Sky Bubble Tower
+Dark Crystal Fragment Tower
+Gold Beehive Tower
+Amber Fly Tower
+Forest Sage Tower
+Mythical Hide Tower
+Wing Plant Locale
+Beast Venom Pouch Locale
+Lantern Fly Locale
+Magic Tome Piece Locale
+Crispy Mushroom Locale
+Nectar Fruit Locale
+Nightglow Flower Locale
+Spring Princess Locale
+Medium Medicine Locale
+Esplante Locale
+Lucky Clover Copse
+Holy Arbor Branch Copse
+Wasser Wheat Copse
+Cotton Grass Copse
+Bubble Grass Copse
+Memorial Mist Flower Copse
+Palma Copse
+Gold Uni Copse
+Rainbow Grape Copse
+Lantern Grass Copse
+Maple Leaf Copse
+Fossil Tree Copse
+Rosen Leaf Copse^00
+Nameless Grass Copse
+Eiche Copse
+Tough Log Copse
+Jupitonion Copse
+Arbor Ivy Copse
+Delphi Rose Copse
+Northern Wind Flower Copse
+Oil Tree Fruit Copse
+Palma Fruit Copse
+Mushroom Colony Copse
+Dunkelheit Copse
+Amber Crystal Cliff
+Rainbow Gemstone Cliff
+Aqua Ore Cliff
+Flame Black Sand Cliff
+Beast Shell Cliff
+Cave Coral Cliff
+Degenesis Stone Cliff
+Goldinite Cliff
+Lightning Ore Cliff
+Unknown Gemstone Cliff
+Shell Pearl Cliff
+Coral Stone Cliff
+Marbled Stone Cliff
+Septrin Cliff
+Nectar Rock Cliff
+Waterside Moss Stone Cliff
+Beast Fossil Cliff
+Riverstone Cliff
+Holy Arbor Crystal Cliff
+Small Crystal Cliff
+Large Bone Cliff
+Ancient Pillar Cliff
+Stalactite Fragment Cliff
+Blue Flame Riverstone Cliff
+Silver Puniball Outer Sea
+Myrietes Fish Outer Sea
+Sardine Outer Sea
+Plant Essence Outer Sea
+Selior Outer Sea
+Maple Bark Outer Sea
+Mace Fish Outer Sea
+Underworld Master Outer Sea
+Pretty Shell Outer Sea
+Natural Oil Outer Sea
+Palma Bark Outer Sea
+Jade Water Outer Sea
+Triplet Taun Outer Sea
+Lake Master Outer Sea
+Taun Outer Sea
+Beast Fin Outer Sea
+Xisor Outer Sea
+Black Puniball Outer Sea
+Ether Aqua Outer Sea
+Clean Water Outer Sea^00
+Exofish Outer Sea
+Spikey Outer Sea
+Medicine Moss Outer Sea
+Mutant Taun Outer Sea
+Palma Charcoal Site
+Baby Wyrm Site
+Trihorn Site
+Kumine Poison Site
+Dark Crystal Fragment Site
+Rotwood Miasma Site
+Beast Spirit Armor Site
+Holy Stone Fragment Site
+Seven Stars Site
+Emerald Glass Site
+Lunatic Poison Lance Site
+Forest Sage Site
+Death's Grief Site
+Dragon Egg Site
+Honey Ant Site
+Giant Beetle Site
+Gold Beehive Site
+Lapis Papillion Site
+Golden Crown Site
+Gold Puniball Site
+Ashen Sand Site
+Sky Bubble Site
+Amber Fly Site
+Mythical Hide Site
+Gold Uni Ravine
+Golden Crown Ravine
+Gold Beehive Ravine
+Magma Powder Ravin
+Delphi Rose Ravine
+Rotwood Miasma Ravine
+Underworld Master Ravine
+Rainbow Gemstone Ravine
+Septrin Domain
+Polluted Humus Domain
+Rosen Leaf Domain
+Jade Water Domain
+Ethereal Stone Domain
+Atonement Stinger Domain
+Palma Charcoal Domain
+Death's Grief Domain
