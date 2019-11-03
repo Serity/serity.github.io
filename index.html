@@ -3,25 +3,33 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width">
-    <title>repl.it</title>
+    <title>Atelier Ryza Travel Bottle Password Finder</title>
   </head>
   <body>
     <div id="status">Loading...</div>
-    
+    <span id="items">
     <select id="mainItem">
-      <option value="AAA">aaa</option>
-      <option value="BBB">bbb</option>
-      <option value="CCC">ccc</option>
+      <option value="">{Item}</option>
     </select>
-    <select id="subItem">
-      <option value="AAA">aaa</option>
-      <option value="BBB">bbb</option>
-      <option value="CCC">ccc</option>
-    </select>
-<button id="find">hello there</button>
+  </span>
+  <span id="enemies" style="display:none">
+    <select id="enemyChoice"><option value="">{Enemy}</option></select></span> 
+  <input type="radio" id="itemcheck" name="mode" value="items" checked autocomplete="off" onclick="showItems()"> Items 
+  <input type="radio" id="enemycheck" name="mode" value="enemies"autocomplete="off" onclick="showEnemies()"> Enemies
+    <br><br>
+    <div id="passwords" style="font-family:'Courier New', Courier, monospace"></div>
 
         <script src="fengari-web.js" type="text/javascript"></script>
-    <script src="ryza_passwords_web.lua" type="application/lua" async></script>
+    <script src="ryza_password.lua" type="application/lua" async></script>
+    <script>
+      function showItems(){
+  document.getElementById('enemies').style.display ='none';
+  document.getElementById('items').style.display ='inline';
+}
+function showEnemies(){
+  document.getElementById('items').style.display ='none';
+  document.getElementById('enemies').style.display ='inline';
+}</script>
   </body>
 
 </html>
