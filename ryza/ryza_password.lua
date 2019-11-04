@@ -83,7 +83,7 @@ for i,v in pairs(Data.Passwords) do
         Gems = v[3], 
         Items = { Info.Item, Data.Subitems[v[5]] },
         Enemies = { Info.Enemy, Info.Boss },
-        MapName = { Info.MapName },
+        MapName = Info.MapName,
         Bottle5Only = (tonumber(v[4]) > 256),
     }
     _passwords[pw_data.Password] = pw_data
@@ -141,10 +141,21 @@ end
 function findPasswordsItem(item)
     local passwords = {}
     for pw,data in pairs(Data.Passwords) do
-        if (not passwords[data.Level]) then 
+        local curpw = (passwords[data.Level] and Data.Passwords[passwords[data.Level]]) or nil
+        -- literally accept anything that matches if we have nothing
+        if (not curpw) then 
             for _,i in pairs(data.Items) do 
                 if (i == item) then passwords[data.Level] = pw break end
             end
+        -- else, if we have an entry already, check if our primary entry is target 
+        elseif (data.Items[1] == item) then
+            local curgem = curpw.Gems
+            -- if stored entry's primary doesn't match target then override
+            -- otherwise override if we're cheaper
+            if ((not (curpw.Items[1] == item)) or curgem > data.Gems) then
+                passwords[data.Level] = pw
+            end
+        -- no point in checking secondary because there's only one entry for each Level:Subitem combination
         end
     end
     return passwords
@@ -152,10 +163,21 @@ end
 function findPasswordsEnemy(enemy)
     local passwords = {}
     for pw,data in pairs(Data.Passwords) do
-        if (not passwords[data.Level]) then 
+        local curpw = (passwords[data.Level] and Data.Passwords[passwords[data.Level]]) or nil
+        -- literally accept anything that matches if we have nothing
+        if (not curpw) then 
             for _,i in pairs(data.Enemies) do 
                 if (i == enemy) then passwords[data.Level] = pw break end
             end
+        -- else, if we have an entry already, check if our primary entry is target 
+        elseif (data.Enemies[1] == enemy) then
+            local curgem = curpw.Gems
+            -- if stored entry's primary doesn't match target then override
+            -- otherwise override if we're cheaper
+            if ((not (curpw.Enemies[1] == enemy)) or curgem > data.Gems) then
+                passwords[data.Level] = pw
+            end
+        -- no point in checking secondary because there's only one entry for each Level:Subitem combination
         end
     end
     return passwords
@@ -223,19 +245,15 @@ function getPasswords(list)
             for i,lv in pairs(_lvSort) do
                 local pass = pws[lv]
                 local pwData = Data.Passwords[pass]
-                local otherItem = nil
-                if (list == "mainItem") then 
-                for i,v in pairs(pwData.Items) do if (not (v == selectedM)) then otherItem = v break end end
-                elseif (list == "enemyChoice") then
-                    otherItem = table.concat(pwData.Items," + ")
-                end
+                local tmp = { pwData.Items[1], pwData.Items[2] }
+                if (tmp[1] == selectedM) then tmp[1] = "<u>"..tmp[1].."</u>" end
                 if (lv < 10) then lv = "0"..tostring(lv) end
                 if (pwData.Bottle5Only) then divText = divText..[[<font color="#dd2700">]] end
                 divText = divText.. string.format([[> <b>%s</b> < Lv.%s]], pass, lv)
-                if (otherItem and list == "mainItem") then divText = divText .. " + <b>"..otherItem.."</b>"
-                elseif (list == "enemyChoice") then divText = divText .. ", <b>"..otherItem.."</b>"
-                end
-                divText = divText..string.format(" [Enemies: %s] ($%s)<br>",table.concat(pwData.Enemies,", "),pwData.Gems)
+                divText = divText .. ", <b>"..table.concat(tmp," + ").."</b>"
+                tmp = { pwData.Enemies[1], pwData.Enemies[2] }
+                if (tmp[1] == selectedM) then tmp[1] = "<u>"..tmp[1].."</u>" end
+                divText = divText..string.format(" [Enemies: %s (Boss: %s)] ($%s)<br>",tmp[1],tmp[2],pwData.Gems)
                 if (pwData.Bottle5Only) then divText = divText..[[</font>]] end
             end
             _lvSort = nil
@@ -252,13 +270,14 @@ function checkPassword()
         local divText = ""
         if (pwData) then
             divText = "<u>Code Check</u><br>Lv21+ requires 2+ Bottles, 31+ 3+, 41+ 4+, 51+ 5+. Red are fifth bottle only.<br>"
-            local otherItem = table.concat(pwData.Items," + ")
+            local tmp = { "<u>"..pwData.Items[1].."</u>", pwData.Items[2] }
             local lv = pwData.Level
             if (lv < 10) then lv = "0"..tostring(lv) end
             if (pwData.Bottle5Only) then divText = divText..[[<font color="#dd2700">]] end
             divText = divText.. string.format([[> <b>%s</b> < Lv.%s]], text, lv)
-            divText = divText .. ", <b>"..otherItem.."</b>"
-            divText = divText..string.format(" [Enemies: %s] ($%s)<br>",table.concat(pwData.Enemies,", "),pwData.Gems)
+            divText = divText .. ", <b>"..table.concat(tmp," + ").."</b>"
+            tmp = { "<u>"..pwData.Enemies[1].."</u>", pwData.Enemies[2] }
+            divText = divText..string.format(" [Enemies: %s (Boss: %s)] ($%s)<br>",tmp[1],tmp[2],pwData.Gems)
             if (pwData.Bottle5Only) then divText = divText..[[</font>]] end
         else
             divText = "<u>Invalid password!</u>"
