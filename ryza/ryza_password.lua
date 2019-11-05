@@ -137,6 +137,10 @@ function populateEnemyList()
         EnemyList:add(option)
     end
     EnemyList.onchange = getPasswordsEC
+    local EnemyButton = document:getElementById("enemy_regular")  
+    EnemyButton.onclick = getPasswordsEC
+    EnemyButton = document:getElementById("enemy_boss")  
+    EnemyButton.onclick = getPasswordsEC
 end
 function findPasswordsItem(item)
     local passwords = {}
@@ -162,6 +166,9 @@ function findPasswordsItem(item)
 end
 function findPasswordsEnemy(enemy)
     local passwords = {}
+    -- enemy_regular vs enemy_boss
+    local targetEnemyIndex = 1
+    if (document:getElementById("enemy_boss").checked) then targetEnemyIndex = 2 end
     for pw,data in pairs(Data.Passwords) do
         local curpw = (passwords[data.Level] and Data.Passwords[passwords[data.Level]]) or nil
         -- literally accept anything that matches if we have nothing
@@ -170,11 +177,11 @@ function findPasswordsEnemy(enemy)
                 if (i == enemy) then passwords[data.Level] = pw break end
             end
         -- else, if we have an entry already, check if our primary entry is target 
-        elseif (data.Enemies[1] == enemy) then
+        elseif (data.Enemies[targetEnemyIndex] == enemy) then
             local curgem = curpw.Gems
             -- if stored entry's primary doesn't match target then override
             -- otherwise override if we're cheaper
-            if ((not (curpw.Enemies[1] == enemy)) or curgem > data.Gems) then
+            if ((not (curpw.Enemies[targetEnemyIndex] == enemy)) or curgem > data.Gems) then
                 passwords[data.Level] = pw
             end
         -- no point in checking secondary because there's only one entry for each Level:Subitem combination
@@ -252,7 +259,9 @@ function getPasswords(list)
                 divText = divText.. string.format([[> <b>%s</b> < Lv.%s]], pass, lv)
                 divText = divText .. ", <b>"..table.concat(tmp," + ").."</b>"
                 tmp = { pwData.Enemies[1], pwData.Enemies[2] }
-                if (tmp[1] == selectedM) then tmp[1] = "<u>"..tmp[1].."</u>" end
+                local targetEnemyIndex = 1
+                if (document:getElementById("enemy_boss").checked) then targetEnemyIndex = 2 end
+                if (tmp[targetEnemyIndex] == selectedM) then tmp[targetEnemyIndex] = "<u>"..tmp[targetEnemyIndex].."</u>" end
                 divText = divText..string.format(" [Enemies: %s (Boss: %s)] ($%s)<br>",tmp[1],tmp[2],pwData.Gems)
                 if (pwData.Bottle5Only) then divText = divText..[[</font>]] end
             end

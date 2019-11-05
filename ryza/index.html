@@ -7,6 +7,7 @@
   </head>
   <body>
     <div id="status">Loading...</div>
+
     <span id="items">
     <select id="mainItem">
       <option value="">{Item}</option>
@@ -15,10 +16,15 @@
   <span id="enemies" style="display:none">
     <select id="enemyChoice"><option value="">{Enemy}</option></select></span> 
     <span id="codeCheck" style="display:none"><input type="text" id="codeCheckBox" placeholder="CODE" size="4" maxlength="4" style="text-transform:uppercase"></span> 
-  <input type="radio" id="itemcheck" name="mode" value="items" checked autocomplete="off" onclick="showItems()"> Items 
-  <input type="radio" id="enemycheck" name="mode" value="enemies"autocomplete="off" onclick="showEnemies()"> Enemies
-  <input type="radio" id="enemycheck" name="mode" value="enemies"autocomplete="off" onclick="showCodeCheck()"> Code Check
+  <input type="radio" id="itemcheck" name="mode" value="items" checked autocomplete="off" onclick="showItems()"><label for="itemcheck"> Items</label>
+  <input type="radio" id="enemycheck" name="mode" value="enemies" autocomplete="off" onclick="showEnemies()"><label for="enemycheck"> Enemies</label>
+  <input type="radio" id="code_check" name="mode" value="code" autocomplete="off" onclick="showCodeCheck()"><label for="code_check"> Code Check</label>
   &nbsp;&nbsp;&nbsp;<button id="surpriseMe">Surprise Me!</button>
+  <span id="enemyType" style="display:none">Enemy Priority: 
+    <input type="radio" id="enemy_regular" name="enemyprio" value="enemy" checked><label for="enemy_regular" checked> Regular Enemy (Quantity)</label>
+  <input type="radio" id="enemy_boss" name="enemyprio" value="boss"><label for="enemy_boss"> Boss (Quality)</label>
+</span> 
+
     <br><br>
     <div id="passwords" style="font-family:'Courier New', Courier, monospace"></div>
 
@@ -29,6 +35,7 @@
         document.getElementById('enemies').style.display ='none';
         document.getElementById('items').style.display ='none';
         document.getElementById('codeCheck').style.display ='none';
+        document.getElementById('enemyType').style.display ='none';
       }
       function showItems(){
         hideAll();
@@ -37,6 +44,7 @@
 function showEnemies(){
   hideAll();
   document.getElementById('enemies').style.display ='inline';
+  document.getElementById('enemyType').style.display ='inline';
 }
 function showCodeCheck(){
   hideAll();
