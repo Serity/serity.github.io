@@ -185,10 +185,17 @@ function process()
 
     --for line in file:gmatch("[^\r\n]+") do
 --<FieldMixMap No="56324" l="70" g="39600" p="0TI4" i="270" c="4" s="442"/>
+local limit = window.location.search
+if (limit and limit:match("limit")) then 
+    limit = limit:gsub("?limit=","")
+    limit = tonumber(limit) or nil
+else limit = nil end
 for number,level,gems,password,info,category,subitem in
 file:gmatch([[<FieldMixMap No="(.-)" l="(.-)" g="(.-)" p="(.-)" i="(.-)" c="(.-)" s="(.-)"/>]]) do
         pws = pws + 1
-        parsePasswordLine(number,level,gems,password,info,category,subitem)
+        if (not limit or limit <= 0 or (limit and limit > 0 and tonumber(level) <= limit)) then 
+            parsePasswordLine(number,level,gems,password,info,category,subitem)
+        end
         --parsePasswordLine(line)
         if ((pws % 10000) == 0) then message("Processing passwords - "..pws.."/56000+ (~4MB).. This will take a long time..") end
         if (debug and pws > debugCount) then break end
