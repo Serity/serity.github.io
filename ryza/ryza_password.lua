@@ -69,7 +69,13 @@ for i,v in pairs(Data.MapInfo) do
         Boss = Data.EnemyNames[tonumber(v[2])],
         MapName = v[3],
         Item = parseMapName(v[3]),
+        BossType = nil
     }
+    local lastSix = mi_data.MapName:sub(-6)
+    if (lastSix == "Ravine") then mi_data.BossType = "Ravine"
+    elseif (lastSix == "Domain") then mi_data.BossType = "Domain"
+    end
+
     Data.MapInfo[i] = mi_data
 end
 message("Processing passwords...")
@@ -85,6 +91,7 @@ for i,v in pairs(Data.Passwords) do
         Enemies = { Info.Enemy, Info.Boss },
         MapName = Info.MapName,
         Bottle5Only = (tonumber(v[4]) > 256),
+        BossType = Info.BossType,
     }
     _passwords[pw_data.Password] = pw_data
 end
@@ -147,6 +154,10 @@ function passLimitCheck(data)
     if (bottleLimit == "uw") then
         if (data.Bottle5Only) then 
             return true
+        end
+    elseif (bottleLimit == "domain") then
+        if (data.BossType == "Domain") then 
+            return true 
         end
     elseif (data.Level <= limits[bottleLimit]) then
         return true
@@ -279,8 +290,10 @@ function getPasswords(list)
                 local targetEnemyIndex = 1
                 if (document:getElementById("enemy_boss").checked) then targetEnemyIndex = 2 end
                 if (tmp[targetEnemyIndex] == selectedM) then tmp[targetEnemyIndex] = "<u>"..tmp[targetEnemyIndex].."</u>" end
-                divText = divText..string.format(" [Enemies: %s (Boss: %s)] ($%s)<br>",tmp[1],tmp[2],pwData.Gems)
+                divText = divText..string.format(" [Enemies: %s (Boss: %s)] ($%s)",tmp[1],tmp[2],pwData.Gems)
+                if (pwData.BossType) then divText = divText.." ("..pwData.BossType..")" end
                 if (pwData.Bottle5Only) then divText = divText..[[</font>]] end
+                divText = divText.."<br>"
             end
             _lvSort = nil
             pwfield.innerHTML = divText
@@ -303,8 +316,10 @@ function checkPassword()
             divText = divText.. string.format([[> <b>%s</b> < Lv.%s]], text, lv)
             divText = divText .. ", <b>"..table.concat(tmp," + ").."</b>"
             tmp = { "<u>"..pwData.Enemies[1].."</u>", pwData.Enemies[2] }
-            divText = divText..string.format(" [Enemies: %s (Boss: %s)] ($%s)<br>",tmp[1],tmp[2],pwData.Gems)
+            divText = divText..string.format(" [Enemies: %s (Boss: %s)] ($%s)",tmp[1],tmp[2],pwData.Gems)
+            if (pwData.BossType) then divText = divText.." ("..pwData.BossType..")" end
             if (pwData.Bottle5Only) then divText = divText..[[</font>]] end
+            divText = divText.."<br>"
         else
             divText = "<u>Invalid password!</u>"
         end
