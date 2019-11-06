@@ -142,24 +142,37 @@ function populateEnemyList()
     EnemyButton = document:getElementById("enemy_boss")  
     EnemyButton.onclick = getPasswordsEC
 end
+function passLimitCheck(data)
+    local limits = { 20, 30, 40, 50, ["any"] = 9999 }
+    if (bottleLimit == "uw") then
+        if (data.Bottle5Only) then 
+            return true
+        end
+    elseif (data.Level <= limits[bottleLimit]) then
+        return true
+    end
+    return false
+end
 function findPasswordsItem(item)
     local passwords = {}
     for pw,data in pairs(Data.Passwords) do
         local curpw = (passwords[data.Level] and Data.Passwords[passwords[data.Level]]) or nil
-        -- literally accept anything that matches if we have nothing
-        if (not curpw) then 
-            for _,i in pairs(data.Items) do 
-                if (i == item) then passwords[data.Level] = pw break end
+        if (passLimitCheck(data)) then 
+            -- literally accept anything that matches if we have nothing
+            if (not curpw) then 
+                for _,i in pairs(data.Items) do 
+                    if (i == item) then passwords[data.Level] = pw break end
+                end
+            -- else, if we have an entry already, check if our primary entry is target 
+            elseif (data.Items[1] == item) then
+                local curgem = curpw.Gems
+                -- if stored entry's primary doesn't match target then override
+                -- otherwise override if we're cheaper
+                if ((not (curpw.Items[1] == item)) or curgem > data.Gems) then
+                    passwords[data.Level] = pw
+                end
+            -- no point in checking secondary because there's only one entry for each Level:Subitem combination
             end
-        -- else, if we have an entry already, check if our primary entry is target 
-        elseif (data.Items[1] == item) then
-            local curgem = curpw.Gems
-            -- if stored entry's primary doesn't match target then override
-            -- otherwise override if we're cheaper
-            if ((not (curpw.Items[1] == item)) or curgem > data.Gems) then
-                passwords[data.Level] = pw
-            end
-        -- no point in checking secondary because there's only one entry for each Level:Subitem combination
         end
     end
     return passwords
@@ -170,21 +183,23 @@ function findPasswordsEnemy(enemy)
     local targetEnemyIndex = 1
     if (document:getElementById("enemy_boss").checked) then targetEnemyIndex = 2 end
     for pw,data in pairs(Data.Passwords) do
-        local curpw = (passwords[data.Level] and Data.Passwords[passwords[data.Level]]) or nil
-        -- literally accept anything that matches if we have nothing
-        if (not curpw) then 
-            for _,i in pairs(data.Enemies) do 
-                if (i == enemy) then passwords[data.Level] = pw break end
+        if (passLimitCheck(data)) then 
+            local curpw = (passwords[data.Level] and Data.Passwords[passwords[data.Level]]) or nil
+            -- literally accept anything that matches if we have nothing
+            if (not curpw) then 
+                for _,i in pairs(data.Enemies) do 
+                    if (i == enemy) then passwords[data.Level] = pw break end
+                end
+            -- else, if we have an entry already, check if our primary entry is target 
+            elseif (data.Enemies[targetEnemyIndex] == enemy) then
+                local curgem = curpw.Gems
+                -- if stored entry's primary doesn't match target then override
+                -- otherwise override if we're cheaper
+                if ((not (curpw.Enemies[targetEnemyIndex] == enemy)) or curgem > data.Gems) then
+                    passwords[data.Level] = pw
+                end
+            -- no point in checking secondary because there's only one entry for each Level:Subitem combination
             end
-        -- else, if we have an entry already, check if our primary entry is target 
-        elseif (data.Enemies[targetEnemyIndex] == enemy) then
-            local curgem = curpw.Gems
-            -- if stored entry's primary doesn't match target then override
-            -- otherwise override if we're cheaper
-            if ((not (curpw.Enemies[targetEnemyIndex] == enemy)) or curgem > data.Gems) then
-                passwords[data.Level] = pw
-            end
-        -- no point in checking secondary because there's only one entry for each Level:Subitem combination
         end
     end
     return passwords
@@ -196,10 +211,12 @@ function randomPasswords()
         local _pk = {}
         local __pk = {}
         for pw,data in pairs(Data.Passwords) do
-            if ((data.Level % 5) == 0 or data.Level == 98) then
-                if (not passwords[data.Level]) then passwords[data.Level] = {} end
-                passwords[data.Level][#passwords[data.Level] + 1] = pw
-                if (not __pk[data.Level]) then __pk[data.Level] = 1 _pk[#_pk + 1] = data.Level end
+            if (passLimitCheck(data)) then 
+                if ((data.Level % 5) == 0 or data.Level == 98) then
+                    if (not passwords[data.Level]) then passwords[data.Level] = {} end
+                    passwords[data.Level][#passwords[data.Level] + 1] = pw
+                    if (not __pk[data.Level]) then __pk[data.Level] = 1 _pk[#_pk + 1] = data.Level end
+                end
             end
         end
         __pk = nil
@@ -295,8 +312,19 @@ function checkPassword()
         pwfield.innerHTML = divText
     end
 end
+bottleLimit = "any"
+function recheckPasswords()
+    local limitField = document:getElementById("bottleLimit")
+    local limit = limitField.options[limitField.selectedIndex].value
+    limit = tonumber(limit) or limit
+    bottleLimit = limit
+    if (document:getElementById("items").style.display ~= "none") then getPasswordsMI()
+    elseif (document:getElementById("enemies").style.display ~= "none") then getPasswordsEC()
+    end
+end
 document:getElementById("codeCheckBox").oninput = checkPassword
 document:getElementById("surpriseMe").onclick = randomPasswords
+document:getElementById("bottleLimit").onchange = recheckPasswords
 message("Populating item list...")
 populateItemList()
 message("Populating enemy list...")
