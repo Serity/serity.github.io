@@ -104,7 +104,7 @@ function updateStats()
         totalStats[j] = math.floor(totalStats[j] * petDispositions[disp][j])
         totalStats[j] = math.floor(totalStats[j] * petTiers[tier][j])
         if (archer_any and archer_rank) then -- not sure how affects mercenaries...
-            if (j == 1 or j == 2 and d._petType == 1) then  -- atkMin/atkMax
+            if ((j == 1 or j == 2) and d._petType == 1) then  -- atkMin/atkMax
                 totalStats[j] = math.floor(totalStats[j] + (totalStats[j] * (charisma * archerPassive[archer_rank])))
             end
         end
