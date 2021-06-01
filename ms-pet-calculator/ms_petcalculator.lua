@@ -103,7 +103,11 @@ function updateStats()
                 totalStats[j] = math.floor(totalStats[j] + (totalStats[j] * (charisma * archerPassive[archer_rank])))
             end
         end
-        endtext = endtext .. ("<br>    - %s: %s"):format(statNames[j],totalStats[j])
+        if (j == 4) then
+            endtext = endtext .. ("<br>    - %s: %s%%"):format(statNames[j],(totalStats[j]/10))
+        else
+            endtext = endtext .. ("<br>    - %s: %s"):format(statNames[j],totalStats[j])
+        end
     end
     document:getElementById("stats_div").innerHTML = endtext
 end
@@ -184,7 +188,11 @@ for i=1,#pet_keys do
         if (d._petType == 1) then totalStats[j] = totalStats[j] + st_cha[j] end
         totalStats[j] = math.floor(totalStats[j] * petDispositions[disp][j])
         totalStats[j] = math.floor(totalStats[j] * petTiers[tier][j])
-        print(("    - %s: %s"):format(statNames[j],totalStats[j]))
+        if (j == 4) then
+            print(("    - %s: %s%%"):format(statNames[j],(totalStats[j]/10)))
+        else
+            print(("    - %s: %s"):format(statNames[j],totalStats[j]))
+        end
     end
     
 end
