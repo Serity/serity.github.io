@@ -1,0 +1,1687 @@
+Craft Level  1: need     0 exp,  1% great success chance,  6% sculpt great success chance
+Craft Level  2: need   500 exp,  2% great success chance,  9% sculpt great success chance
+Craft Level  3: need  1000 exp,  3% great success chance, 12% sculpt great success chance
+Craft Level  4: need  1500 exp,  4% great success chance, 15% sculpt great success chance
+Craft Level  5: need  2000 exp,  5% great success chance, 18% sculpt great success chance
+Craft Level  6: need  5000 exp,  6% great success chance, 21% sculpt great success chance
+Craft Level  7: need  6000 exp,  7% great success chance, 24% sculpt great success chance
+Craft Level  8: need  7000 exp,  8% great success chance, 27% sculpt great success chance
+Craft Level  9: need  8000 exp,  9% great success chance, 30% sculpt great success chance
+Craft Level 10: need  9000 exp, 10% great success chance, 33% sculpt great success chance
+Craft Level 11: need 15000 exp, 11% great success chance, 36% sculpt great success chance
+Craft Level 12: need 16500 exp, 12% great success chance, 39% sculpt great success chance
+Craft Level 13: need 18000 exp, 13% great success chance, 42% sculpt great success chance
+Craft Level 14: need 19500 exp, 14% great success chance, 45% sculpt great success chance
+Craft Level 15: need 21000 exp, 15% great success chance, 48% sculpt great success chance
+
+
+** {Unidentified Food}:
+* Lv.1 Cooking Recipe #18000 (100.00%, 0 exp)
+    Satiety: 2
+    Great Success: 1x Unidentified Food
+
+** {Assorted Fruit}:
+* Lv.1 Cooking Recipe #18005 (100.00%, 20 exp)
+    Satiety: 10
+    Effects for 15m: Intelligence +1
+    Great Success: 1x Delicious Assorted Fruit
+    - 6x <Any Fruit>
+
+** {Plain Bread}:
+* Lv.1 Cooking Recipe #18078 (100.00%, 10 exp)
+    Satiety: 10
+    Effects for 15m: Wisdom +1
+    Great Success: 1x Delicious Plain Bread
+    - 2x Flour
+    - Yeast
+
+** {Croissant}:
+* Lv.1 Cooking Recipe #18079 (100.00%, 10 exp)
+    Satiety: 10
+    Effects for 15m: Charisma +1
+    Great Success: 1x Delicious Croissant
+    - Flour
+    - Yeast
+    - 2x Butter
+
+** {Gingerbread Cookie}:
+* Lv.1 Cooking Recipe #18081 (100.00%, 50 exp)
+    Satiety: 30
+    Effects for 15m: Charisma +5
+    Great Success: 1x Delicious Gingerbread Cookie
+    - 3x Flour
+    - 2x Ginger
+    - 3x Sugar
+
+** {Pancake}:
+* Lv.1 Cooking Recipe #18083 (100.00%, 80 exp)
+    Satiety: 30
+    Effects for 15m: Strength +10
+    Great Success: 1x Delicious Pancake
+    - 3x Flour
+    - 2x Egg
+    - 2x Butter
+    - 2x Honey
+
+** {Muffin}:
+* Lv.1 Cooking Recipe #18082 (100.00%, 60 exp)
+    Satiety: 30
+    Effects for 15m: Wisdom +5
+    Great Success: 1x Delicious Muffin
+    - 2x Egg
+    - 2x Butter
+    - 2x Chocolate
+
+** {Pretzel}:
+* Lv.1 Cooking Recipe #18080 (100.00%, 10 exp)
+    Satiety: 10
+    Effects for 15m: Intelligence +1
+    Great Success: 1x Delicious Pretzel
+    - Flour
+    - Yeast
+    - 2x Sugar
+
+** {Sandwich}:
+* Lv.1 Cooking Recipe #18046 (100.00%, 70 exp)
+    Satiety: 10
+    Effects for 15m: Wisdom +10
+    Great Success: 1x Delicious Sandwich
+    - Plain Bread
+    - 2x Lettuce
+    - Fried Egg
+    - Cheese
+
+** {Cheesecake}:
+* Lv.1 Cooking Recipe #18084 (100.00%, 10 exp)
+    Satiety: 10
+    Effects for 15m: Wisdom +1
+    Great Success: 1x Delicious Cheesecake
+    - 3x Cheese
+    - Yeast
+    - 2x Sugar
+
+** {Canape}:
+* Lv.1 Cooking Recipe #18076 (100.00%, 90 exp)
+    Satiety: 10
+    Effects for 15m: Strength +10
+    Great Success: 1x Delicious Canape
+    - 3x Cracker
+    - 3x Olive
+    - 4x Cheese
+
+** {Egg Toast}:
+* Lv.1 Cooking Recipe #18045 (100.00%, 30 exp)
+    Satiety: 10
+    Effects for 15m: Constitution +1
+    Great Success: 1x Delicious Egg Toast
+    - Fried Egg
+    - Plain Bread
+
+** {Sausage}:
+* Lv.1 Cooking Recipe #18031 (100.00%, 10 exp)
+    Satiety: 30
+    Effects for 15m: Constitution +1
+    Great Success: 1x Delicious Sausage
+    - 4x <Any Meat>
+    - 2x Salt
+
+** {Roasted Meat}:
+* Lv.1 Cooking Recipe #18029 (100.00%, 10 exp)
+    Satiety: 30
+    Effects for 15m: Constitution +1
+    Great Success: 1x Delicious Roasted Meat
+    - 6x <Any Meat>
+
+** {Steak}:
+* Lv.1 Cooking Recipe #18032 (100.00%, 40 exp)
+    Satiety: 30
+    Effects for 15m: Constitution +5
+    Great Success: 1x Delicious Steak
+    - 5x Little Piece of Meat
+    - 2x Salt
+    - 3x Pepper
+
+** {Prime Steak}:
+* Lv.1 Cooking Recipe #18033 (100.00%, 40 exp)
+    Satiety: 30
+    Effects for 15m: Strength +5
+    Great Success: 1x Delicious Prime Steak
+    - 4x Hefty Chunk of Meat
+    - 2x Salt
+    - 2x Pepper
+    - Herb
+
+** {Marinated Grilled Meat}:
+* Lv.1 Cooking Recipe #18030 (100.00%, 40 exp)
+    Satiety: 40
+    Effects for 15m: Constitution +5
+    Great Success: 1x Delicious Marinated Grilled Meat
+    - 4x Prime Raw Meat
+    - 2x Pepper
+    - 2x Onion
+
+** {Schnitzel}:
+* Lv.1 Cooking Recipe #18034 (100.00%, 40 exp)
+    Satiety: 30
+    Effects for 15m: Strength +5
+    Great Success: 1x Delicious Schnitzel
+    - 2x Hefty Chunk of Meat
+    - 2x Flour
+    - 2x Olive Oil
+
+** {Apple Pie}:
+* Lv.1 Cooking Recipe #18016 (100.00%, 20 exp)
+    Satiety: 30
+    Effects for 15m: Agility +1
+    Great Success: 1x Delicious Apple Pie
+    - 2x Apple
+    - Flour
+    - Sugar
+
+** {Pumpkin Soup}:
+* Lv.1 Cooking Recipe #18017 (100.00%, 20 exp)
+    Satiety: 30
+    Effects for 15m: Agility +1
+    Great Success: 1x Delicious Pumpkin Soup
+    - 2x Pumpkin
+    - 3x Natural Water
+
+** {Chocolate}:
+* Lv.1 Cooking Recipe #18004 (100.00%, 20 exp)
+    Satiety: 30
+    Effects for 15m: Charisma +1
+    Great Success: 1x Delicious Chocolate
+    - 2x Cacao
+    - 3x Sugar
+
+** {Sweet Potato Cake}:
+* Lv.1 Cooking Recipe #18085 (100.00%, 80 exp)
+    Satiety: 30
+    Effects for 15m: Constitution +10
+    Great Success: 1x Delicious Sweet Potato Cake
+    - 3x Sweet Potato
+    - 2x Yeast
+    - Whipped Cream
+    - Honey
+
+** {Cream of Mushroom Soup}:
+* Lv.1 Cooking Recipe #18027 (100.00%, 90 exp)
+    Satiety: 50
+    Effects for 15m: Strength +10
+    Great Success: 1x Delicious Cream of Mushroom Soup
+    - 4x Pine Mushroom
+    - 2x Mineral Water
+    - 2x Milk
+
+** {Honey Ice Cream}:
+* Lv.1 Cooking Recipe #18099 (100.00%, 80 exp)
+    Satiety: 30
+    Effects for 15m: Charisma +10
+    Effects for 20m: Ice RES +10
+    Great Success: 1x Delicious Honey Ice Cream
+    - 3x Milk
+    - 2x Whipped Cream
+    - 2x Sugar
+    - 3x Honey
+
+** {Fried Egg}:
+* Lv.1 Cooking Recipe #18035 (100.00%, 10 exp)
+    Satiety: 10
+    Effects for 15m: Strength +1
+    Great Success: 1x Delicious Fried Egg
+    - 2x Egg
+    - 4x Salt
+
+** {Unidentified Drink}:
+* Lv.1 Cooking Recipe #18087 (100.00%, 0 exp)
+    Satiety: 2
+    Great Success: 1x Unidentified Drink
+    - 4x <Any Drink>
+
+** {Bowl of Rice}:
+* Lv.1 Cooking Recipe #18001 (100.00%, 10 exp)
+    Satiety: 10
+    Effects for 15m: Strength +1
+    Great Success: 1x Delicious Bowl of Rice
+    - 3x Rice
+    - 2x Natural Water
+
+** {Orange Juice}:
+* Lv.1 Cooking Recipe #18097 (100.00%, 90 exp)
+    Satiety: 50
+    Effects for 15m: Charisma +10
+    Great Success: 1x Delicious Orange Juice
+    - 3x Orange
+    - 3x Mineral Water
+    - 3x Sugar
+
+** {Lemonade}:
+* Lv.1 Cooking Recipe #18150 (100.00%, 80 exp)
+    Satiety: 30
+    Effects for 15m: Agility +10
+    Great Success: 1x Delicious Lemonade
+    - 3x Lemon
+    - 2x Sugar
+    - 3x Natural Water
+
+** {Apple Juice}:
+* Lv.1 Cooking Recipe #18098 (100.00%, 20 exp)
+    Satiety: 30
+    Effects for 15m: Wisdom +1
+    Great Success: 1x Delicious Apple Juice
+    - 2x Apple
+    - 2x Natural Water
+    - 2x Sugar
+
+** {Fried Rice}:
+* Lv.1 Cooking Recipe #18038 (100.00%, 60 exp)
+    Satiety: 30
+    Effects for 15m: Charisma +5
+    Great Success: 1x Delicious Fried Rice
+    - 3x <Any Meat>
+    - 3x Bowl of Rice
+    - 4x Olive Oil
+
+** {Seafood Stir-Fry}:
+* Lv.1 Cooking Recipe #18039 (100.00%, 60 exp)
+    Satiety: 50
+    Effects for 15m: Constitution +5
+    Great Success: 1x Delicious Seafood Stir-Fry
+    - 2x <Any Fish>
+    - 3x Bowl of Rice
+    - 2x Olive Oil
+    - 2x <Any Vegetable>
+
+** {Spaghetti Marinara}:
+* Lv.1 Cooking Recipe #18068 (100.00%, 80 exp)
+    Satiety: 30
+    Effects for 15m: Wisdom +10
+    Great Success: 1x Delicious Spaghetti Marinara
+    - 4x Tomato
+    - 2x Raw Noodles
+    - Onion
+    - Garlic
+
+** {Spaghetti and Meatballs}:
+* Lv.1 Cooking Recipe #18069 (100.00%, 90 exp)
+    Satiety: 30
+    Effects for 15m: Wisdom +10
+    Great Success: 1x Delicious Spaghetti and Meatballs
+    - 3x Roasted Meat
+    - 2x Tomato
+    - Raw Noodles
+    - 2x Herb
+
+** {Seafood Spaghetti Marinara}:
+* Lv.1 Cooking Recipe #18070 (100.00%, 90 exp)
+    Satiety: 50
+    Effects for 15m: Agility +10
+    Great Success: 1x Delicious Seafood Spaghetti Marinara
+    - 2x <Any Fish>
+    - 2x Olive
+    - Spaghetti Marinara
+
+** {Creamy Spaghetti}:
+* Lv.1 Cooking Recipe #18120 (100.00%, 20 exp)
+    Satiety: 10
+    Effects for 15m: Charisma +5
+    Great Success: 1x Delicious Creamy Spaghetti
+    - 3x Milk
+    - 3x Whipped Cream
+    - 3x Raw Noodles
+
+** {Spaghetti Carbonara}:
+* Lv.1 Cooking Recipe #18071 (100.00%, 10 exp)
+    Satiety: 10
+    Effects for 15m: Charisma +1
+    Great Success: 1x Delicious Spaghetti Carbonara
+    - 3x Milk
+    - 2x Egg
+    - Raw Noodles
+
+** {Creamy Seafood Spaghetti}:
+* Lv.1 Cooking Recipe #18072 (100.00%, 60 exp)
+    Satiety: 50
+    Effects for 15m: Intelligence +5
+    Great Success: 1x Delicious Creamy Seafood Spaghetti
+    - 6x <Any Fish>
+    - Creamy Spaghetti
+
+** {Spaghetti Aglio e Olio}:
+* Lv.1 Cooking Recipe #18073 (100.00%, 40 exp)
+    Satiety: 30
+    Effects for 15m: Charisma +5
+    Great Success: 1x Delicious Spaghetti Aglio e Olio
+    - Raw Noodles
+    - 2x Garlic
+    - Red Pepper
+    - 2x Olive Oil
+
+** {Spaghetti Vongole}:
+* Lv.1 Cooking Recipe #18074 (100.00%, 50 exp)
+    Satiety: 50
+    Effects for 15m: Charisma +5
+    Great Success: 1x Delicious Spaghetti Vongole
+    - 5x Clam
+    - Raw Noodles
+    - Garlic
+
+** {Steamed Corn}:
+* Lv.1 Cooking Recipe #18006 (100.00%, 50 exp)
+    Satiety: 30
+    Effects for 15m: Strength +5
+    Great Success: 1x Delicious Steamed Corn
+    - 4x Corn
+    - 3x Natural Water
+
+** {Corn Soup}:
+* Lv.1 Cooking Recipe #18019 (100.00%, 60 exp)
+    Satiety: 50
+    Effects for 15m: Strength +5
+    Great Success: 1x Delicious Corn Soup
+    - 4x Corn
+    - 2x Mineral Water
+    - Milk
+
+** {Popcorn}:
+* Lv.1 Cooking Recipe #18077 (100.00%, 50 exp)
+    Satiety: 30
+    Effects for 15m: Agility +5
+    Great Success: 1x Delicious Popcorn
+    - 3x Corn
+    - 3x Salt
+    - 2x Butter
+    - Olive Oil
+
+** {Roasted Beans}:
+* Lv.1 Cooking Recipe #18148 (100.00%, 40 exp)
+    Satiety: 30
+    Effects for 15m: Wisdom +10
+    Great Success: 2x Roasted Beans
+    - 5x Coffee Beans
+
+** {Coffee}:
+* Lv.1 Cooking Recipe #18093 (100.00%, 90 exp)
+    Satiety: 50
+    Effects for 15m: Charisma +10
+    Great Success: 1x Delicious Coffee
+    - Roasted Beans
+    - Mineral Water
+
+** {Latte}:
+* Lv.1 Cooking Recipe #18094 (100.00%, 100 exp)
+    Satiety: 50
+    Effects for 15m: Strength +10
+    Great Success: 1x Delicious Latte
+    - Coffee
+    - 6x Milk
+
+** {Tofu}:
+* Lv.1 Cooking Recipe #18003 (100.00%, 60 exp)
+    Satiety: 50
+    Effects for 15m: Charisma +5
+    Great Success: 1x Delicious Tofu
+    - 4x Bean
+    - 2x Mineral Water
+
+** {Sushi}:
+* Lv.1 Cooking Recipe #18060 (100.00%, 30 exp)
+    Satiety: 50
+    Effects for 15m: Agility +1
+    Great Success: 1x Delicious Sushi
+    - 3x <Any Fish>
+    - 2x Bowl of Rice
+
+** {Fish and Chips}:
+* Lv.1 Cooking Recipe #18061 (100.00%, 50 exp)
+    Satiety: 50
+    Effects for 15m: Agility +5
+    Great Success: 1x Delicious Fish and Chips
+    - 4x <Any Fish>
+    - 3x Potato
+    - 2x Olive Oil
+
+** {Marinated Grilled Fish}:
+* Lv.1 Cooking Recipe #18057 (100.00%, 20 exp)
+    Satiety: 50
+    Effects for 15m: Agility +1
+    Great Success: 1x Delicious Marinated Grilled Fish
+    - 4x <Any Fish>
+    - 3x <Any Spice>
+
+** {Halibut Dish}:
+* Lv.1 Cooking Recipe #18063 (100.00%, 80 exp)
+    Satiety: 50
+    Effects for 15m: Agility +10
+    Great Success: 1x Delicious Halibut Dish
+    - 4x Halibut
+    - 2x Salt
+    - Lemon
+
+** {Salmon Steak}:
+* Lv.1 Cooking Recipe #18122 (100.00%, 20 exp)
+    Satiety: 90
+    Effects for 15m: Intelligence +5
+    Effects for 40m: Increase Max ATK by 100% of INT
+    Great Success: 1x Delicious Salmon Steak
+    - 3x Salmon
+    - Olive Oil
+    - Salt
+
+** {Sea Bass Steak}:
+* Lv.1 Cooking Recipe #18064 (100.00%, 80 exp)
+    Satiety: 50
+    Effects for 15m: Strength +10
+    Great Success: 1x Delicious Sea Bass Steak
+    - 5x Sea Bass
+    - 2x Salt
+    - 3x Pepper
+
+** {Steamed Carp}:
+* Lv.1 Cooking Recipe #18058 (100.00%, 50 exp)
+    Satiety: 50
+    Effects for 15m: Wisdom +5
+    Great Success: 1x Delicious Steamed Carp
+    - 2x Carp
+    - 2x Salt
+    - 2x Red Pepper
+
+** {Grilled Fish Skewer}:
+* Lv.1 Cooking Recipe #18056 (100.00%, 20 exp)
+    Satiety: 50
+    Effects for 15m: Strength +1
+    Great Success: 1x Delicious Grilled Fish Skewer
+    - 5x <Any Fish>
+
+** {Grilled Catfish}:
+* Lv.1 Cooking Recipe #18052 (100.00%, 20 exp)
+    Satiety: 90
+    Effects for 15m: Constitution +1
+    Effects for 40m: Knockback RES +10%
+    Great Success: 1x Delicious Grilled Catfish
+    - 2x Catfish
+    - Salt
+
+** {Grilled Lobster with Butter}:
+* Lv.1 Cooking Recipe #18065 (100.00%, 20 exp)
+    Satiety: 50
+    Effects for 15m: Wisdom +1
+    Great Success: 1x Delicious Grilled Lobster with Butter
+    - 2x Crawfish
+    - Butter
+
+** {Roasted Cutlassfish}:
+* Lv.1 Cooking Recipe #18053 (100.00%, 80 exp)
+    Satiety: 90
+    Effects for 15m: Constitution +10
+    Effects for 40m: Pierce RES +20%
+    Great Success: 1x Delicious Roasted Cutlassfish
+    - 4x Cutlassfish
+    - 2x Salt
+
+** {Boiled Potato}:
+* Lv.1 Cooking Recipe #18007 (100.00%, 20 exp)
+    Satiety: 30
+    Effects for 15m: Constitution +1
+    Great Success: 1x Delicious Boiled Potato
+    - 3x Potato
+
+** {Baked Sweet Potato}:
+* Lv.1 Cooking Recipe #18008 (100.00%, 80 exp)
+    Satiety: 30
+    Effects for 15m: Agility +10
+    Great Success: 1x Delicious Baked Sweet Potato
+    - 5x Sweet Potato
+
+** {Coleslaw}:
+* Lv.1 Cooking Recipe #18009 (100.00%, 80 exp)
+    Satiety: 30
+    Effects for 15m: Intelligence +10
+    Great Success: 1x Delicious Coleslaw
+    - 4x Cabbage
+    - Carrot
+    - 3x Corn
+
+** {Potato Soup}:
+* Lv.1 Cooking Recipe #18018 (100.00%, 20 exp)
+    Satiety: 30
+    Effects for 15m: Strength +1
+    Great Success: 1x Delicious Potato Soup
+    - 2x Potato
+    - 3x Natural Water
+
+** {Carrot Soup}:
+* Lv.1 Cooking Recipe #18121 (100.00%, 20 exp)
+    Satiety: 30
+    Effects for 15m: Wisdom +1
+    Effects for 20m: Dark Adaptation +4
+    Great Success: 1x Delicious Carrot Soup
+    - 2x Carrot
+    - 4x Natural Water
+
+** {Onion Soup}:
+* Lv.1 Cooking Recipe #18021 (100.00%, 40 exp)
+    Satiety: 10
+    Effects for 15m: Intelligence +5
+    Great Success: 1x Delicious Onion Soup
+    - 5x Onion
+    - 4x Natural Water
+
+** {Garlic Soup}:
+* Lv.1 Cooking Recipe #18022 (100.00%, 40 exp)
+    Satiety: 10
+    Effects for 15m: Wisdom +5
+    Great Success: 1x Delicious Garlic Soup
+    - 5x Garlic
+    - 4x Natural Water
+
+** {Tomato Soup}:
+* Lv.1 Cooking Recipe #18020 (100.00%, 90 exp)
+    Satiety: 50
+    Effects for 15m: Constitution +10
+    Great Success: 1x Delicious Tomato Soup
+    - 4x Tomato
+    - 2x Mineral Water
+    - 2x Milk
+
+** {Witch's Soup}:
+* Lv.1 Cooking Recipe #18028 (100.00%, 90 exp)
+    Satiety: 50
+    Effects for 15m: Agility +10
+    Great Success: 1x Delicious Witch's Soup
+    - 4x Cabbage
+    - 2x Ginseng
+    - 3x Tomato
+    - Mineral Water
+
+** {Meat Soup}:
+* Lv.1 Cooking Recipe #18023 (100.00%, 20 exp)
+    Satiety: 30
+    Effects for 15m: Constitution +1
+    Great Success: 1x Delicious Meat Soup
+    - 4x Little Piece of Meat
+    - 3x Natural Water
+    - Carrot
+
+** {Clam Chowder}:
+* Lv.1 Cooking Recipe #18026 (100.00%, 20 exp)
+    Satiety: 50
+    Effects for 15m: Strength +1
+    Great Success: 1x Delicious Clam Chowder
+    - 2x Clam
+    - 2x Milk
+    - <Any Vegetable>
+
+** {Green Onion Chicken Legs}:
+* Lv.1 Cooking Recipe #18010 (100.00%, 10 exp)
+    Satiety: 30
+    Effects for 15m: Intelligence +1
+    Great Success: 1x Delicious Green Onion Chicken Legs
+    - 3x Little Piece of Bird Meat
+    - 2x Assorted Vegetables
+    - 2x Salt
+
+** {Honey Butter Chicken Legs}:
+* Lv.1 Cooking Recipe #18025 (100.00%, 90 exp)
+    Satiety: 40
+    Effects for 15m: Intelligence +10
+    Great Success: 1x Delicious Honey Butter Chicken Legs
+    - 4x High Quality Bird Meat
+    - 2x Honey
+    - <Any Spice>
+
+** {Spicy Wings}:
+* Lv.1 Cooking Recipe #18036 (100.00%, 50 exp)
+    Satiety: 30
+    Effects for 15m: Intelligence +5
+    Great Success: 1x Delicious Spicy Wings
+    - 3x Little Piece of Bird Meat
+    - 3x Red Pepper
+    - 3x Olive Oil
+
+** {Whole Roasted Chicken}:
+* Lv.1 Cooking Recipe #18037 (100.00%, 70 exp)
+    Satiety: 40
+    Effects for 15m: Strength +10
+    Great Success: 1x Delicious Whole Roasted Chicken
+    - 2x High Quality Bird Meat
+    - 3x Salt
+    - 3x Pepper
+
+** {Chicken Gratin}:
+* Lv.1 Cooking Recipe #18040 (100.00%, 90 exp)
+    Satiety: 40
+    Effects for 15m: Strength +10
+    Great Success: 1x Delicious Chicken Gratin
+    - High Quality Bird Meat
+    - 4x Bowl of Rice
+    - 3x Milk
+
+** {Heartwarming Chicken Gratin}:
+* Lv.1 Cooking Recipe #18041 (100.00%, 90 exp)
+    Satiety: 40
+    Effects for 15m: Intelligence +10
+    Great Success: 1x Delicious Heartwarming Chicken Gratin
+    - 2x High Quality Bird Meat
+    - 2x Bowl of Rice
+    - 6x Milk
+
+** {Bird Meat Soup}:
+* Lv.1 Cooking Recipe #18024 (100.00%, 10 exp)
+    Satiety: 30
+    Effects for 15m: Wisdom +1
+    Great Success: 1x Delicious Bird Meat Soup
+    - 3x Little Piece of Bird Meat
+    - 3x Natural Water
+
+** {Bird Meat Soup for the Soul}:
+* Lv.1 Cooking Recipe #18151 (100.00%, 80 exp)
+    Satiety: 40
+    Effects for 15m: Strength +10
+    Great Success: 1x Delicious Bird Meat Soup for the Soul
+    - 2x High Quality Bird Meat
+    - 3x Milk
+
+** {Omelet}:
+* Lv.1 Cooking Recipe #18043 (100.00%, 40 exp)
+    Satiety: 10
+    Effects for 15m: Agility +5
+    Great Success: 1x Delicious Omelet
+    - 4x Egg
+    - 3x Butter
+    - 3x Milk
+
+** {Cheese Omelet}:
+* Lv.1 Cooking Recipe #18044 (100.00%, 60 exp)
+    Satiety: 10
+    Effects for 15m: Strength +5
+    Great Success: 1x Delicious Cheese Omelet
+    - 2x Omelet
+    - 3x Herb
+    - 3x Cheese
+
+** {Honey Water}:
+* Lv.1 Cooking Recipe #18088 (100.00%, 90 exp)
+    Satiety: 50
+    Effects for 15m: Constitution +10
+    Great Success: 1x Delicious Honey Water
+    - 3x Honey
+    - 3x Mineral Water
+
+** {Herbal Tea}:
+* Lv.1 Cooking Recipe #18089 (100.00%, 10 exp)
+    Satiety: 10
+    Effects for 15m: Charisma +1
+    Great Success: 1x Delicious Herbal Tea
+    - 3x Herb
+    - 3x Natural Water
+
+** {Fruit Punch}:
+* Lv.1 Cooking Recipe #18100 (100.00%, 60 exp)
+    Satiety: 50
+    Effects for 15m: Agility +5
+    Great Success: 1x Delicious Fruit Punch
+    - Assorted Fruit
+    - 3x Mineral Water
+
+** {Ginger Ale}:
+* Lv.1 Cooking Recipe #18092 (100.00%, 80 exp)
+    Satiety: 30
+    Effects for 15m: Intelligence +10
+    Great Success: 1x Delicious Ginger Ale
+    - 4x Ginger
+    - Lemon
+    - Natural Water
+
+** {Fruit Yogurt}:
+* Lv.1 Cooking Recipe #18101 (100.00%, 40 exp)
+    Satiety: 10
+    Effects for 15m: Agility +5
+    Great Success: 1x Delicious Fruit Yogurt
+    - 4x <Any Fruit>
+    - 3x Yogurt
+
+** {Vegetable Juice}:
+* Lv.1 Cooking Recipe #18096 (100.00%, 10 exp)
+    Satiety: 10
+    Effects for 15m: Agility +1
+    Great Success: 1x Delicious Vegetable Juice
+    - 3x <Any Vegetable>
+    - 3x Natural Water
+
+** {Ginger Tea}:
+* Lv.1 Cooking Recipe #18091 (100.00%, 50 exp)
+    Satiety: 30
+    Effects for 15m: Charisma +5
+    Great Success: 1x Delicious Ginger Tea
+    - 4x Ginger
+    - 3x Natural Water
+
+** {Chocolate Chip Cookie}:
+* Lv.1 Cooking Recipe #18086 (100.00%, 60 exp)
+    Satiety: 30
+    Effects for 15m: Intelligence +5
+    Great Success: 1x Delicious Chocolate Chip Cookie
+    - Flour
+    - Butter
+    - 2x Chocolate
+
+** {Cracker}:
+* Lv.1 Cooking Recipe #18002 (100.00%, 10 exp)
+    Satiety: 10
+    Effects for 15m: Wisdom +1
+    Great Success: 1x Delicious Cracker
+    - 2x Flour
+    - Sugar
+
+** {Hamburger}:
+* Lv.1 Cooking Recipe #18047 (100.00%, 30 exp)
+    Satiety: 30
+    Effects for 15m: Strength +1
+    Great Success: 1x Delicious Hamburger
+    - Plain Bread
+    - Roasted Meat
+    - Tomato
+
+** {Hot Dog}:
+* Lv.1 Cooking Recipe #18048 (100.00%, 30 exp)
+    Satiety: 30
+    Effects for 15m: Intelligence +1
+    Great Success: 1x Delicious Hot Dog
+    - Plain Bread
+    - 2x Sausage
+
+** {Macaroni and Cheese}:
+* Lv.1 Cooking Recipe #18042 (100.00%, 10 exp)
+    Satiety: 10
+    Effects for 15m: Agility +1
+    Great Success: 1x Delicious Macaroni and Cheese
+    - Raw Noodles
+    - 2x Cheese
+    - 2x Milk
+    - Salt
+
+** {Pizza}:
+* Lv.1 Cooking Recipe #18049 (100.00%, 80 exp)
+    Satiety: 30
+    Effects for 15m: Charisma +10
+    Great Success: 1x Delicious Pizza
+    - 4x Flour
+    - 2x <Any Meat>
+    - 3x Cheese
+    - 2x Pine Mushroom
+
+** {Pho}:
+* Lv.1 Cooking Recipe #18075 (100.00%, 60 exp)
+    Satiety: 30
+    Effects for 15m: Agility +5
+    Great Success: 1x Delicious Pho
+    - 2x Roasted Meat
+    - 3x Raw Noodles
+    - 3x Herb
+    - 2x Red Pepper
+
+** {BBQ Platter}:
+* Lv.1 Cooking Recipe #18051 (100.00%, 60 exp)
+    Satiety: 40
+    Effects for 15m: Intelligence +5
+    Great Success: 1x Delicious BBQ Platter
+    - 4x Prime Raw Meat
+    - 3x Sausage
+
+** {Seafood Platter}:
+* Lv.1 Cooking Recipe #18067 (100.00%, 90 exp)
+    Satiety: 50
+    Effects for 15m: Agility +10
+    Great Success: 1x Delicious Seafood Platter
+    - 2x <Any Fish>
+    - Baked Lobster with Cheese
+    - Lemon
+
+** {Hearty Breakfast}:
+* Lv.1 Cooking Recipe #18050 (100.00%, 30 exp)
+    Satiety: 10
+    Effects for 15m: Constitution +1
+    Great Success: 1x Delicious Hearty Breakfast
+    - 2x Salad
+    - 2x Cheesecake
+
+** {Meat Pie}:
+* Lv.1 Cooking Recipe #18014 (100.00%, 40 exp)
+    Satiety: 30
+    Effects for 15m: Constitution +5
+    Great Success: 1x Delicious Meat Pie
+    - 3x <Any Meat>
+    - 2x Flour
+    - 2x Butter
+
+** {Pumpkin Pie}:
+* Lv.1 Cooking Recipe #18015 (100.00%, 20 exp)
+    Satiety: 30
+    Effects for 15m: Intelligence +1
+    Great Success: 1x Delicious Pumpkin Pie
+    - 2x Pumpkin
+    - Flour
+
+** {Caffe Mocha}:
+* Lv.1 Cooking Recipe #18095 (100.00%, 100 exp)
+    Satiety: 50
+    Effects for 15m: Agility +10
+    Great Success: 1x Delicious Caffe Mocha
+    - Coffee
+    - Chocolate
+
+** {Fruit Parfait}:
+* Lv.1 Cooking Recipe #18102 (100.00%, 60 exp)
+    Satiety: 30
+    Effects for 15m: Strength +5
+    Great Success: 1x Delicious Fruit Parfait
+    - Assorted Fruit
+    - 2x Yogurt
+    - Chocolate
+
+** {Deep-Fried Squid}:
+* Lv.1 Cooking Recipe #18062 (100.00%, 80 exp)
+    Satiety: 50
+    Effects for 15m: Strength +10
+    Great Success: 1x Delicious Deep-Fried Squid
+    - 5x Freshwater Squid
+    - 2x Flour
+    - 2x Olive Oil
+
+** {Grilled Jumbo Shrimp}:
+* Lv.1 Cooking Recipe #18054 (100.00%, 20 exp)
+    Satiety: 50
+    Effects for 15m: Intelligence +1
+    Great Success: 1x Delicious Grilled Jumbo Shrimp
+    - 3x Freshwater Shrimp
+    - Salt
+
+** {Baked Lobster with Cheese}:
+* Lv.1 Cooking Recipe #18066 (100.00%, 80 exp)
+    Satiety: 50
+    Effects for 15m: Wisdom +10
+    Great Success: 1x Delicious Baked Lobster with Cheese
+    - 4x Crawfish
+    - 2x Celery
+    - 2x Cheese
+
+** {Milk Tea}:
+* Lv.1 Cooking Recipe #18090 (100.00%, 80 exp)
+    Satiety: 30
+    Effects for 15m: Intelligence +10
+    Great Success: 1x Delicious Milk Tea
+    - 4x Herb
+    - 4x Milk
+    - 3x Lemon
+
+** {Steamed Clams}:
+* Lv.1 Cooking Recipe #18059 (100.00%, 50 exp)
+    Satiety: 50
+    Effects for 15m: Wisdom +5
+    Great Success: 1x Delicious Steamed Clams
+    - 4x Clam
+    - 2x Salt
+    - 3x Garlic
+
+** {Grilled Clams}:
+* Lv.1 Cooking Recipe #18055 (100.00%, 20 exp)
+    Satiety: 50
+    Effects for 15m: Agility +1
+    Great Success: 1x Delicious Grilled Clams
+    - 3x Clam
+
+** {Ricotta Cheese Salad}:
+* Lv.1 Cooking Recipe #18152 (100.00%, 80 exp)
+    Satiety: 30
+    Effects for 15m: Wisdom +10
+    Great Success: 1x Delicious Ricotta Cheese Salad
+    - 2x Cheese
+    - 2x Tomato
+    - Salad
+
+** {Chicken Breast Salad}:
+* Lv.1 Cooking Recipe #18011 (100.00%, 70 exp)
+    Satiety: 30
+    Effects for 15m: Constitution +10
+    Great Success: 1x Delicious Chicken Breast Salad
+    - 3x Salad
+    - 4x Little Piece of Bird Meat
+    - Olive
+
+** {Mushroom Salad}:
+* Lv.1 Cooking Recipe #18012 (100.00%, 80 exp)
+    Satiety: 30
+    Effects for 15m: Charisma +10
+    Great Success: 1x Delicious Mushroom Salad
+    - 3x Salad
+    - 2x Pine Mushroom
+    - Celery
+
+** {Salmon Salad}:
+* Lv.1 Cooking Recipe #18013 (100.00%, 20 exp)
+    Satiety: 90
+    Effects for 15m: Charisma +1
+    Effects for 40m: Increase Max ATK by 100% of CHA
+    Great Success: 1x Delicious Salmon Salad
+    - Salad
+    - Salmon
+
+** {Chocolate Bar}:
+* Lv.1 Cooking Recipe #18103 (100.00%, 10 exp)
+    Satiety: 30
+    Effects for 15m: Constitution +5
+    Great Success: 1x Delicious Chocolate Bar
+    - 2x Cereal Bar
+    - 3x Peanuts
+    - Chocolate
+
+** {Raisin Muffin}:
+* Lv.1 Cooking Recipe #18104 (100.00%, 20 exp)
+    Satiety: 30
+    Effects for 15m: Charisma +10
+    Great Success: 1x Delicious Raisin Muffin
+    - 2x Egg
+    - 2x Butter
+    - 2x Chocolate
+    - 3x Raisins
+
+** {Whipped Cream Cake}:
+* Lv.1 Cooking Recipe #18105 (100.00%, 40 exp)
+    Satiety: 10
+    Effects for 15m: Charisma +10
+    Great Success: 1x Delicious Whipped Cream Cake
+    - 3x Flour
+    - 2x Yeast
+    - 4x Whipped Cream
+    - 3x Sugar
+
+** {Rice and Beans}:
+* Lv.1 Cooking Recipe #18106 (100.00%, 30 exp)
+    Satiety: 30
+    Effects for 15m: Constitution +5
+    Great Success: 1x Delicious Rice and Beans
+    - 2x Bean
+    - 3x Rice
+    - 2x Natural Water
+
+** {Fresh Rice and Beans}:
+* Lv.1 Cooking Recipe #18107 (100.00%, 30 exp)
+    Satiety: 50
+    Effects for 15m: Constitution +5
+    Great Success: 1x Delicious Fresh Rice and Beans
+    - 2x Bean
+    - 3x Rice
+    - 2x Mineral Water
+
+** {Bowl of Fresh Rice}:
+* Lv.1 Cooking Recipe #18108 (100.00%, 10 exp)
+    Satiety: 50
+    Effects for 15m: Wisdom +5
+    Great Success: 1x Delicious Bowl of Fresh Rice
+    - 3x Rice
+    - 2x Mineral Water
+
+** {Thin Rice Porridge}:
+* Lv.1 Cooking Recipe #18109 (100.00%, 10 exp)
+    Satiety: 10
+    Effects for 15m: Agility +1
+    Great Success: 1x Delicious Thin Rice Porridge
+    - Rice
+    - 3x Natural Water
+
+** {Fresh Thin Rice Porridge}:
+* Lv.1 Cooking Recipe #18110 (100.00%, 10 exp)
+    Satiety: 50
+    Effects for 15m: Agility +5
+    Great Success: 1x Delicious Fresh Thin Rice Porridge
+    - Rice
+    - 3x Mineral Water
+
+** {Thick Rice}:
+* Lv.1 Cooking Recipe #18111 (100.00%, 10 exp)
+    Satiety: 10
+    Effects for 15m: Strength +1
+    Great Success: 1x Delicious Thick Rice
+    - 4x Rice
+    - Natural Water
+
+** {Bowl of Fresh Thick Rice}:
+* Lv.1 Cooking Recipe #18112 (100.00%, 10 exp)
+    Satiety: 50
+    Effects for 15m: Intelligence +5
+    Great Success: 1x Delicious Bowl of Fresh Thick Rice
+    - 4x Rice
+    - Mineral Water
+
+** {Waxy Corn}:
+* Lv.1 Cooking Recipe #18113 (100.00%, 30 exp)
+    Satiety: 50
+    Effects for 15m: Charisma +5
+    Great Success: 1x Delicious Waxy Corn
+    - 3x Corn
+    - 3x Mineral Water
+
+** {Potato Wedges}:
+* Lv.1 Cooking Recipe #18114 (100.00%, 30 exp)
+    Satiety: 30
+    Effects for 15m: Strength +5
+    Great Success: 1x Delicious Potato Wedges
+    - 4x Potato
+    - 3x Butter
+    - 2x Salt
+
+** {Honey Butter Bread}:
+* Lv.1 Cooking Recipe #18115 (100.00%, 30 exp)
+    Satiety: 30
+    Effects for 15m: Agility +10
+    Great Success: 1x Delicious Honey Butter Bread
+    - 2x Plain Bread
+    - 2x Butter
+    - Whipped Cream
+    - Honey
+
+** {Brownie}:
+* Lv.1 Cooking Recipe #18116 (100.00%, 30 exp)
+    Satiety: 30
+    Effects for 15m: Intelligence +1
+    Great Success: 1x Delicious Brownie
+    - Cacao
+    - Flour
+    - 3x Sugar
+    - Butter
+
+** {Pumpkin Porridge}:
+* Lv.1 Cooking Recipe #18117 (100.00%, 10 exp)
+    Satiety: 50
+    Effects for 15m: Wisdom +5
+    Great Success: 1x Delicious Pumpkin Porridge
+    - 4x Pumpkin
+    - 2x Rice
+    - Mineral Water
+
+** {Baked Sweet Potato Latte}:
+* Lv.1 Cooking Recipe #18153 (100.00%, 90 exp)
+    Satiety: 30
+    Effects for 15m: Constitution +10
+    Great Success: 1x Delicious Baked Sweet Potato Latte
+    - Baked Sweet Potato
+    - 2x Milk
+    - Honey
+
+** {Seafood Stew}:
+* Lv.1 Cooking Recipe #18118 (100.00%, 30 exp)
+    Satiety: 50
+    Effects for 15m: Strength +5
+    Great Success: 1x Delicious Seafood Stew
+    - 3x <Any Fish>
+    - 2x Assorted Vegetables
+    - 3x Red Pepper
+    - Mineral Water
+
+** {Nutritious Honey Water}:
+* Lv.1 Cooking Recipe #18119 (100.00%, 30 exp)
+    Satiety: 50
+    Effects for 15m: Intelligence +10
+    Great Success: 1x Delicious Nutritious Honey Water
+    - Honey Water
+    - 2x Lemon
+
+** {French Fries}:
+* Lv.1 Cooking Recipe #18154 (100.00%, 50 exp)
+    Satiety: 30
+    Effects for 15m: Intelligence +5
+    Great Success: 1x Delicious French Fries
+    - 4x Potato
+    - 4x Olive Oil
+    - 2x Pepper
+
+** {Sweet Potato Fries}:
+* Lv.1 Cooking Recipe #18155 (100.00%, 80 exp)
+    Satiety: 30
+    Effects for 15m: Charisma +10
+    Great Success: 1x Delicious Sweet Potato Fries
+    - 4x Sweet Potato
+    - 4x Olive Oil
+    - 2x Pepper
+
+** {Carrot Fries}:
+* Lv.1 Cooking Recipe #18156 (100.00%, 50 exp)
+    Satiety: 30
+    Effects for 15m: Constitution +5
+    Effects for 20m: Dark Adaptation +4
+    Great Success: 1x Delicious Carrot Fries
+    - 4x Carrot
+    - 4x Olive Oil
+    - 2x Pepper
+
+** {Onion Rings}:
+* Lv.1 Cooking Recipe #18157 (100.00%, 40 exp)
+    Satiety: 10
+    Effects for 15m: Strength +5
+    Great Success: 1x Delicious Onion Rings
+    - 4x Onion
+    - 4x Olive Oil
+    - 2x Pepper
+
+** {Thick Pumpkin Soup}:
+* Lv.1 Cooking Recipe #18123 (100.00%, 20 exp)
+    Satiety: 50
+    Effects for 15m: Agility +5
+    Great Success: 1x Delicious Thick Pumpkin Soup
+    - 2x Pumpkin
+    - 4x Mineral Water
+
+** {Thick Potato Soup}:
+* Lv.1 Cooking Recipe #18124 (100.00%, 20 exp)
+    Satiety: 50
+    Effects for 15m: Constitution +5
+    Great Success: 1x Delicious Thick Potato Soup
+    - 2x Potato
+    - 4x Mineral Water
+
+** {Thick Carrot Soup}:
+* Lv.1 Cooking Recipe #18125 (100.00%, 20 exp)
+    Satiety: 50
+    Effects for 15m: Wisdom +5
+    Effects for 30m: Dark Adaptation +7
+    Great Success: 1x Delicious Thick Carrot Soup
+    - 2x Carrot
+    - 4x Mineral Water
+
+** {Thick Onion Soup}:
+* Lv.1 Cooking Recipe #18126 (100.00%, 20 exp)
+    Satiety: 50
+    Effects for 15m: Intelligence +5
+    Great Success: 1x Delicious Thick Onion Soup
+    - 3x Onion
+    - 3x Mineral Water
+
+** {Thick Garlic Soup}:
+* Lv.1 Cooking Recipe #18127 (100.00%, 20 exp)
+    Satiety: 50
+    Effects for 15m: Wisdom +5
+    Effects for 30m: Damage vs. Undead +5%
+    Great Success: 1x Delicious Thick Garlic Soup
+    - 3x Garlic
+    - 3x Mineral Water
+
+** {Thick Meat Soup}:
+* Lv.1 Cooking Recipe #18128 (100.00%, 20 exp)
+    Satiety: 50
+    Effects for 15m: Constitution +5
+    Great Success: 1x Delicious Thick Meat Soup
+    - 4x Little Piece of Meat
+    - 3x Mineral Water
+
+** {Thick Bird Meat Soup}:
+* Lv.1 Cooking Recipe #18129 (100.00%, 20 exp)
+    Satiety: 50
+    Effects for 15m: Strength +5
+    Great Success: 1x Delicious Thick Bird Meat Soup
+    - 4x Little Piece of Bird Meat
+    - 3x Mineral Water
+
+** {Fresh Vegetable Juice}:
+* Lv.1 Cooking Recipe #18130 (100.00%, 20 exp)
+    Satiety: 50
+    Effects for 15m: Charisma +5
+    Great Success: 1x Delicious Fresh Vegetable Juice
+    - 4x Assorted Vegetables
+    - 3x Mineral Water
+
+** {Warm Ginger Tea}:
+* Lv.1 Cooking Recipe #18131 (100.00%, 20 exp)
+    Satiety: 50
+    Effects for 15m: Wisdom +5
+    Great Success: 1x Delicious Warm Ginger Tea
+    - 2x Ginger
+    - 4x Mineral Water
+
+** {Chicken Stew}:
+* Lv.1 Cooking Recipe #18132 (100.00%, 40 exp)
+    Satiety: 40
+    Effects for 15m: Intelligence +10
+    Great Success: 1x Delicious Chicken Stew
+    - 3x High Quality Bird Meat
+    - 2x Red Pepper
+    - Assorted Vegetables
+    - Potato
+
+** {Fried Chicken}:
+* Lv.1 Cooking Recipe #18133 (100.00%, 40 exp)
+    Satiety: 40
+    Effects for 15m: Intelligence +10
+    Great Success: 1x Delicious Fried Chicken
+    - 2x High Quality Bird Meat
+    - 2x Flour
+    - 2x Olive Oil
+
+** {Chicken Wrap}:
+* Lv.1 Cooking Recipe #18134 (100.00%, 40 exp)
+    Satiety: 30
+    Effects for 15m: Wisdom +10
+    Great Success: 1x Delicious Chicken Wrap
+    - Fried Chicken
+    - 2x Paprika
+    - Assorted Vegetables
+    - Flour
+
+** {Chocolate Ice Cream}:
+* Lv.1 Cooking Recipe #18135 (100.00%, 40 exp)
+    Satiety: 30
+    Effects for 15m: Wisdom +10
+    Effects for 20m: Ice ATK +10
+    Great Success: 1x Delicious Chocolate Ice Cream
+    - 3x Chocolate
+    - Whipped Cream
+    - Milk
+    - Sugar
+
+** {Bibimbap}:
+* Lv.1 Cooking Recipe #18136 (100.00%, 40 exp)
+    Satiety: 30
+    Effects for 15m: Agility +5
+    Great Success: 1x Delicious Bibimbap
+    - Bowl of Rice
+    - 3x Red Pepper
+    - Assorted Vegetables
+    - Fried Egg
+
+** {Peanut Butter Sandwich}:
+* Lv.1 Cooking Recipe #18137 (100.00%, 30 exp)
+    Satiety: 10
+    Effects for 15m: Intelligence +1
+    Great Success: 1x Delicious Peanut Butter Sandwich
+    - Plain Bread
+    - 2x Peanut Butter
+
+** {Strawberry Jam}:
+* Lv.1 Cooking Recipe #18138 (100.00%, 30 exp)
+    Satiety: 30
+    Effects for 15m: Charisma +1
+    Great Success: 1x Delicious Strawberry Jam
+    - 2x Strawberry
+    - 4x Sugar
+
+** {Apple Jam}:
+* Lv.1 Cooking Recipe #18139 (100.00%, 30 exp)
+    Satiety: 30
+    Effects for 15m: Strength +1
+    Great Success: 1x Delicious Apple Jam
+    - 2x Apple
+    - 4x Sugar
+
+** {Strawberry Sandwich}:
+* Lv.1 Cooking Recipe #18140 (100.00%, 40 exp)
+    Satiety: 30
+    Effects for 15m: Charisma +1
+    Great Success: 1x Delicious Strawberry Sandwich
+    - Plain Bread
+    - Strawberry Jam
+
+** {Apple Sandwich}:
+* Lv.1 Cooking Recipe #18141 (100.00%, 40 exp)
+    Satiety: 30
+    Effects for 15m: Wisdom +1
+    Great Success: 1x Delicious Apple Sandwich
+    - Plain Bread
+    - Apple Jam
+
+** {Ginseng Chicken Soup}:
+* Lv.1 Cooking Recipe #18142 (100.00%, 40 exp)
+    Satiety: 60
+    Effects for 15m: Agility +10
+    Great Success: 1x Delicious Ginseng Chicken Soup
+    - 2x High Quality Bird Meat
+    - Ginseng
+    - Rice
+    - Mineral Water
+
+** {Vigor Drink}:
+* Lv.1 Cooking Recipe #18143 (100.00%, 40 exp)
+    Satiety: 10
+    Effects for 15m: Constitution +10
+    Great Success: 1x Delicious Vigor Drink
+    - 4x Vegetable Juice
+    - 3x Ginseng
+    - 2x Cabbage
+
+** {Strawberry Yogurt Smoothie}:
+* Lv.1 Cooking Recipe #18144 (100.00%, 40 exp)
+    Satiety: 30
+    Effects for 15m: Intelligence +5
+    Great Success: 1x Delicious Strawberry Yogurt Smoothie
+    - 3x Strawberry
+    - Strawberry Jam
+    - 4x Yogurt
+    - Milk
+
+** {Steamed 5-Grain Sweet Pumpkin}:
+* Lv.1 Cooking Recipe #18145 (100.00%, 40 exp)
+    Satiety: 50
+    Effects for 15m: Constitution +10
+    Great Success: 1x Delicious Steamed 5-Grain Sweet Pumpkin
+    - 4x Pumpkin
+    - 2x Ginseng
+    - 2x Bean
+    - Mineral Water
+
+** {Assorted Grilled Skewers}:
+* Lv.1 Cooking Recipe #18146 (100.00%, 40 exp)
+    Satiety: 50
+    Effects for 15m: Charisma +1
+    Great Success: 1x Delicious Assorted Grilled Skewers
+    - 5x <Any Fish>
+    - 2x Assorted Vegetables
+
+** {Salt-Grilled Mackerel}:
+* Lv.1 Cooking Recipe #18147 (100.00%, 40 exp)
+    Satiety: 50
+    Effects for 15m: Constitution +10
+    Great Success: 1x Delicious Salt-Grilled Mackerel
+    - 5x Mackerel
+    - 3x Herb
+    - 3x Salt
+
+** {Grilled Sweetfish}:
+* Lv.1 Cooking Recipe #18158 (100.00%, 70 exp)
+    Satiety: 50
+    Effects for 15m: Wisdom +10
+    Great Success: 1x Delicious Grilled Sweetfish
+    - 3x Sweetfish
+    - Salt
+    - 2x Pepper
+
+** {Steamed Monkfish}:
+* Lv.1 Cooking Recipe #18159 (100.00%, 80 exp)
+    Satiety: 90
+    Effects for 15m: Agility +10
+    Effects for 40m: Dark Adaptation +10
+    Great Success: 1x Delicious Steamed Monkfish
+    - 3x Atlantic Footballfish
+    - 2x Red Pepper
+    - 2x Assorted Vegetables
+
+** {Grilled Rainbow Trout with Butter}:
+* Lv.1 Cooking Recipe #18160 (100.00%, 70 exp)
+    Satiety: 90
+    Effects for 15m: Intelligence +10
+    Effects for 40m: Stun RES +10%
+    Great Success: 1x Delicious Grilled Rainbow Trout with Butter
+    - 3x Rainbow Trout
+    - 3x Butter
+    - 2x Lemon
+
+** {Blowfish Sashimi}:
+* Lv.1 Cooking Recipe #18161 (100.00%, 80 exp)
+    Satiety: 50
+    Effects for 15m: Charisma +10
+    Effects for 30m: Poison RES +20
+    Great Success: 1x Delicious Blowfish Sashimi
+    - 4x Long-Spine Porcupinefish
+    - 3x Lemon
+
+** {Cold Jellyfish Salad}:
+* Lv.1 Cooking Recipe #18162 (100.00%, 80 exp)
+    Satiety: 90
+    Effects for 15m: Constitution +10
+    Effects for 40m: Debuff upon Hit: MP Cost Increase (b#8327)
+    Great Success: 1x Delicious Cold Jellyfish Salad
+    - Fresh Water Jellyfish
+    - 2x Assorted Vegetables
+
+** {Parboiled Octopus}:
+* Lv.1 Cooking Recipe #18163 (100.00%, 70 exp)
+    Satiety: 50
+    Effects for 15m: Strength +10
+    Great Success: 1x Delicious Parboiled Octopus
+    - 3x Octopus
+    - 3x Natural Water
+
+** {Spicy Marinated Smelt}:
+* Lv.1 Cooking Recipe #18164 (100.00%, 80 exp)
+    Satiety: 50
+    Effects for 15m: Wisdom +10
+    Great Success: 1x Delicious Spicy Marinated Smelt
+    - 7x Smelt
+    - 7x Minnow
+    - 2x Red Pepper
+
+** {Eel-Topped Rice Bowl}:
+* Lv.1 Cooking Recipe #18165 (100.00%, 80 exp)
+    Satiety: 90
+    Effects for 15m: Agility +10
+    Effects for 40m: Increase Max Capacity by 200% of AGI
+    Great Success: 1x Delicious Eel-Topped Rice Bowl
+    - Eel
+    - Bowl of Rice
+    - Ginger
+
+** {Steamed Crab}:
+* Lv.1 Cooking Recipe #18166 (100.00%, 80 exp)
+    Satiety: 90
+    Effects for 15m: Intelligence +10
+    Effects for 40m: Debuff upon Attack: Bleeding (b#8329)
+    Great Success: 1x Delicious Steamed Crab
+    - 5x Versa King Crab
+    - Mineral Water
+    - 2x Red Pepper
+    - Assorted Vegetables
+
+** {Caviar}:
+* Lv.1 Cooking Recipe #18167 (100.00%, 90 exp)
+    Satiety: 90
+    Effects for 15m: Charisma +10
+    Effects for 40m: Additional Fishing XP +150
+    Great Success: 1x Delicious Caviar
+    - Sturgeon
+    - 3x Salt
+
+** {Saw-Edged Perch Stew}:
+* Lv.1 Cooking Recipe #18168 (100.00%, 80 exp)
+    Satiety: 90
+    Effects for 15m: Constitution +10
+    Effects for 40m: Increase Max ATK by 100% of CON
+    Great Success: 1x Delicious Saw-Edged Perch Stew
+    - Saw-Edged Perch
+    - 4x Natural Water
+    - Assorted Vegetables
+    - Tofu
+
+** {Grilled Grouper Head}:
+* Lv.1 Cooking Recipe #18169 (100.00%, 90 exp)
+    Satiety: 90
+    Effects for 15m: Strength +10
+    Effects for 40m: XP acquired after enemy elimination +20%
+    Great Success: 1x Delicious Grilled Grouper Head
+    - Goliath Grouper
+    - 2x <Any Spice>
+
+** {Bitterling Broth}:
+* Lv.1 Cooking Recipe #18170 (100.00%, 80 exp)
+    Satiety: 90
+    Effects for 15m: Wisdom +10
+    Effects for 40m: Additional Fishing XP +100
+    Great Success: 1x Delicious Bitterling Broth
+    - 5x Bitterling
+    - Mineral Water
+    - Salt
+
+** {Assorted Yellowfin Tuna Sashimi}:
+* Lv.1 Cooking Recipe #18171 (100.00%, 80 exp)
+    Satiety: 90
+    Effects for 15m: Agility +10
+    Effects for 40m: Increase Max ATK by 100% of AGI
+    Great Success: 1x Delicious Assorted Yellowfin Tuna Sashimi
+    - Yellowfin Tuna
+    - Lemon
+
+** {Marlin Steak}:
+* Lv.1 Cooking Recipe #18172 (100.00%, 90 exp)
+    Satiety: 90
+    Effects for 15m: Intelligence +10
+    Effects for 40m: Gathering XP +100
+    Great Success: 1x Delicious Marlin Steak
+    - Marlin
+    - 2x Olive Oil
+    - Pepper
+
+** {Marsh Snail Soup}:
+* Lv.1 Cooking Recipe #18173 (100.00%, 80 exp)
+    Satiety: 90
+    Effects for 15m: Charisma +10
+    Effects for 40m: Gathering XP +70
+    Great Success: 1x Delicious Marsh Snail Soup
+    - 5x Marsh Snail
+    - Mineral Water
+    - 2x <Any Spice>
+
+** {Squid Ink Pasta}:
+* Lv.1 Cooking Recipe #18174 (100.00%, 80 exp)
+    Satiety: 50
+    Effects for 15m: Wisdom +10
+    Great Success: 1x Delicious Squid Ink Pasta
+    - 5x Freshwater Squid
+    - 3x <Any Spice>
+    - 2x Raw Noodles
+
+** {Poke Bowl}:
+* Lv.1 Cooking Recipe #18175 (100.00%, 90 exp)
+    Satiety: 50
+    Effects for 15m: Charisma +10
+    Great Success: 1x Delicious Poke Bowl
+    - 4x <Any Fish>
+    - 2x Bowl of Rice
+    - Assorted Vegetables
+
+** {Grilled Eel}:
+* Lv.1 Cooking Recipe #18176 (100.00%, 80 exp)
+    Satiety: 90
+    Effects for 15m: Constitution +10
+    Effects for 40m: Increase Max Capacity by 200% of CON
+    Great Success: 1x Delicious Grilled Eel
+    - Eel
+    - Ginger
+
+** {Grilled Regus Eel}:
+* Lv.1 Cooking Recipe #18177 (100.00%, 80 exp)
+    Satiety: 90
+    Effects for 15m: Agility +10
+    Effects for 40m: HP Recovery +100
+    Great Success: 1x Delicious Grilled Regus Eel
+    - Regus Eel
+    - 5x Ginger
+
+** {Blue Crab Soup}:
+* Lv.1 Cooking Recipe #18178 (100.00%, 80 exp)
+    Satiety: 90
+    Effects for 15m: Intelligence +10
+    Effects for 40m: Piercing Power +5%
+    Great Success: 1x Delicious Blue Crab Soup
+    - Blue Crab
+    - Red Pepper
+    - Natural Water
+
+** {Fried Cuttlefish}:
+* Lv.1 Cooking Recipe #18179 (100.00%, 80 exp)
+    Satiety: 90
+    Effects for 15m: Strength +10
+    Effects for 40m: XP acquired after enemy elimination +10%
+    Great Success: 1x Delicious Fried Cuttlefish
+    - Cuttlefish
+    - 3x Olive Oil
+    - 2x Lemon
+
+** {Fishcake}:
+* Lv.1 Cooking Recipe #18180 (100.00%, 20 exp)
+    Satiety: 50
+    Effects for 15m: Wisdom +5
+    Great Success: 2x Fishcake
+    - 10x <Any Fish>
+    - 2x Flour
+* Lv.1 Quest Recipe #31003 (100.00%, 0 exp) [Quest:The Hardest Ingredient]
+    Great Success: 1x Delicious Handmade Fishcake
+    - 10x <Any Fish>
+    - 2x Flour
+    - 100 Gold
+
+** {Fishcake Soup}:
+* Lv.1 Cooking Recipe #18181 (100.00%, 40 exp)
+    Satiety: 50
+    Effects for 15m: Agility +5
+    Effects for 30m: Additional Fishing XP +10
+    Great Success: 1x Delicious Fishcake Soup
+    - 2x Fishcake
+    - Pine Mushroom
+    - Mineral Water
+
+** {Spicy Rice Cake}:
+* Lv.1 Cooking Recipe #18182 (100.00%, 40 exp)
+    Satiety: 50
+    Effects for 15m: Intelligence +5
+    Effects for 30m: Fire ATK +20
+    Great Success: 1x Delicious Spicy Rice Cake
+    - 2x Flour
+    - 3x Red Pepper
+    - Fishcake
+    - Boiled Egg
+
+** {Tanghulu}:
+* Lv.1 Cooking Recipe #18183 (100.00%, 20 exp)
+    Satiety: 30
+    Effects for 15m: Charisma +5
+    Effects for 20m: Gathering XP +20
+    Great Success: 1x Delicious Tanghulu
+    - 2x Strawberry
+    - 2x Orange
+    - Grapes
+    - 5x Sugar
+
+** {Mapo Tofu Rice}:
+* Lv.1 Cooking Recipe #18184 (100.00%, 40 exp)
+    Satiety: 50
+    Effects for 15m: Charisma +5
+    Great Success: 1x Delicious Mapo Tofu Rice
+    - Tofu
+    - Bowl of Rice
+    - Red Pepper
+
+** {Ginger Pork}:
+* Lv.1 Cooking Recipe #18185 (100.00%, 20 exp)
+    Satiety: 30
+    Effects for 15m: Constitution +5
+    Great Success: 1x Delicious Ginger Pork
+    - 5x <Any Meat>
+    - 4x Ginger
+
+** {Malatang}:
+* Lv.1 Cooking Recipe #18186 (100.00%, 40 exp)
+    Satiety: 50
+    Effects for 15m: Constitution +5
+    Effects for 30m: Sleep RES +15%
+    Great Success: 1x Delicious Malatang
+    - 2x Red Pepper
+    - Tofu
+    - Fishcake
+    - Assorted Vegetables
+
+** {Biscuit Stick}:
+* Lv.1 Cooking Recipe #18149 (100.00%, 10 exp)
+    Satiety: 10
+    Effects for 15m: Constitution +1
+    Great Success: 2x Biscuit Stick
+    - Flour
+    - Sugar
+    - Salt
+
+** {Baguette}:
+* Lv.1 Cooking Recipe #18193 (100.00%, 80 exp)
+    Satiety: 90
+    Effects for 15m: Constitution +20
+    Great Success: 1x Baguette Decorative Weapon Pouch
+    - 10x Delicious Brownie
+    - 10x Delicious Gingerbread Cookie
+    - 10x Delicious Honey Butter Bread
+    - 10x Delicious Muffin
+    - 100000 Gold

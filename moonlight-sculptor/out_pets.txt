@@ -1,0 +1,1018 @@
+* Cottontail Rabbit [Lv.110] <Serene Plains>
+    Required Charisma: 10
+    Diet: Plant
+    Skill:
+      Cheer: MOV SPD Increase    (Required level: 20)
+      Increases the target's MOV SPD by 3%.
+
+* Female Gazelle [Lv.17] <Wasteland>
+    Required Charisma: 10
+    Diet: Plant
+    Skill:
+      Cheer: PHY ATK Increase    (Required level: 20)
+      Increases the target's PHY ATK by 20.
+
+* Fowl [Lv.177] <Tamlin>
+    Required Charisma: 10
+    Diet: Plant/Insect
+    Skill:
+      Cheer: Golden Egg-Laying Chicken    (Required level: 20)
+      Increases the target's Gold gained from defeating enemies by 3%.
+
+* Kangaroo Rat [Lv.63] <Forgotten Sand Ravine>
+    Required Charisma: 10
+    Diet: Plant/Insect
+    Skill:
+      Cheer: MAG ATK Increase    (Required level: 20)
+      Increases the target's MAG ATK by 20.
+
+* Long-Tailed Mouse [Lv.103] <Land of the Forgotten Kingdom>
+    Required Charisma: 10
+    Diet: Plant/Insect
+    Skill:
+      Cheer: MAG ATK Increase    (Required level: 20)
+      Increases the target's MAG ATK by 20.
+
+* Male Gazelle [Lv.18] <Wasteland>
+    Required Charisma: 10
+    Diet: Plant
+    Skill:
+      Cheer: PHY ATK Increase    (Required level: 20)
+      Increases the target's PHY ATK by 20.
+
+* Mountain Ram [Lv.90] <Livias Mountain>
+    Required Charisma: 10
+    Diet: Plant
+    Skill:
+      Cheer: PHY ATK Increase    (Required level: 20)
+      Increases the target's PHY ATK by 20.
+
+* Rabbit [Lv.2] <Fox Plains, Southern Plains>
+    Required Charisma: 10
+    Diet: Plant
+    Skill:
+      Cheer: MOV SPD Increase    (Required level: 20)
+      Increases the target's MOV SPD by 3%.
+
+* Snow-White Rabbit [Lv.110] <Northern Serraborg Castle>
+    Required Charisma: 10
+    Diet: Plant
+    Skill:
+      Cheer: MOV SPD Increase    (Required level: 20)
+      Increases the target's MOV SPD by 3%.
+
+* Spotted Deer [Lv.8] <Southern Plains>
+    Required Charisma: 10
+    Diet: Plant
+    Skill:
+      Cheer: MAG ATK Increase    (Required level: 20)
+      Increases the target's MAG ATK by 20.
+
+* Squirrel [Lv.2] <Fox Plains>
+    Required Charisma: 10
+    Diet: Plant
+    Skill:
+      Cheer: MOV SPD Increase    (Required level: 20)
+      Increases the target's MOV SPD by 3%.
+
+* Stag [Lv.9] <Southern Plains>
+    Required Charisma: 10
+    Diet: Plant
+    Skill:
+      Cheer: MAG ATK Increase    (Required level: 20)
+      Increases the target's MAG ATK by 20.
+
+* Tunnel Rabbit [Lv.110] <Northern Serraborg Castle>
+    Required Charisma: 10
+    Diet: Plant
+    Skill:
+      Cheer: MOV SPD Increase    (Required level: 20)
+      Increases the target's MOV SPD by 3%.
+
+* Vole [Lv.53] <Sand Plains>
+    Required Charisma: 10
+    Diet: Meat/Plant/Insect
+    Skill:
+      Cheer: MOV SPD Increase    (Required level: 20)
+      Increases the target's MOV SPD by 3%.
+
+* Boulder Wolf [Lv.157] <Southern Varoc Mountains>
+    Required Charisma: 20
+    Diet: Meat
+    Skill:
+      Enchant: Sharp Teeth    (Required level: 20)
+      Increases ATK by 50%. When the pet hits, has a 30% chance of activating the following debuff: Adds 80% of ATK as Bleeding DMG every 2 sec for 8 sec.
+
+* Docile Fox [Lv.4] <Southern Plains>
+    Required Charisma: 20
+    Diet: Meat
+    Skill:
+      Enchant: Cunning Attack    (Required level: 20)
+      Increases Crit Rate by 25%. When the pet hits, has a 30% chance of activating the following debuff: Adds 80% of ATK as Bleeding DMG every 2 sec for 8 sec.
+
+* Fox [Lv.4] <Fox Plains>
+    Required Charisma: 20
+    Diet: Meat
+    Skill:
+      Enchant: Cunning Attack    (Required level: 20)
+      Increases Crit Rate by 25%. When the pet hits, has a 30% chance of activating the following debuff: Adds 80% of ATK as Bleeding DMG every 2 sec for 8 sec.
+
+* Gray Fox [Lv.8] <Fox Plains>
+    Required Charisma: 20
+    Diet: Meat
+    Skill:
+      Enchant: Cunning Attack    (Required level: 20)
+      Increases Crit Rate by 25%. When the pet hits, has a 30% chance of activating the following debuff: Adds 80% of ATK as Bleeding DMG every 2 sec for 8 sec.
+
+* Hedgehog [Lv.3] <Fox Plains, Southern Plains>
+    Required Charisma: 20
+    Diet: Meat/Plant/Insect
+    Skill:
+      Enchant: Sharp Teeth    (Required level: 20)
+      Increases ATK by 50%. When the pet hits, has a 30% chance of activating the following debuff: Adds 80% of ATK as Bleeding DMG every 2 sec for 8 sec.
+
+* Highland Mountain Ram [Lv.148] <Varoc Mountains Entrance>
+    Required Charisma: 20
+    Diet: Plant
+    Skill:
+      Enchant: Robust Horn    (Required level: 20)
+      Increases ATK by 50%. When the pet hits, has a 30% chance of activating the following debuff: Adds 80% of ATK as Bleeding DMG every 2 sec for 8 sec.
+
+* Lazy Hedgehog [Lv.110] <Serene Plains>
+    Required Charisma: 20
+    Diet: Meat/Plant/Insect
+    Skill:
+      Enchant: Sharp Teeth    (Required level: 20)
+      Increases ATK by 50%. When the pet hits, has a 30% chance of activating the following debuff: Adds 80% of ATK as Bleeding DMG every 2 sec for 8 sec.
+
+* Moonlight Wolf [Lv.8] <Fox Plains>
+    Required Charisma: 20
+    Diet: Meat
+    Skill:
+      Enchant: Sharp Teeth    (Required level: 20)
+      Increases ATK by 50%. When the pet hits, has a 30% chance of activating the following debuff: Adds 80% of ATK as Bleeding DMG every 2 sec for 8 sec.
+
+* Mouse [Lv.110] <Northern Serraborg Castle>
+    Required Charisma: 20
+    Diet: Meat/Plant/Insect
+    Skill:
+      Enchant: Cunning Attack    (Required level: 20)
+      Increases Crit Rate by 25%. When the pet hits, has a 30% chance of activating the following debuff: Adds 80% of ATK as Bleeding DMG every 2 sec for 8 sec.
+
+* Vicious Boulder Wolf [Lv.160] <Southern Varoc Mountains>
+    Required Charisma: 20
+    Diet: Meat
+    Skill:
+      Enchant: Sharp Teeth    (Required level: 20)
+      Increases ATK by 50%. When the pet hits, has a 30% chance of activating the following debuff: Adds 80% of ATK as Bleeding DMG every 2 sec for 8 sec.
+
+* Vicious Hedgehog [Lv.111] <Serene Plains>
+    Required Charisma: 20
+    Diet: Meat/Plant/Insect
+    Skill:
+      Enchant: Sharp Teeth    (Required level: 20)
+      Increases ATK by 50%. When the pet hits, has a 30% chance of activating the following debuff: Adds 80% of ATK as Bleeding DMG every 2 sec for 8 sec.
+
+* Vicious Highland Mountain Ram [Lv.151] <Varoc Mountains Entrance>
+    Required Charisma: 20
+    Diet: Plant
+    Skill:
+      Enchant: Robust Horn    (Required level: 20)
+      Increases ATK by 50%. When the pet hits, has a 30% chance of activating the following debuff: Adds 80% of ATK as Bleeding DMG every 2 sec for 8 sec.
+
+* Wolf [Lv.6] <Fox Plains>
+    Required Charisma: 20
+    Diet: Meat
+    Skill:
+      Enchant: Sharp Teeth    (Required level: 20)
+      Increases ATK by 50%. When the pet hits, has a 30% chance of activating the following debuff: Adds 80% of ATK as Bleeding DMG every 2 sec for 8 sec.
+
+* Pet Dot Test Fox [Lv.10]
+    Required Charisma: 25
+    Diet: Meat
+    <no skill>
+
+* Badger [Lv.18] <Wasteland>
+    Required Charisma: 28
+    Diet: Meat
+    Skill:
+      Enchant: Sharp Teeth    (Required level: 20)
+      Increases ATK by 50%. When the pet hits, has a 30% chance of activating the following debuff: Adds 80% of ATK as Bleeding DMG every 2 sec for 8 sec.
+
+* Bear [Lv.20] <Wasteland>
+    Required Charisma: 28
+    Diet: Meat/Plant/Honey
+    Skill:
+      Enchant: Solid Leather    (Required level: 20)
+      Increases PHY DEF by 10%. When a target is hit, has a 15% chance of activating the following effects: Knocks back the target by 3, stuns it briefly, and increases Aggro for 5 sec.
+
+* Bison [Lv.19] <Wasteland>
+    Required Charisma: 28
+    Diet: Plant
+    Skill:
+      Enchant: Solid Leather    (Required level: 20)
+      Increases PHY DEF by 10%. When a target is hit, has a 15% chance of activating the following effects: Knocks back the target by 3, stuns it briefly, and increases Aggro for 5 sec.
+
+* Coyote [Lv.18] <Wasteland>
+    Required Charisma: 28
+    Diet: Meat
+    Skill:
+      Enchant: Sharp Teeth    (Required level: 20)
+      Increases ATK by 50%. When the pet hits, has a 30% chance of activating the following debuff: Adds 80% of ATK as Bleeding DMG every 2 sec for 8 sec.
+
+* Hungry Coyote [Lv.20] <Wasteland>
+    Required Charisma: 28
+    Diet: Meat
+    Skill:
+      Enchant: Sharp Teeth    (Required level: 20)
+      Increases ATK by 50%. When the pet hits, has a 30% chance of activating the following debuff: Adds 80% of ATK as Bleeding DMG every 2 sec for 8 sec.
+
+* Weary Coyote [Lv.19] <Wasteland>
+    Required Charisma: 28
+    Diet: Meat
+    Skill:
+      Enchant: Sharp Teeth    (Required level: 20)
+      Increases ATK by 50%. When the pet hits, has a 30% chance of activating the following debuff: Adds 80% of ATK as Bleeding DMG every 2 sec for 8 sec.
+
+* Boulder Coyote [Lv.157] <Southern Varoc Mountains>
+    Required Charisma: 29
+    Diet: Meat
+    Skill:
+      Enchant: Sharp Teeth    (Required level: 20)
+      Increases ATK by 50%. When the pet hits, has a 30% chance of activating the following debuff: Adds 80% of ATK as Bleeding DMG every 2 sec for 8 sec.
+
+* Brown Coyote [Lv.157] <Southern Varoc Mountains>
+    Required Charisma: 29
+    Diet: Meat
+    Skill:
+      Enchant: Sharp Teeth    (Required level: 20)
+      Increases ATK by 50%. When the pet hits, has a 30% chance of activating the following debuff: Adds 80% of ATK as Bleeding DMG every 2 sec for 8 sec.
+
+* Dreary Coyote [Lv.21] <Wasteland>
+    Required Charisma: 29
+    Diet: Meat
+    Skill:
+      Enchant: Sharp Teeth    (Required level: 20)
+      Increases ATK by 50%. When the pet hits, has a 30% chance of activating the following debuff: Adds 80% of ATK as Bleeding DMG every 2 sec for 8 sec.
+
+* Highland Coyote [Lv.157] <Southern Varoc Mountains>
+    Required Charisma: 29
+    Diet: Meat
+    Skill:
+      Enchant: Sharp Teeth    (Required level: 20)
+      Increases ATK by 50%. When the pet hits, has a 30% chance of activating the following debuff: Adds 80% of ATK as Bleeding DMG every 2 sec for 8 sec.
+
+* Vicious Boulder Coyote [Lv.160] <Southern Varoc Mountains>
+    Required Charisma: 29
+    Diet: Meat
+    Skill:
+      Enchant: Sharp Teeth    (Required level: 20)
+      Increases ATK by 50%. When the pet hits, has a 30% chance of activating the following debuff: Adds 80% of ATK as Bleeding DMG every 2 sec for 8 sec.
+
+* Vicious Highland Coyote [Lv.160] <Southern Varoc Mountains>
+    Required Charisma: 29
+    Diet: Meat
+    Skill:
+      Enchant: Sharp Teeth    (Required level: 20)
+      Increases ATK by 50%. When the pet hits, has a 30% chance of activating the following debuff: Adds 80% of ATK as Bleeding DMG every 2 sec for 8 sec.
+
+* Bell Spider [Lv.26] <Leatvar Den>
+    Required Charisma: 30
+    Diet: Meat/Insect
+    Skill:
+      Weaken: Spider Web    (Required level: 20)
+      Deals 200% of PHY ATK to a single target. Decreases the target's ATK SPD and MOV SPD by 5% for 10 sec.
+
+* Hopping Spider [Lv.26] <Leatvar Den>
+    Required Charisma: 30
+    Diet: Meat/Insect
+    Skill:
+      Weaken: Spider Web    (Required level: 20)
+      Deals 200% of PHY ATK to a single target. Decreases the target's ATK SPD and MOV SPD by 5% for 10 sec.
+
+* Silver Fox [Lv.24] <Fox Plains>
+    Required Charisma: 30
+    Diet: Meat
+    Skill:
+      Enchant: Cunning Attack    (Required level: 20)
+      Increases Crit Rate by 25%. When the pet hits, has a 30% chance of activating the following debuff: Adds 80% of ATK as Bleeding DMG every 2 sec for 8 sec.
+
+* Beetle [Lv.27] <Leatvar Den>
+    Required Charisma: 31
+    Diet: Plant
+    Skill:
+      Enchant: Cunning Attack    (Required level: 20)
+      Increases Crit Rate by 25%. When the pet hits, has a 30% chance of activating the following debuff: Adds 80% of ATK as Bleeding DMG every 2 sec for 8 sec.
+
+* Grass Spider [Lv.113] <Northern Serraborg Castle>
+    Required Charisma: 31
+    Diet: Meat/Insect
+    Skill:
+      Weaken: Spider Web    (Required level: 20)
+      Deals 200% of PHY ATK to a single target. Decreases the target's ATK SPD and MOV SPD by 5% for 10 sec.
+
+* Highland Fox [Lv.148] <Varoc Mountains Entrance>
+    Required Charisma: 31
+    Diet: Meat
+    Skill:
+      Enchant: Cunning Attack    (Required level: 20)
+      Increases Crit Rate by 25%. When the pet hits, has a 30% chance of activating the following debuff: Adds 80% of ATK as Bleeding DMG every 2 sec for 8 sec.
+
+* Millennium Fox [Lv.28] <Fox Plains>
+    Required Charisma: 31
+    Diet: Meat
+    Skill:
+      Enchant: Cunning Attack    (Required level: 20)
+      Increases Crit Rate by 25%. When the pet hits, has a 30% chance of activating the following debuff: Adds 80% of ATK as Bleeding DMG every 2 sec for 8 sec.
+
+* Poisonous Spider [Lv.27] <Leatvar Den>
+    Required Charisma: 31
+    Diet: Meat/Insect
+    Skill:
+      Weaken: Spider Web    (Required level: 20)
+      Deals 200% of PHY ATK to a single target. Decreases the target's ATK SPD and MOV SPD by 5% for 10 sec.
+
+* Vicious Beetle [Lv.27] <Leatvar Den>
+    Required Charisma: 31
+    Diet: Plant
+    Skill:
+      Enchant: Cunning Attack    (Required level: 20)
+      Increases Crit Rate by 25%. When the pet hits, has a 30% chance of activating the following debuff: Adds 80% of ATK as Bleeding DMG every 2 sec for 8 sec.
+
+* Vicious Bell Spider [Lv.27] <Leatvar Den>
+    Required Charisma: 31
+    Diet: Meat/Insect
+    Skill:
+      Weaken: Spider Web    (Required level: 20)
+      Deals 200% of PHY ATK to a single target. Decreases the target's ATK SPD and MOV SPD by 5% for 10 sec.
+
+* Vicious Grass Spider [Lv.116] <Northern Serraborg Castle>
+    Required Charisma: 31
+    Diet: Meat/Insect
+    Skill:
+      Weaken: Spider Web    (Required level: 20)
+      Deals 200% of PHY ATK to a single target. Decreases the target's ATK SPD and MOV SPD by 5% for 10 sec.
+
+* Vicious Highland Fox [Lv.151] <Varoc Mountains Entrance>
+    Required Charisma: 31
+    Diet: Meat
+    Skill:
+      Enchant: Cunning Attack    (Required level: 20)
+      Increases Crit Rate by 25%. When the pet hits, has a 30% chance of activating the following debuff: Adds 80% of ATK as Bleeding DMG every 2 sec for 8 sec.
+
+* Vicious Hopping Spider [Lv.27] <Leatvar Den>
+    Required Charisma: 31
+    Diet: Meat/Insect
+    Skill:
+      Weaken: Spider Web    (Required level: 20)
+      Deals 200% of PHY ATK to a single target. Decreases the target's ATK SPD and MOV SPD by 5% for 10 sec.
+
+* Vicious Poisonous Spider [Lv.234] <Bensa River>
+    Required Charisma: 31
+    Diet: Meat/Insect
+    Skill:
+      Weaken: Spider Web    (Required level: 20)
+      Deals 200% of PHY ATK to a single target. Decreases the target's ATK SPD and MOV SPD by 5% for 10 sec.
+
+* Vicious Wolf Spider [Lv.116] <Northern Serraborg Castle>
+    Required Charisma: 31
+    Diet: Meat/Insect
+    Skill:
+      Weaken: Spider Web    (Required level: 20)
+      Deals 200% of PHY ATK to a single target. Decreases the target's ATK SPD and MOV SPD by 5% for 10 sec.
+
+* White-Tailed Fox [Lv.138] <Hunter's Hill>
+    Required Charisma: 31
+    Diet: Meat
+    Skill:
+      Enchant: Cunning Attack    (Required level: 20)
+      Increases Crit Rate by 25%. When the pet hits, has a 30% chance of activating the following debuff: Adds 80% of ATK as Bleeding DMG every 2 sec for 8 sec.
+
+* Wolf Spider [Lv.112] <Northern Serraborg Castle>
+    Required Charisma: 31
+    Diet: Meat/Insect
+    Skill:
+      Weaken: Spider Web    (Required level: 20)
+      Deals 200% of PHY ATK to a single target. Decreases the target's ATK SPD and MOV SPD by 5% for 10 sec.
+
+* Wormie [Lv.32] <Leatvar Den BF4>
+    Required Charisma: 32
+    Diet: Meat
+    Skill:
+      Weaken: Acidic Ooze    (Required level: 20)
+      Deals 200% of PHY ATK to a single target. Decreases all DEF of the target by 15% for 10 sec.
+
+* Brown King Wormie [Lv.34] <Leatvar Den BF4>
+    Required Charisma: 33
+    Diet: Meat
+    Skill:
+      Weaken: Acidic Ooze    (Required level: 20)
+      Deals 200% of PHY ATK to a single target. Decreases all DEF of the target by 15% for 10 sec.
+
+* King Wormie [Lv.33] <Leatvar Den BF4>
+    Required Charisma: 33
+    Diet: Meat
+    Skill:
+      Weaken: Acidic Ooze    (Required level: 20)
+      Deals 200% of PHY ATK to a single target. Decreases all DEF of the target by 15% for 10 sec.
+
+* Vicious King Wormie [Lv.34] <Leatvar Den BF4>
+    Required Charisma: 33
+    Diet: Meat/Insect
+    Skill:
+      Weaken: Acidic Ooze    (Required level: 20)
+      Deals 200% of PHY ATK to a single target. Decreases all DEF of the target by 15% for 10 sec.
+
+* Vicious Wormie [Lv.33] <Leatvar Den BF4>
+    Required Charisma: 33
+    Diet: Meat/Insect
+    Skill:
+      Weaken: Acidic Ooze    (Required level: 20)
+      Deals 200% of PHY ATK to a single target. Decreases all DEF of the target by 15% for 10 sec.
+
+* Washed-Down Basilisk [Lv.35] <Southern Plains>
+    Required Charisma: 33
+    Diet: Meat
+    Skill:
+      Enchant: Swipe    (Required level: 20)
+      Deals a ranged attack that's 150% of PHY ATK. Taunts the targets in range for 7 sec. (Taunt does not affect Field, Dungeon, or Raid bosses.)
+
+* Black Bear [Lv.40] <Baran>
+    Required Charisma: 35
+    Diet: Meat/Plant/Honey
+    Skill:
+      Enchant: Solid Leather    (Required level: 20)
+      Increases PHY DEF by 10%. When a target is hit, has a 15% chance of activating the following effects: Knocks back the target by 3, stuns it briefly, and increases Aggro for 5 sec.
+
+* Black Panther [Lv.110] <Northern Serraborg Castle>
+    Required Charisma: 35
+    Diet: Meat
+    Skill:
+      Enchant: Cunning Attack    (Required level: 20)
+      Increases Crit Rate by 25%. When the pet hits, has a 30% chance of activating the following debuff: Adds 80% of ATK as Bleeding DMG every 2 sec for 8 sec.
+
+* Black Water Buffalo [Lv.148] <Varoc Mountains Entrance>
+    Required Charisma: 35
+    Diet: Plant
+    Skill:
+      Enchant: Solid Leather    (Required level: 20)
+      Increases PHY DEF by 10%. When a target is hit, has a 15% chance of activating the following effects: Knocks back the target by 3, stuns it briefly, and increases Aggro for 5 sec.
+
+* Highland Leopard [Lv.110] <Northern Serraborg Castle>
+    Required Charisma: 35
+    Diet: Meat
+    Skill:
+      Enchant: Cunning Attack    (Required level: 20)
+      Increases Crit Rate by 25%. When the pet hits, has a 30% chance of activating the following debuff: Adds 80% of ATK as Bleeding DMG every 2 sec for 8 sec.
+
+* Hungry Hyena [Lv.167] <Howling Valley>
+    Required Charisma: 35
+    Diet: Meat
+    Skill:
+      Enchant: Cunning Attack    (Required level: 20)
+      Increases Crit Rate by 25%. When the pet hits, has a 30% chance of activating the following debuff: Adds 80% of ATK as Bleeding DMG every 2 sec for 8 sec.
+
+* Hungry Striped Hyena [Lv.170] <Howling Valley>
+    Required Charisma: 35
+    Diet: Meat
+    Skill:
+      Enchant: Cunning Attack    (Required level: 20)
+      Increases Crit Rate by 25%. When the pet hits, has a 30% chance of activating the following debuff: Adds 80% of ATK as Bleeding DMG every 2 sec for 8 sec.
+
+* Hyena [Lv.40] <Baran>
+    Required Charisma: 35
+    Diet: Meat
+    Skill:
+      Enchant: Cunning Attack    (Required level: 20)
+      Increases Crit Rate by 25%. When the pet hits, has a 30% chance of activating the following debuff: Adds 80% of ATK as Bleeding DMG every 2 sec for 8 sec.
+
+* Jaguar [Lv.110] <Northern Serraborg Castle>
+    Required Charisma: 35
+    Diet: Meat
+    Skill:
+      Enchant: Cunning Attack    (Required level: 20)
+      Increases Crit Rate by 25%. When the pet hits, has a 30% chance of activating the following debuff: Adds 80% of ATK as Bleeding DMG every 2 sec for 8 sec.
+
+* Leopard [Lv.40] <Baran>
+    Required Charisma: 35
+    Diet: Meat
+    Skill:
+      Enchant: Cunning Attack    (Required level: 20)
+      Increases Crit Rate by 25%. When the pet hits, has a 30% chance of activating the following debuff: Adds 80% of ATK as Bleeding DMG every 2 sec for 8 sec.
+
+* Striped Water Buffalo [Lv.148] <Varoc Mountains Entrance>
+    Required Charisma: 35
+    Diet: Plant
+    Skill:
+      Enchant: Solid Leather    (Required level: 20)
+      Increases PHY DEF by 10%. When a target is hit, has a 15% chance of activating the following effects: Knocks back the target by 3, stuns it briefly, and increases Aggro for 5 sec.
+
+* Varna Striped Water Buffalo [Lv.162]
+    Required Charisma: 35
+    Diet: Plant
+    Skill:
+      Enchant: Solid Leather    (Required level: 20)
+      Increases PHY DEF by 10%. When a target is hit, has a 15% chance of activating the following effects: Knocks back the target by 3, stuns it briefly, and increases Aggro for 5 sec.
+
+* Water Buffalo [Lv.40] <Baran>
+    Required Charisma: 35
+    Diet: Plant
+    Skill:
+      Enchant: Solid Leather    (Required level: 20)
+      Increases PHY DEF by 10%. When a target is hit, has a 15% chance of activating the following effects: Knocks back the target by 3, stuns it briefly, and increases Aggro for 5 sec.
+
+* White Hyena [Lv.41] <Baran>
+    Required Charisma: 35
+    Diet: Meat
+    Skill:
+      Enchant: Cunning Attack    (Required level: 20)
+      Increases Crit Rate by 25%. When the pet hits, has a 30% chance of activating the following debuff: Adds 80% of ATK as Bleeding DMG every 2 sec for 8 sec.
+
+* Desert Spider [Lv.44] <Baran Ravine>
+    Required Charisma: 36
+    Diet: Meat/Insect
+    Skill:
+      Weaken: Spider Web    (Required level: 20)
+      Deals 200% of PHY ATK to a single target. Decreases the target's ATK SPD and MOV SPD by 5% for 10 sec.
+
+* Vermillion Spider [Lv.44] <Baran Ravine>
+    Required Charisma: 36
+    Diet: Meat/Insect
+    Skill:
+      Weaken: Spider Web    (Required level: 20)
+      Deals 200% of PHY ATK to a single target. Decreases the target's ATK SPD and MOV SPD by 5% for 10 sec.
+
+* Poisonous Diadem Spider [Lv.113] <Serene Plains>
+    Required Charisma: 37
+    Diet: Meat/Insect
+    Skill:
+      Weaken: Spider Web    (Required level: 20)
+      Deals 200% of PHY ATK to a single target. Decreases the target's ATK SPD and MOV SPD by 5% for 10 sec.
+
+* Vicious Desert Spider [Lv.45] <Baran Ravine>
+    Required Charisma: 37
+    Diet: Meat/Insect
+    Skill:
+      Weaken: Spider Web    (Required level: 20)
+      Deals 200% of PHY ATK to a single target. Decreases the target's ATK SPD and MOV SPD by 5% for 10 sec.
+
+* Vicious Poisonous Diadem Spider [Lv.116] <Serene Plains>
+    Required Charisma: 37
+    Diet: Meat/Insect
+    Skill:
+      Weaken: Spider Web    (Required level: 20)
+      Deals 200% of PHY ATK to a single target. Decreases the target's ATK SPD and MOV SPD by 5% for 10 sec.
+
+* Vicious Vermillion Spider [Lv.45] <Baran Ravine>
+    Required Charisma: 37
+    Diet: Meat/Insect
+    Skill:
+      Weaken: Spider Web    (Required level: 20)
+      Deals 200% of PHY ATK to a single target. Decreases the target's ATK SPD and MOV SPD by 5% for 10 sec.
+
+* Basilisk [Lv.48] <Lizardman Valley>
+    Required Charisma: 38
+    Diet: Meat
+    Skill:
+      Enchant: Swipe    (Required level: 20)
+      Deals a ranged attack that's 150% of PHY ATK. Taunts the targets in range for 7 sec. (Taunt does not affect Field, Dungeon, or Raid bosses.)
+
+* Quartz Basilisk [Lv.48] <Lizardman Valley>
+    Required Charisma: 38
+    Diet: Meat
+    Skill:
+      Enchant: Swipe    (Required level: 20)
+      Deals a ranged attack that's 150% of PHY ATK. Taunts the targets in range for 7 sec. (Taunt does not affect Field, Dungeon, or Raid bosses.)
+
+* Vicious Basilisk [Lv.49] <Lizardman Valley>
+    Required Charisma: 38
+    Diet: Meat
+    Skill:
+      Enchant: Swipe    (Required level: 20)
+      Deals a ranged attack that's 150% of PHY ATK. Taunts the targets in range for 7 sec. (Taunt does not affect Field, Dungeon, or Raid bosses.)
+
+* Vicious Quartz Basilisk [Lv.49] <Lizardman Valley>
+    Required Charisma: 38
+    Diet: Meat
+    Skill:
+      Enchant: Swipe    (Required level: 20)
+      Deals a ranged attack that's 150% of PHY ATK. Taunts the targets in range for 7 sec. (Taunt does not affect Field, Dungeon, or Raid bosses.)
+
+* Scorpion [Lv.53] <Sand Plains>
+    Required Charisma: 39
+    Diet: Meat/Insect
+    Skill:
+      Weaken: Blinding Poison    (Required level: 20)
+      Deals 200% of PHY ATK to a single target. Has a 50% chance of blinding the target for 3 sec.
+
+* Blue Scorpion [Lv.54] <Sand Plains>
+    Required Charisma: 40
+    Diet: Meat/Insect
+    Skill:
+      Weaken: Blinding Poison    (Required level: 20)
+      Deals 200% of PHY ATK to a single target. Has a 50% chance of blinding the target for 3 sec.
+
+* Emperor Scorpion [Lv.54] <Sand Plains>
+    Required Charisma: 40
+    Diet: Meat/Insect
+    Skill:
+      Weaken: Blinding Poison    (Required level: 20)
+      Deals 200% of PHY ATK to a single target. Has a 50% chance of blinding the target for 3 sec.
+
+* Vicious Blue Scorpion [Lv.55] <Sand Plains>
+    Required Charisma: 40
+    Diet: Meat/Insect
+    Skill:
+      Weaken: Blinding Poison    (Required level: 20)
+      Deals 200% of PHY ATK to a single target. Has a 50% chance of blinding the target for 3 sec.
+
+* Vicious Emperor Scorpion [Lv.55] <Sand Plains>
+    Required Charisma: 40
+    Diet: Meat/Insect
+    Skill:
+      Weaken: Blinding Poison    (Required level: 20)
+      Deals 200% of PHY ATK to a single target. Has a 50% chance of blinding the target for 3 sec.
+
+* Vicious Scorpion [Lv.54] <Sand Plains>
+    Required Charisma: 40
+    Diet: Meat/Insect
+    Skill:
+      Weaken: Blinding Poison    (Required level: 20)
+      Deals 200% of PHY ATK to a single target. Has a 50% chance of blinding the target for 3 sec.
+
+* Bug [Lv.58] <Ant Tunnel>
+    Required Charisma: 41
+    Diet: Meat/Plant
+    Skill:
+      Enchant: Sharp Teeth    (Required level: 20)
+      Increases ATK by 50%. When the pet hits, has a 30% chance of activating the following debuff: Adds 80% of ATK as Bleeding DMG every 2 sec for 8 sec.
+
+* Vicious Bug [Lv.59] <Ant Tunnel>
+    Required Charisma: 41
+    Diet: Meat/Plant
+    Skill:
+      Enchant: Sharp Teeth    (Required level: 20)
+      Increases ATK by 50%. When the pet hits, has a 30% chance of activating the following debuff: Adds 80% of ATK as Bleeding DMG every 2 sec for 8 sec.
+
+* Vicious Warrior Bug [Lv.59] <Ant Tunnel>
+    Required Charisma: 41
+    Diet: Meat/Plant
+    Skill:
+      Enchant: Sharp Teeth    (Required level: 20)
+      Increases ATK by 50%. When the pet hits, has a 30% chance of activating the following debuff: Adds 80% of ATK as Bleeding DMG every 2 sec for 8 sec.
+
+* Warrior Bug [Lv.58] <Ant Tunnel>
+    Required Charisma: 41
+    Diet: Meat/Plant
+    Skill:
+      Enchant: Sharp Teeth    (Required level: 20)
+      Increases ATK by 50%. When the pet hits, has a 30% chance of activating the following debuff: Adds 80% of ATK as Bleeding DMG every 2 sec for 8 sec.
+
+* Frilled Lizard [Lv.63] <Forgotten Sand Ravine>
+    Required Charisma: 43
+    Diet: Insect
+    Skill:
+      Enchant: Sharp Teeth    (Required level: 20)
+      Increases ATK by 50%. When the pet hits, has a 30% chance of activating the following debuff: Adds 80% of ATK as Bleeding DMG every 2 sec for 8 sec.
+
+* Azure Bee [Lv.68] <Sky Vine>
+    Required Charisma: 44
+    Diet: Honey
+    Skill:
+      Enchant: Cunning Attack    (Required level: 20)
+      Increases Crit Rate by 25%. When the pet hits, has a 30% chance of activating the following debuff: Adds 80% of ATK as Bleeding DMG every 2 sec for 8 sec.
+
+* Azure Moth [Lv.68] <Sky Vine>
+    Required Charisma: 44
+    Diet: Honey
+    Skill:
+      Weaken: Blinding Poison    (Required level: 20)
+      Deals 200% of MAG ATK to a single target. Has a 50% chance of blinding the target for 3 sec.
+
+* Azure Wormie [Lv.70] <Livias>
+    Required Charisma: 45
+    Diet: Meat/Insect
+    Skill:
+      Weaken: Acidic Ooze    (Required level: 20)
+      Deals 200% of PHY ATK to a single target. Decreases all DEF of the target by 15% for 10 sec.
+
+* Bloodthirsty Mutant Azure Wormie [Lv.71] <Livias>
+    Required Charisma: 45
+    Diet: Meat/Insect
+    Skill:
+      Weaken: Acidic Ooze    (Required level: 20)
+      Deals 200% of PHY ATK to a single target. Decreases all DEF of the target by 15% for 10 sec.
+
+* Carpenter Bee [Lv.70] <Livias>
+    Required Charisma: 45
+    Diet: Honey
+    Skill:
+      Enchant: Cunning Attack    (Required level: 20)
+      Increases Crit Rate by 25%. When the pet hits, has a 30% chance of activating the following debuff: Adds 80% of ATK as Bleeding DMG every 2 sec for 8 sec.
+
+* Evolved Azure Wormie [Lv.71] <Livias>
+    Required Charisma: 45
+    Diet: Meat/Insect
+    Skill:
+      Weaken: Acidic Ooze    (Required level: 20)
+      Deals 200% of PHY ATK to a single target. Decreases all DEF of the target by 15% for 10 sec.
+
+* Giant Bee [Lv.70] <Livias>
+    Required Charisma: 45
+    Diet: Honey/Meat
+    Skill:
+      Enchant: Cunning Attack    (Required level: 20)
+      Increases Crit Rate by 25%. When the pet hits, has a 30% chance of activating the following debuff: Adds 80% of ATK as Bleeding DMG every 2 sec for 8 sec.
+
+* Lazy Azure Moth [Lv.69] <Sky Vine>
+    Required Charisma: 45
+    Diet: Plant/Honey
+    Skill:
+      Weaken: Blinding Poison    (Required level: 20)
+      Deals 200% of MAG ATK to a single target. Has a 50% chance of blinding the target for 3 sec.
+
+* Lightly Armored Azure Wormie [Lv.70] <Livias>
+    Required Charisma: 45
+    Diet: Meat/Insect
+    Skill:
+      Weaken: Acidic Ooze    (Required level: 20)
+      Deals 200% of PHY ATK to a single target. Decreases all DEF of the target by 15% for 10 sec.
+
+* Mutant Azure Wormie [Lv.70] <Livias>
+    Required Charisma: 45
+    Diet: Meat/Insect
+    Skill:
+      Weaken: Acidic Ooze    (Required level: 20)
+      Deals 200% of PHY ATK to a single target. Decreases all DEF of the target by 15% for 10 sec.
+
+* Vicious Azure Bee [Lv.69] <Sky Vine>
+    Required Charisma: 45
+    Diet: Honey
+    Skill:
+      Enchant: Cunning Attack    (Required level: 20)
+      Increases Crit Rate by 25%. When the pet hits, has a 30% chance of activating the following debuff: Adds 80% of ATK as Bleeding DMG every 2 sec for 8 sec.
+
+* Vicious Azure Moth [Lv.69] <Sky Vine>
+    Required Charisma: 45
+    Diet: Honey
+    Skill:
+      Weaken: Blinding Poison    (Required level: 20)
+      Deals 200% of MAG ATK to a single target. Has a 50% chance of blinding the target for 3 sec.
+
+* Vicious Lightly Armored Azure Wormie [Lv.71] <Livias>
+    Required Charisma: 45
+    Diet: Meat/Insect
+    Skill:
+      Weaken: Acidic Ooze    (Required level: 20)
+      Deals 200% of PHY ATK to a single target. Decreases all DEF of the target by 15% for 10 sec.
+
+* Black Boar [Lv.191] <Northern Varoc Mountains>
+    Required Charisma: 52
+    Diet: Meat/Plant
+    Skill:
+      Enchant: Solid Leather    (Required level: 20)
+      Increases PHY DEF by 10%. When a target is hit, has a 15% chance of activating the following effects: Knocks back the target by 3, stuns it briefly, and increases Aggro for 5 sec.
+
+* Boar [Lv.90] <Livias Mountain>
+    Required Charisma: 52
+    Diet: Meat/Plant
+    Skill:
+      Enchant: Solid Leather    (Required level: 20)
+      Increases PHY DEF by 10%. When a target is hit, has a 15% chance of activating the following effects: Knocks back the target by 3, stuns it briefly, and increases Aggro for 5 sec.
+
+* Brown Bear [Lv.90] <Livias Mountain>
+    Required Charisma: 52
+    Diet: Meat/Plant/Honey
+    Skill:
+      Enchant: Solid Leather    (Required level: 20)
+      Increases PHY DEF by 10%. When a target is hit, has a 15% chance of activating the following effects: Knocks back the target by 3, stuns it briefly, and increases Aggro for 5 sec.
+
+* Highland Black Boar [Lv.110] <Serene Plains>
+    Required Charisma: 52
+    Diet: Meat/Plant
+    Skill:
+      Enchant: Solid Leather    (Required level: 20)
+      Increases PHY DEF by 10%. When a target is hit, has a 15% chance of activating the following effects: Knocks back the target by 3, stuns it briefly, and increases Aggro for 5 sec.
+
+* Highland Boar [Lv.157] <Southern Varoc Mountains>
+    Required Charisma: 52
+    Diet: Meat/Plant
+    Skill:
+      Enchant: Solid Leather    (Required level: 20)
+      Increases PHY DEF by 10%. When a target is hit, has a 15% chance of activating the following effects: Knocks back the target by 3, stuns it briefly, and increases Aggro for 5 sec.
+
+* Barghest [Lv.113] <Serene Plains>
+    Required Charisma: 60
+    Diet: Meat
+    Skill:
+      Cheer: Elite Hunting    (Required level: 20)
+      Increases the owner's PHY DEF by 200. When the owner uses an attack, has a 5% chance of activating the following buff: Increases the owner's damage dealt to elite monsters by 10% for 10 sec.
+
+* Brent Black Fowl [Lv.177] <Tamlin>
+    Required Charisma: 60
+    Diet: Plant/Insect
+    Skill:
+      Cheer: Loyal Companion    (Required level: 20)
+      Increases the owner's MAG DEF by 150. When the owner uses a normal attack, has a 5% chance of activating the following buff: Increases the pet's ATK by 80% for 10 sec.
+
+* Brent Native Fowl [Lv.177] <Tamlin>
+    Required Charisma: 60
+    Diet: Plant/Insect
+    Skill:
+      Cheer: Loyal Companion    (Required level: 20)
+      Increases the owner's MAG DEF by 150. When the owner uses a normal attack, has a 5% chance of activating the following buff: Increases the pet's ATK by 80% for 10 sec.
+
+* Eclipse [Lv.136]
+    Required Charisma: 60
+    Diet: Meat
+    Skill:
+      Cheer: Elite Hunting    (Required level: 20)
+      Increases the owner's PHY DEF by 200. When the owner uses an attack, has a 5% chance of activating the following buff: Increases the owner's damage dealt to elite monsters by 10% for 10 sec.
+
+* Elk [Lv.110] <Serene Plains>
+    Required Charisma: 60
+    Diet: Plant
+    Skill:
+      Enchant: Nature's Ward    (Required level: 20)
+      Increases the owner's PHY DEF by 100 and MAG by 70. When the owner is hit, has a 5% chance of activating the following buff: Increases the pet's Aggro for 10 sec.
+
+* Huge Tomb Bat [Lv.200] <Tomb of Short Legs>
+    Required Charisma: 60
+    Diet: Insect
+    Skill:
+      Weaken: Disruptive Soundwave    (Required level: 20)
+      Deals 200% of PHY ATK to a single enemy. Has a 50% chance of silencing the target for 3 sec.
+
+* Owlbear [Lv.112] <Northern Serraborg Castle>
+    Required Charisma: 60
+    Diet: Meat/Plant/Insect
+    Skill:
+      Enchant: Beware the Owlbear    (Required level: 20)
+      When the owner is hit, has a 5% chance of activating the following buff: Increases the pet's ATK by 50% and DMG to characters by 10%.
+
+* Parasitic Mushroom [Lv.169] <Howling Valley>
+    Required Charisma: 60
+    Diet: Insect
+    Skill:
+      Weaken: Poisonous Spore    (Required level: 20)
+      Deals 200% of PHY ATK to a single enemy. Deals 50% of ATK as Poisoning DMG to a single target every 2 sec for 6 sec.
+
+* Ravine Golden Bat [Lv.169] <Howling Valley>
+    Required Charisma: 60
+    Diet: Insect
+    Skill:
+      Weaken: Disruptive Soundwave    (Required level: 20)
+      Deals 200% of PHY ATK to a single enemy. Has a 50% chance of silencing the target for 3 sec.
+
+* Ravine Vampire Bat [Lv.169] <Howling Valley>
+    Required Charisma: 60
+    Diet: Insect
+    Skill:
+      Weaken: Disruptive Soundwave    (Required level: 20)
+      Deals 200% of PHY ATK to a single enemy. Has a 50% chance of silencing the target for 3 sec.
+
+* Regus Black Fowl [Lv.240] <Regus Outskirts>
+    Required Charisma: 60
+    Diet: Plant/Insect
+    Skill:
+      Cheer: Loyal Companion    (Required level: 20)
+      Increases the owner's MAG DEF by 150. When the owner uses a normal attack, has a 5% chance of activating the following buff: Increases the pet's ATK by 80% for 10 sec.
+
+* Regus Native Fowl [Lv.240] <Regus Outskirts>
+    Required Charisma: 60
+    Diet: Plant/Insect
+    Skill:
+      Cheer: Loyal Companion    (Required level: 20)
+      Increases the owner's MAG DEF by 150. When the owner uses a normal attack, has a 5% chance of activating the following buff: Increases the pet's ATK by 80% for 10 sec.
+
+* Tomb Bat [Lv.200] <Tomb of Short Legs>
+    Required Charisma: 60
+    Diet: Insect
+    Skill:
+      Weaken: Disruptive Soundwave    (Required level: 20)
+      Deals 200% of PHY ATK to a single enemy. Has a 50% chance of silencing the target for 3 sec.
+
+* Varna Barghest [Lv.136]
+    Required Charisma: 60
+    Diet: Meat
+    Skill:
+      Cheer: Elite Hunting    (Required level: 20)
+      Increases the owner's PHY DEF by 200. When the owner uses an attack, has a 5% chance of activating the following buff: Increases the owner's damage dealt to elite monsters by 10% for 10 sec.
+
+* Vicious Barghest [Lv.116] <Serene Plains>
+    Required Charisma: 60
+    Diet: Meat
+    Skill:
+      Cheer: Elite Hunting    (Required level: 20)
+      Increases the owner's PHY DEF by 200. When the owner uses an attack, has a 5% chance of activating the following buff: Increases the owner's damage dealt to elite monsters by 10% for 10 sec.
+
+* Vicious Huge Tomb Bat [Lv.200] <Tomb of Short Legs>
+    Required Charisma: 60
+    Diet: Insect
+    Skill:
+      Weaken: Disruptive Soundwave    (Required level: 20)
+      Deals 200% of PHY ATK to a single enemy. Has a 50% chance of silencing the target for 3 sec.
+
+* Vicious Owlbear [Lv.115] <Northern Serraborg Castle>
+    Required Charisma: 60
+    Diet: Meat/Plant/Insect
+    Skill:
+      Enchant: Beware the Owlbear    (Required level: 20)
+      When the owner is hit, has a 5% chance of activating the following buff: Increases the pet's ATK by 50% and DMG to characters by 10%.
+
+* Vicious Parasitic Mushroom [Lv.169] <Howling Valley>
+    Required Charisma: 60
+    Diet: Insect
+    Skill:
+      Weaken: Poisonous Spore    (Required level: 20)
+      Deals 200% of PHY ATK to a single enemy. Deals 50% of ATK as Poisoning DMG to a single target every 2 sec for 6 sec.
+
+* Vicious Ravine Golden Bat [Lv.172] <Howling Valley>
+    Required Charisma: 60
+    Diet: Insect
+    Skill:
+      Weaken: Disruptive Soundwave    (Required level: 20)
+      Deals 200% of PHY ATK to a single enemy. Has a 50% chance of silencing the target for 3 sec.
+
+* Vicious Ravine Vampire Bat [Lv.172] <Howling Valley>
+    Required Charisma: 60
+    Diet: Insect
+    Skill:
+      Weaken: Disruptive Soundwave    (Required level: 20)
+      Deals 200% of PHY ATK to a single enemy. Has a 50% chance of silencing the target for 3 sec.
+
+* Vicious Tomb Bat [Lv.200] <Tomb of Short Legs>
+    Required Charisma: 60
+    Diet: Insect
+    Skill:
+      Weaken: Disruptive Soundwave    (Required level: 20)
+      Deals 200% of PHY ATK to a single enemy. Has a 50% chance of silencing the target for 3 sec.
+
+* Vicious Varna Barghest [Lv.136]
+    Required Charisma: 60
+    Diet: Meat
+    Skill:
+      Cheer: Elite Hunting    (Required level: 20)
+      Increases the owner's PHY DEF by 200. When the owner uses an attack, has a 5% chance of activating the following buff: Increases the owner's damage dealt to elite monsters by 10% for 10 sec.
+
+* Bulletproof Crab [Lv.234] <Bensa River>
+    Required Charisma: 65
+    Diet: Insect/Meat
+    <no skill>
+    Pet's Buff: Sharp Nipper
+    Owner's Buff: Pierce RES Increase
+
+* Cave Creepo [Lv.226] <Eastern Somren>
+    Required Charisma: 65
+    Diet: Meat
+    <no skill>
+    Owner's Buff: Whoever challenges the owner of the small Creepo...
+
+* Creepo [Lv.226] <Eastern Somren>
+    Required Charisma: 65
+    Diet: Meat
+    <no skill>
+    Owner's Buff: Whoever challenges the owner of the small Creepo...
+
+* Plain Creepo [Lv.226] <Eastern Somren>
+    Required Charisma: 65
+    Diet: Meat
+    <no skill>
+    Owner's Buff: Whoever challenges the owner of the small Creepo...
+
+* Swamp Creepo [Lv.226] <Eastern Somren>
+    Required Charisma: 65
+    Diet: Meat
+    <no skill>
+    Owner's Buff: Whoever challenges the owner of the small Creepo...
+
+* Vicious Bulletproof Crab [Lv.234] <Bensa River>
+    Required Charisma: 65
+    Diet: Insect/Meat
+    <no skill>
+    Pet's Buff: Sharp Nipper
+    Owner's Buff: Pierce RES Increase
+
+* Vicious Cave Creepo [Lv.226] <Eastern Somren>
+    Required Charisma: 65
+    Diet: Meat
+    <no skill>
+    Owner's Buff: Whoever challenges the owner of the small Creepo...
+
+* Vicious Creepo [Lv.226] <Eastern Somren>
+    Required Charisma: 65
+    Diet: Meat
+    <no skill>
+    Owner's Buff: Whoever challenges the owner of the small Creepo...
+
+* Vicious Plain Creepo [Lv.226] <Eastern Somren>
+    Required Charisma: 65
+    Diet: Meat
+    <no skill>
+    Owner's Buff: Whoever challenges the owner of the small Creepo...
+
+* Vicious Swamp Creepo [Lv.226] <Eastern Somren>
+    Required Charisma: 65
+    Diet: Meat
+    <no skill>
+    Owner's Buff: Whoever challenges the owner of the small Creepo...
