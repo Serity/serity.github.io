@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Atelier Ryza Travel Bottle Password Finder</title>
+  </head>
+  <body>
+    <div id="nowLoading" style="display:inline">Loading data... (Requires Javascript)</div>
+    <div id="wrapper" style="display:none">
+        <div>
+            <label for="petChoice">Pet Name</label>
+            <select id="petChoice" autocomplete="off">
+                <option value="">{Pet}</option>
+            </select>
+        </div>  
+        <div>
+            <label for="level_slider">Pet Level</label>
+            <input type="range" id="level_slider" value="1" min="1" max="500">
+            <input type="text" id="level_box" value="1" size="3" maxlength="3">
+        </div>
+        <div id="charisma_div">
+            <label for="charisma_slider">Player Charisma</label>
+            <input type="range" id="charisma_slider" value="20" min="1" max="500" >
+            <input type="text" id="charisma_box" value="20" size="3" maxlength="3">
+        </div>
+        <div>
+            <label for="archerCheck">Archer?</label>
+            <input type="checkbox" id="archerCheck" autocomplete="off">
+            <span id="archerPassiveDiv" style="display:none">
+                <label for="archerPassive">Enhanced Training</label>
+                <select id="archerPassive">
+                    <option value="" autocomplete="off">No Passive</option>
+                </select>
+            </span>
+        </div>
+        <br><br>
+        <div id="stats_div" style="font-family:'Courier New', Courier, monospace">
+        
+        </div>        
+    </div>
+
+        <script src="fengari-web.js" type="text/javascript"></script>
+        <script src="ms_petcalculator.lua" type="application/lua" async></script>
+  </body>
+
+</html>
