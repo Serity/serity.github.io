@@ -82,9 +82,8 @@ function updateStats()
     end
     local d = pets[choice]
     endtext = endtext .. ("* {"..d._name .. "} #"..choice.." (Tier "..d._petTier.." "..petTypes[d._petType].." style "..d._petDisposition..") at Lv."..level.." with "..charisma.." charisma:")
-    endtext = endtext .. "<br>"
     if (charisma < d._petRequiredCha and d._petType == 1) then
-        endtext = endtext .. [[<font color="#FF0000">WARNING: Can't summon with this charisma</font><br>]]
+        endtext = endtext .. [[<br><font color="#FF0000">WARNING: Can't summon with this charisma</font>]]
     end
 
     local totalStats = {}
@@ -108,6 +107,16 @@ function updateStats()
         else
             endtext = endtext .. ("<br>    - %s: %s"):format(statNames[j],totalStats[j])
         end
+    end
+    endtext = endtext .. "<br><br>"
+    endtext = endtext .. "Style "..disp.." affects the stats in the following way (already calculated above):<br>"
+    for j=1,#st_cha do
+        endtext = endtext .. "- " .. statNames[j] .. ": " .. petDispositions[disp][j] .. "x"
+        --if (j == 5 or j == #st_cha) then
+            endtext = endtext .. "<br>"
+        --else
+        --    endtext = endtext .. "/"
+        --end
     end
     document:getElementById("stats_div").innerHTML = endtext
 end
