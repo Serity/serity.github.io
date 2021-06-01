@@ -1,0 +1,123 @@
+Updated: May 31, 2021
+** Shop #30, operated by:
+* Roseanne <Serraborg Castle> [Grocery Store] (npc: #102033)
+    Flour: 300g
+    Natural Water: 100g
+    Sugar: 100g
+    Salt: 100g
+    Cheese: 100g
+    Milk: 100g
+    Egg: 100g
+    Assorted Vegetables: 100g
+    Raw Noodles: 100g
+    Herb: 100g
+    Yeast: 100g
+    
+** Shop #48, operated by:
+* Willfire <Southern Plains> [Inn] (npc: #103001)
+    Rice: 330g
+    Barley Bread: 1650g
+
+** Shop #41, operated by:
+* Azima <Baran> [Grocery Store] (npc: #100013)
+    Onion: 150g
+    Garlic: 150g
+    Yogurt: 150g
+    Pepper: 150g
+    Flour: 300g
+    Natural Water: 100g
+    Sugar: 100g
+    Salt: 100g
+    Herb: 100g
+    Yeast: 100g
+    Olive Oil: 150g
+    Assorted Vegetables: 100g
+    Butter: 150g
+    Peanuts: 150g
+
+** Shop #43, operated by:
+* Asha <Livias> [Grocery Store] (npc: #106014)
+    Whipped Cream: 200g
+    Celery: 200g
+    Lettuce: 200g
+    Cabbage: 200g
+    Raisins: 200g
+    Ginseng: 200g
+    Grapes: 2000g
+    Olive: 200g
+    Flour: 300g
+    Natural Water: 100g
+    Sugar: 100g
+    Salt: 100g
+    Herb: 100g
+    Yeast: 100g
+
+** Shop #209, operated by:
+* Eiphen <Guild Hideout> [Grocery Store] (npc: #5021) [No Selling]
+    Flour: 300g
+    Natural Water: 100g
+    Sugar: 100g
+    Salt: 100g
+    Cheese: 100g
+    Milk: 100g
+    Egg: 100g
+    Assorted Vegetables: 100g
+    Raw Noodles: 100g
+    Herb: 100g
+    Yeast: 100g
+
+** Shop #220, operated by:
+* Annabel <Pilgrim's Path> [Grocery Store] (npc: #222002)
+    Barley Bread: 1650g
+    Milk: 110g
+    Cabbage: 220g
+    Raisins: 220g
+    Ginseng: 220g
+    Grapes: 2200g
+    Olive: 220g
+    Flour: 330g
+    Natural Water: 110g
+    Sugar: 110g
+    Salt: 110g
+    Herb: 110g
+    Yeast: 110g
+
+** Shop #227, operated by:
+* Hannial <Bensa River> [Grocery Store] (npc: #141010)
+    Sugar: 110g
+    Salt: 110g
+    Olive: 220g
+    Red Pepper: 165g
+    Herb: 110g
+    Pepper: 165g
+    Onion: 165g
+    Garlic: 165g
+
+** Shop #229, operated by:
+* Zephyrinus <Somren Free City> [Grocery Store] (npc: #131013)
+    Flour: 300g
+    Natural Water: 100g
+    Sugar: 100g
+    Salt: 100g
+    Cheese: 100g
+    Milk: 100g
+    Egg: 100g
+    Assorted Vegetables: 100g
+    Raw Noodles: 100g
+    Herb: 100g
+    Yeast: 100g
+    Onion: 150g
+    Garlic: 150g
+    Yogurt: 150g
+    Pepper: 150g
+    Olive Oil: 150g
+    Butter: 150g
+    Peanuts: 150g
+    Whipped Cream: 200g
+    Celery: 200g
+    Lettuce: 200g
+    Cabbage: 200g
+    Raisins: 200g
+    Ginseng: 200g
+    Grapes: 2000g
+    Olive: 200g
