@@ -84,6 +84,12 @@ function updateStats()
     endtext = endtext .. ("* {"..d._name .. "} #"..choice.." (Tier "..d._petTier.." "..petTypes[d._petType].." style "..d._petDisposition..") at Lv."..level.." with "..charisma.." charisma:")
     if (charisma < d._petRequiredCha and d._petType == 1) then
         endtext = endtext .. [[<br><font color="#FF0000">WARNING: Can't summon with this charisma</font>]]
+    elseif (d._petType == 4) then
+        if (archer_any and archer_rank) then
+            endtext = endtext .. [[<br><font color="#DD0044">Note: Mercenaries are unaffected by player charisma and Enhanced Training</font>]]
+        else
+            endtext = endtext .. [[<br><font color="#DD0044">Note: Mercenaries are unaffected by player charisma</font>]]
+        end
     end
 
     local totalStats = {}
@@ -97,8 +103,8 @@ function updateStats()
         if (d._petType == 1) then totalStats[j] = totalStats[j] + st_cha[j] end
         totalStats[j] = math.floor(totalStats[j] * petDispositions[disp][j])
         totalStats[j] = math.floor(totalStats[j] * petTiers[tier][j])
-        if (archer_any and archer_rank) then
-            if (j == 1 or j == 2) then  -- atkMin/atkMax
+        if (archer_any and archer_rank) then -- not sure how affects mercenaries...
+            if (j == 1 or j == 2 and d._petType == 1) then  -- atkMin/atkMax
                 totalStats[j] = math.floor(totalStats[j] + (totalStats[j] * (charisma * archerPassive[archer_rank])))
             end
         end
@@ -176,32 +182,3 @@ document:getElementById("wrapper").style.display = "inline"
 
 
 
-
-
--- pwfield.innerHTML = divText
--- pwfield.innerHTML = divText
-if 1 then return end
-for i=1,#pet_keys do
-    local d = pets[pet_keys[i]]
-    local testleve = 60
-    local testcha = 15
-    print("\n* {"..d._name .. "} #"..pet_keys[i].." (Tier "..d._petTier.." "..petTypes[d._petType].." style "..d._petDisposition..") at Lv."..testleve.." with "..testcha.." charisma:")
-    local totalStats = {}
-    local st_cha = petCharisma[testcha]
-    local st_stats = petLevels[testleve]
-    local disp = d._petDisposition
-    local tier = d._petTier
-    for j=1,#st_cha do
-        totalStats[j] = st_stats[j]
-        -- charisma bonus only applies to pets, not mercs
-        if (d._petType == 1) then totalStats[j] = totalStats[j] + st_cha[j] end
-        totalStats[j] = math.floor(totalStats[j] * petDispositions[disp][j])
-        totalStats[j] = math.floor(totalStats[j] * petTiers[tier][j])
-        if (j == 4) then
-            print(("    - %s: %s%%"):format(statNames[j],(totalStats[j]/10)))
-        else
-            print(("    - %s: %s"):format(statNames[j],totalStats[j]))
-        end
-    end
-    
-end
