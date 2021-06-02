@@ -1,0 +1,1802 @@
+* Drop table #4010 (method: independent drop chance)
+[Node 1 ("OakTree", cat:2)]
+  (20x Nodes found in Serene Plains)
+  (20x Nodes found in Northern Serraborg Castle)
+    100.00% - {Hardwood}
+    8.00% - {Wooden Model}
+
+* Drop table #4015 (method: independent drop chance)
+[Node 4 ("AppleTree", cat:2)]
+  (20x Nodes found in Serene Plains)
+  (20x Nodes found in Northern Serraborg Castle)
+    100.00% - 1~2x {Apple}
+    70.00% - {Hardwood}
+    8.00% - {Wooden Model}
+
+* Drop table #4020 (method: independent drop chance)
+[Node 2 ("QuiverTree", cat:2)]
+  (40x Nodes found in Sand Plains)
+  (20x Nodes found in Baran)
+  (20x Nodes found in Forgotten Sand Ravine)
+  (40x Nodes found in Hunter's Hill)
+  (20x Nodes found in Varoc Mountains Entrance)
+  (80x Nodes found in Pilgrim's Path)
+  (20x Nodes found in Varna Shelter)
+  (20x Nodes found in Frostleaf Plains)
+    100.00% - {Hardwood}
+    9.00% - {Solid Hardwood}
+    8.00% - {Wooden Model}
+
+* Drop table #4025 (method: independent drop chance)
+[Node 5 ("CacaoTree", cat:2)]
+  (20x Nodes found in Baran)
+  (20x Nodes found in Howling Valley)
+  (20x Nodes found in Tamlin)
+  (80x Nodes found in Pilgrim's Path)
+  (20x Nodes found in Varna Shelter)
+  (20x Nodes found in Frostleaf Plains)
+    100.00% - 1~2x {Cacao}
+    70.00% - {Hardwood}
+    8.00% - {Wooden Model}
+
+* Drop table #4030 (method: independent drop chance)
+[Node 6 ("LemonTree", cat:2)]
+  (25x Nodes found in Livias)
+  (40x Nodes found in Livias Mountain)
+  (40x Nodes found in Birch Tree Lake)
+  (20x Nodes found in Northern Timberlands)
+    100.00% - 1~2x {Lemon}
+    70.00% - {Hardwood}
+    8.00% - {Solid Hardwood}
+    0.00% - {Sturdy Hardwood}
+    8.00% - {Wooden Model}
+
+* Drop table #4035 (method: independent drop chance)
+[Node 7 ("OrangeTree", cat:2)]
+  (20x Nodes found in Livias)
+  (40x Nodes found in Livias Mountain)
+  (40x Nodes found in Birch Tree Lake)
+  (20x Nodes found in Northern Timberlands)
+    100.00% - 1~2x {Orange}
+    70.00% - {Hardwood}
+    10.00% - {Solid Hardwood}
+    0.00% - {Sturdy Hardwood}
+    8.00% - {Wooden Model}
+
+* Drop table #4040 (method: independent drop chance)
+[Node 3 ("WhiteChineseJuniper", cat:2)]
+  (35x Nodes found in Livias)
+  (40x Nodes found in Livias Mountain)
+  (20x Nodes found in Land of the Forgotten Kingdom)
+  (40x Nodes found in Southern Varoc Mountains)
+  (20x Nodes found in Howling Valley)
+    100.00% - {Hardwood}
+    10.00% - {Solid Hardwood}
+    1.00% - {Sturdy Hardwood}
+    8.00% - {Wooden Model}
+
+* Drop table #4045 (method: independent drop chance)
+[Node 8 ("CoffeeTree", cat:2)]
+  (40x Nodes found in Livias)
+  (40x Nodes found in Livias Mountain)
+  (40x Nodes found in Hunter's Hill)
+  (20x Nodes found in Varoc Mountains Entrance)
+  (40x Nodes found in Southern Varoc Mountains)
+    100.00% - 1~3x {Coffee Beans}
+    70.00% - {Hardwood}
+    8.00% - {Solid Hardwood}
+    0.00% - {Sturdy Hardwood}
+    8.00% - {Wooden Model}
+
+* Drop table #4050 (method: independent drop chance)
+[Node 81 ("OakTree", cat:2)]
+    100.00% - {Hardwood}
+    10.00% - {Solid Hardwood}
+    1.00% - {Sturdy Hardwood}
+    8.00% - {Wooden Model}
+
+* Drop table #4055 (method: independent drop chance)
+[Node 82 ("QuiverTree", cat:2)]
+    100.00% - {Hardwood}
+    10.00% - {Solid Hardwood}
+    1.00% - {Sturdy Hardwood}
+    8.00% - {Wooden Model}
+
+* Drop table #5010 (method: independent drop chance)
+[Node 24 ("CopperlRock", cat:1)]
+  (20x Nodes found in Serene Plains)
+  (20x Nodes found in Northern Serraborg Castle)
+    100.00% - 1~3x {Stone}
+    30.00% - {Copper Ore}
+    70.00% - {Iron Ore}
+    25.00% - {Radiant Gold Ore}
+
+* Drop table #5015 (method: independent drop chance)
+[Node 25 ("IronRock", cat:1)]
+  (20x Nodes found in Serene Plains)
+  (20x Nodes found in Northern Serraborg Castle)
+  (40x Nodes found in Hunter's Hill)
+  (20x Nodes found in Varoc Mountains Entrance)
+  (40x Nodes found in Southern Varoc Mountains)
+  (80x Nodes found in Pilgrim's Path)
+    100.00% - 1~3x {Stone}
+    70.00% - {Iron Ore}
+    30.00% - {Copper Ore}
+    25.00% - {Radiant Gold Ore}
+
+* Drop table #5020 (method: independent drop chance)
+[Node 26 ("SilverRock", cat:1)]
+  (40x Nodes found in Sand Plains)
+  (20x Nodes found in Baran)
+  (20x Nodes found in Forgotten Sand Ravine)
+  (40x Nodes found in Birch Tree Lake)
+  (20x Nodes found in Northern Timberlands)
+  (40x Nodes found in Hunter's Hill)
+  (20x Nodes found in Varna Shelter)
+  (20x Nodes found in Frostleaf Plains)
+    100.00% - 1~3x {Stone}
+    70.00% - {Iron Ore}
+    40.00% - {Copper Ore}
+    8.00% - {Silver Ore}
+    8.00% - {Advanced Iron Ore}
+    25.00% - {Radiant Gold Ore}
+
+* Drop table #5025 (method: independent drop chance)
+[Node 27 ("GoldRock", cat:1)]
+  (40x Nodes found in Livias)
+  (40x Nodes found in Livias Mountain)
+  (10x Nodes found in Mephisto Hall BF2)
+  (10x Nodes found in Mephisto Hall BF3)
+  (10x Nodes found in Mephisto Hall BF4)
+  (10x Nodes found in Mephisto Hall BF5)
+  (10x Nodes found in Barkan Catacombs BF2)
+  (10x Nodes found in Barkan Catacombs BF3)
+  (10x Nodes found in Barkan Catacombs BF4)
+  (10x Nodes found in Barkan Catacombs BF5)
+  (20x Nodes found in Land of the Forgotten Kingdom)
+  (20x Nodes found in Dead Warrior's Cave)
+  (20x Nodes found in Varoc Mountains Entrance)
+  (40x Nodes found in Southern Varoc Mountains)
+    100.00% - 1~3x {Stone}
+    40.00% - {Copper Ore}
+    12.00% - {Silver Ore}
+    3.00% - {Gold Ore}
+    70.00% - {Iron Ore}
+    10.00% - {Advanced Iron Ore}
+    0.00% - {Superior Iron Ore}
+    25.00% - {Radiant Gold Ore}
+
+* Drop table #5030 (method: independent drop chance)
+[Node 28 ("TopazRock", cat:1)]
+  (20x Nodes found in Northern Timberlands)
+  (20x Nodes found in Varoc Mountains Entrance)
+  (20x Nodes found in Pilgrim's Path)
+    100.00% - 1~3x {Stone}
+    30.00% - {Copper Ore}
+    70.00% - {Iron Ore}
+    1.00% - {Raw Topaz}
+    25.00% - {Radiant Gold Ore}
+
+* Drop table #5035 (method: independent drop chance)
+[Node 29 ("AmethystRock", cat:1)]
+  (40x Nodes found in Southern Varoc Mountains)
+  (20x Nodes found in Tamlin)
+    100.00% - 1~3x {Stone}
+    70.00% - {Iron Ore}
+    30.00% - {Copper Ore}
+    1.00% - {Raw Amethyst}
+    25.00% - {Radiant Gold Ore}
+
+* Drop table #5040 (method: independent drop chance)
+[Node 30 ("SilicateRock", cat:1)]
+  (40x Nodes found in Southern Varoc Mountains)
+  (20x Nodes found in Howling Valley)
+    100.00% - 1~3x {Stone}
+    70.00% - {Iron Ore}
+    30.00% - {Copper Ore}
+    1.00% - {Raw Emerald}
+    25.00% - {Radiant Gold Ore}
+
+* Drop table #5045 (method: independent drop chance)
+[Node 31 ("RubyRock", cat:1)]
+  (40x Nodes found in Sand Plains)
+  (20x Nodes found in Forgotten Sand Ravine)
+  (20x Nodes found in Northern Serraborg Castle)
+  (20x Nodes found in Howling Valley)
+    100.00% - 1~3x {Stone}
+    40.00% - {Copper Ore}
+    8.00% - {Silver Ore}
+    70.00% - {Iron Ore}
+    8.00% - {Advanced Iron Ore}
+    1.00% - {Raw Ruby}
+    25.00% - {Radiant Gold Ore}
+
+* Drop table #5050 (method: independent drop chance)
+[Node 34 ("SapphireRock", cat:1)]
+  (10x Nodes found in Mephisto Hall BF2)
+  (10x Nodes found in Mephisto Hall BF3)
+  (10x Nodes found in Mephisto Hall BF4)
+  (10x Nodes found in Mephisto Hall BF5)
+  (20x Nodes found in Land of the Forgotten Kingdom)
+  (20x Nodes found in Dead Warrior's Cave)
+  (40x Nodes found in Birch Tree Lake)
+  (40x Nodes found in Hunter's Hill)
+    70.00% - {Iron Ore}
+    10.00% - {Advanced Iron Ore}
+    0.00% - {Superior Iron Ore}
+    40.00% - {Copper Ore}
+    12.00% - {Silver Ore}
+    3.00% - {Gold Ore}
+    100.00% - 1~3x {Stone}
+    1.00% - {Raw Sapphire}
+    25.00% - {Radiant Gold Ore}
+
+* Drop table #5055 (method: independent drop chance)
+[Node 33 ("CrystalRock", cat:1)]
+  (10x Nodes found in Mephisto Hall BF2)
+  (10x Nodes found in Mephisto Hall BF3)
+  (10x Nodes found in Mephisto Hall BF4)
+  (10x Nodes found in Mephisto Hall BF5)
+  (10x Nodes found in Barkan Catacombs BF2)
+  (10x Nodes found in Barkan Catacombs BF3)
+  (11x Nodes found in Barkan Catacombs BF4)
+  (10x Nodes found in Barkan Catacombs BF5)
+  (20x Nodes found in Land of the Forgotten Kingdom)
+  (20x Nodes found in Dead Warrior's Cave)
+  (20x Nodes found in Serene Plains)
+  (40x Nodes found in Birch Tree Lake)
+    100.00% - 1~3x {Stone}
+    70.00% - {Iron Ore}
+    10.00% - {Advanced Iron Ore}
+    0.00% - {Superior Iron Ore}
+    1.00% - {Raw Crystal}
+    40.00% - {Copper Ore}
+    12.00% - {Silver Ore}
+    3.00% - {Gold Ore}
+    25.00% - {Radiant Gold Ore}
+
+* Drop table #5060 (method: independent drop chance)
+[Node 32 ("AluminiumRock", cat:1)]
+  (20x Nodes found in Livias)
+  (40x Nodes found in Livias Mountain)
+  (10x Nodes found in Barkan Catacombs BF2)
+  (10x Nodes found in Barkan Catacombs BF3)
+  (10x Nodes found in Barkan Catacombs BF4)
+  (10x Nodes found in Barkan Catacombs BF5)
+  (20x Nodes found in Howling Valley)
+  (20x Nodes found in Tamlin)
+    100.00% - 1~3x {Stone}
+    70.00% - {Iron Ore}
+    10.00% - {Advanced Iron Ore}
+    0.00% - {Superior Iron Ore}
+    40.00% - {Copper Ore}
+    12.00% - {Silver Ore}
+    3.00% - {Gold Ore}
+    25.00% - {Radiant Gold Ore}
+
+* Drop table #6010 (method: independent drop chance)
+[Node 9 ("WildPlant", cat:0)]
+  (40x Nodes found in Pilgrim's Path)
+    100.00% - 1~2x {Bean}
+
+* Drop table #6015 (method: independent drop chance)
+[Node 10 ("StrawberryCrops", cat:0)]
+  (20x Nodes found in Serene Plains)
+  (40x Nodes found in Birch Tree Lake)
+  (20x Nodes found in Northern Timberlands)
+    100.00% - 1~3x {Strawberry}
+
+* Drop table #6020 (method: independent drop chance)
+[Node 11 ("GourdCrops", cat:0)]
+  (20x Nodes found in Serene Plains)
+  (20x Nodes found in Northern Serraborg Castle)
+    100.00% - {Pumpkin}
+
+* Drop table #6025 (method: independent drop chance)
+[Node 12 ("PotatoCrops", cat:0)]
+  (20x Nodes found in Serene Plains)
+  (20x Nodes found in Northern Serraborg Castle)
+    100.00% - 1~3x {Potato}
+
+* Drop table #6030 (method: independent drop chance)
+[Node 13 ("CarrotCrops", cat:0)]
+  (20x Nodes found in Northern Serraborg Castle)
+  (40x Nodes found in Birch Tree Lake)
+  (20x Nodes found in Northern Timberlands)
+    100.00% - 1~3x {Carrot}
+
+* Drop table #6035 (method: independent drop chance)
+[Node 14 ("RiceCrops", cat:0)]
+  (40x Nodes found in Birch Tree Lake)
+    100.00% - 1~3x {Rice}
+
+* Drop table #6040 (method: independent drop chance)
+[Node 15 ("HotpepperCrops", cat:0)]
+  (30x Nodes found in Livias)
+  (20x Nodes found in Baran)
+  (40x Nodes found in Hunter's Hill)
+  (20x Nodes found in Varoc Mountains Entrance)
+  (40x Nodes found in Pilgrim's Path)
+  (20x Nodes found in Varna Shelter)
+  (20x Nodes found in Frostleaf Plains)
+    100.00% - 1~3x {Red Pepper}
+    8.00% - 1~3x {Silkworm Cocoon}
+
+* Drop table #6045 (method: independent drop chance)
+[Node 16 ("GingerCrops", cat:0)]
+  (40x Nodes found in Livias Mountain)
+  (20x Nodes found in Baran)
+  (40x Nodes found in Hunter's Hill)
+  (20x Nodes found in Varoc Mountains Entrance)
+  (40x Nodes found in Pilgrim's Path)
+  (20x Nodes found in Varna Shelter)
+  (20x Nodes found in Frostleaf Plains)
+    100.00% - 1~3x {Ginger}
+    8.00% - 1~3x {Silkworm Cocoon}
+
+* Drop table #6050 (method: independent drop chance)
+[Node 17 ("PaprikaCrops", cat:0)]
+  (30x Nodes found in Livias)
+  (40x Nodes found in Hunter's Hill)
+  (20x Nodes found in Varoc Mountains Entrance)
+    100.00% - 1~2x {Paprika}
+
+* Drop table #6055 (method: independent drop chance)
+[Node 18 ("DurumCrops", cat:0)]
+  (20x Nodes found in Baran)
+  (40x Nodes found in Hunter's Hill)
+  (20x Nodes found in Tamlin)
+  (20x Nodes found in Varna Shelter)
+  (20x Nodes found in Frostleaf Plains)
+    100.00% - 1~3x {Flour}
+
+* Drop table #6060 (method: independent drop chance)
+[Node 19 ("CornCrops", cat:0)]
+  (40x Nodes found in Livias Mountain)
+  (20x Nodes found in Baran)
+  (20x Nodes found in Tamlin)
+  (20x Nodes found in Varna Shelter)
+  (20x Nodes found in Frostleaf Plains)
+    100.00% - 1~2x {Corn}
+    8.00% - 1~2x {Silkworm Cocoon}
+
+* Drop table #6065 (method: independent drop chance)
+[Node 20 ("TomatoCrops", cat:0)]
+  (30x Nodes found in Livias)
+  (40x Nodes found in Livias Mountain)
+  (20x Nodes found in Tamlin)
+    100.00% - 1~2x {Tomato}
+    10.00% - 1~2x {Silkworm Cocoon}
+    0.00% - 1~2x {Quality Silkworm Cocoon}
+
+* Drop table #6070 (method: independent drop chance)
+[Node 21 ("BeanStalk", cat:0)]
+  (39x Nodes found in Livias Mountain)
+  (20x Nodes found in Baran)
+  (40x Nodes found in Birch Tree Lake)
+  (20x Nodes found in Varna Shelter)
+  (20x Nodes found in Frostleaf Plains)
+    100.00% - {Bean}
+    8.00% - {Silkworm Cocoon}
+
+* Drop table #6075 (method: independent drop chance)
+[Node 22 ("SweetpotatoCrops", cat:0)]
+  (30x Nodes found in Livias)
+  (40x Nodes found in Livias Mountain)
+  (20x Nodes found in Land of the Forgotten Kingdom)
+  (40x Nodes found in Birch Tree Lake)
+  (40x Nodes found in Southern Varoc Mountains)
+    100.00% - 1~3x {Sweet Potato}
+    10.00% - 1~3x {Silkworm Cocoon}
+    0.00% - 1~3x {Quality Silkworm Cocoon}
+
+* Drop table #6080 (method: independent drop chance)
+[Node 23 ("PineMushroom", cat:0)]
+  (30x Nodes found in Livias)
+  (40x Nodes found in Livias Mountain)
+  (20x Nodes found in Land of the Forgotten Kingdom)
+  (20x Nodes found in Northern Timberlands)
+  (40x Nodes found in Southern Varoc Mountains)
+  (20x Nodes found in Howling Valley)
+    100.00% - 1~3x {Pine Mushroom}
+    10.00% - 1~3x {Silkworm Cocoon}
+    0.00% - 1~3x {Quality Silkworm Cocoon}
+
+* Drop table #6085 (method: independent drop chance)
+[Node 53 ("PineMushroom", cat:0)]
+    100.00% - 1~3x {<unknown/disabled item 41375>}
+
+* Drop table #7010 (method: independent drop chance)
+[Node 35 ("ScolpionEcdysis", cat:0)]
+  (40x Nodes found in Sand Plains)
+  (60x Nodes found in Pilgrim's Path)
+    30.00% - 1~2x {Light Blue Dye}
+
+* Drop table #7015 (method: independent drop chance)
+[Node 36 ("GreatCobweb", cat:0)]
+  (11x Nodes found in Mephisto Hall)
+  (10x Nodes found in Mephisto Hall BF2)
+  (10x Nodes found in Mephisto Hall BF3)
+  (10x Nodes found in Mephisto Hall BF4)
+  (10x Nodes found in Mephisto Hall BF5)
+  (60x Nodes found in Barkan Catacombs)
+  (20x Nodes found in Barkan Catacombs BF2)
+  (20x Nodes found in Barkan Catacombs BF3)
+  (20x Nodes found in Barkan Catacombs BF4)
+  (20x Nodes found in Barkan Catacombs BF5)
+    100.00% - 1~3x {<unknown/disabled item 47037>}
+
+* Drop table #7020 (method: independent drop chance)
+[Node 37 ("Honeycomb", cat:0)]
+  (40x Nodes found in Livias)
+  (20x Nodes found in Sky Vine)
+  (20x Nodes found in Northern Timberlands)
+  (40x Nodes found in Hunter's Hill)
+    100.00% - {Honey}
+
+* Drop table #7025 (method: independent drop chance)
+[Node 38 ("Flax", cat:0)]
+  (20x Nodes found in Baran)
+  (20x Nodes found in Sky Vine)
+  (40x Nodes found in Birch Tree Lake)
+  (20x Nodes found in Tamlin)
+  (20x Nodes found in Varna Shelter)
+  (20x Nodes found in Frostleaf Plains)
+    100.00% - 1~3x {Cotton}
+
+* Drop table #7030 (method: independent drop chance)
+[Node 39 ("LavenderFlower", cat:0)]
+  (20x Nodes found in Sky Vine)
+  (20x Nodes found in Howling Valley)
+    100.00% - {Lavender}
+    10.00% - 1~2x {Silkworm Cocoon}
+    1.00% - 1~2x {Quality Silkworm Cocoon}
+
+* Drop table #7035 (method: independent drop chance)
+[Node 40 ("RoseFlower", cat:0)]
+  (20x Nodes found in Dead Warrior's Cave)
+  (40x Nodes found in Southern Varoc Mountains)
+    100.00% - {Rose}
+    10.00% - 1~2x {Silkworm Cocoon}
+    1.00% - 1~2x {Quality Silkworm Cocoon}
+    0.00% - {Rose Bunch Bag}
+
+* Drop table #8110 (method: independent drop chance)
+[Node 54 ("BadWhiteLunariumRock", cat:0)]
+    100.00% - {Crushed Stone}
+
+* Drop table #8120 (method: independent drop chance)
+[Node 55 ("BadGreenLunariumRock", cat:0)]
+    100.00% - {Crushed Stone}
+
+* Drop table #8130 (method: independent drop chance)
+[Node 56 ("BadBlueLunariumRock", cat:0)]
+    100.00% - {Crushed Stone}
+
+* Drop table #8140 (method: independent drop chance)
+[Node 57 ("BadPurpleLunariumRock", cat:0)]
+    100.00% - {Crushed Stone}
+
+* Drop table #8150 (method: independent drop chance)
+[Node 58 ("BadOrangeLunariumRock", cat:0)]
+    100.00% - {Crushed Stone}
+
+* Drop table #8210 (method: independent drop chance)
+[Node 59 ("AverageWhiteLunariumRock", cat:1)]
+    60.00% - {White Lunarium}
+
+* Drop table #8220 (method: independent drop chance)
+[Node 60 ("AverageGreenLunariumRock", cat:1)]
+    40.00% - {Green Lunarium}
+
+* Drop table #8230 (method: independent drop chance)
+[Node 61 ("AverageBlueLunariumRock", cat:1)]
+    20.00% - {Blue Lunarium}
+
+* Drop table #8240 (method: independent drop chance)
+[Node 62 ("AveragePurpleLunariumRock", cat:1)]
+    10.00% - {Purple Lunarium}
+
+* Drop table #8250 (method: independent drop chance)
+[Node 63 ("AverageOrangeLunariumRock", cat:1)]
+    2.00% - {Orange Lunarium}
+
+* Drop table #8310 (method: independent drop chance)
+[Node 64 ("GoodWhiteLunariumRock", cat:2)]
+    90.00% - {White Lunarium}
+
+* Drop table #8320 (method: independent drop chance)
+[Node 65 ("GoodGreenLunariumRock", cat:2)]
+    60.00% - {Green Lunarium}
+
+* Drop table #8330 (method: independent drop chance)
+[Node 66 ("GoodBlueLunariumRock", cat:2)]
+    30.00% - {Blue Lunarium}
+
+* Drop table #8340 (method: independent drop chance)
+[Node 67 ("GoodPurpleLunariumRock", cat:2)]
+    15.00% - {Purple Lunarium}
+
+* Drop table #8350 (method: independent drop chance)
+[Node 68 ("GoodOrangeLunariumRock", cat:2)]
+    3.00% - {Orange Lunarium}
+
+* Drop table #42000 (method: random one of list)
+[Node 41 ("unknown type", cat:0)]
+[Node 47 ("unknown type", cat:0)]
+[Node 69 ("unknown type", cat:0)]
+[Node 75 ("unknown type", cat:0)]
+(1) 8.51% - {Lesser HP Recovery Potion}
+(1) 8.16% - {Intermediate HP Recovery Potion}
+(1) 7.45% - {Superior HP Recovery Potion}
+(1) 6.21% - {Artisan HP Recovery Potion}
+(1) 4.43% - {Return Scroll}
+(1) 5.32% - {Blue Star Tablet}
+(1) 8.60% - {Salt}
+(1) 7.09% - {Natural Water}
+(1) 8.60% - {Sugar}
+(1) 7.98% - {Little Piece of Bird Meat}
+(1) 8.42% - {Egg}
+(1) 8.42% - {Little Piece of Meat}
+(1) 0.09% - {Old Document}
+(1) 0.09% - {Old Document}
+(1) 0.09% - {Old Document}
+(1) 0.09% - {Old Document}
+(1) 0.09% - {Old Document}
+(1) 0.09% - {Old Document}
+(1) 0.09% - {Old Document}
+(1) 0.09% - {Old Document}
+(1) 0.09% - {Old Document}
+(1) 0.09% - {Secret Clue}
+(1) 0.09% - {Secret Clue}
+(1) 0.09% - {Secret Clue}
+(1) 0.09% - {Secret Clue}
+(1) 0.09% - {Secret Clue}
+(1) 0.09% - {Secret Clue}
+(1) 0.09% - {Secret Clue}
+(1) 0.09% - {Secret Clue}
+(1) 0.09% - {Secret Clue}
+(1) 0.09% - {Secret Clue}
+(1) 0.09% - {Secret Clue}
+(1) 0.09% - {Secret Clue}
+(1) 0.09% - {Secret Clue}
+(1) 0.09% - {Secret Clue}
+(1) 0.09% - {Secret Clue}
+(1) 0.09% - {Secret Clue}
+(1) 0.09% - {Secret Clue}
+(1) 0.09% - {Secret Clue}
+(1) 0.09% - {Secret Clue}
+(1) 0.09% - {Secret Clue}
+(1) 0.09% - {Secret Clue}
+(1) 0.09% - {Secret Clue}
+(1) 0.09% - {Secret Clue}
+(1) 0.09% - {Secret Clue}
+(1) 0.09% - {Secret Clue}
+(1) 0.09% - {Secret Clue}
+(1) 0.09% - {Secret Clue}
+(1) 0.09% - {Secret Clue}
+(1) 0.09% - {Secret Clue}
+(1) 0.09% - {Secret Clue}
+(1) 0.09% - {Secret Clue}
+(1) 0.09% - {Secret Clue}
+(1) 0.09% - {Secret Clue}
+(1) 0.09% - {Secret Clue}
+(1) 0.09% - {Secret Note}
+(1) 0.09% - {Secret Note}
+(1) 0.09% - {Secret Note}
+(1) 0.09% - {Secret Note}
+(1) 0.09% - {Secret Note}
+(1) 0.09% - {Secret Note}
+(1) 0.09% - {Secret Note}
+(1) 0.09% - {Secret Note}
+(1) 0.09% - {Secret Note}
+(1) 0.09% - {Secret Note}
+(1) 0.09% - {Secret Note}
+(1) 0.09% - {Secret Note}
+(1) 0.09% - {Secret Note}
+(1) 0.09% - {Secret Note}
+(1) 0.09% - {Secret Note}
+(1) 0.09% - {Secret Note}
+(1) 0.09% - {Secret Note}
+(1) 0.09% - {Secret Note}
+(1) 0.09% - {Secret Note}
+(1) 0.09% - {Secret Note}
+(1) 0.09% - {Secret Note}
+(1) 0.09% - {Village Kid's Letter}
+(1) 0.09% - {Archaeologist Enbanu's Secret Letter}
+(1) 0.09% - {Baran Suppression Team Captain Darius's Letter}
+(1) 0.09% - {Letter for Unknown Addressee}
+(1) 0.09% - {Lost Traveler's Distress Letter}
+(1) 0.09% - {Expedition Team Member's Letter}
+(1) 0.09% - {Letter for Unknown Addressee}
+(1) 0.09% - {Letter for Unknown Addressee}
+(1) 0.09% - {Letter for Unknown Addressee}
+(1) 0.09% - {Letter for Unknown Addressee}
+(1) 0.09% - {Letter for Unknown Addressee}
+(1) 0.09% - {Letter for Unknown Addressee}
+(1) 0.09% - {Letter for Unknown Addressee}
+(1) 0.09% - {Letter for Unknown Addressee}
+(1) 0.09% - {Letter for Unknown Addressee}
+(1) 0.09% - {Letter for Unknown Addressee}
+(1) 0.09% - {Crumpled Memo}
+(1) 0.09% - {Crumpled Memo}
+(1) 0.09% - {Crumpled Memo}
+(1) 0.09% - {Crumpled Memo}
+(1) 0.09% - {Crumpled Memo}
+(1) 0.09% - {Crumpled Memo}
+(1) 0.09% - {Crumpled Memo}
+(1) 0.09% - {Crumpled Memo}
+(1) 0.09% - {Crumpled Memo}
+(1) 0.09% - {Crumpled Memo}
+(1) 0.09% - {Crumpled Memo}
+(1) 0.09% - {Crumpled Memo}
+(1) 0.09% - {Crumpled Memo}
+(1) 0.09% - {Crumpled Memo}
+(1) 0.09% - {Crumpled Memo}
+(1) 0.09% - {Crumpled Memo}
+(1) 0.09% - {Crumpled Memo}
+(1) 0.09% - {Crumpled Memo}
+(1) 0.09% - {Crumpled Memo}
+(1) 0.09% - {Crumpled Memo}
+(1) 0.09% - {Crumpled Memo}
+(1) 0.09% - {Crumpled Memo}
+(1) 0.09% - {Crumpled Memo}
+(1) 0.09% - {Crumpled Memo}
+(1) 0.09% - {Crumpled Memo}
+(1) 0.09% - {Crumpled Memo}
+(1) 0.09% - {Crumpled Memo}
+(1) 0.09% - {Crumpled Memo}
+(1) 0.09% - {Crumpled Memo}
+(1) 0.09% - {Crumpled Memo}
+(1) 0.09% - {Crumpled Memo}
+(1) 0.09% - {Crumpled Memo}
+(1) 0.09% - {Crumpled Memo}
+(1) 0.09% - {Crumpled Memo}
+(1) 0.09% - {Crumpled Memo}
+(1) 0.09% - {Crumpled Memo}
+(1) 0.09% - {Crumpled Memo}
+(1) 0.09% - {Crumpled Memo}
+(1) 0.09% - {Crumpled Memo}
+(1) 0.09% - {Crumpled Memo}
+(1) 0.09% - {Crumpled Memo}
+(1) 0.09% - {Crumpled Memo}
+
+* Drop table #42001 (method: random one of list)
+[Node 42 ("unknown type", cat:0)]
+[Node 48 ("unknown type", cat:0)]
+[Node 70 ("unknown type", cat:0)]
+[Node 76 ("unknown type", cat:0)]
+(1) 9.11% - {Lesser MP Recovery Potion}
+(1) 8.73% - {Intermediate MP Recovery Potion}
+(1) 7.97% - {Advanced MP Recovery Potion}
+(1) 6.64% - {Superior MP Recovery Potion}
+(1) 4.74% - {Return Scroll}
+(1) 5.69% - {Blue Star Tablet}
+(1) 8.73% - {Catfish}
+(1) 0.95% - {Cutlassfish}
+(1) 9.30% - {Freshwater Shrimp}
+(1) 9.30% - {Clam}
+(1) 8.06% - {Assorted Vegetables}
+(1) 9.20% - {Carrot}
+(1) 0.09% - {Old Document}
+(1) 0.09% - {Old Document}
+(1) 0.09% - {Old Document}
+(1) 0.09% - {Old Document}
+(1) 0.09% - {Old Document}
+(1) 0.09% - {Old Document}
+(1) 0.09% - {Old Document}
+(1) 0.09% - {Old Document}
+(1) 0.09% - {Old Document}
+(1) 0.09% - {Secret Clue}
+(1) 0.09% - {Secret Clue}
+(1) 0.09% - {Secret Clue}
+(1) 0.09% - {Secret Clue}
+(1) 0.09% - {Secret Clue}
+(1) 0.09% - {Secret Clue}
+(1) 0.09% - {Secret Clue}
+(1) 0.09% - {Secret Clue}
+(1) 0.09% - {Secret Clue}
+(1) 0.09% - {Secret Clue}
+(1) 0.09% - {Secret Clue}
+(1) 0.09% - {Secret Clue}
+(1) 0.09% - {Secret Clue}
+(1) 0.09% - {Secret Clue}
+(1) 0.09% - {Secret Clue}
+(1) 0.09% - {Secret Clue}
+(1) 0.09% - {Secret Clue}
+(1) 0.09% - {Secret Clue}
+(1) 0.09% - {Secret Clue}
+(1) 0.09% - {Secret Clue}
+(1) 0.09% - {Secret Clue}
+(1) 0.09% - {Secret Clue}
+(1) 0.09% - {Secret Clue}
+(1) 0.09% - {Secret Clue}
+(1) 0.09% - {Secret Clue}
+(1) 0.09% - {Secret Clue}
+(1) 0.09% - {Secret Clue}
+(1) 0.09% - {Secret Clue}
+(1) 0.09% - {Secret Clue}
+(1) 0.09% - {Secret Clue}
+(1) 0.09% - {Secret Clue}
+(1) 0.09% - {Secret Clue}
+(1) 0.09% - {Secret Clue}
+(1) 0.09% - {Secret Clue}
+(1) 0.09% - {Secret Note}
+(1) 0.09% - {Secret Note}
+(1) 0.09% - {Secret Note}
+(1) 0.09% - {Secret Note}
+(1) 0.09% - {Secret Note}
+(1) 0.09% - {Secret Note}
+(1) 0.09% - {Secret Note}
+(1) 0.09% - {Secret Note}
+(1) 0.09% - {Secret Note}
+(1) 0.09% - {Secret Note}
+(1) 0.09% - {Secret Note}
+(1) 0.09% - {Secret Note}
+(1) 0.09% - {Secret Note}
+(1) 0.09% - {Secret Note}
+(1) 0.09% - {Secret Note}
+(1) 0.09% - {Secret Note}
+(1) 0.09% - {Secret Note}
+(1) 0.09% - {Secret Note}
+(1) 0.09% - {Secret Note}
+(1) 0.09% - {Secret Note}
+(1) 0.09% - {Secret Note}
+(1) 0.09% - {Village Kid's Letter}
+(1) 0.09% - {Archaeologist Enbanu's Secret Letter}
+(1) 0.09% - {Baran Suppression Team Captain Darius's Letter}
+(1) 0.09% - {Letter for Unknown Addressee}
+(1) 0.09% - {Lost Traveler's Distress Letter}
+(1) 0.09% - {Expedition Team Member's Letter}
+(1) 0.09% - {Letter for Unknown Addressee}
+(1) 0.09% - {Letter for Unknown Addressee}
+(1) 0.09% - {Letter for Unknown Addressee}
+(1) 0.09% - {Letter for Unknown Addressee}
+(1) 0.09% - {Letter for Unknown Addressee}
+(1) 0.09% - {Letter for Unknown Addressee}
+(1) 0.09% - {Letter for Unknown Addressee}
+(1) 0.09% - {Letter for Unknown Addressee}
+(1) 0.09% - {Letter for Unknown Addressee}
+(1) 0.09% - {Letter for Unknown Addressee}
+(1) 0.09% - {Crumpled Memo}
+(1) 0.09% - {Crumpled Memo}
+(1) 0.09% - {Crumpled Memo}
+(1) 0.09% - {Crumpled Memo}
+(1) 0.09% - {Crumpled Memo}
+(1) 0.09% - {Crumpled Memo}
+(1) 0.09% - {Crumpled Memo}
+(1) 0.09% - {Crumpled Memo}
+(1) 0.09% - {Crumpled Memo}
+(1) 0.09% - {Crumpled Memo}
+(1) 0.09% - {Crumpled Memo}
+(1) 0.09% - {Crumpled Memo}
+(1) 0.09% - {Crumpled Memo}
+(1) 0.09% - {Crumpled Memo}
+(1) 0.09% - {Crumpled Memo}
+(1) 0.09% - {Crumpled Memo}
+(1) 0.09% - {Crumpled Memo}
+(1) 0.09% - {Crumpled Memo}
+(1) 0.09% - {Crumpled Memo}
+(1) 0.09% - {Crumpled Memo}
+(1) 0.09% - {Crumpled Memo}
+(1) 0.09% - {Crumpled Memo}
+(1) 0.09% - {Crumpled Memo}
+(1) 0.09% - {Crumpled Memo}
+(1) 0.09% - {Crumpled Memo}
+(1) 0.09% - {Crumpled Memo}
+(1) 0.09% - {Crumpled Memo}
+(1) 0.09% - {Crumpled Memo}
+(1) 0.09% - {Crumpled Memo}
+(1) 0.09% - {Crumpled Memo}
+(1) 0.09% - {Crumpled Memo}
+(1) 0.09% - {Crumpled Memo}
+(1) 0.09% - {Crumpled Memo}
+(1) 0.09% - {Crumpled Memo}
+(1) 0.09% - {Crumpled Memo}
+(1) 0.09% - {Crumpled Memo}
+(1) 0.09% - {Crumpled Memo}
+(1) 0.09% - {Crumpled Memo}
+(1) 0.09% - {Crumpled Memo}
+(1) 0.09% - {Crumpled Memo}
+(1) 0.09% - {Crumpled Memo}
+(1) 0.09% - {Crumpled Memo}
+
+* Drop table #42002 (method: random one of list)
+[Node 43 ("unknown type", cat:0)]
+[Node 49 ("unknown type", cat:0)]
+  (1x Node found in Southern Plains)
+[Node 71 ("unknown type", cat:0)]
+  (2x Nodes found in Fox Plains)
+[Node 77 ("unknown type", cat:0)]
+(1) 7.46% - {Lesser Swiftness Elixir}
+(1) 7.15% - {Intermediate Swiftness Elixir}
+(1) 6.52% - {Lesser Enrage Elixir}
+(1) 5.44% - {Intermediate Enrage Elixir}
+(1) 3.88% - {Return Scroll}
+(1) 7.15% - {Lesser Rescue Potion}
+(1) 6.52% - {Intermediate Rescue Potion}
+(1) 5.44% - {Advanced Rescue Potion}
+(1) 7.38% - {Pumpkin}
+(1) 7.53% - {Potato}
+(1) 5.44% - {Ginger}
+(1) 7.53% - {Apple}
+(1) 5.44% - {Herb}
+(1) 7.65% - {Flour}
+(1) 0.08% - {Old Document}
+(1) 0.08% - {Old Document}
+(1) 0.08% - {Old Document}
+(1) 0.08% - {Old Document}
+(1) 0.08% - {Old Document}
+(1) 0.08% - {Old Document}
+(1) 0.08% - {Old Document}
+(1) 0.08% - {Old Document}
+(1) 0.08% - {Old Document}
+(1) 0.08% - {Secret Clue}
+(1) 0.08% - {Secret Clue}
+(1) 0.08% - {Secret Clue}
+(1) 0.08% - {Secret Clue}
+(1) 0.08% - {Secret Clue}
+(1) 0.08% - {Secret Clue}
+(1) 0.08% - {Secret Clue}
+(1) 0.08% - {Secret Clue}
+(1) 0.08% - {Secret Clue}
+(1) 0.08% - {Secret Clue}
+(1) 0.08% - {Secret Clue}
+(1) 0.08% - {Secret Clue}
+(1) 0.08% - {Secret Clue}
+(1) 0.08% - {Secret Clue}
+(1) 0.08% - {Secret Clue}
+(1) 0.08% - {Secret Clue}
+(1) 0.08% - {Secret Clue}
+(1) 0.08% - {Secret Clue}
+(1) 0.08% - {Secret Clue}
+(1) 0.08% - {Secret Clue}
+(1) 0.08% - {Secret Clue}
+(1) 0.08% - {Secret Clue}
+(1) 0.08% - {Secret Clue}
+(1) 0.08% - {Secret Clue}
+(1) 0.08% - {Secret Clue}
+(1) 0.08% - {Secret Clue}
+(1) 0.08% - {Secret Clue}
+(1) 0.08% - {Secret Clue}
+(1) 0.08% - {Secret Clue}
+(1) 0.08% - {Secret Clue}
+(1) 0.08% - {Secret Clue}
+(1) 0.08% - {Secret Clue}
+(1) 0.08% - {Secret Clue}
+(1) 0.08% - {Secret Clue}
+(1) 0.08% - {Secret Note}
+(1) 0.08% - {Secret Note}
+(1) 0.08% - {Secret Note}
+(1) 0.08% - {Secret Note}
+(1) 0.08% - {Secret Note}
+(1) 0.08% - {Secret Note}
+(1) 0.08% - {Secret Note}
+(1) 0.08% - {Secret Note}
+(1) 0.08% - {Secret Note}
+(1) 0.08% - {Secret Note}
+(1) 0.08% - {Secret Note}
+(1) 0.08% - {Secret Note}
+(1) 0.08% - {Secret Note}
+(1) 0.08% - {Secret Note}
+(1) 0.08% - {Secret Note}
+(1) 0.08% - {Secret Note}
+(1) 0.08% - {Secret Note}
+(1) 0.08% - {Secret Note}
+(1) 0.08% - {Secret Note}
+(1) 0.08% - {Secret Note}
+(1) 0.08% - {Secret Note}
+(1) 0.08% - {Village Kid's Letter}
+(1) 0.08% - {Archaeologist Enbanu's Secret Letter}
+(1) 0.08% - {Baran Suppression Team Captain Darius's Letter}
+(1) 0.08% - {Letter for Unknown Addressee}
+(1) 0.08% - {Lost Traveler's Distress Letter}
+(1) 0.08% - {Expedition Team Member's Letter}
+(1) 0.08% - {Letter for Unknown Addressee}
+(1) 0.08% - {Letter for Unknown Addressee}
+(1) 0.08% - {Letter for Unknown Addressee}
+(1) 0.08% - {Letter for Unknown Addressee}
+(1) 0.08% - {Letter for Unknown Addressee}
+(1) 0.08% - {Letter for Unknown Addressee}
+(1) 0.08% - {Letter for Unknown Addressee}
+(1) 0.08% - {Letter for Unknown Addressee}
+(1) 0.08% - {Letter for Unknown Addressee}
+(1) 0.08% - {Letter for Unknown Addressee}
+(1) 0.08% - {Crumpled Memo}
+(1) 0.08% - {Crumpled Memo}
+(1) 0.08% - {Crumpled Memo}
+(1) 0.08% - {Crumpled Memo}
+(1) 0.08% - {Crumpled Memo}
+(1) 0.08% - {Crumpled Memo}
+(1) 0.08% - {Crumpled Memo}
+(1) 0.08% - {Crumpled Memo}
+(1) 0.08% - {Crumpled Memo}
+(1) 0.08% - {Crumpled Memo}
+(1) 0.08% - {Crumpled Memo}
+(1) 0.08% - {Crumpled Memo}
+(1) 0.08% - {Crumpled Memo}
+(1) 0.08% - {Crumpled Memo}
+(1) 0.08% - {Crumpled Memo}
+(1) 0.08% - {Crumpled Memo}
+(1) 0.08% - {Crumpled Memo}
+(1) 0.08% - {Crumpled Memo}
+(1) 0.08% - {Crumpled Memo}
+(1) 0.08% - {Crumpled Memo}
+(1) 0.08% - {Crumpled Memo}
+(1) 0.08% - {Crumpled Memo}
+(1) 0.08% - {Crumpled Memo}
+(1) 0.08% - {Crumpled Memo}
+(1) 0.08% - {Crumpled Memo}
+(1) 0.08% - {Crumpled Memo}
+(1) 0.08% - {Crumpled Memo}
+(1) 0.08% - {Crumpled Memo}
+(1) 0.08% - {Crumpled Memo}
+(1) 0.08% - {Crumpled Memo}
+(1) 0.08% - {Crumpled Memo}
+(1) 0.08% - {Crumpled Memo}
+(1) 0.08% - {Crumpled Memo}
+(1) 0.08% - {Crumpled Memo}
+(1) 0.08% - {Crumpled Memo}
+(1) 0.08% - {Crumpled Memo}
+(1) 0.08% - {Crumpled Memo}
+(1) 0.08% - {Crumpled Memo}
+(1) 0.08% - {Crumpled Memo}
+(1) 0.08% - {Crumpled Memo}
+(1) 0.08% - {Crumpled Memo}
+(1) 0.08% - {Crumpled Memo}
+
+* Drop table #42003 (method: random one of list)
+[Node 44 ("unknown type", cat:0)]
+[Node 50 ("unknown type", cat:0)]
+[Node 72 ("unknown type", cat:0)]
+[Node 78 ("unknown type", cat:0)]
+(1) 7.55% - {Lesser Haste Elixir}
+(1) 7.24% - {Intermediate Haste Elixir}
+(1) 6.61% - {Lesser Enrage Elixir}
+(1) 5.51% - {Intermediate Enrage Elixir}
+(1) 3.93% - {Return Scroll}
+(1) 7.24% - {Lesser Rescue Potion}
+(1) 6.61% - {Intermediate Rescue Potion}
+(1) 5.51% - {Advanced Rescue Potion}
+(1) 7.08% - {Cacao}
+(1) 7.47% - {Yeast}
+(1) 3.93% - {Raw Noodles}
+(1) 6.85% - {Milk}
+(1) 7.08% - {Whipped Cream}
+(1) 7.79% - {Garlic}
+(1) 0.08% - {Old Document}
+(1) 0.08% - {Old Document}
+(1) 0.08% - {Old Document}
+(1) 0.08% - {Old Document}
+(1) 0.08% - {Old Document}
+(1) 0.08% - {Old Document}
+(1) 0.08% - {Old Document}
+(1) 0.08% - {Old Document}
+(1) 0.08% - {Old Document}
+(1) 0.08% - {Secret Clue}
+(1) 0.08% - {Secret Clue}
+(1) 0.08% - {Secret Clue}
+(1) 0.08% - {Secret Clue}
+(1) 0.08% - {Secret Clue}
+(1) 0.08% - {Secret Clue}
+(1) 0.08% - {Secret Clue}
+(1) 0.08% - {Secret Clue}
+(1) 0.08% - {Secret Clue}
+(1) 0.08% - {Secret Clue}
+(1) 0.08% - {Secret Clue}
+(1) 0.08% - {Secret Clue}
+(1) 0.08% - {Secret Clue}
+(1) 0.08% - {Secret Clue}
+(1) 0.08% - {Secret Clue}
+(1) 0.08% - {Secret Clue}
+(1) 0.08% - {Secret Clue}
+(1) 0.08% - {Secret Clue}
+(1) 0.08% - {Secret Clue}
+(1) 0.08% - {Secret Clue}
+(1) 0.08% - {Secret Clue}
+(1) 0.08% - {Secret Clue}
+(1) 0.08% - {Secret Clue}
+(1) 0.08% - {Secret Clue}
+(1) 0.08% - {Secret Clue}
+(1) 0.08% - {Secret Clue}
+(1) 0.08% - {Secret Clue}
+(1) 0.08% - {Secret Clue}
+(1) 0.08% - {Secret Clue}
+(1) 0.08% - {Secret Clue}
+(1) 0.08% - {Secret Clue}
+(1) 0.08% - {Secret Clue}
+(1) 0.08% - {Secret Clue}
+(1) 0.08% - {Secret Clue}
+(1) 0.08% - {Secret Note}
+(1) 0.08% - {Secret Note}
+(1) 0.08% - {Secret Note}
+(1) 0.08% - {Secret Note}
+(1) 0.08% - {Secret Note}
+(1) 0.08% - {Secret Note}
+(1) 0.08% - {Secret Note}
+(1) 0.08% - {Secret Note}
+(1) 0.08% - {Secret Note}
+(1) 0.08% - {Secret Note}
+(1) 0.08% - {Secret Note}
+(1) 0.08% - {Secret Note}
+(1) 0.08% - {Secret Note}
+(1) 0.08% - {Secret Note}
+(1) 0.08% - {Secret Note}
+(1) 0.08% - {Secret Note}
+(1) 0.08% - {Secret Note}
+(1) 0.08% - {Secret Note}
+(1) 0.08% - {Secret Note}
+(1) 0.08% - {Secret Note}
+(1) 0.08% - {Secret Note}
+(1) 0.08% - {Village Kid's Letter}
+(1) 0.08% - {Archaeologist Enbanu's Secret Letter}
+(1) 0.08% - {Baran Suppression Team Captain Darius's Letter}
+(1) 0.08% - {Letter for Unknown Addressee}
+(1) 0.08% - {Lost Traveler's Distress Letter}
+(1) 0.08% - {Expedition Team Member's Letter}
+(1) 0.08% - {Letter for Unknown Addressee}
+(1) 0.08% - {Letter for Unknown Addressee}
+(1) 0.08% - {Letter for Unknown Addressee}
+(1) 0.08% - {Letter for Unknown Addressee}
+(1) 0.08% - {Letter for Unknown Addressee}
+(1) 0.08% - {Letter for Unknown Addressee}
+(1) 0.08% - {Letter for Unknown Addressee}
+(1) 0.08% - {Letter for Unknown Addressee}
+(1) 0.08% - {Letter for Unknown Addressee}
+(1) 0.08% - {Letter for Unknown Addressee}
+(1) 0.08% - {Crumpled Memo}
+(1) 0.08% - {Crumpled Memo}
+(1) 0.08% - {Crumpled Memo}
+(1) 0.08% - {Crumpled Memo}
+(1) 0.08% - {Crumpled Memo}
+(1) 0.08% - {Crumpled Memo}
+(1) 0.08% - {Crumpled Memo}
+(1) 0.08% - {Crumpled Memo}
+(1) 0.08% - {Crumpled Memo}
+(1) 0.08% - {Crumpled Memo}
+(1) 0.08% - {Crumpled Memo}
+(1) 0.08% - {Crumpled Memo}
+(1) 0.08% - {Crumpled Memo}
+(1) 0.08% - {Crumpled Memo}
+(1) 0.08% - {Crumpled Memo}
+(1) 0.08% - {Crumpled Memo}
+(1) 0.08% - {Crumpled Memo}
+(1) 0.08% - {Crumpled Memo}
+(1) 0.08% - {Crumpled Memo}
+(1) 0.08% - {Crumpled Memo}
+(1) 0.08% - {Crumpled Memo}
+(1) 0.08% - {Crumpled Memo}
+(1) 0.08% - {Crumpled Memo}
+(1) 0.08% - {Crumpled Memo}
+(1) 0.08% - {Crumpled Memo}
+(1) 0.08% - {Crumpled Memo}
+(1) 0.08% - {Crumpled Memo}
+(1) 0.08% - {Crumpled Memo}
+(1) 0.08% - {Crumpled Memo}
+(1) 0.08% - {Crumpled Memo}
+(1) 0.08% - {Crumpled Memo}
+(1) 0.08% - {Crumpled Memo}
+(1) 0.08% - {Crumpled Memo}
+(1) 0.08% - {Crumpled Memo}
+(1) 0.08% - {Crumpled Memo}
+(1) 0.08% - {Crumpled Memo}
+(1) 0.08% - {Crumpled Memo}
+(1) 0.08% - {Crumpled Memo}
+(1) 0.08% - {Crumpled Memo}
+(1) 0.08% - {Crumpled Memo}
+(1) 0.08% - {Crumpled Memo}
+(1) 0.08% - {Crumpled Memo}
+
+* Drop table #42100 (method: random one of list)
+[Node 45 ("unknown type", cat:0)]
+  (1x Node found in Fox Plains)
+[Node 51 ("unknown type", cat:0)]
+[Node 73 ("unknown type", cat:0)]
+[Node 79 ("unknown type", cat:0)]
+(1) 0.42% - {Explorer's Token}
+(1) 16.15% - {Advanced HP Recovery Potion}
+(1) 15.48% - {Master HP Recovery Potion}
+(1) 16.15% - {Advanced Swiftness Elixir}
+(1) 16.15% - {Advanced Enrage Elixir}
+(1) 1.68% - {Teleportation Picture}
+(1) 3.36% - {Weapon Enchant Scroll}
+(1) 10.09% - {Armor Enchant Scroll}
+(1) 0.17% - {Old Document}
+(1) 0.17% - {Old Document}
+(1) 0.17% - {Old Document}
+(1) 0.17% - {Old Document}
+(1) 0.17% - {Old Document}
+(1) 0.17% - {Old Document}
+(1) 0.17% - {Old Document}
+(1) 0.17% - {Old Document}
+(1) 0.17% - {Old Document}
+(1) 0.17% - {Secret Clue}
+(1) 0.17% - {Secret Clue}
+(1) 0.17% - {Secret Clue}
+(1) 0.17% - {Secret Clue}
+(1) 0.17% - {Secret Clue}
+(1) 0.17% - {Secret Clue}
+(1) 0.17% - {Secret Clue}
+(1) 0.17% - {Secret Clue}
+(1) 0.17% - {Secret Clue}
+(1) 0.17% - {Secret Clue}
+(1) 0.17% - {Secret Clue}
+(1) 0.17% - {Secret Clue}
+(1) 0.17% - {Secret Clue}
+(1) 0.17% - {Secret Clue}
+(1) 0.17% - {Secret Clue}
+(1) 0.17% - {Secret Clue}
+(1) 0.17% - {Secret Clue}
+(1) 0.17% - {Secret Clue}
+(1) 0.17% - {Secret Clue}
+(1) 0.17% - {Secret Clue}
+(1) 0.17% - {Secret Clue}
+(1) 0.17% - {Secret Clue}
+(1) 0.17% - {Secret Clue}
+(1) 0.17% - {Secret Clue}
+(1) 0.17% - {Secret Clue}
+(1) 0.17% - {Secret Clue}
+(1) 0.17% - {Secret Clue}
+(1) 0.17% - {Secret Clue}
+(1) 0.17% - {Secret Clue}
+(1) 0.17% - {Secret Clue}
+(1) 0.17% - {Secret Clue}
+(1) 0.17% - {Secret Clue}
+(1) 0.17% - {Secret Clue}
+(1) 0.17% - {Secret Clue}
+(1) 0.17% - {Secret Note}
+(1) 0.17% - {Secret Note}
+(1) 0.17% - {Secret Note}
+(1) 0.17% - {Secret Note}
+(1) 0.17% - {Secret Note}
+(1) 0.17% - {Secret Note}
+(1) 0.17% - {Secret Note}
+(1) 0.17% - {Secret Note}
+(1) 0.17% - {Secret Note}
+(1) 0.17% - {Secret Note}
+(1) 0.17% - {Secret Note}
+(1) 0.17% - {Secret Note}
+(1) 0.17% - {Secret Note}
+(1) 0.17% - {Secret Note}
+(1) 0.17% - {Secret Note}
+(1) 0.17% - {Secret Note}
+(1) 0.17% - {Secret Note}
+(1) 0.17% - {Secret Note}
+(1) 0.17% - {Secret Note}
+(1) 0.17% - {Secret Note}
+(1) 0.17% - {Secret Note}
+(1) 0.17% - {Village Kid's Letter}
+(1) 0.17% - {Archaeologist Enbanu's Secret Letter}
+(1) 0.17% - {Baran Suppression Team Captain Darius's Letter}
+(1) 0.17% - {Letter for Unknown Addressee}
+(1) 0.17% - {Lost Traveler's Distress Letter}
+(1) 0.17% - {Expedition Team Member's Letter}
+(1) 0.17% - {Letter for Unknown Addressee}
+(1) 0.17% - {Letter for Unknown Addressee}
+(1) 0.17% - {Letter for Unknown Addressee}
+(1) 0.17% - {Letter for Unknown Addressee}
+(1) 0.17% - {Letter for Unknown Addressee}
+(1) 0.17% - {Letter for Unknown Addressee}
+(1) 0.17% - {Letter for Unknown Addressee}
+(1) 0.17% - {Letter for Unknown Addressee}
+(1) 0.17% - {Letter for Unknown Addressee}
+(1) 0.17% - {Letter for Unknown Addressee}
+(1) 0.17% - {Crumpled Memo}
+(1) 0.17% - {Crumpled Memo}
+(1) 0.17% - {Crumpled Memo}
+(1) 0.17% - {Crumpled Memo}
+(1) 0.17% - {Crumpled Memo}
+(1) 0.17% - {Crumpled Memo}
+(1) 0.17% - {Crumpled Memo}
+(1) 0.17% - {Crumpled Memo}
+(1) 0.17% - {Crumpled Memo}
+(1) 0.17% - {Crumpled Memo}
+(1) 0.17% - {Crumpled Memo}
+(1) 0.17% - {Crumpled Memo}
+(1) 0.17% - {Crumpled Memo}
+(1) 0.17% - {Crumpled Memo}
+(1) 0.17% - {Crumpled Memo}
+(1) 0.17% - {Crumpled Memo}
+(1) 0.17% - {Crumpled Memo}
+(1) 0.17% - {Crumpled Memo}
+(1) 0.17% - {Crumpled Memo}
+(1) 0.17% - {Crumpled Memo}
+(1) 0.17% - {Crumpled Memo}
+(1) 0.17% - {Crumpled Memo}
+(1) 0.17% - {Crumpled Memo}
+(1) 0.17% - {Crumpled Memo}
+(1) 0.17% - {Crumpled Memo}
+(1) 0.17% - {Crumpled Memo}
+(1) 0.17% - {Crumpled Memo}
+(1) 0.17% - {Crumpled Memo}
+(1) 0.17% - {Crumpled Memo}
+(1) 0.17% - {Crumpled Memo}
+(1) 0.17% - {Crumpled Memo}
+(1) 0.17% - {Crumpled Memo}
+(1) 0.17% - {Crumpled Memo}
+(1) 0.17% - {Crumpled Memo}
+(1) 0.17% - {Crumpled Memo}
+(1) 0.17% - {Crumpled Memo}
+(1) 0.17% - {Crumpled Memo}
+(1) 0.17% - {Crumpled Memo}
+(1) 0.17% - {Crumpled Memo}
+(1) 0.17% - {Crumpled Memo}
+(1) 0.17% - {Crumpled Memo}
+(1) 0.17% - {Crumpled Memo}
+
+* Drop table #42101 (method: random one of list)
+[Node 46 ("unknown type", cat:0)]
+[Node 52 ("unknown type", cat:0)]
+[Node 74 ("unknown type", cat:0)]
+[Node 80 ("unknown type", cat:0)]
+(1) 0.38% - {Explorer's Token}
+(1) 14.76% - {Master MP Recovery Potion}
+(1) 14.14% - {Artisan MP Recovery Potion}
+(1) 9.22% - {Advanced Haste Elixir}
+(1) 1.54% - {Teleportation Picture}
+(1) 3.07% - {Weapon Enchant Scroll}
+(1) 9.22% - {Armor Enchant Scroll}
+(1) 14.76% - {Superior Rescue Potion}
+(1) 14.14% - {Master Rescue Potion}
+(1) 0.15% - {Old Document}
+(1) 0.15% - {Old Document}
+(1) 0.15% - {Old Document}
+(1) 0.15% - {Old Document}
+(1) 0.15% - {Old Document}
+(1) 0.15% - {Old Document}
+(1) 0.15% - {Old Document}
+(1) 0.15% - {Old Document}
+(1) 0.15% - {Old Document}
+(1) 0.15% - {Secret Clue}
+(1) 0.15% - {Secret Clue}
+(1) 0.15% - {Secret Clue}
+(1) 0.15% - {Secret Clue}
+(1) 0.15% - {Secret Clue}
+(1) 0.15% - {Secret Clue}
+(1) 0.15% - {Secret Clue}
+(1) 0.15% - {Secret Clue}
+(1) 0.15% - {Secret Clue}
+(1) 0.15% - {Secret Clue}
+(1) 0.15% - {Secret Clue}
+(1) 0.15% - {Secret Clue}
+(1) 0.15% - {Secret Clue}
+(1) 0.15% - {Secret Clue}
+(1) 0.15% - {Secret Clue}
+(1) 0.15% - {Secret Clue}
+(1) 0.15% - {Secret Clue}
+(1) 0.15% - {Secret Clue}
+(1) 0.15% - {Secret Clue}
+(1) 0.15% - {Secret Clue}
+(1) 0.15% - {Secret Clue}
+(1) 0.15% - {Secret Clue}
+(1) 0.15% - {Secret Clue}
+(1) 0.15% - {Secret Clue}
+(1) 0.15% - {Secret Clue}
+(1) 0.15% - {Secret Clue}
+(1) 0.15% - {Secret Clue}
+(1) 0.15% - {Secret Clue}
+(1) 0.15% - {Secret Clue}
+(1) 0.15% - {Secret Clue}
+(1) 0.15% - {Secret Clue}
+(1) 0.15% - {Secret Clue}
+(1) 0.15% - {Secret Clue}
+(1) 0.15% - {Secret Clue}
+(1) 0.15% - {Secret Note}
+(1) 0.15% - {Secret Note}
+(1) 0.15% - {Secret Note}
+(1) 0.15% - {Secret Note}
+(1) 0.15% - {Secret Note}
+(1) 0.15% - {Secret Note}
+(1) 0.15% - {Secret Note}
+(1) 0.15% - {Secret Note}
+(1) 0.15% - {Secret Note}
+(1) 0.15% - {Secret Note}
+(1) 0.15% - {Secret Note}
+(1) 0.15% - {Secret Note}
+(1) 0.15% - {Secret Note}
+(1) 0.15% - {Secret Note}
+(1) 0.15% - {Secret Note}
+(1) 0.15% - {Secret Note}
+(1) 0.15% - {Secret Note}
+(1) 0.15% - {Secret Note}
+(1) 0.15% - {Secret Note}
+(1) 0.15% - {Secret Note}
+(1) 0.15% - {Secret Note}
+(1) 0.15% - {Village Kid's Letter}
+(1) 0.15% - {Archaeologist Enbanu's Secret Letter}
+(1) 0.15% - {Baran Suppression Team Captain Darius's Letter}
+(1) 0.15% - {Letter for Unknown Addressee}
+(1) 0.15% - {Lost Traveler's Distress Letter}
+(1) 0.15% - {Expedition Team Member's Letter}
+(1) 0.15% - {Letter for Unknown Addressee}
+(1) 0.15% - {Letter for Unknown Addressee}
+(1) 0.15% - {Letter for Unknown Addressee}
+(1) 0.15% - {Letter for Unknown Addressee}
+(1) 0.15% - {Letter for Unknown Addressee}
+(1) 0.15% - {Letter for Unknown Addressee}
+(1) 0.15% - {Letter for Unknown Addressee}
+(1) 0.15% - {Letter for Unknown Addressee}
+(1) 0.15% - {Letter for Unknown Addressee}
+(1) 0.15% - {Letter for Unknown Addressee}
+(1) 0.15% - {Crumpled Memo}
+(1) 0.15% - {Crumpled Memo}
+(1) 0.15% - {Crumpled Memo}
+(1) 0.15% - {Crumpled Memo}
+(1) 0.15% - {Crumpled Memo}
+(1) 0.15% - {Crumpled Memo}
+(1) 0.15% - {Crumpled Memo}
+(1) 0.15% - {Crumpled Memo}
+(1) 0.15% - {Crumpled Memo}
+(1) 0.15% - {Crumpled Memo}
+(1) 0.15% - {Crumpled Memo}
+(1) 0.15% - {Crumpled Memo}
+(1) 0.15% - {Crumpled Memo}
+(1) 0.15% - {Crumpled Memo}
+(1) 0.15% - {Crumpled Memo}
+(1) 0.15% - {Crumpled Memo}
+(1) 0.15% - {Crumpled Memo}
+(1) 0.15% - {Crumpled Memo}
+(1) 0.15% - {Crumpled Memo}
+(1) 0.15% - {Crumpled Memo}
+(1) 0.15% - {Crumpled Memo}
+(1) 0.15% - {Crumpled Memo}
+(1) 0.15% - {Crumpled Memo}
+(1) 0.15% - {Crumpled Memo}
+(1) 0.15% - {Crumpled Memo}
+(1) 0.15% - {Crumpled Memo}
+(1) 0.15% - {Crumpled Memo}
+(1) 0.15% - {Crumpled Memo}
+(1) 0.15% - {Crumpled Memo}
+(1) 0.15% - {Crumpled Memo}
+(1) 0.15% - {Crumpled Memo}
+(1) 0.15% - {Crumpled Memo}
+(1) 0.15% - {Crumpled Memo}
+(1) 0.15% - {Crumpled Memo}
+(1) 0.15% - {Crumpled Memo}
+(1) 0.15% - {Crumpled Memo}
+(1) 0.15% - {Crumpled Memo}
+(1) 0.15% - {Crumpled Memo}
+(1) 0.15% - {Crumpled Memo}
+(1) 0.15% - {Crumpled Memo}
+(1) 0.15% - {Crumpled Memo}
+(1) 0.15% - {Crumpled Memo}
+
+* Drop table #42200 (method: random one of list)
+[Node 83 ("unknown type", cat:4)]
+  (7x Nodes found in Southern Plains)
+  (14x Nodes found in Livias)
+  (5x Nodes found in Livias Mountain)
+  (5x Nodes found in Leatvar Den)
+  (3x Nodes found in Leatvar Den BF2)
+  (2x Nodes found in Leatvar Den BF3)
+  (9x Nodes found in Leatvar Den BF4)
+  (1x Node found in Mephisto Hall)
+  (1x Node found in Mephisto Hall BF2)
+  (1x Node found in Mephisto Hall BF3)
+  (1x Node found in Mephisto Hall BF4)
+  (1x Node found in Mephisto Hall BF5)
+  (12x Nodes found in Sand Plains)
+  (11x Nodes found in Baran)
+  (4x Nodes found in Baran Ravine)
+  (1x Node found in Barkan Catacombs BF2)
+  (1x Node found in Barkan Catacombs BF5)
+  (11x Nodes found in Fox Plains)
+  (5x Nodes found in Forgotten Sand Ravine)
+  (3x Nodes found in Land of the Forgotten Kingdom)
+  (4x Nodes found in Dead Warrior's Cave)
+  (3x Nodes found in Sky Vine)
+  (11x Nodes found in Wasteland)
+  (5x Nodes found in Serene Plains)
+  (9x Nodes found in Northern Serraborg Castle)
+  (10x Nodes found in Birch Tree Lake)
+  (15x Nodes found in Northern Timberlands)
+  (5x Nodes found in Hunter's Hill)
+  (10x Nodes found in Varoc Mountains Entrance)
+  (5x Nodes found in Southern Varoc Mountains)
+  (1x Node found in Howling Valley)
+  (5x Nodes found in Tamlin)
+  (3x Nodes found in Varoc Ravine)
+  (3x Nodes found in Northern Varoc Mountains)
+  (1x Node found in Tomb of Short Legs)
+  (4x Nodes found in Freya's Road)
+  (8x Nodes found in Pilgrim's Path)
+  (6x Nodes found in Eastern Somren)
+  (12x Nodes found in Bensa River)
+  (5x Nodes found in Regus Outskirts)
+(1) 2.78% - {Unidentified Document 1}
+(1) 2.78% - {Unidentified Document 2}
+(1) 2.78% - {Unidentified Document 3}
+(1) 2.78% - {Unidentified Document 4}
+(1) 2.78% - {Unidentified Document 5}
+(1) 2.78% - {Unidentified Document 6}
+(1) 2.78% - {Unidentified Document 7}
+(1) 2.78% - {Unidentified Document 8}
+(1) 2.78% - {Unidentified Document 9}
+(1) 2.78% - {Unidentified Document 10}
+(1) 2.78% - {Unidentified Document 11}
+(1) 2.78% - {Unidentified Document 12}
+(1) 2.78% - {Unidentified Document 13}
+(1) 2.78% - {Unidentified Document 14}
+(1) 2.78% - {Unidentified Document 15}
+(1) 2.78% - {Unidentified Document 16}
+(1) 2.78% - {Unidentified Document 17}
+(1) 2.78% - {Unidentified Document 18}
+(1) 2.78% - {Unidentified Document 19}
+(1) 2.78% - {Unidentified Document 20}
+(1) 2.78% - {Unidentified Document 21}
+(1) 2.78% - {Unidentified Document 22}
+(1) 2.78% - {Unidentified Document 23}
+(1) 2.78% - {Unidentified Document 24}
+(1) 2.78% - {Unidentified Document 25}
+(1) 2.78% - {Unidentified Document 26}
+(1) 2.78% - {Unidentified Document 27}
+(1) 2.78% - {Unidentified Document 28}
+(1) 2.78% - {Unidentified Document 29}
+(1) 2.78% - {Unidentified Document 30}
+(1) 2.78% - {Unidentified Document 31}
+(1) 2.78% - {Unidentified Document 32}
+(1) 2.78% - {Unidentified Document 33}
+(1) 2.78% - {Unidentified Document 34}
+(1) 2.78% - {Unidentified Document 35}
+(1) 2.78% - {Unidentified Document 36}
+
+* Drop table #42201 (method: random one of list)
+[Node 84 ("unknown type", cat:4)]
+  (5x Nodes found in Southern Plains)
+  (16x Nodes found in Livias)
+  (8x Nodes found in Livias Mountain)
+  (1x Node found in Lizardman Valley)
+  (6x Nodes found in Leatvar Den)
+  (1x Node found in Leatvar Den BF2)
+  (3x Nodes found in Leatvar Den BF3)
+  (7x Nodes found in Leatvar Den BF4)
+  (1x Node found in Mephisto Hall)
+  (1x Node found in Mephisto Hall BF2)
+  (1x Node found in Mephisto Hall BF3)
+  (1x Node found in Mephisto Hall BF4)
+  (1x Node found in Mephisto Hall BF5)
+  (13x Nodes found in Sand Plains)
+  (7x Nodes found in Baran)
+  (3x Nodes found in Baran Ravine)
+  (1x Node found in Barkan Catacombs BF2)
+  (1x Node found in Barkan Catacombs BF3)
+  (9x Nodes found in Fox Plains)
+  (4x Nodes found in Forgotten Sand Ravine)
+  (4x Nodes found in Land of the Forgotten Kingdom)
+  (4x Nodes found in Dead Warrior's Cave)
+  (3x Nodes found in Sky Vine)
+  (11x Nodes found in Wasteland)
+  (6x Nodes found in Serene Plains)
+  (9x Nodes found in Northern Serraborg Castle)
+  (12x Nodes found in Birch Tree Lake)
+  (12x Nodes found in Northern Timberlands)
+  (6x Nodes found in Hunter's Hill)
+  (10x Nodes found in Varoc Mountains Entrance)
+  (5x Nodes found in Southern Varoc Mountains)
+  (1x Node found in Howling Valley)
+  (5x Nodes found in Tamlin)
+  (4x Nodes found in Varoc Ravine)
+  (4x Nodes found in Northern Varoc Mountains)
+  (3x Nodes found in Tomb of Short Legs)
+  (3x Nodes found in Freya's Road)
+  (7x Nodes found in Pilgrim's Path)
+  (10x Nodes found in Eastern Somren)
+  (15x Nodes found in Bensa River)
+  (5x Nodes found in Regus Outskirts)
+(1) 0.54% - {Chef's Note 1}
+(1) 0.54% - {Chef's Note 2}
+(1) 0.54% - {Chef's Note 3}
+(1) 0.54% - {Chef's Note 4}
+(1) 0.54% - {Chef's Note 5}
+(1) 0.54% - {Chef's Note 6}
+(1) 0.54% - {Chef's Note 7}
+(1) 0.54% - {Chef's Note 8}
+(1) 0.54% - {Chef's Note 9}
+(1) 0.54% - {Chef's Note 10}
+(1) 0.54% - {Chef's Note 11}
+(1) 0.54% - {Chef's Note 12}
+(1) 0.54% - {Chef's Note 13}
+(1) 0.54% - {Chef's Note 14}
+(1) 0.54% - {Chef's Note 15}
+(1) 0.54% - {Chef's Note 16}
+(1) 0.54% - {Chef's Note 17}
+(1) 0.54% - {Chef's Note 18}
+(1) 0.54% - {Chef's Note 19}
+(1) 0.54% - {Chef's Note 20}
+(1) 0.54% - {Chef's Note 21}
+(1) 0.54% - {Chef's Note 22}
+(1) 0.54% - {Chef's Note 23}
+(1) 0.54% - {Chef's Note 24}
+(1) 0.54% - {Chef's Note 25}
+(1) 0.54% - {Chef's Note 26}
+(1) 0.54% - {Chef's Note 27}
+(1) 0.54% - {Chef's Note 28}
+(1) 0.54% - {Chef's Note 29}
+(1) 0.54% - {Chef's Note 30}
+(1) 0.54% - {Chef's Note 31}
+(1) 0.54% - {Chef's Note 32}
+(1) 0.54% - {Chef's Note 33}
+(1) 0.54% - {Chef's Note 34}
+(1) 0.54% - {Chef's Note 35}
+(1) 0.54% - {Chef's Note 36}
+(1) 0.54% - {Chef's Note 37}
+(1) 0.54% - {Chef's Note 38}
+(1) 0.54% - {Chef's Note 39}
+(1) 0.54% - {Chef's Note 40}
+(1) 0.54% - {Chef's Note 41}
+(1) 0.54% - {Chef's Note 42}
+(1) 0.54% - {Chef's Note 43}
+(1) 0.54% - {Chef's Note 44}
+(1) 0.54% - {Chef's Note 45}
+(1) 0.54% - {Chef's Note 46}
+(1) 0.54% - {Chef's Note 47}
+(1) 0.54% - {Chef's Note 48}
+(1) 0.54% - {Chef's Note 49}
+(1) 0.54% - {Chef's Note 50}
+(1) 0.54% - {Chef's Note 51}
+(1) 0.54% - {Chef's Note 52}
+(1) 0.54% - {Chef's Note 53}
+(1) 0.54% - {Chef's Note 54}
+(1) 0.54% - {Chef's Note 55}
+(1) 0.54% - {Chef's Note 56}
+(1) 0.54% - {Chef's Note 57}
+(1) 0.54% - {Chef's Note 58}
+(1) 0.54% - {Chef's Note 59}
+(1) 0.54% - {Chef's Note 60}
+(1) 0.54% - {Chef's Note 61}
+(1) 0.54% - {Chef's Note 62}
+(1) 0.54% - {Chef's Note 63}
+(1) 0.54% - {Chef's Note 64}
+(1) 0.54% - {Chef's Note 65}
+(1) 0.54% - {Chef's Note 66}
+(1) 0.54% - {Chef's Note 67}
+(1) 0.54% - {Chef's Note 68}
+(1) 0.54% - {Chef's Note 69}
+(1) 0.54% - {Chef's Note 70}
+(1) 0.54% - {Chef's Note 71}
+(1) 0.54% - {Chef's Note 72}
+(1) 0.54% - {Chef's Note 73}
+(1) 0.54% - {Chef's Note 74}
+(1) 0.54% - {Chef's Note 75}
+(1) 0.54% - {Chef's Note 76}
+(1) 0.54% - {Chef's Note 77}
+(1) 0.54% - {Chef's Note 78}
+(1) 0.54% - {Chef's Note 79}
+(1) 0.54% - {Chef's Note 80}
+(1) 0.54% - {Chef's Note 81}
+(1) 0.54% - {Chef's Note 82}
+(1) 0.54% - {Chef's Note 83}
+(1) 0.54% - {Chef's Note 84}
+(1) 0.54% - {Chef's Note 85}
+(1) 0.54% - {Chef's Note 86}
+(1) 0.54% - {Chef's Note 87}
+(1) 0.54% - {Chef's Note 88}
+(1) 0.54% - {Chef's Note 89}
+(1) 0.54% - {Chef's Note 90}
+(1) 0.54% - {Chef's Note 91}
+(1) 0.54% - {Chef's Note 92}
+(1) 0.54% - {Chef's Note 93}
+(1) 0.54% - {Chef's Note 94}
+(1) 0.54% - {Chef's Note 95}
+(1) 0.54% - {Chef's Note 96}
+(1) 0.54% - {Chef's Note 97}
+(1) 0.54% - {Chef's Note 98}
+(1) 0.54% - {Chef's Note 99}
+(1) 0.54% - {Chef's Note 100}
+(1) 0.54% - {Chef's Note 101}
+(1) 0.54% - {Chef's Note 102}
+(1) 0.54% - {Chef's Note 103}
+(1) 0.54% - {Chef's Note 104}
+(1) 0.54% - {Chef's Note 105}
+(1) 0.54% - {Chef's Note 106}
+(1) 0.54% - {Chef's Note 107}
+(1) 0.54% - {Chef's Note 108}
+(1) 0.54% - {Chef's Note 109}
+(1) 0.54% - {Chef's Note 110}
+(1) 0.54% - {Chef's Note 111}
+(1) 0.54% - {Chef's Note 112}
+(1) 0.54% - {Chef's Note 113}
+(1) 0.54% - {Chef's Note 114}
+(1) 0.54% - {Chef's Note 115}
+(1) 0.54% - {Chef's Note 116}
+(1) 0.54% - {Chef's Note 117}
+(1) 0.54% - {Chef's Note 118}
+(1) 0.54% - {Chef's Note 119}
+(1) 0.54% - {Chef's Note 120}
+(1) 0.54% - {Chef's Note 121}
+(1) 0.54% - {Chef's Note 122}
+(1) 0.54% - {Chef's Note 123}
+(1) 0.54% - {Chef's Note 124}
+(1) 0.54% - {Chef's Note 125}
+(1) 0.54% - {Chef's Note 126}
+(1) 0.54% - {Chef's Note 127}
+(1) 0.54% - {Chef's Note 128}
+(1) 0.54% - {Chef's Note 129}
+(1) 0.54% - {Chef's Note 130}
+(1) 0.54% - {Chef's Note 131}
+(1) 0.54% - {Chef's Note 132}
+(1) 0.54% - {Chef's Note 133}
+(1) 0.54% - {Chef's Note 134}
+(1) 0.54% - {Chef's Note 135}
+(1) 0.54% - {Chef's Note 136}
+(1) 0.54% - {Chef's Note 137}
+(1) 0.54% - {Chef's Note 138}
+(1) 0.54% - {Chef's Note 139}
+(1) 0.54% - {Chef's Note 140}
+(1) 0.54% - {Chef's Note 141}
+(1) 0.54% - {Chef's Note 142}
+(1) 0.54% - {Chef's Note 143}
+(1) 0.54% - {Chef's Note 144}
+(1) 0.54% - {Chef's Note 145}
+(1) 0.54% - {Chef's Note 146}
+(1) 0.54% - {Chef's Note 147}
+(1) 0.54% - {Chef's Note 148}
+(1) 0.54% - {Chef's Note 149}
+(1) 0.54% - {Chef's Note 150}
+(1) 0.54% - {Chef's Note 151}
+(1) 0.54% - {Chef's Note 152}
+(1) 0.54% - {Chef's Note 153}
+(1) 0.54% - {Chef's Note 154}
+(1) 0.54% - {Chef's Note 155}
+(1) 0.54% - {Chef's Note 156}
+(1) 0.54% - {Chef's Note 157}
+(1) 0.54% - {Chef's Note 158}
+(1) 0.54% - {Chef's Note 159}
+(1) 0.54% - {Chef's Note 160}
+(1) 0.54% - {Chef's Note 161}
+(1) 0.54% - {Chef's Note 162}
+(1) 0.54% - {Chef's Note 163}
+(1) 0.54% - {Chef's Note 164}
+(1) 0.54% - {Chef's Note 165}
+(1) 0.54% - {Chef's Note 166}
+(1) 0.54% - {Chef's Note 167}
+(1) 0.54% - {Chef's Note 168}
+(1) 0.54% - {Chef's Note 169}
+(1) 0.54% - {Chef's Note 170}
+(1) 0.54% - {Chef's Note 171}
+(1) 0.54% - {Chef's Note 172}
+(1) 0.54% - {Chef's Note 173}
+(1) 0.54% - {Chef's Note 174}
+(1) 0.54% - {Chef's Note 175}
+(1) 0.54% - {Chef's Note 176}
+(1) 0.54% - {Chef's Note 177}
+(1) 0.54% - {Chef's Note 178}
+(1) 0.54% - {Chef's Note 179}
+(1) 0.54% - {Chef's Note 180}
+(1) 0.54% - {Chef's Note 181}
+(1) 0.54% - {Chef's Note 182}
+(1) 0.54% - {Chef's Note 183}
+(1) 0.54% - {Chef's Note 184}
+(1) 0.54% - {Chef's Note 185}
+(1) 0.54% - {Chef's Note 186}
+
+* Drop table #42202 (method: random one of list)
+[Node 85 ("unknown type", cat:4)]
+  (5x Nodes found in Southern Plains)
+  (14x Nodes found in Livias)
+  (5x Nodes found in Livias Mountain)
+  (1x Node found in Lizardman Valley)
+  (7x Nodes found in Leatvar Den)
+  (3x Nodes found in Leatvar Den BF2)
+  (4x Nodes found in Leatvar Den BF3)
+  (6x Nodes found in Leatvar Den BF4)
+  (1x Node found in Mephisto Hall)
+  (1x Node found in Mephisto Hall BF2)
+  (1x Node found in Mephisto Hall BF3)
+  (1x Node found in Mephisto Hall BF4)
+  (1x Node found in Mephisto Hall BF5)
+  (10x Nodes found in Sand Plains)
+  (8x Nodes found in Baran)
+  (3x Nodes found in Baran Ravine)
+  (9x Nodes found in Fox Plains)
+  (5x Nodes found in Forgotten Sand Ravine)
+  (4x Nodes found in Land of the Forgotten Kingdom)
+  (4x Nodes found in Dead Warrior's Cave)
+  (3x Nodes found in Sky Vine)
+  (9x Nodes found in Wasteland)
+(1) 10.00% - {Some Adventurer's Journal 1}
+(1) 10.00% - {Some Adventurer's Journal 2}
+(1) 10.00% - {Some Adventurer's Journal 7}
+(1) 10.00% - {Some Adventurer's Journal 8}
+(1) 10.00% - {Some Adventurer's Journal 9}
+(1) 10.00% - {Some Adventurer's Journal 10}
+(1) 10.00% - {Some Adventurer's Journal 16}
+(1) 10.00% - {Some Adventurer's Journal 17}
+(1) 10.00% - {Some Adventurer's Journal 18}
+(1) 10.00% - {Some Adventurer's Journal 21}
+
+* Drop table #42203 (method: independent drop chance)
+[Node 86 ("unknown type", cat:4)]
+  (32x Nodes found in Southern Plains)
+  (80x Nodes found in Livias)
+  (47x Nodes found in Livias Mountain)
+  (10x Nodes found in Lizardman Valley)
+  (31x Nodes found in Leatvar Den)
+  (17x Nodes found in Leatvar Den BF2)
+  (10x Nodes found in Leatvar Den BF3)
+  (43x Nodes found in Leatvar Den BF4)
+  (3x Nodes found in Mephisto Hall)
+  (1x Node found in Mephisto Hall BF2)
+  (3x Nodes found in Mephisto Hall BF3)
+  (3x Nodes found in Mephisto Hall BF4)
+  (3x Nodes found in Mephisto Hall BF5)
+  (78x Nodes found in Sand Plains)
+  (47x Nodes found in Baran)
+  (19x Nodes found in Baran Ravine)
+  (6x Nodes found in Barkan Catacombs)
+  (6x Nodes found in Barkan Catacombs BF2)
+  (6x Nodes found in Barkan Catacombs BF3)
+  (6x Nodes found in Barkan Catacombs BF5)
+  (42x Nodes found in Fox Plains)
+  (21x Nodes found in Forgotten Sand Ravine)
+  (40x Nodes found in Land of the Forgotten Kingdom)
+  (23x Nodes found in Dead Warrior's Cave)
+  (11x Nodes found in Sky Vine)
+  (42x Nodes found in Wasteland)
+  (31x Nodes found in Serene Plains)
+  (55x Nodes found in Northern Serraborg Castle)
+  (45x Nodes found in Birch Tree Lake)
+  (30x Nodes found in Northern Timberlands)
+  (48x Nodes found in Hunter's Hill)
+  (32x Nodes found in Varoc Mountains Entrance)
+  (15x Nodes found in Southern Varoc Mountains)
+  (3x Nodes found in Howling Valley)
+  (15x Nodes found in Tamlin)
+  (32x Nodes found in Varoc Ravine)
+  (24x Nodes found in Northern Varoc Mountains)
+  (11x Nodes found in Tomb of Short Legs)
+  (23x Nodes found in Freya's Road)
+  (31x Nodes found in Pilgrim's Path)
+  (24x Nodes found in Eastern Somren)
+  (40x Nodes found in Bensa River)
+  (14x Nodes found in Regus Outskirts)
+    100.00% - {Advanced Enrage Elixir}
+    50.00% - {Orange Lining Fabric}
+    50.00% - {Empty Present Box}
+    50.00% - {Snowflake Brooch}
+    100.00% - {Love Letter}
+    50.00% - {100% Successful Confession Part 1}
+    50.00% - {100% Successful Confession Part 2}
+    50.00% - {100% Successful Confession Part 3}
+    0.00% - {[Lv. 30] Rare Visit Parchment}
+    4.00% - {Green Toy Egg}
+    2.00% - {Blue Toy Egg}
+    0.00% - {Purple Toy Egg}
+    0.00% - {Orange Toy Egg}
+
+* Drop table #42204 (method: random one of list)
+[Node 87 ("unknown type", cat:4)]
+  (5x Nodes found in Serene Plains)
+  (11x Nodes found in Northern Serraborg Castle)
+  (12x Nodes found in Birch Tree Lake)
+  (13x Nodes found in Northern Timberlands)
+  (6x Nodes found in Hunter's Hill)
+  (10x Nodes found in Varoc Mountains Entrance)
+  (5x Nodes found in Southern Varoc Mountains)
+  (1x Node found in Howling Valley)
+  (5x Nodes found in Tamlin)
+(1) 14.29% - {Some Adventurer's Journal 5}
+(1) 14.29% - {Some Adventurer's Journal 6}
+(1) 14.29% - {Some Adventurer's Journal 12}
+(1) 14.29% - {Some Adventurer's Journal 13}
+(1) 14.29% - {Some Adventurer's Journal 19}
+(1) 14.29% - {Some Adventurer's Journal 20}
+(1) 14.29% - {Some Adventurer's Journal 22}
+
+* Drop table #42205 (method: random one of list)
+[Node 88 ("unknown type", cat:4)]
+  (3x Nodes found in Varoc Ravine)
+  (4x Nodes found in Northern Varoc Mountains)
+  (2x Nodes found in Tomb of Short Legs)
+  (2x Nodes found in Freya's Road)
+  (11x Nodes found in Pilgrim's Path)
+  (9x Nodes found in Eastern Somren)
+  (14x Nodes found in Bensa River)
+  (4x Nodes found in Regus Outskirts)
+(1) 14.29% - {Some Adventurer's Journal 3}
+(1) 14.29% - {Some Adventurer's Journal 4}
+(1) 14.29% - {Some Adventurer's Journal 11}
+(1) 14.29% - {Some Adventurer's Journal 14}
+(1) 14.29% - {Some Adventurer's Journal 15}
+(1) 14.29% - {Some Adventurer's Journal 23}
+(1) 14.29% - {Some Adventurer's Journal 24}
