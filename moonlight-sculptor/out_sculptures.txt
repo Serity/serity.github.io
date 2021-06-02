@@ -1,0 +1,802 @@
+* Running Rabbit Sculpture - 5x Light Lumber, 3x Little Claw, White Lunarium
+       Average: MOV SPD +1%
+          Fine: MOV SPD +2%
+        Superb: MOV SPD +3%, Agility +1
+   Masterpiece: MOV SPD +4%, Agility +2
+  Transcendent: MOV SPD +6%, Agility +5
+             Average => Fine: 50x White Lunarium, 5x Ruby
+              Fine => Superb: 50x White Lunarium, 5x Sapphire
+       Superb => Masterpiece: 50x White Lunarium, 5x Emerald
+ Masterpiece => Transcendent: 100x White Lunarium, 5x Crystal, 5x Vivid Crystallization
+
+* Deer Sculpture - 5x Light Lumber, Solid Hoof, White Lunarium
+       Average: MAG ATK +10
+          Fine: MAG ATK +25
+        Superb: MAG ATK +40, Intelligence +1
+   Masterpiece: MAG ATK +55, Intelligence +2
+  Transcendent: MAG ATK +80, Intelligence +5
+             Average => Fine: 50x White Lunarium, 5x Ruby
+              Fine => Superb: 50x White Lunarium, 5x Sapphire
+       Superb => Masterpiece: 50x White Lunarium, 5x Emerald
+ Masterpiece => Transcendent: 100x White Lunarium, 5x Crystal, 5x Vivid Crystallization
+
+* Fox Sculpture - 5x Light Lumber, 3x Fox Heartstone, White Lunarium
+       Average: Max HP +100
+          Fine: Max HP +150
+        Superb: Max HP +200, Constitution +1
+   Masterpiece: Max HP +250, Constitution +2
+  Transcendent: Max HP +330, Constitution +5
+             Average => Fine: 50x White Lunarium, 5x Ruby
+              Fine => Superb: 50x White Lunarium, 5x Sapphire
+       Superb => Masterpiece: 50x White Lunarium, 5x Emerald
+ Masterpiece => Transcendent: 100x White Lunarium, 5x Crystal, 5x Vivid Crystallization
+
+* Golden Goblin Sculpture - 5x Solid Lumber, 4x Splintered Golden Fragment, 3x Green Lunarium
+       Average: PHY DEF +10
+          Fine: PHY DEF +25
+        Superb: PHY DEF +40, Strength +2
+   Masterpiece: PHY DEF +55, Strength +3
+  Transcendent: PHY DEF +90, Strength +6
+             Average => Fine: 100x Green Lunarium, 10x Ruby
+              Fine => Superb: 100x Green Lunarium, 10x Sapphire
+       Superb => Masterpiece: 100x Green Lunarium, 10x Emerald
+ Masterpiece => Transcendent: 200x Green Lunarium, 10x Crystal, 10x Vivid Crystallization
+
+* Horse Sculpture - 5x Solid Lumber, 5x Resilient Leather, 3x Green Lunarium
+       Average: HP Regen +5
+          Fine: HP Regen +15
+        Superb: HP Regen +25, Constitution +2
+   Masterpiece: HP Regen +35, Constitution +3
+  Transcendent: HP Regen +50, Constitution +6
+             Average => Fine: 100x Green Lunarium, 10x Ruby
+              Fine => Superb: 100x Green Lunarium, 10x Sapphire
+       Superb => Masterpiece: 100x Green Lunarium, 10x Emerald
+ Masterpiece => Transcendent: 200x Green Lunarium, 10x Crystal, 10x Vivid Crystallization
+
+* Dynamic Dolphin Figurehead - 5x Solid Lumber, 5x Transparent Glass Piece, 3x Green Lunarium
+       Average: MP Regen +1
+          Fine: MP Regen +6
+        Superb: MP Regen +11, Wisdom +2
+   Masterpiece: MP Regen +16, Wisdom +3
+  Transcendent: MP Regen +26, Wisdom +6
+             Average => Fine: 100x Green Lunarium, 10x Ruby
+              Fine => Superb: 100x Green Lunarium, 10x Sapphire
+       Superb => Masterpiece: 100x Green Lunarium, 10x Emerald
+ Masterpiece => Transcendent: 200x Green Lunarium, 10x Crystal, 10x Vivid Crystallization
+
+* Water Spirit Naiad Sculpture - 20x Brick, 15x Sparkling Powder, 3x Green Lunarium
+       Average: Max HP +200
+          Fine: Max HP +300
+        Superb: Max HP +400, Charisma +4
+   Masterpiece: Max HP +500, Charisma +5
+  Transcendent: Max HP +650, Charisma +8
+             Average => Fine: 100x Green Lunarium, 30x Ruby
+              Fine => Superb: 100x Green Lunarium, 30x Sapphire
+       Superb => Masterpiece: 100x Green Lunarium, 30x Emerald
+ Masterpiece => Transcendent: 200x Green Lunarium, 30x Crystal, 10x Vivid Crystallization
+
+* Prina Sculpture - 25x Brick, 20x Bottled Breath, 5x Blue Lunarium
+       Average: MAG DEF +40
+          Fine: MAG DEF +60
+        Superb: MAG DEF +80, Wisdom +5
+   Masterpiece: MAG DEF +100, Wisdom +6
+  Transcendent: MAG DEF +130, Wisdom +9
+             Average => Fine: 100x Blue Lunarium, 40x Ruby
+              Fine => Superb: 100x Blue Lunarium, 40x Sapphire
+       Superb => Masterpiece: 100x Blue Lunarium, 40x Emerald
+ Masterpiece => Transcendent: 200x Blue Lunarium, 40x Crystal, 20x Vivid Crystallization
+
+* Lion Monster Sculpture - 30x Brick, 25x Solid Bone, 5x Blue Lunarium, 2x Topaz
+       Average: Crit DMG +6%
+          Fine: Crit DMG +8%
+        Superb: Crit DMG +10%, Strength +6
+   Masterpiece: Crit DMG +12%, Strength +7
+  Transcendent: Crit DMG +15%, Strength +10
+             Average => Fine: 100x Blue Lunarium, 60x Ruby
+              Fine => Superb: 100x Blue Lunarium, 60x Sapphire
+       Superb => Masterpiece: 100x Blue Lunarium, 60x Emerald
+ Masterpiece => Transcendent: 200x Blue Lunarium, 60x Crystal, 20x Vivid Crystallization
+
+* Sleeping Girl Sculpture - 65x Brick, 55x Bottled Breath, 8x Purple Lunarium, 4x Ruby
+       Average: Max MP +70
+          Fine: Max MP +100
+        Superb: Max MP +130, Intelligence +8
+   Masterpiece: Max MP +160, Intelligence +9
+  Transcendent: Max MP +210, Intelligence +12
+             Average => Fine: 50x Purple Lunarium, 100x Ruby
+              Fine => Superb: 50x Purple Lunarium, 100x Sapphire
+       Superb => Masterpiece: 50x Purple Lunarium, 100x Emerald
+ Masterpiece => Transcendent: 100x Purple Lunarium, 100x Crystal, 2x Radiant Crystallization
+
+* Goddess Freya Sculpture - 95x Brick, 15x Condensed Ice, 10x Orange Lunarium, 5x Crystal
+       Average: HP Regen +30
+          Fine: HP Regen +40
+        Superb: HP Regen +50, Charisma +9
+   Masterpiece: HP Regen +60, Charisma +10
+  Transcendent: HP Regen +80, Charisma +13
+             Average => Fine: 15x Orange Lunarium, 150x Ruby
+              Fine => Superb: 15x Orange Lunarium, 150x Sapphire
+       Superb => Masterpiece: 15x Orange Lunarium, 150x Emerald
+ Masterpiece => Transcendent: 30x Orange Lunarium, 150x Crystal, 5x Radiant Crystallization
+
+* Azure Wyvern Sculpture - Radiant Crystallization, 6x Kamosha's Tooth, 10x Orange Lunarium, 5x Crystal
+       Average: MP Regen +12
+          Fine: MP Regen +18
+        Superb: MP Regen +24, Agility +9
+   Masterpiece: MP Regen +30, Agility +10
+  Transcendent: MP Regen +40, Agility +13
+             Average => Fine: 15x Orange Lunarium, 150x Ruby
+              Fine => Superb: 15x Orange Lunarium, 150x Sapphire
+       Superb => Masterpiece: 15x Orange Lunarium, 150x Emerald
+ Masterpiece => Transcendent: 30x Orange Lunarium, 150x Crystal, 5x Radiant Crystallization
+
+* Icy Beauty Sculpture - 2x Radiant Crystallization, 8x Kamosha's Accessory, 10x Orange Lunarium, 5x Sapphire
+       Average: DEF +90
+          Fine: DEF +110
+        Superb: DEF +130, Charisma +10
+   Masterpiece: DEF +150, Charisma +11
+  Transcendent: DEF +180, Charisma +14
+             Average => Fine: 15x Orange Lunarium, 200x Ruby
+              Fine => Superb: 15x Orange Lunarium, 200x Sapphire
+       Superb => Masterpiece: 15x Orange Lunarium, 200x Emerald
+ Masterpiece => Transcendent: 30x Orange Lunarium, 200x Crystal, 5x Radiant Crystallization
+
+* Frostwyrm Sculpture - 2x Radiant Crystallization, 8x Shire's Curse, 10x Orange Lunarium, 5x Sapphire
+       Average: Max HP +600
+          Fine: Max HP +800
+        Superb: Max HP +1000, Strength +10
+   Masterpiece: Max HP +1200, Strength +11
+  Transcendent: Max HP +1500, Strength +14
+             Average => Fine: 15x Orange Lunarium, 200x Ruby
+              Fine => Superb: 15x Orange Lunarium, 200x Sapphire
+       Superb => Masterpiece: 15x Orange Lunarium, 200x Emerald
+ Masterpiece => Transcendent: 30x Orange Lunarium, 200x Crystal, 5x Radiant Crystallization
+
+* Ice Wolf Sculpture - 2x Radiant Crystallization, 8x Shire's Empty Darkness, 10x Orange Lunarium, 5x Sapphire
+       Average: Max MP +155
+          Fine: Max MP +170
+        Superb: Max MP +185, Intelligence +10
+   Masterpiece: Max MP +200, Intelligence +11
+  Transcendent: Max MP +230, Intelligence +14
+             Average => Fine: 15x Orange Lunarium, 200x Ruby
+              Fine => Superb: 15x Orange Lunarium, 200x Sapphire
+       Superb => Masterpiece: 15x Orange Lunarium, 200x Emerald
+ Masterpiece => Transcendent: 30x Orange Lunarium, 200x Crystal, 5x Radiant Crystallization
+
+* Tree and Bird Sculpture - 5x Light Lumber, 3x Rough Feather, White Lunarium
+       Average: PHY ATK +10
+          Fine: PHY ATK +25
+        Superb: PHY ATK +40, Strength +1
+   Masterpiece: PHY ATK +55, Strength +2
+  Transcendent: PHY ATK +80, Strength +5
+             Average => Fine: 50x White Lunarium, 5x Ruby
+              Fine => Superb: 50x White Lunarium, 5x Sapphire
+       Superb => Masterpiece: 50x White Lunarium, 5x Emerald
+ Masterpiece => Transcendent: 100x White Lunarium, 5x Crystal, 5x Vivid Crystallization
+
+* Cube Sculpture - 5x Transparent Crystallization, Condensed Lightning, 3x Green Lunarium
+       Average: ACC +1%
+          Fine: ACC +3%
+        Superb: ACC +5%, Charisma +2
+   Masterpiece: ACC +7%, Charisma +3
+  Transcendent: ACC +9%, Charisma +6
+             Average => Fine: 100x Green Lunarium, 10x Ruby
+              Fine => Superb: 100x Green Lunarium, 10x Sapphire
+       Superb => Masterpiece: 100x Green Lunarium, 10x Emerald
+ Masterpiece => Transcendent: 200x Green Lunarium, 10x Crystal, 10x Vivid Crystallization
+
+* Golden Unicorn Sculpture - 10x Copper Ingot, 4x Splintered Golden Fragment, 3x Green Lunarium
+       Average: MAG DEF +10
+          Fine: MAG DEF +25
+        Superb: MAG DEF +40, Intelligence +2
+   Masterpiece: MAG DEF +55, Intelligence +3
+  Transcendent: MAG DEF +90, Intelligence +6
+             Average => Fine: 100x Green Lunarium, 10x Ruby
+              Fine => Superb: 100x Green Lunarium, 10x Sapphire
+       Superb => Masterpiece: 100x Green Lunarium, 10x Emerald
+ Masterpiece => Transcendent: 200x Green Lunarium, 10x Crystal, 10x Vivid Crystallization
+
+* Steel Blacksmith Sculpture - 5x Advanced Iron Ingot, 10x Burnished Key, 3x Green Lunarium
+       Average: Max Weight Increase +80
+          Fine: Max Weight Increase +100
+        Superb: Max Weight Increase +120, Strength +3
+   Masterpiece: Max Weight Increase +140, Strength +4
+  Transcendent: Max Weight Increase +160, Strength +7
+             Average => Fine: 100x Green Lunarium, 20x Ruby
+              Fine => Superb: 100x Green Lunarium, 20x Sapphire
+       Superb => Masterpiece: 100x Green Lunarium, 20x Emerald
+ Masterpiece => Transcendent: 200x Green Lunarium, 20x Crystal, 10x Vivid Crystallization
+
+* Seamstress' Touch Sculpture - 15x Copper Ingot, 10x Cashmere Fabric, 3x Green Lunarium
+       Average: EVD Rate +1%
+          Fine: EVD Rate +2%
+        Superb: EVD Rate +4%, Charisma +3
+   Masterpiece: EVD Rate +6%, Charisma +4
+  Transcendent: EVD Rate +8%, Charisma +7
+             Average => Fine: 100x Green Lunarium, 20x Ruby
+              Fine => Superb: 100x Green Lunarium, 20x Sapphire
+       Superb => Masterpiece: 100x Green Lunarium, 20x Emerald
+ Masterpiece => Transcendent: 200x Green Lunarium, 20x Crystal, 10x Vivid Crystallization
+
+* Royal Chef Sculpture - 15x Copper Ingot, 10x Bottled Breath, 3x Green Lunarium
+       Average: HP Regen +15
+          Fine: HP Regen +25
+        Superb: HP Regen +35, Constitution +3
+   Masterpiece: HP Regen +45, Constitution +4
+  Transcendent: HP Regen +60, Constitution +7
+             Average => Fine: 100x Green Lunarium, 20x Ruby
+              Fine => Superb: 100x Green Lunarium, 20x Sapphire
+       Superb => Masterpiece: 100x Green Lunarium, 20x Emerald
+ Masterpiece => Transcendent: 200x Green Lunarium, 20x Crystal, 10x Vivid Crystallization
+
+* Victorious Archer Sculpture - 5x Advanced Iron Ingot, 10x Bottled Breath, 3x Green Lunarium
+       Average: PHY ATK +35
+          Fine: PHY ATK +50
+        Superb: PHY ATK +65, Agility +3
+   Masterpiece: PHY ATK +80, Agility +4
+  Transcendent: PHY ATK +100, Agility +7
+             Average => Fine: 100x Green Lunarium, 20x Ruby
+              Fine => Superb: 100x Green Lunarium, 20x Sapphire
+       Superb => Masterpiece: 100x Green Lunarium, 20x Emerald
+ Masterpiece => Transcendent: 200x Green Lunarium, 20x Crystal, 10x Vivid Crystallization
+
+* Victorious Warrior Sculpture - 5x Advanced Iron Ingot, 10x Bottled Breath, 3x Green Lunarium
+       Average: PHY ATK +35
+          Fine: PHY ATK +50
+        Superb: PHY ATK +65, Strength +3
+   Masterpiece: PHY ATK +80, Strength +4
+  Transcendent: PHY ATK +100, Strength +7
+             Average => Fine: 100x Green Lunarium, 20x Ruby
+              Fine => Superb: 100x Green Lunarium, 20x Sapphire
+       Superb => Masterpiece: 100x Green Lunarium, 20x Emerald
+ Masterpiece => Transcendent: 200x Green Lunarium, 20x Crystal, 10x Vivid Crystallization
+
+* Victorious Mage Sculpture - 5x Advanced Iron Ingot, 10x Bottled Breath, 3x Green Lunarium
+       Average: MAG ATK +35
+          Fine: MAG ATK +50
+        Superb: MAG ATK +65, Intelligence +3
+   Masterpiece: MAG ATK +80, Intelligence +4
+  Transcendent: MAG ATK +100, Intelligence +7
+             Average => Fine: 100x Green Lunarium, 20x Ruby
+              Fine => Superb: 100x Green Lunarium, 20x Sapphire
+       Superb => Masterpiece: 100x Green Lunarium, 20x Emerald
+ Masterpiece => Transcendent: 200x Green Lunarium, 20x Crystal, 10x Vivid Crystallization
+
+* Sleeping Boy Sculpture - 15x Brick, 10x Bottled Breath, 3x Green Lunarium
+       Average: Max MP +30
+          Fine: Max MP +50
+        Superb: Max MP +70, Wisdom +3
+   Masterpiece: Max MP +90, Wisdom +4
+  Transcendent: Max MP +120, Wisdom +7
+             Average => Fine: 100x Green Lunarium, 20x Ruby
+              Fine => Superb: 100x Green Lunarium, 20x Sapphire
+       Superb => Masterpiece: 100x Green Lunarium, 20x Emerald
+ Masterpiece => Transcendent: 200x Green Lunarium, 20x Crystal, 10x Vivid Crystallization
+
+* Hyena Sculpture - 20x Copper Ingot, 30x Thin Leg Bones, 3x Green Lunarium
+       Average: Crit DMG +2%
+          Fine: Crit DMG +4%
+        Superb: Crit DMG +6%, Strength +4
+   Masterpiece: Crit DMG +8%, Strength +5
+  Transcendent: Crit DMG +10%, Strength +8
+             Average => Fine: 100x Green Lunarium, 30x Ruby
+              Fine => Superb: 100x Green Lunarium, 30x Sapphire
+       Superb => Masterpiece: 100x Green Lunarium, 30x Emerald
+ Masterpiece => Transcendent: 200x Green Lunarium, 30x Crystal, 10x Vivid Crystallization
+
+* Running Leopard Sculpture - 20x Copper Ingot, 15x Bottled Breath, 3x Green Lunarium
+       Average: ACC +5%
+          Fine: ACC +7%
+        Superb: ACC +9%, Agility +4
+   Masterpiece: ACC +11%, Agility +5
+  Transcendent: ACC +13%, Agility +8
+             Average => Fine: 100x Green Lunarium, 30x Ruby
+              Fine => Superb: 100x Green Lunarium, 30x Sapphire
+       Superb => Masterpiece: 100x Green Lunarium, 30x Emerald
+ Masterpiece => Transcendent: 200x Green Lunarium, 30x Crystal, 10x Vivid Crystallization
+
+* Fisherman Sculpture - 20x Copper Ingot, 15x Sparkling Powder, 3x Green Lunarium
+       Average: PHY ATK +45
+          Fine: PHY ATK +60
+        Superb: PHY ATK +75, Constitution +4
+   Masterpiece: PHY ATK +90, Constitution +5
+  Transcendent: PHY ATK +120, Constitution +8
+             Average => Fine: 100x Green Lunarium, 30x Ruby
+              Fine => Superb: 100x Green Lunarium, 30x Sapphire
+       Superb => Masterpiece: 100x Green Lunarium, 30x Emerald
+ Masterpiece => Transcendent: 200x Green Lunarium, 30x Crystal, 10x Vivid Crystallization
+
+* Golden Carp Sculpture - 2x Gold Ingot, 10x Splintered Golden Fragment, 3x Green Lunarium
+       Average: MAG ATK +45
+          Fine: MAG ATK +60
+        Superb: MAG ATK +75, Intelligence +4
+   Masterpiece: MAG ATK +90, Intelligence +5
+  Transcendent: MAG ATK +120, Intelligence +8
+             Average => Fine: 100x Green Lunarium, 30x Ruby
+              Fine => Superb: 100x Green Lunarium, 30x Sapphire
+       Superb => Masterpiece: 100x Green Lunarium, 30x Emerald
+ Masterpiece => Transcendent: 200x Green Lunarium, 30x Crystal, 10x Vivid Crystallization
+
+* Gargoyle Sculpture - 25x Copper Ingot, 20x Razor-Sharp Claw, 5x Blue Lunarium
+       Average: Max Weight Increase +150
+          Fine: Max Weight Increase +170
+        Superb: Max Weight Increase +190, Strength +5
+   Masterpiece: Max Weight Increase +210, Strength +6
+  Transcendent: Max Weight Increase +230, Strength +9
+             Average => Fine: 100x Blue Lunarium, 40x Ruby
+              Fine => Superb: 100x Blue Lunarium, 40x Sapphire
+       Superb => Masterpiece: 100x Blue Lunarium, 40x Emerald
+ Masterpiece => Transcendent: 200x Blue Lunarium, 40x Crystal, 20x Vivid Crystallization
+
+* Griffin Sculpture - 10x Tough Leather, 20x Solid Bone, 5x Blue Lunarium
+       Average: EVD Rate +4%
+          Fine: EVD Rate +6%
+        Superb: EVD Rate +7%, Constitution +5
+   Masterpiece: EVD Rate +9%, Constitution +6
+  Transcendent: EVD Rate +11%, Constitution +9
+             Average => Fine: 100x Blue Lunarium, 40x Ruby
+              Fine => Superb: 100x Blue Lunarium, 40x Sapphire
+       Superb => Masterpiece: 100x Blue Lunarium, 40x Emerald
+ Masterpiece => Transcendent: 200x Blue Lunarium, 40x Crystal, 20x Vivid Crystallization
+
+* Elk Sculpture - 10x Solid Lumber, 20x Solid Hoof, 5x Blue Lunarium
+       Average: MP Regen +10
+          Fine: MP Regen +15
+        Superb: MP Regen +20, Intelligence +5
+   Masterpiece: MP Regen +25, Intelligence +6
+  Transcendent: MP Regen +35, Intelligence +9
+             Average => Fine: 100x Blue Lunarium, 40x Ruby
+              Fine => Superb: 100x Blue Lunarium, 40x Sapphire
+       Superb => Masterpiece: 100x Blue Lunarium, 40x Emerald
+ Masterpiece => Transcendent: 200x Blue Lunarium, 40x Crystal, 20x Vivid Crystallization
+
+* Delicate Crescent Moon Sculpture - 5x Silver Ingot, 5x Delicate Hand Mirror, 5x Blue Lunarium
+       Average: PHY DEF +40
+          Fine: PHY DEF +50
+        Superb: PHY DEF +60, Charisma +5
+   Masterpiece: PHY DEF +70, Charisma +6
+  Transcendent: PHY DEF +90, Charisma +9
+             Average => Fine: 100x Blue Lunarium, 40x Ruby
+              Fine => Superb: 100x Blue Lunarium, 40x Sapphire
+       Superb => Masterpiece: 100x Blue Lunarium, 40x Emerald
+ Masterpiece => Transcendent: 200x Blue Lunarium, 40x Crystal, 20x Vivid Crystallization
+
+* Blazing Sun Sculpture - 25x Copper Ingot, 20x Red Sunstone, 5x Blue Lunarium
+       Average: ATK +60
+          Fine: ATK +80
+        Superb: ATK +100, Constitution +5
+   Masterpiece: ATK +120, Constitution +6
+  Transcendent: ATK +150, Constitution +9
+             Average => Fine: 100x Blue Lunarium, 40x Ruby
+              Fine => Superb: 100x Blue Lunarium, 40x Sapphire
+       Superb => Masterpiece: 100x Blue Lunarium, 40x Emerald
+ Masterpiece => Transcendent: 200x Blue Lunarium, 40x Crystal, 20x Vivid Crystallization
+
+* Radiant Star Sculpture - 25x Brick, 20x Sparkling Powder, 5x Blue Lunarium
+       Average: DEF +40
+          Fine: DEF +50
+        Superb: DEF +60, Wisdom +5
+   Masterpiece: DEF +70, Wisdom +6
+  Transcendent: DEF +85, Wisdom +9
+             Average => Fine: 100x Blue Lunarium, 40x Ruby
+              Fine => Superb: 100x Blue Lunarium, 40x Sapphire
+       Superb => Masterpiece: 100x Blue Lunarium, 40x Emerald
+ Masterpiece => Transcendent: 200x Blue Lunarium, 40x Crystal, 20x Vivid Crystallization
+
+* Sea Serpent Sculpture - 25x Copper Ingot, 5x Condensed Ice, 5x Blue Lunarium
+       Average: Max HP +400
+          Fine: Max HP +500
+        Superb: Max HP +600, Agility +5
+   Masterpiece: Max HP +700, Agility +6
+  Transcendent: Max HP +850, Agility +9
+             Average => Fine: 100x Blue Lunarium, 40x Ruby
+              Fine => Superb: 100x Blue Lunarium, 40x Sapphire
+       Superb => Masterpiece: 100x Blue Lunarium, 40x Emerald
+ Masterpiece => Transcendent: 200x Blue Lunarium, 40x Crystal, 20x Vivid Crystallization
+
+* Sculpture of Patience - 35x Copper Ingot, 25x Bottled Breath, 5x Blue Lunarium, 2x Topaz
+       Average: DEF +60
+          Fine: DEF +70
+        Superb: DEF +80, Charisma +6
+   Masterpiece: DEF +90, Charisma +7
+  Transcendent: DEF +110, Charisma +10
+             Average => Fine: 100x Blue Lunarium, 60x Ruby
+              Fine => Superb: 100x Blue Lunarium, 60x Sapphire
+       Superb => Masterpiece: 100x Blue Lunarium, 60x Emerald
+ Masterpiece => Transcendent: 200x Blue Lunarium, 60x Crystal, 20x Vivid Crystallization
+
+* Sculpture of Endless Knowledge - 30x Brick, 50x Shabby Paper, 5x Blue Lunarium, 2x Topaz
+       Average: MAG ATK +80
+          Fine: MAG ATK +100
+        Superb: MAG ATK +120, Intelligence +6
+   Masterpiece: MAG ATK +140, Intelligence +7
+  Transcendent: MAG ATK +170, Intelligence +10
+             Average => Fine: 100x Blue Lunarium, 60x Ruby
+              Fine => Superb: 100x Blue Lunarium, 60x Sapphire
+       Superb => Masterpiece: 100x Blue Lunarium, 60x Emerald
+ Masterpiece => Transcendent: 200x Blue Lunarium, 60x Crystal, 20x Vivid Crystallization
+
+* Silent Sage Sculpture - 15x Advanced Iron Ingot, 25x Transparent Glass Piece, 5x Blue Lunarium, 2x Topaz
+       Average: Max MP +30
+          Fine: Max MP +60
+        Superb: Max MP +90, Wisdom +6
+   Masterpiece: Max MP +120, Wisdom +7
+  Transcendent: Max MP +170, Wisdom +10
+             Average => Fine: 100x Blue Lunarium, 60x Ruby
+              Fine => Superb: 100x Blue Lunarium, 60x Sapphire
+       Superb => Masterpiece: 100x Blue Lunarium, 60x Emerald
+ Masterpiece => Transcendent: 200x Blue Lunarium, 60x Crystal, 20x Vivid Crystallization
+
+* Eagle Sculpture - 35x Copper Ingot, 2x Pirha's Feather, 5x Blue Lunarium, 2x Topaz
+       Average: ACC +9%
+          Fine: ACC +11%
+        Superb: ACC +13%, Agility +6
+   Masterpiece: ACC +15%, Agility +7
+  Transcendent: ACC +18%, Agility +10
+             Average => Fine: 100x Blue Lunarium, 60x Ruby
+              Fine => Superb: 100x Blue Lunarium, 60x Sapphire
+       Superb => Masterpiece: 100x Blue Lunarium, 60x Emerald
+ Masterpiece => Transcendent: 200x Blue Lunarium, 60x Crystal, 20x Vivid Crystallization
+
+* Shark Sculpture - 35x Copper Ingot, 25x Sparkling Cuticle, 5x Blue Lunarium, 2x Topaz
+       Average: PHY ATK +80
+          Fine: PHY ATK +100
+        Superb: PHY ATK +120, Constitution +6
+   Masterpiece: PHY ATK +140, Constitution +7
+  Transcendent: PHY ATK +170, Constitution +10
+             Average => Fine: 100x Blue Lunarium, 60x Ruby
+              Fine => Superb: 100x Blue Lunarium, 60x Sapphire
+       Superb => Masterpiece: 100x Blue Lunarium, 60x Emerald
+ Masterpiece => Transcendent: 200x Blue Lunarium, 60x Crystal, 20x Vivid Crystallization
+
+* Angel Wings Sculpture - 15x Silver Ingot, 3x Essence of Permafrost, 8x Purple Lunarium, 3x Amethyst
+       Average: PHY DEF +65
+          Fine: PHY DEF +80
+        Superb: PHY DEF +95, Constitution +7
+   Masterpiece: PHY DEF +110, Constitution +8
+  Transcendent: PHY DEF +140, Constitution +11
+             Average => Fine: 50x Purple Lunarium, 80x Ruby
+              Fine => Superb: 50x Purple Lunarium, 80x Sapphire
+       Superb => Masterpiece: 50x Purple Lunarium, 80x Emerald
+ Masterpiece => Transcendent: 100x Purple Lunarium, 80x Crystal, 2x Radiant Crystallization
+
+* Winged Shoes Sculpture - 15x Silver Ingot, 40x Tranquil Candlestick, 8x Purple Lunarium, 3x Amethyst
+       Average: EVD Rate +7%
+          Fine: EVD Rate +9%
+        Superb: EVD Rate +10%, Agility +7
+   Masterpiece: EVD Rate +12%, Agility +8
+  Transcendent: EVD Rate +14%, Agility +11
+             Average => Fine: 50x Purple Lunarium, 80x Ruby
+              Fine => Superb: 50x Purple Lunarium, 80x Sapphire
+       Superb => Masterpiece: 50x Purple Lunarium, 80x Emerald
+ Masterpiece => Transcendent: 100x Purple Lunarium, 80x Crystal, 2x Radiant Crystallization
+
+* Winged Hat Sculpture - 15x Silver Ingot, 40x Blue Moonlight Fragment, 8x Purple Lunarium, 3x Amethyst
+       Average: MAG DEF +65
+          Fine: MAG DEF +80
+        Superb: MAG DEF +95, Wisdom +7
+   Masterpiece: MAG DEF +110, Wisdom +8
+  Transcendent: MAG DEF +140, Wisdom +11
+             Average => Fine: 50x Purple Lunarium, 80x Ruby
+              Fine => Superb: 50x Purple Lunarium, 80x Sapphire
+       Superb => Masterpiece: 50x Purple Lunarium, 80x Emerald
+ Masterpiece => Transcendent: 100x Purple Lunarium, 80x Crystal, 2x Radiant Crystallization
+
+* Golden Fiodar Sculpture - 5x Gold Ingot, 4x Roaring Soulstone, 8x Purple Lunarium, 4x Ruby
+       Average: HP Regen +20
+          Fine: HP Regen +30
+        Superb: HP Regen +40, Strength +8
+   Masterpiece: HP Regen +50, Strength +9
+  Transcendent: HP Regen +70, Strength +12
+             Average => Fine: 50x Purple Lunarium, 100x Ruby
+              Fine => Superb: 50x Purple Lunarium, 100x Sapphire
+       Superb => Masterpiece: 50x Purple Lunarium, 100x Emerald
+ Masterpiece => Transcendent: 100x Purple Lunarium, 100x Crystal, 2x Radiant Crystallization
+
+* Rosheim Throne Sculpture - 5x Gold Ingot, 20x Golden Fabric, 8x Purple Lunarium, 4x Ruby
+       Average: ATK +140
+          Fine: ATK +150
+        Superb: ATK +160, Constitution +8
+   Masterpiece: ATK +170, Constitution +9
+  Transcendent: ATK +190, Constitution +12
+             Average => Fine: 50x Purple Lunarium, 100x Ruby
+              Fine => Superb: 50x Purple Lunarium, 100x Sapphire
+       Superb => Masterpiece: 50x Purple Lunarium, 100x Emerald
+ Masterpiece => Transcendent: 100x Purple Lunarium, 100x Crystal, 2x Radiant Crystallization
+
+* Nine-Tailed Fox Sculpture - 65x Brick, 55x Enchanted Tail, 8x Purple Lunarium, 4x Ruby
+       Average: DEF +70
+          Fine: DEF +90
+        Superb: DEF +110, Agility +8
+   Masterpiece: DEF +130, Agility +9
+  Transcendent: DEF +160, Agility +12
+             Average => Fine: 50x Purple Lunarium, 100x Ruby
+              Fine => Superb: 50x Purple Lunarium, 100x Sapphire
+       Superb => Masterpiece: 50x Purple Lunarium, 100x Emerald
+ Masterpiece => Transcendent: 100x Purple Lunarium, 100x Crystal, 2x Radiant Crystallization
+
+* Yatta Sculpture - 30x Silver Ingot, 80x Resilient Leather, 10x Orange Lunarium, 5x Crystal
+       Average: Max Weight Increase +220
+          Fine: Max Weight Increase +240
+        Superb: Max Weight Increase +260, Strength +9
+   Masterpiece: Max Weight Increase +280, Strength +10
+  Transcendent: Max Weight Increase +350, Strength +13
+             Average => Fine: 15x Orange Lunarium, 150x Ruby
+              Fine => Superb: 15x Orange Lunarium, 150x Sapphire
+       Superb => Masterpiece: 15x Orange Lunarium, 150x Emerald
+ Masterpiece => Transcendent: 30x Orange Lunarium, 150x Crystal, 5x Radiant Crystallization
+
+* Tarae Sculpture - 95x Brick, 6x Ripley's Token, 10x Orange Lunarium, 5x Crystal
+       Average: EVD Rate +10%
+          Fine: EVD Rate +12%
+        Superb: EVD Rate +13%, Wisdom +9
+   Masterpiece: EVD Rate +15%, Wisdom +10
+  Transcendent: EVD Rate +17%, Wisdom +13
+             Average => Fine: 15x Orange Lunarium, 150x Ruby
+              Fine => Superb: 15x Orange Lunarium, 150x Sapphire
+       Superb => Masterpiece: 15x Orange Lunarium, 150x Emerald
+ Masterpiece => Transcendent: 30x Orange Lunarium, 150x Crystal, 5x Radiant Crystallization
+
+* Dragon Sculpture - 10x Gold Ingot, 8x Ripley's Merciless Instinct, 10x Orange Lunarium, 5x Sapphire
+       Average: ATK +170
+          Fine: ATK +180
+        Superb: ATK +190, Constitution +10
+   Masterpiece: ATK +200, Constitution +11
+  Transcendent: ATK +220, Constitution +14
+             Average => Fine: 15x Orange Lunarium, 200x Ruby
+              Fine => Superb: 15x Orange Lunarium, 200x Sapphire
+       Superb => Masterpiece: 15x Orange Lunarium, 200x Emerald
+ Masterpiece => Transcendent: 30x Orange Lunarium, 200x Crystal, 5x Radiant Crystallization
+
+* Cat Sculpture - 5x Sturdy Lumber, 100x Sparkling Powder, 10x Orange Lunarium, 5x Sapphire
+       Average: Crit DMG +18%
+          Fine: Crit DMG +22%
+        Superb: Crit DMG +26%, Wisdom +10
+   Masterpiece: Crit DMG +30%, Wisdom +11
+  Transcendent: Crit DMG +34%, Wisdom +14
+             Average => Fine: 15x Orange Lunarium, 200x Ruby
+              Fine => Superb: 15x Orange Lunarium, 200x Sapphire
+       Superb => Masterpiece: 15x Orange Lunarium, 200x Emerald
+ Masterpiece => Transcendent: 30x Orange Lunarium, 200x Crystal, 5x Radiant Crystallization
+
+* Anubis Sculpture - 15x Gold Ingot, 10x Roaring Soulstone, Anubis's Twisted Heart, 5x Orange Lunarium
+       Average: Stun RES +6%
+          Fine: Stun RES +9%
+        Superb: Stun RES +12%, Strength +4
+   Masterpiece: Stun RES +15%, Strength +5
+  Transcendent: Stun RES +20%, Strength +8
+             Average => Fine: 15x Orange Lunarium, 200x Ruby
+              Fine => Superb: 15x Orange Lunarium, 200x Sapphire
+       Superb => Masterpiece: 15x Orange Lunarium, 200x Emerald
+ Masterpiece => Transcendent: 30x Orange Lunarium, 200x Crystal, 5x Radiant Crystallization
+
+* Sphinx Sculpture - 15x Gold Ingot, 10x Roaring Soulstone, Anubis's Twisted Heart, 5x Orange Lunarium
+       Average: Gold acquired after enemy elimination +3%
+          Fine: Gold acquired after enemy elimination +4.5%
+        Superb: Gold acquired after enemy elimination +6%, Intelligence +4
+   Masterpiece: Gold acquired after enemy elimination +7.5%, Intelligence +5
+  Transcendent: Gold acquired after enemy elimination +10%, Intelligence +8
+             Average => Fine: 15x Orange Lunarium, 200x Ruby
+              Fine => Superb: 15x Orange Lunarium, 200x Sapphire
+       Superb => Masterpiece: 15x Orange Lunarium, 200x Emerald
+ Masterpiece => Transcendent: 30x Orange Lunarium, 200x Crystal, 5x Radiant Crystallization
+
+* Sun God Sculpture - 15x Gold Ingot, 10x Roaring Soulstone, Anubis's Twisted Heart, 5x Orange Lunarium
+       Average: Knockback RES +6%
+          Fine: Knockback RES +9%
+        Superb: Knockback RES +12%, Agility +4
+   Masterpiece: Knockback RES +15%, Agility +5
+  Transcendent: Knockback RES +20%, Agility +8
+             Average => Fine: 15x Orange Lunarium, 200x Ruby
+              Fine => Superb: 15x Orange Lunarium, 200x Sapphire
+       Superb => Masterpiece: 15x Orange Lunarium, 200x Emerald
+ Masterpiece => Transcendent: 30x Orange Lunarium, 200x Crystal, 5x Radiant Crystallization
+
+* Ratman Sculpture - 30x Silver Ingot, 10x Marmot's Flute, 10x Ratman Tail, 3x Orange Lunarium
+       Average: Debuff upon Attack: 2% chance for Non-Elemental Continuous DMG (3% ATK)
+          Fine: Debuff upon Attack: 3% chance for Non-Elemental Continuous DMG (4% ATK)
+        Superb: Debuff upon Attack: 4% chance for Non-Elemental Continuous DMG (5% ATK), Constitution +4
+   Masterpiece: Debuff upon Attack: 5% chance for Non-Elemental Continuous DMG (6% ATK), Constitution +5
+  Transcendent: Debuff upon Attack: 6% chance for Non-Elemental Continuous DMG (7.5% ATK), Constitution +8
+             Average => Fine: 15x Orange Lunarium, 200x Ruby
+              Fine => Superb: 15x Orange Lunarium, 200x Sapphire
+       Superb => Masterpiece: 15x Orange Lunarium, 200x Emerald
+ Masterpiece => Transcendent: 30x Orange Lunarium, 200x Crystal, 5x Radiant Crystallization
+
+* Naga Queen Sculpture - 30x Advanced Iron Ingot, 10x Kalakeya's Spear Claw, 2x Adisha's Blue Barbel, 3x Orange Lunarium
+       Average: Buff upon Hit: 2% chance for DMG Taken Decrease +8% (5 sec)
+          Fine: Buff upon Hit: 3% chance for DMG Taken Decrease +9.5% (5 sec)
+        Superb: Buff upon Hit: 4% chance for DMG Taken Decrease +11% (5 sec), Wisdom +4
+   Masterpiece: Buff upon Hit: 5% chance for DMG Taken Decrease +12.5% (5 sec), Wisdom +5
+  Transcendent: Buff upon Hit: 6% chance for DMG Taken Decrease +15% (5 sec), Wisdom +8
+             Average => Fine: 15x Orange Lunarium, 200x Ruby
+              Fine => Superb: 15x Orange Lunarium, 200x Sapphire
+       Superb => Masterpiece: 15x Orange Lunarium, 200x Emerald
+ Masterpiece => Transcendent: 30x Orange Lunarium, 200x Crystal, 5x Radiant Crystallization
+
+* Baphomet Sculpture - 3x Red Brick, 10x Baphmetus's Bracelet, 10x Baphomet's Evil Thought Entity, 3x Orange Lunarium
+       Average: DMG to Characters +3%
+          Fine: DMG to Characters +4%
+        Superb: DMG to Characters +5%, Charisma +4
+   Masterpiece: DMG to Characters +6%, Charisma +5
+  Transcendent: DMG to Characters +7.5%, Charisma +8
+             Average => Fine: 15x Orange Lunarium, 200x Ruby
+              Fine => Superb: 15x Orange Lunarium, 200x Sapphire
+       Superb => Masterpiece: 15x Orange Lunarium, 200x Emerald
+ Masterpiece => Transcendent: 30x Orange Lunarium, 200x Crystal, 5x Radiant Crystallization
+
+* Brent Native Fowl Sculpture - Tree and Bird Sculpture, 20x Thin Leg Bones, 20x Thick Chicken Foot, 5x Purple Lunarium
+       Average: PHY ATK +50
+          Fine: PHY ATK +65
+        Superb: PHY ATK +80, Strength +8
+   Masterpiece: PHY ATK +95, Strength +9
+  Transcendent: PHY ATK +120, Strength +12
+             Average => Fine: 50x Purple Lunarium, 80x Ruby
+              Fine => Superb: 50x Purple Lunarium, 80x Sapphire
+       Superb => Masterpiece: 50x Purple Lunarium, 80x Emerald
+ Masterpiece => Transcendent: 100x Purple Lunarium, 80x Crystal, 2x Radiant Crystallization
+
+* Golden Wyvern Sculpture - Golden Goblin Sculpture, 30x Sparkling Cuticle, 25x Wyvern Leather, 5x Purple Lunarium
+       Average: PHY DEF +75
+          Fine: PHY DEF +90
+        Superb: PHY DEF +105, Strength +8
+   Masterpiece: PHY DEF +120, Strength +9
+  Transcendent: PHY DEF +150, Strength +12
+             Average => Fine: 50x Purple Lunarium, 80x Ruby
+              Fine => Superb: 50x Purple Lunarium, 80x Sapphire
+       Superb => Masterpiece: 50x Purple Lunarium, 80x Emerald
+ Masterpiece => Transcendent: 100x Purple Lunarium, 80x Crystal, 2x Radiant Crystallization
+
+* Treant Sculpture - Deer Sculpture, 20x Shabby Stick, 20x Broad Trunk, 5x Purple Lunarium
+       Average: MAG ATK +60
+          Fine: MAG ATK +75
+        Superb: MAG ATK +90, Intelligence +8
+   Masterpiece: MAG ATK +105, Intelligence +9
+  Transcendent: MAG ATK +130, Intelligence +12
+             Average => Fine: 50x Purple Lunarium, 80x Ruby
+              Fine => Superb: 50x Purple Lunarium, 80x Sapphire
+       Superb => Masterpiece: 50x Purple Lunarium, 80x Emerald
+ Masterpiece => Transcendent: 100x Purple Lunarium, 80x Crystal, 2x Radiant Crystallization
+
+* Varoc Lycan Sculpture - Golden Unicorn Sculpture, 30x Moon-Touched Piece, 30x Elastic Leather, 5x Purple Lunarium
+       Average: MAG DEF +75
+          Fine: MAG DEF +90
+        Superb: MAG DEF +105, Intelligence +8
+   Masterpiece: MAG DEF +120, Intelligence +9
+  Transcendent: MAG DEF +150, Intelligence +12
+             Average => Fine: 50x Purple Lunarium, 80x Ruby
+              Fine => Superb: 50x Purple Lunarium, 80x Sapphire
+       Superb => Masterpiece: 50x Purple Lunarium, 80x Emerald
+ Masterpiece => Transcendent: 100x Purple Lunarium, 80x Crystal, 2x Radiant Crystallization
+
+* Roaring Griffin Sculpture - 50x Copper Ingot, 10x Griffin's Fierce Claw, 20x Cracked Hourglass, 10x Orange Lunarium
+       Average: Buff upon Hit: 3% chance for Barrier 3000 (5s)
+          Fine: Buff upon Hit: 3% chance for Barrier 4000 (5s)
+        Superb: Buff upon Hit: 5% chance for Barrier 5000 (5s), Strength +8
+   Masterpiece: Buff upon Hit: 5% chance for Barrier 6000 (5s), Strength +9
+  Transcendent: Buff upon Hit: 7% chance for Barrier 10000 (5s), Strength +10
+             Average => Fine: 15x Orange Lunarium, 20x Ruby, 10x Black Fragment
+              Fine => Superb: 15x Orange Lunarium, 20x Sapphire, 10x Black Fragment
+       Superb => Masterpiece: 15x Orange Lunarium, 20x Emerald, 10x Black Fragment
+ Masterpiece => Transcendent: 30x Orange Lunarium, 20x Crystal, 10x Black Fragment, 5x Radiant Crystallization
+
+* Iron Golem Sculpture - 10x Superior Iron Ingot, 10x Vargod's Crooked Nail, 20x Splintered Iron Scrap, 10x Orange Lunarium
+       Average: ATK +170
+          Fine: ATK +200
+        Superb: ATK +230, Charisma +8
+   Masterpiece: ATK +260, Charisma +9
+  Transcendent: ATK +300, Charisma +10
+             Average => Fine: 15x Orange Lunarium, 20x Ruby, 10x Black Fragment
+              Fine => Superb: 15x Orange Lunarium, 20x Sapphire, 10x Black Fragment
+       Superb => Masterpiece: 15x Orange Lunarium, 20x Emerald, 10x Black Fragment
+ Masterpiece => Transcendent: 30x Orange Lunarium, 20x Crystal, 10x Black Fragment, 5x Radiant Crystallization
+
+* Happy Family Sculpture - Valuable Scrap Iron
+       Average: Max HP +420, DEF +55
+          Fine: Max HP +450, DEF +65
+        Superb: Max HP +550, DEF +80
+   Masterpiece: Max HP +750, DEF +100
+  Transcendent: Max HP +1050, DEF +130
+             Average => Fine: 10x Purple Lunarium, 10x Ruby
+              Fine => Superb: 10x Purple Lunarium, 10x Sapphire
+       Superb => Masterpiece: 10x Purple Lunarium, 10x Emerald
+ Masterpiece => Transcendent: 10x Purple Lunarium, 10x Crystal
+
+* Blaze Wyvern Sculpture - 4x Radiant Crystallization, 10x Adisha's Blue Barbel, 10x Orange Lunarium, 10x Ruby
+       Average: Pierce RES +2%
+          Fine: Pierce RES +3.2%
+        Superb: Pierce RES +4.4%, Agility +9
+   Masterpiece: Pierce RES +5.6%, Agility +10
+  Transcendent: Pierce RES +7%, Agility +13
+             Average => Fine: 15x Orange Lunarium, 100x Ruby
+              Fine => Superb: 15x Orange Lunarium, 100x Sapphire
+       Superb => Masterpiece: 15x Orange Lunarium, 100x Emerald
+ Masterpiece => Transcendent: 30x Orange Lunarium, 100x Crystal, 5x Radiant Crystallization
+
+* Pyrowyrm Sculpture - 4x Radiant Crystallization, 10x Drekavac's Ear, 10x Orange Lunarium, 10x Ruby
+       Average: ATK +180
+          Fine: ATK +220
+        Superb: ATK +260, Wisdom +10
+   Masterpiece: ATK +300, Wisdom +11
+  Transcendent: ATK +360, Wisdom +14
+             Average => Fine: 15x Orange Lunarium, 100x Ruby
+              Fine => Superb: 15x Orange Lunarium, 100x Sapphire
+       Superb => Masterpiece: 15x Orange Lunarium, 100x Emerald
+ Masterpiece => Transcendent: 30x Orange Lunarium, 100x Crystal, 5x Radiant Crystallization
+
+* Blaze Wolf Sculpture - 4x Radiant Crystallization, 10x Adisha's Murky Orb, 10x Orange Lunarium, 10x Ruby
+       Average: Max MP +205
+          Fine: Max MP +220
+        Superb: Max MP +235, Intelligence +10
+   Masterpiece: Max MP +250, Intelligence +11
+  Transcendent: Max MP +280, Intelligence +14
+             Average => Fine: 15x Orange Lunarium, 100x Ruby
+              Fine => Superb: 15x Orange Lunarium, 100x Sapphire
+       Superb => Masterpiece: 15x Orange Lunarium, 100x Emerald
+ Masterpiece => Transcendent: 30x Orange Lunarium, 100x Crystal, 5x Radiant Crystallization
+
+* Venomous Wyvern Sculpture - 4x Radiant Crystallization, 10x Adisha's Blue Barbel, 10x Orange Lunarium, 10x Emerald
+       Average: MAG DEF +140
+          Fine: MAG DEF +190
+        Superb: MAG DEF +240, Strength +9
+   Masterpiece: MAG DEF +290, Strength +10
+  Transcendent: MAG DEF +360, Strength +13
+             Average => Fine: 15x Orange Lunarium, 100x Ruby
+              Fine => Superb: 15x Orange Lunarium, 100x Sapphire
+       Superb => Masterpiece: 15x Orange Lunarium, 100x Emerald
+ Masterpiece => Transcendent: 30x Orange Lunarium, 100x Crystal, 5x Radiant Crystallization
+
+* Banewyrm Sculpture - 4x Radiant Crystallization, 10x Drekavac's Ear, 10x Orange Lunarium, 10x Emerald
+       Average: DMG to Raid Monsters +3%
+          Fine: DMG to Raid Monsters +3.6%
+        Superb: DMG to Raid Monsters +4.2%, Intelligence +10
+   Masterpiece: DMG to Raid Monsters +4.8%, Intelligence +11
+  Transcendent: DMG to Raid Monsters +5.5%, Intelligence +14
+             Average => Fine: 15x Orange Lunarium, 100x Ruby
+              Fine => Superb: 15x Orange Lunarium, 100x Sapphire
+       Superb => Masterpiece: 15x Orange Lunarium, 100x Emerald
+ Masterpiece => Transcendent: 30x Orange Lunarium, 100x Crystal, 5x Radiant Crystallization
+
+* Venomous Wolf Sculpture - 4x Radiant Crystallization, 10x Adisha's Murky Orb, 10x Orange Lunarium, 10x Emerald
+       Average: Crit Hit RES +2%
+          Fine: Crit Hit RES +3.2%
+        Superb: Crit Hit RES +4.4%, Constitution +10
+   Masterpiece: Crit Hit RES +5.6%, Constitution +11
+  Transcendent: Crit Hit RES +7%, Constitution +14
+             Average => Fine: 15x Orange Lunarium, 100x Ruby
+              Fine => Superb: 15x Orange Lunarium, 100x Sapphire
+       Superb => Masterpiece: 15x Orange Lunarium, 100x Emerald
+ Masterpiece => Transcendent: 30x Orange Lunarium, 100x Crystal, 5x Radiant Crystallization
+
+* Lightning Wyvern Sculpture - 4x Radiant Crystallization, 10x Adisha's Blue Barbel, 10x Orange Lunarium, 10x Topaz
+       Average: All Abnormal Status RES Rate +3%
+          Fine: All Abnormal Status RES Rate +3.6%
+        Superb: All Abnormal Status RES Rate +4.2%, Charisma +9
+   Masterpiece: All Abnormal Status RES Rate +4.8%, Charisma +10
+  Transcendent: All Abnormal Status RES Rate +5.5%, Charisma +13
+             Average => Fine: 15x Orange Lunarium, 100x Ruby
+              Fine => Superb: 15x Orange Lunarium, 100x Sapphire
+       Superb => Masterpiece: 15x Orange Lunarium, 100x Emerald
+ Masterpiece => Transcendent: 30x Orange Lunarium, 100x Crystal, 5x Radiant Crystallization
+
+* Boltwyrm Sculpture - 4x Radiant Crystallization, 10x Drekavac's Ear, 10x Orange Lunarium, 10x Topaz
+       Average: DMG to Characters +3%
+          Fine: DMG to Characters +3.6%
+        Superb: DMG to Characters +4.2%, Strength +10
+   Masterpiece: DMG to Characters +4.8%, Strength +11
+  Transcendent: DMG to Characters +5.5%, Strength +14
+             Average => Fine: 15x Orange Lunarium, 100x Ruby
+              Fine => Superb: 15x Orange Lunarium, 100x Sapphire
+       Superb => Masterpiece: 15x Orange Lunarium, 100x Emerald
+ Masterpiece => Transcendent: 30x Orange Lunarium, 100x Crystal, 5x Radiant Crystallization
+
+* Lightning Wolf Sculpture - 4x Radiant Crystallization, 10x Adisha's Murky Orb, 10x Orange Lunarium, 10x Topaz
+       Average: PHY DEF +140
+          Fine: PHY DEF +190
+        Superb: PHY DEF +240, Agility +10
+   Masterpiece: PHY DEF +290, Agility +11
+  Transcendent: PHY DEF +360, Agility +14
+             Average => Fine: 15x Orange Lunarium, 100x Ruby
+              Fine => Superb: 15x Orange Lunarium, 100x Sapphire
+       Superb => Masterpiece: 15x Orange Lunarium, 100x Emerald
+ Masterpiece => Transcendent: 30x Orange Lunarium, 100x Crystal, 5x Radiant Crystallization
