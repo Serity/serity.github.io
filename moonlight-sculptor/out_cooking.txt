@@ -16,7 +16,7 @@ Craft Level 15: need 21000 exp, 15% great success chance, 48% sculpt great succe
 
 
 ** {Unidentified Food}:
-* Lv.1 Cooking Recipe #18000 (100.00%, 0 exp)
+* Lv.1 Cooking Recipe #18000 (100.00%, 0 exp) [Hidden Recipe]
     Satiety: 2
     Great Success: 1x Unidentified Food
 
@@ -152,7 +152,7 @@ Craft Level 15: need 21000 exp, 15% great success chance, 48% sculpt great succe
     - Herb
 
 ** {Marinated Grilled Meat}:
-* Lv.1 Cooking Recipe #18030 (100.00%, 40 exp)
+* Lv.1 Cooking Recipe #18030 (100.00%, 40 exp) [Hidden Recipe]
     Satiety: 40
     Effects for 15m: Constitution +5
     Great Success: 1x Delicious Marinated Grilled Meat
@@ -233,7 +233,7 @@ Craft Level 15: need 21000 exp, 15% great success chance, 48% sculpt great succe
     - 4x Salt
 
 ** {Unidentified Drink}:
-* Lv.1 Cooking Recipe #18087 (100.00%, 0 exp)
+* Lv.1 Cooking Recipe #18087 (100.00%, 0 exp) [Hidden Recipe]
     Satiety: 2
     Great Success: 1x Unidentified Drink
     - 4x <Any Drink>
@@ -409,7 +409,7 @@ Craft Level 15: need 21000 exp, 15% great success chance, 48% sculpt great succe
     - Mineral Water
 
 ** {Latte}:
-* Lv.1 Cooking Recipe #18094 (100.00%, 100 exp)
+* Lv.1 Cooking Recipe #18094 (100.00%, 100 exp) [Hidden Recipe]
     Satiety: 50
     Effects for 15m: Strength +10
     Great Success: 1x Delicious Latte
@@ -864,7 +864,7 @@ Craft Level 15: need 21000 exp, 15% great success chance, 48% sculpt great succe
     - Flour
 
 ** {Caffe Mocha}:
-* Lv.1 Cooking Recipe #18095 (100.00%, 100 exp)
+* Lv.1 Cooking Recipe #18095 (100.00%, 100 exp) [Hidden Recipe]
     Satiety: 50
     Effects for 15m: Agility +10
     Great Success: 1x Delicious Caffe Mocha
@@ -1015,7 +1015,7 @@ Craft Level 15: need 21000 exp, 15% great success chance, 48% sculpt great succe
     - 2x Mineral Water
 
 ** {Bowl of Fresh Rice}:
-* Lv.1 Cooking Recipe #18108 (100.00%, 10 exp)
+* Lv.1 Cooking Recipe #18108 (100.00%, 10 exp) [Hidden Recipe]
     Satiety: 50
     Effects for 15m: Wisdom +5
     Great Success: 1x Delicious Bowl of Fresh Rice
@@ -1031,7 +1031,7 @@ Craft Level 15: need 21000 exp, 15% great success chance, 48% sculpt great succe
     - 3x Natural Water
 
 ** {Fresh Thin Rice Porridge}:
-* Lv.1 Cooking Recipe #18110 (100.00%, 10 exp)
+* Lv.1 Cooking Recipe #18110 (100.00%, 10 exp) [Hidden Recipe]
     Satiety: 50
     Effects for 15m: Agility +5
     Great Success: 1x Delicious Fresh Thin Rice Porridge
@@ -1047,7 +1047,7 @@ Craft Level 15: need 21000 exp, 15% great success chance, 48% sculpt great succe
     - Natural Water
 
 ** {Bowl of Fresh Thick Rice}:
-* Lv.1 Cooking Recipe #18112 (100.00%, 10 exp)
+* Lv.1 Cooking Recipe #18112 (100.00%, 10 exp) [Hidden Recipe]
     Satiety: 50
     Effects for 15m: Intelligence +5
     Great Success: 1x Delicious Bowl of Fresh Thick Rice
@@ -1120,7 +1120,7 @@ Craft Level 15: need 21000 exp, 15% great success chance, 48% sculpt great succe
     - Mineral Water
 
 ** {Nutritious Honey Water}:
-* Lv.1 Cooking Recipe #18119 (100.00%, 30 exp)
+* Lv.1 Cooking Recipe #18119 (100.00%, 30 exp) [Hidden Recipe]
     Satiety: 50
     Effects for 15m: Intelligence +10
     Great Success: 1x Delicious Nutritious Honey Water
@@ -1190,7 +1190,7 @@ Craft Level 15: need 21000 exp, 15% great success chance, 48% sculpt great succe
     - 4x Mineral Water
 
 ** {Thick Onion Soup}:
-* Lv.1 Cooking Recipe #18126 (100.00%, 20 exp)
+* Lv.1 Cooking Recipe #18126 (100.00%, 20 exp) [Hidden Recipe]
     Satiety: 50
     Effects for 15m: Intelligence +5
     Great Success: 1x Delicious Thick Onion Soup
@@ -1198,7 +1198,7 @@ Craft Level 15: need 21000 exp, 15% great success chance, 48% sculpt great succe
     - 3x Mineral Water
 
 ** {Thick Garlic Soup}:
-* Lv.1 Cooking Recipe #18127 (100.00%, 20 exp)
+* Lv.1 Cooking Recipe #18127 (100.00%, 20 exp) [Hidden Recipe]
     Satiety: 50
     Effects for 15m: Wisdom +5
     Effects for 30m: Damage vs. Undead +5%
@@ -1207,7 +1207,7 @@ Craft Level 15: need 21000 exp, 15% great success chance, 48% sculpt great succe
     - 3x Mineral Water
 
 ** {Thick Meat Soup}:
-* Lv.1 Cooking Recipe #18128 (100.00%, 20 exp)
+* Lv.1 Cooking Recipe #18128 (100.00%, 20 exp) [Hidden Recipe]
     Satiety: 50
     Effects for 15m: Constitution +5
     Great Success: 1x Delicious Thick Meat Soup
@@ -1215,7 +1215,7 @@ Craft Level 15: need 21000 exp, 15% great success chance, 48% sculpt great succe
     - 3x Mineral Water
 
 ** {Thick Bird Meat Soup}:
-* Lv.1 Cooking Recipe #18129 (100.00%, 20 exp)
+* Lv.1 Cooking Recipe #18129 (100.00%, 20 exp) [Hidden Recipe]
     Satiety: 50
     Effects for 15m: Strength +5
     Great Success: 1x Delicious Thick Bird Meat Soup
@@ -1223,7 +1223,7 @@ Craft Level 15: need 21000 exp, 15% great success chance, 48% sculpt great succe
     - 3x Mineral Water
 
 ** {Fresh Vegetable Juice}:
-* Lv.1 Cooking Recipe #18130 (100.00%, 20 exp)
+* Lv.1 Cooking Recipe #18130 (100.00%, 20 exp) [Hidden Recipe]
     Satiety: 50
     Effects for 15m: Charisma +5
     Great Success: 1x Delicious Fresh Vegetable Juice
@@ -1600,11 +1600,6 @@ Craft Level 15: need 21000 exp, 15% great success chance, 48% sculpt great succe
     Great Success: 2x Fishcake
     - 10x <Any Fish>
     - 2x Flour
-* Lv.1 Quest Recipe #31003 (100.00%, 0 exp) [Quest:The Hardest Ingredient]
-    Great Success: 1x Delicious Handmade Fishcake
-    - 10x <Any Fish>
-    - 2x Flour
-    - 100 Gold
 
 ** {Fishcake Soup}:
 * Lv.1 Cooking Recipe #18181 (100.00%, 40 exp)
@@ -1676,7 +1671,7 @@ Craft Level 15: need 21000 exp, 15% great success chance, 48% sculpt great succe
     - Salt
 
 ** {Baguette}:
-* Lv.1 Cooking Recipe #18193 (100.00%, 80 exp)
+* Lv.1 Cooking Recipe #18193 (100.00%, 80 exp) [Hidden Recipe]
     Satiety: 90
     Effects for 15m: Constitution +20
     Great Success: 1x Baguette Decorative Weapon Pouch
