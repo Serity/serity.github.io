@@ -1,0 +1,153 @@
+* [s# 1] Running Rabbit Sculpture         + Deer Sculpture                   + Fox Sculpture                   
+ -      [Average Effect] Life Sculpture Set: XP acquired after enemy elimination +2%
+ -         [Fine Effect] Life Sculpture Set: XP acquired after enemy elimination +3%
+ -       [Superb Effect] Life Sculpture Set: XP acquired after enemy elimination +4%
+ -  [Masterpiece Effect] Life Sculpture Set: XP acquired after enemy elimination +5%
+ - [Transcendent Effect] Life Sculpture Set: XP acquired after enemy elimination +7%
+
+* [s# 2] Victorious Archer Sculpture      + Victorious Warrior Sculpture     + Victorious Mage Sculpture       
+ -      [Average Effect] Victorious Sculpture Set: Gold acquired after enemy elimination +2%
+ -         [Fine Effect] Victorious Sculpture Set: Gold acquired after enemy elimination +3%
+ -       [Superb Effect] Victorious Sculpture Set: Gold acquired after enemy elimination +4%
+ -  [Masterpiece Effect] Victorious Sculpture Set: Gold acquired after enemy elimination +5%
+ - [Transcendent Effect] Victorious Sculpture Set: Gold acquired after enemy elimination +7%
+
+* [s# 3] Steel Blacksmith Sculpture       + Seamstress' Touch Sculpture      + Royal Chef Sculpture            
+ -      [Average Effect] Craft Master Sculpture Set: Chance for Crafting Great Success +5%
+ -         [Fine Effect] Craft Master Sculpture Set: Chance for Crafting Great Success +7%
+ -       [Superb Effect] Craft Master Sculpture Set: Chance for Crafting Great Success +9%
+ -  [Masterpiece Effect] Craft Master Sculpture Set: Chance for Crafting Great Success +12%
+ - [Transcendent Effect] Craft Master Sculpture Set: Chance for Crafting Great Success +14%
+
+* [s# 4] Horse Sculpture                  + Tree and Bird Sculpture          + Griffin Sculpture                + Elk Sculpture                   
+ -      [Average Effect] Vast Grasslands Sculpture Set: Attack Range +10%
+ -         [Fine Effect] Vast Grasslands Sculpture Set: Attack Range +11%
+ -       [Superb Effect] Vast Grasslands Sculpture Set: Attack Range +12%
+ -  [Masterpiece Effect] Vast Grasslands Sculpture Set: Attack Range +15%
+ - [Transcendent Effect] Vast Grasslands Sculpture Set: Attack Range +15%, Debuff upon Attack: 5% chance for MOV SPD -80% (3 secs)
+
+* [s# 5] Water Spirit Naiad Sculpture     + Fisherman Sculpture              + Golden Carp Sculpture           
+ -      [Average Effect] Big Dreams Sculpture Set: Item acquisition chance after enemy elimination +2%
+ -         [Fine Effect] Big Dreams Sculpture Set: Item acquisition chance after enemy elimination +4%
+ -       [Superb Effect] Big Dreams Sculpture Set: Item acquisition chance after enemy elimination +7%
+ -  [Masterpiece Effect] Big Dreams Sculpture Set: Item acquisition chance after enemy elimination +10%
+ - [Transcendent Effect] Big Dreams Sculpture Set: Item acquisition chance after enemy elimination +13%
+
+* [s# 6] Hyena Sculpture                  + Running Leopard Sculpture        + Eagle Sculpture                 
+ -      [Average Effect] Open Field Sculpture Set: ATK SPD +5%
+ -         [Fine Effect] Open Field Sculpture Set: ATK SPD +7%
+ -       [Superb Effect] Open Field Sculpture Set: ATK SPD +9%
+ -  [Masterpiece Effect] Open Field Sculpture Set: ATK SPD +12%
+ - [Transcendent Effect] Open Field Sculpture Set: ATK SPD +12%, Debuff upon Attack: 5% chance for ATK SPD -80% (5 secs)
+
+* [s# 7] Cube Sculpture                   + Golden Unicorn Sculpture         + Sea Serpent Sculpture            + Shark Sculpture                 
+ -      [Average Effect] Aristocratic Luxuries Sculpture Set: ATK +50
+ -         [Fine Effect] Aristocratic Luxuries Sculpture Set: ATK +100
+ -       [Superb Effect] Aristocratic Luxuries Sculpture Set: ATK +150
+ -  [Masterpiece Effect] Aristocratic Luxuries Sculpture Set: ATK +270
+ - [Transcendent Effect] Aristocratic Luxuries Sculpture Set: ATK +270, Max PHY ATK +100, Max MAG ATK +100
+
+* [s# 8] Delicate Crescent Moon Sculpture + Blazing Sun Sculpture            + Radiant Star Sculpture          
+ -      [Average Effect] Nature's Vitality Sculpture Set: Max HP +10%
+ -         [Fine Effect] Nature's Vitality Sculpture Set: Max HP +15%
+ -       [Superb Effect] Nature's Vitality Sculpture Set: Max HP +20%
+ -  [Masterpiece Effect] Nature's Vitality Sculpture Set: Max HP +30%
+ - [Transcendent Effect] Nature's Vitality Sculpture Set: Max HP +35%
+
+* [s# 9] Sculpture of Patience            + Sculpture of Endless Knowledge   + Silent Sage Sculpture           
+ -      [Average Effect] Knowledge Sculpture Set: Max MP +10%
+ -         [Fine Effect] Knowledge Sculpture Set: Max MP +15%
+ -       [Superb Effect] Knowledge Sculpture Set: Max MP +20%
+ -  [Masterpiece Effect] Knowledge Sculpture Set: Max MP +30%
+ - [Transcendent Effect] Knowledge Sculpture Set: Max MP +35%
+
+* [s#10] Icy Beauty Sculpture             + Nine-Tailed Fox Sculpture        + Cat Sculpture                   
+ -      [Average Effect] Seductive Sculpture Set: Charisma +15
+ -         [Fine Effect] Seductive Sculpture Set: Charisma +18
+ -       [Superb Effect] Seductive Sculpture Set: Charisma +21
+ -  [Masterpiece Effect] Seductive Sculpture Set: Charisma +25
+ - [Transcendent Effect] Seductive Sculpture Set: Charisma +27, Pet ATK +50%
+
+* [s#11] Prina Sculpture                  + Sleeping Girl Sculpture          + Goddess Freya Sculpture         
+ -      [Average Effect] Someone's Sculpture Set: MAG DEF +70, PHY ATK +80
+ -         [Fine Effect] Someone's Sculpture Set: MAG DEF +80, PHY ATK +90
+ -       [Superb Effect] Someone's Sculpture Set: MAG DEF +90, PHY ATK +100
+ -  [Masterpiece Effect] Someone's Sculpture Set: MAG DEF +110, PHY ATK +120
+ - [Transcendent Effect] Someone's Sculpture Set: MAG DEF +130, PHY ATK +140
+
+* [s#12] Angel Wings Sculpture            + Winged Shoes Sculpture           + Winged Hat Sculpture            
+ -      [Average Effect] Azure Overlord Sculpture Set: EVD Rate +6%, ACC +6%
+ -         [Fine Effect] Azure Overlord Sculpture Set: EVD Rate +8%, ACC +8%
+ -       [Superb Effect] Azure Overlord Sculpture Set: EVD Rate +10%, ACC +10%
+ -  [Masterpiece Effect] Azure Overlord Sculpture Set: EVD Rate +12%, ACC +12%
+ - [Transcendent Effect] Azure Overlord Sculpture Set: EVD Rate +12%, ACC +12%, Buff upon EVD:  5% chance for Crit Rate +30% (3 secs)
+
+* [s#13] Lion Monster Sculpture           + Golden Fiodar Sculpture          + Rosheim Throne Sculpture        
+ -      [Average Effect] Humble King Sculpture Set: PHY ATK +150
+ -         [Fine Effect] Humble King Sculpture Set: PHY ATK +165
+ -       [Superb Effect] Humble King Sculpture Set: PHY ATK +180
+ -  [Masterpiece Effect] Humble King Sculpture Set: PHY ATK +200
+ - [Transcendent Effect] Humble King Sculpture Set: PHY ATK +220
+
+* [s#14] Golden Goblin Sculpture          + Dynamic Dolphin Figurehead       + Tarae Sculpture                 
+ -      [Average Effect] Fortune's Favor Sculpture Set: Gold acquired after enemy elimination +2%, XP acquired after enemy elimination +2%
+ -         [Fine Effect] Fortune's Favor Sculpture Set: Gold acquired after enemy elimination +4%, XP acquired after enemy elimination +4%
+ -       [Superb Effect] Fortune's Favor Sculpture Set: Gold acquired after enemy elimination +7%, XP acquired after enemy elimination +7%
+ -  [Masterpiece Effect] Fortune's Favor Sculpture Set: Gold acquired after enemy elimination +10%, XP acquired after enemy elimination +10%
+ - [Transcendent Effect] Fortune's Favor Sculpture Set: Gold acquired after enemy elimination +13%, XP acquired after enemy elimination +13%
+
+* [s#15] Sleeping Boy Sculpture           + Gargoyle Sculpture               + Yatta Sculpture                  + Dragon Sculpture                
+ -      [Average Effect] Warden of the Lost Land Sculpture Set: MAG ATK +190, PHY DEF +70
+ -         [Fine Effect] Warden of the Lost Land Sculpture Set: MAG ATK +205, PHY DEF +90
+ -       [Superb Effect] Warden of the Lost Land Sculpture Set: MAG ATK +220, PHY DEF +110
+ -  [Masterpiece Effect] Warden of the Lost Land Sculpture Set: MAG ATK +250, PHY DEF +140
+ - [Transcendent Effect] Warden of the Lost Land Sculpture Set: MAG ATK +270, PHY DEF +180
+
+* [s#16] Azure Wyvern Sculpture           + Frostwyrm Sculpture              + Ice Wolf Sculpture              
+ -      [Average Effect] Blessed Sculpture Set: Ice RES +50, Ice ATK +10%, Ignore Flinch +5%
+ -         [Fine Effect] Blessed Sculpture Set: Ice RES +65, Ice ATK +15%, Ignore Flinch +8%
+ -       [Superb Effect] Blessed Sculpture Set: Ice RES +80, Ice ATK +20%, Ignore Flinch +11%
+ -  [Masterpiece Effect] Blessed Sculpture Set: Ice RES +100, Ice ATK +30%, Ignore Flinch +15%
+ - [Transcendent Effect] Blessed Sculpture Set: Ice RES +150, Ice ATK +30%, Ignore Flinch +15%
+
+* [s#17] Anubis Sculpture                 + Sphinx Sculpture                 + Sun God Sculpture               
+ -      [Average Effect] Ancient God Sculpture Set: Ignore Flinch +2%
+ -         [Fine Effect] Ancient God Sculpture Set: Ignore Flinch +4%
+ -       [Superb Effect] Ancient God Sculpture Set: Ignore Flinch +7%
+ -  [Masterpiece Effect] Ancient God Sculpture Set: Ignore Flinch +10%
+ - [Transcendent Effect] Ancient God Sculpture Set: Ignore Flinch +10%, Buff upon Hit: 5% chance for Barrier 2000 (10s)
+
+* [s#18] Ratman Sculpture                 + Naga Queen Sculpture             + Baphomet Sculpture              
+ -      [Average Effect] Calamitous Whisper Sculpture Set: PHY DEF +100, MAG DEF +100
+ -         [Fine Effect] Calamitous Whisper Sculpture Set: PHY DEF +125, MAG DEF +125
+ -       [Superb Effect] Calamitous Whisper Sculpture Set: PHY DEF +150, MAG DEF +150
+ -  [Masterpiece Effect] Calamitous Whisper Sculpture Set: PHY DEF +200, MAG DEF +200
+ - [Transcendent Effect] Calamitous Whisper Sculpture Set: PHY DEF +250, MAG DEF +250
+
+* [s#19] Treant Sculpture                 + Brent Native Fowl Sculpture      + Golden Wyvern Sculpture          + Varoc Lycan Sculpture           
+ -      [Average Effect] Brent Ecosystem Sculpture Set: ACC +2%
+ -         [Fine Effect] Brent Ecosystem Sculpture Set: ACC +3%
+ -       [Superb Effect] Brent Ecosystem Sculpture Set: ACC +4%
+ -  [Masterpiece Effect] Brent Ecosystem Sculpture Set: ACC +5%
+ - [Transcendent Effect] Brent Ecosystem Sculpture Set: ACC +6%
+
+* [s#23] Blaze Wyvern Sculpture           + Pyrowyrm Sculpture               + Blaze Wolf Sculpture            
+ -      [Average Effect] Fire Blessed Sculpture Set: Fire RES +50, Fire ATK +10%, Ignore Flinch +5%
+ -         [Fine Effect] Fire Blessed Sculpture Set: Fire RES +65, Fire ATK +15%, Ignore Flinch +8%
+ -       [Superb Effect] Fire Blessed Sculpture Set: Fire RES +80, Fire ATK +20%, Ignore Flinch +11%
+ -  [Masterpiece Effect] Fire Blessed Sculpture Set: Fire RES +100, Fire ATK +30%, Ignore Flinch +15%
+ - [Transcendent Effect] Fire Blessed Sculpture Set: Fire RES +150, Fire ATK +30%, Ignore Flinch +15%
+
+* [s#24] Venomous Wyvern Sculpture        + Banewyrm Sculpture               + Venomous Wolf Sculpture         
+ -      [Average Effect] Poison Blessed Sculpture Set: Poison RES +50, Poison ATK +10%, Ignore Flinch +5%
+ -         [Fine Effect] Poison Blessed Sculpture Set: Poison RES +65, Poison ATK +15%, Ignore Flinch +8%
+ -       [Superb Effect] Poison Blessed Sculpture Set: Poison RES +80, Poison ATK +20%, Ignore Flinch +11%
+ -  [Masterpiece Effect] Poison Blessed Sculpture Set: Poison RES +100, Poison ATK +30%, Ignore Flinch +15%
+ - [Transcendent Effect] Poison Blessed Sculpture Set: Poison RES +150, Poison ATK +30%, Ignore Flinch +15%
+
+* [s#25] Lightning Wyvern Sculpture       + Boltwyrm Sculpture               + Lightning Wolf Sculpture        
+ -      [Average Effect] Thunderbolt Blessed Sculpture Set: Lightning RES +50, Lightning ATK +10%, Ignore Flinch +5%
+ -         [Fine Effect] Thunderbolt Blessed Sculpture Set: Lightning RES +65, Lightning ATK +15%, Ignore Flinch +8%
+ -       [Superb Effect] Thunderbolt Blessed Sculpture Set: Lightning RES +80, Lightning ATK +20%, Ignore Flinch +11%
+ -  [Masterpiece Effect] Thunderbolt Blessed Sculpture Set: Lightning RES +100, Lightning ATK +30%, Ignore Flinch +15%
+ - [Transcendent Effect] Thunderbolt Blessed Sculpture Set: Lightning RES +150, Lightning ATK +30%, Ignore Flinch +15%
