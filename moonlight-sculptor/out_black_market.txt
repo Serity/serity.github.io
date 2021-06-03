@@ -1,4 +1,5 @@
-Foyd, the Black Market vendor, only appears at night. He restocks once per real life day.
+For the purposes of this guide, "at night" means "between 21:00 and 03:00" and "at day" is any other time.
+Foyd, the Black Market vendor, only appears between at night.
 Before you can purchase from him, you must do a quest from one of these NPCs:
 
  * Rodrek, Sand Plains: (at day) requires "Suspicious Letter" from nearby assassins
@@ -13,6 +14,7 @@ Once you open the Black Market vendor panel, you must complete that quest again 
 Black Market again. For example, if you access the Sand Plains Black Market shop, you must complete Rodrek's 
 quest again in order to access the Sand Plains Black Market.
 
+His stock is five random items, restocking daily. You can see the item pools below.
 
 One of:
     (random in '10') Weapon Enchant Scroll: 39000g
