@@ -1,3 +1,8 @@
+
+* Please note that "M" rank player skills (usually 'Rank 9 (27)') may not yet be available, despite their data being in the game.
+
+
+
 [sid#4] Fish (Skill 4 Rank 0 (0))
     Fishing
 
