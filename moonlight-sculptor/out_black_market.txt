@@ -2,13 +2,14 @@ For the purposes of this guide, "at night" means "between 21:00 and 03:00" and "
 Foyd, the Black Market vendor, only appears between at night.
 Before you can purchase from him, you must do a quest from one of these NPCs:
 
- * Rodrek, Sand Plains: (at day) requires "Suspicious Letter" from nearby assassins
- * Moti + Kalid, Baran: (at night) Moti requires 5 natural water, then (at day) Kalid requires 5 gingerbread cookies
- * Crowe + Dark Shadow, Livia: (at night) Crowe requires 5 Shattered Glass Bottles and 2 Advanced Iron Ingots, 
-                          then (at day) speak to Dark Shadow near Chabuk and say 'no', 'yes', 'foyd'.
+ * [Sand Plains] Rodrek: (at day) requires "Suspicious Letter" from nearby assassins
+ * [Baran] Moti + Kalid: (at night) Moti requires 5 natural water, then (at day) Kalid requires 5 gingerbread cookies
+ * [Livias] Crowe + Dark Shadow: (at night) Crowe requires 5 Shattered Glass Bottles and 2 Advanced Iron Ingots, 
+                              then (at day) speak to Dark Shadow near Chabuk and say 'no', 'yes', 'foyd'.
 
-After completing one of these quests, the Black Market vendor Foyd will be available near
-Rodrek, Kalid or Chabuk. All vendor shop stocks are the same and share which items have been purchased.
+After completing one of these quests, the Black Market vendor Foyd will be available near Rodrek, Kalid or Chabuk,
+but only at night. All vendor shop stocks are the same and share which items have been purchased. If he says something
+along the lines of not doing business with you, you need to complete the matching quest based on your location.
 
 Once you open the Black Market vendor panel, you must complete that quest again in order to access that 
 Black Market again. For example, if you access the Sand Plains Black Market shop, you must complete Rodrek's 
