@@ -1,0 +1,134 @@
+Foyd, the Black Market vendor, only appears at night. He restocks once per real life day.
+Before you can purchase from him, you must do a quest from one of these NPCs:
+
+ * Rodrek, Sand Plains: (at day) requires "Suspicious Letter" from nearby assassins
+ * Moti + Kalid, Baran: (at night) Moti requires 5 natural water, then (at day) Kalid requires 5 gingerbread cookies
+ * Crowe + Dark Shadow, Livia: (at night) Crowe requires 5 Shattered Glass Bottles and 2 Advanced Iron Ingots, 
+                          then (at day) speak to Dark Shadow near Chabuk and say 'no', 'yes', 'foyd'.
+
+After completing one of these quests, the Black Market vendor Foyd will be available near
+Rodrek, Kalid or Chabuk. All vendor shop stocks are the same and share which items have been purchased.
+
+Once you open the Black Market vendor panel, you must complete that quest again in order to access that 
+Black Market again. For example, if you access the Sand Plains Black Market shop, you must complete Rodrek's 
+quest again in order to access the Sand Plains Black Market.
+
+
+One of:
+    (random in '10') Weapon Enchant Scroll: 39000g
+    (random in '10') Armor Enchant Scroll: 13000g
+    (random in '10') Blessed Weapon Enchant Scroll: 325000g
+    (random in '10') Blessed Armor Enchant Scroll: 130000g
+    (random in '10') Quality Enchant Scroll Chest: 130000g
+    (random in '10') Intermediate Option Stone Chest: 55250g
+    (random in '10') Advanced Option Stone Chest: 97500g
+    (random in '10') Quality Material Chest: 130000g
+    (random in '10') Quality Loot Chest: 130000g
+    (random in '10') Halloween Chair: 124800g
+    (random in '10') Halloween Bed: 624000g
+    (random in '10') Halloween End Table: 156000g
+    (random in '10') Leek Blunt Weapon: 800 Red Butterfly
+
+One of:
+    (random in '20') Drillmaster's Delicious Lunch Box: 39000g
+    (random in '20') Cream of Mushroom Soup: 20280g
+    (random in '20') Honey Butter Chicken Legs: 20280g
+    (random in '20') Seafood Spaghetti Marinara: 20280g
+    (random in '20') Chicken Wrap: 20280g
+    (random in '20') Raisin Muffin: 20280g
+    (random in '20') Tomato Soup: 20280g
+    (random in '20') Coleslaw: 16380g
+    (random in '20') Honey Ice Cream: 16380g
+    (random in '20') Deep-Fried Squid: 16380g
+    (random in '20') Sweet Potato Cake: 16380g
+    (random in '20') Halibut Dish: 16380g
+    (random in '20') Baked Lobster with Cheese: 16380g
+    (random in '20') Halloween Sofa: 312000g
+    (random in '20') Halloween Bookshelf: 280800g
+    (random in '20') Halloween Dresser: 780000g
+    (random in '20') Leek Bow: 800 Red Butterfly
+    (random in '20') Leek Two-Handed Blunt Weapon: 800 Red Butterfly
+
+One of:
+    (random in '30') 10x Little Claw: 1800g
+    (random in '30') 10x Solid Hoof: 1800g
+    (random in '30') 10x Fox Heartstone: 1800g
+    (random in '30') Yivee's Seductive Tail: 2 Red Butterfly
+    (random in '30') Roshu's Solid Club: 4 Red Butterfly
+    (random in '30') Baquenchie's Sharp Molar: 5 Red Butterfly
+    (random in '30') Shiaky's Radiant Scale: 6 Red Butterfly
+    (random in '30') Osbourne's Radiant Green Quartz: 7 Red Butterfly
+    (random in '30') Laposha's Iron Greatsword: 8 Red Butterfly
+    (random in '30') Arcadia's Core: 10 Red Butterfly
+    (random in '30') Arkrasha's Thick Claw: 11 Red Butterfly
+    (random in '30') Harvy's Red Cloak Piece: 12 Red Butterfly
+    (random in '30') Mirv's Radiant Wing: 13 Red Butterfly
+    (random in '30') Syren's Steel Feather: 14 Red Butterfly
+    (random in '30') Mogsy's Solid Leg Bone: 16 Red Butterfly
+    (random in '30') Royan's Hidden Key: 17 Red Butterfly
+    (random in '30') Raja's Thick Leather: 18 Red Butterfly
+    (random in '30') Von Hawk's Evil Thoughts: 19 Red Butterfly
+    (random in '30') Desert Predator's Shell: 22 Red Butterfly
+    (random in '30') Cerberus's Blood: 24 Red Butterfly
+    (random in '30') Essence of Permafrost: 24 Red Butterfly
+    (random in '30') Queen's Fang: 24 Red Butterfly
+    (random in '30') Sand's Claw: 24 Red Butterfly
+    (random in '30') Halloween Wallpaper: 15600g
+    (random in '30') Halloween Floor: 15600g
+    (random in '30') Christmas Wallpaper: 15600g
+    (random in '30') Christmas Floor: 15600g
+    (random in '30') Heart Wallpaper: 15600g
+    (random in '30') Heart Floor: 15600g
+    (random in '30') Study Room Wallpaper: 15600g
+    (random in '30') Study Room Floor: 15600g
+    (random in '30') Lumberjack's Hut Wallpaper: 15600g
+    (random in '30') Lumberjack's Hut Floor: 15600g
+    (random in '30') Leek Dagger: 800 Red Butterfly    
+    (random in '30') Naiad's Blessing: 50 Red Butterfly
+    
+One of:
+    (random in '40') 10x Razor-Sharp Claw: 3600g
+    (random in '40') 10x Solid Bone: 3600g
+    (random in '40') 10x Delicate Hand Mirror: 3600g
+    (random in '40') 10x Bottled Breath: 3600g
+    (random in '40') 10x Transparent Glass Piece: 3600g
+    (random in '40') 10x Sparkling Cuticle: 3600g
+    (random in '40') 10x Tranquil Candlestick: 3600g
+    (random in '40') 10x Blue Moonlight Fragment: 3600g
+    (random in '40') 10x Enchanted Tail: 3600g
+    (random in '40') 10x Resilient Leather: 3600g
+    (random in '40') 10x Sparkling Powder: 3600g
+    (random in '40') Venomous Basilisk Eye: 10 Red Butterfly
+    (random in '40') Pirha's Feather: 24 Red Butterfly
+    (random in '40') Auspicious Jujube Tree: 48 Red Butterfly
+    (random in '40') Elekh's Hammer: 72 Red Butterfly
+    (random in '40') Roaring Soulstone: 96 Red Butterfly
+    (random in '40') Halloween Carpet: 46800g
+    (random in '40') Halloween Table: 234000g
+    (random in '40') Leek Shield: 640 Red Butterfly
+
+One of:
+    (random in '50') 10x Rough Feather: 1800g
+    (random in '50') 10x Thin Leg Bones: 1800g
+    (random in '50') 10x Shabby Paper: 1800g
+    (random in '50') 10x Red Sunstone: 2400g
+    (random in '50') 10x Burnished Key: 3600g
+    (random in '50') 10x Cashmere Fabric: 3600g
+    (random in '50') Splintered Golden Fragment: 5 Red Butterfly
+    (random in '50') Golden Chunk: 10 Red Butterfly
+    (random in '50') Golden Fabric: 10 Red Butterfly
+    (random in '50') Condensed Lightning: 19 Red Butterfly
+    (random in '50') Condensed Poison: 19 Red Butterfly
+    (random in '50') Condensed Flame: 19 Red Butterfly
+    (random in '50') Condensed Ice: 19 Red Butterfly
+    (random in '50') Ripley's Token: 48 Red Butterfly
+    (random in '50') Ripley's Merciless Instinct: 144 Red Butterfly
+    (random in '50') Kamosha's Tooth: 72 Red Butterfly
+    (random in '50') Kamosha's Accessory: 216 Red Butterfly
+    (random in '50') Shire's Curse: 96 Red Butterfly
+    (random in '50') Shire's Empty Darkness: 288 Red Butterfly
+    (random in '50') Anubis's Twisted Heart: 144 Red Butterfly
+    (random in '50') Anubis's Weapon Fragment: 432 Red Butterfly
+    (random in '50') Halloween Decorative Lamp: 109200g
+    (random in '50') Halloween Display Case: 780000g
+    (random in '50') Leek Staff: 800 Red Butterfly
