@@ -1,539 +1,539 @@
 * Dove <Serraborg Castle> (Major/Teleport, Serraborg Region)
-    Level 1 - EXP: 0, New Gifts: <Any Fruit> (+6 Likability)
-    Level 2 - EXP: 6, New Gifts: Delicious Strawberry Jam (+20 Likability), Strawberry Jam (+15 Likability), <Quality Loot> (+15 Likability)
-    Level 3 - EXP: 486, New Gifts: Delicious Apple Sandwich (+40 Likability), Apple Sandwich (+30 Likability), <Rare Loot> (+30 Likability)
-    Level 4 - EXP: 1686, Bonus: Discount, Teleport
+    Level 1 - EXP:    0, New Gifts: <Any Fruit> (+6 Likability)
+    Level 2 - EXP:    6, New Gifts: Delicious Strawberry Jam (+20 Likability), Strawberry Jam (+15 Likability), <Quality Loot> (+15 Likability)
+    Level 3 - EXP:  486, New Gifts: Delicious Apple Sandwich (+40 Likability), Apple Sandwich (+30 Likability), <Rare Loot> (+30 Likability)
+    Level 4 - EXP: 1686, Bonus: 5% Discount, Teleport
 
 * Grassfield <Serraborg Castle> (Normal/Teleport, Serraborg Region)
-    Level 1 - EXP: 0, New Gifts: <Any Loot> (+6 Likability)
-    Level 2 - EXP: 6, New Gifts: Lustrous Leather (+30 Likability), <Quality Loot> (+15 Likability)
-    Level 3 - EXP: 286, New Gifts: Shabby Iron Plate (+45 Likability), <Rare Loot> (+30 Likability)
+    Level 1 - EXP:    0, New Gifts: <Any Loot> (+6 Likability)
+    Level 2 - EXP:    6, New Gifts: Lustrous Leather (+30 Likability), <Quality Loot> (+15 Likability)
+    Level 3 - EXP:  286, New Gifts: Shabby Iron Plate (+45 Likability), <Rare Loot> (+30 Likability)
     Level 4 - EXP: 1006, Bonus: (Title - Extrovert), Teleport
 
 * Honan <Serraborg Castle> (Minor, Serraborg Region)
-    Level 1 - EXP: 0, New Gifts: <Any Leather> (+6 Likability)
-    Level 2 - EXP: 6, New Gifts: <Any Cloth> (+30 Likability), <Quality Loot> (+15 Likability)
-    Level 3 - EXP: 286, New Gifts: Cotton Cloth (+45 Likability), <Rare Loot> (+30 Likability)
-    Level 4 - EXP: 1006, Bonus: Discount
+    Level 1 - EXP:    0, New Gifts: <Any Leather> (+6 Likability)
+    Level 2 - EXP:    6, New Gifts: <Any Cloth> (+30 Likability), <Quality Loot> (+15 Likability)
+    Level 3 - EXP:  286, New Gifts: Cotton Cloth (+45 Likability), <Rare Loot> (+30 Likability)
+    Level 4 - EXP: 1006, Bonus: 5% Discount
 
 * Gramin <Serraborg Castle> (Minor, Serraborg Region)
-    Level 1 - EXP: 0, New Gifts: <Any Leather> (+6 Likability)
-    Level 2 - EXP: 6, New Gifts: <Any Cloth> (+30 Likability), <Quality Loot> (+15 Likability)
-    Level 3 - EXP: 286, New Gifts: Cotton Cloth (+45 Likability), <Rare Loot> (+30 Likability)
-    Level 4 - EXP: 1006, Bonus: Discount
+    Level 1 - EXP:    0, New Gifts: <Any Leather> (+6 Likability)
+    Level 2 - EXP:    6, New Gifts: <Any Cloth> (+30 Likability), <Quality Loot> (+15 Likability)
+    Level 3 - EXP:  286, New Gifts: Cotton Cloth (+45 Likability), <Rare Loot> (+30 Likability)
+    Level 4 - EXP: 1006, Bonus: 5% Discount
 
 * Parme <Serraborg Castle> (Normal/Teleport, Serraborg Region)
-    Level 1 - EXP: 0, New Gifts: <Common Loot> (+6 Likability)
-    Level 2 - EXP: 6, New Gifts: <Quality Loot> (+15 Likability), Shabby Iron Plate (+30 Likability)
-    Level 3 - EXP: 286, New Gifts: <Rare Loot> (+30 Likability), Sparkling Cuticle (+45 Likability)
+    Level 1 - EXP:    0, New Gifts: <Common Loot> (+6 Likability)
+    Level 2 - EXP:    6, New Gifts: <Quality Loot> (+15 Likability), Shabby Iron Plate (+30 Likability)
+    Level 3 - EXP:  286, New Gifts: <Rare Loot> (+30 Likability), Sparkling Cuticle (+45 Likability)
     Level 4 - EXP: 1006, Bonus: (Title - Discerning Eye), Teleport
 
 * Depps <Serraborg Castle> (Minor/Teleport, Serraborg Region)
-    Level 1 - EXP: 0, New Gifts: <Any Vegetable> (+6 Likability)
-    Level 2 - EXP: 6, New Gifts: Vegetable Juice (+30 Likability), <Quality Loot> (+15 Likability)
-    Level 3 - EXP: 286, New Gifts: Carrot Soup (+45 Likability), <Rare Loot> (+30 Likability)
-    Level 4 - EXP: 1006, Bonus: Discount, Teleport
+    Level 1 - EXP:    0, New Gifts: <Any Vegetable> (+6 Likability)
+    Level 2 - EXP:    6, New Gifts: Vegetable Juice (+30 Likability), <Quality Loot> (+15 Likability)
+    Level 3 - EXP:  286, New Gifts: Carrot Soup (+45 Likability), <Rare Loot> (+30 Likability)
+    Level 4 - EXP: 1006, Bonus: 5% Discount, Teleport
 
 * Elena <Serraborg Castle> (Major/Teleport, Serraborg Region)
-    Level 1 - EXP: 0, New Gifts: <Any Vegetable> (+6 Likability)
-    Level 2 - EXP: 6, New Gifts: Red Pearl (+100 Likability), Potato Soup (+20 Likability), Cheesecake (+15 Likability), <Quality Loot> (+15 Likability)
-    Level 3 - EXP: 486, New Gifts: Marinated Grilled Fish (+40 Likability), Pumpkin Porridge (+30 Likability), <Rare Loot> (+30 Likability)
-    Level 4 - EXP: 1686, Bonus: Discount, Teleport
+    Level 1 - EXP:    0, New Gifts: <Any Vegetable> (+6 Likability)
+    Level 2 - EXP:    6, New Gifts: Red Pearl (+100 Likability), Potato Soup (+20 Likability), Cheesecake (+15 Likability), <Quality Loot> (+15 Likability)
+    Level 3 - EXP:  486, New Gifts: Marinated Grilled Fish (+40 Likability), Pumpkin Porridge (+30 Likability), <Rare Loot> (+30 Likability)
+    Level 4 - EXP: 1686, Bonus: 5% Discount, Teleport
 
 * Marcy <Serraborg Castle> (Normal/Teleport, Serraborg Region)
-    Level 1 - EXP: 0, New Gifts: <Any Loot> (+6 Likability)
-    Level 2 - EXP: 6, New Gifts: Lustrous Leather (+30 Likability), <Quality Loot> (+15 Likability)
-    Level 3 - EXP: 286, New Gifts: Resilient Leather (+45 Likability), <Rare Loot> (+30 Likability)
+    Level 1 - EXP:    0, New Gifts: <Any Loot> (+6 Likability)
+    Level 2 - EXP:    6, New Gifts: Lustrous Leather (+30 Likability), <Quality Loot> (+15 Likability)
+    Level 3 - EXP:  286, New Gifts: Resilient Leather (+45 Likability), <Rare Loot> (+30 Likability)
     Level 4 - EXP: 1006, Bonus: (Title - Fashionable), Teleport
 
 * Lumberschmidt <Serraborg Castle> (Normal/Teleport, Serraborg Region)
-    Level 1 - EXP: 0, New Gifts: <Any Loot> (+6 Likability)
-    Level 2 - EXP: 6, New Gifts: Sparkling Cuticle (+30 Likability), <Quality Loot> (+15 Likability)
-    Level 3 - EXP: 286, New Gifts: Shabby Iron Plate (+45 Likability), <Rare Loot> (+30 Likability)
+    Level 1 - EXP:    0, New Gifts: <Any Loot> (+6 Likability)
+    Level 2 - EXP:    6, New Gifts: Sparkling Cuticle (+30 Likability), <Quality Loot> (+15 Likability)
+    Level 3 - EXP:  286, New Gifts: Shabby Iron Plate (+45 Likability), <Rare Loot> (+30 Likability)
     Level 4 - EXP: 1006, Bonus: (Title - Haggling Initiate), Teleport
 
 * Roseanne <Serraborg Castle> (Major/Teleport, Serraborg Region)
-    Level 1 - EXP: 0, New Gifts: <Any Rock> (+6 Likability)
-    Level 2 - EXP: 6, New Gifts: Raw Topaz (+20 Likability), Copper Ore (+15 Likability), <Quality Loot> (+15 Likability)
-    Level 3 - EXP: 486, New Gifts: Raw Emerald (+40 Likability), Raw Amethyst (+30 Likability), <Rare Loot> (+30 Likability)
-    Level 4 - EXP: 1686, Bonus: Discount, Teleport
+    Level 1 - EXP:    0, New Gifts: <Any Rock> (+6 Likability)
+    Level 2 - EXP:    6, New Gifts: Raw Topaz (+20 Likability), Copper Ore (+15 Likability), <Quality Loot> (+15 Likability)
+    Level 3 - EXP:  486, New Gifts: Raw Emerald (+40 Likability), Raw Amethyst (+30 Likability), <Rare Loot> (+30 Likability)
+    Level 4 - EXP: 1686, Bonus: 5% Discount, Teleport
 
 * Salier <Serraborg Castle> (Minor/Teleport, Serraborg Region)
-    Level 1 - EXP: 0, New Gifts: <Any Fruit> (+6 Likability)
-    Level 2 - EXP: 6, New Gifts: Apple (+30 Likability), <Quality Loot> (+15 Likability)
-    Level 3 - EXP: 286, New Gifts: Strawberry (+45 Likability), <Rare Loot> (+30 Likability)
-    Level 4 - EXP: 1006, Bonus: Discount, Teleport
+    Level 1 - EXP:    0, New Gifts: <Any Fruit> (+6 Likability)
+    Level 2 - EXP:    6, New Gifts: Apple (+30 Likability), <Quality Loot> (+15 Likability)
+    Level 3 - EXP:  286, New Gifts: Strawberry (+45 Likability), <Rare Loot> (+30 Likability)
+    Level 4 - EXP: 1006, Bonus: 5% Discount, Teleport
 
 * Lydia <Serraborg Castle> (Major/Teleport, Serraborg Region)
-    Level 1 - EXP: 0, New Gifts: <Any Loot> (+6 Likability)
-    Level 2 - EXP: 6, New Gifts: Lustrous Leather (+20 Likability), Solid Hoof (+15 Likability), <Quality Loot> (+15 Likability)
-    Level 3 - EXP: 486, New Gifts: Resilient Leather (+40 Likability), Shabby Iron Plate (+30 Likability), <Rare Loot> (+30 Likability)
-    Level 4 - EXP: 1686, Bonus: Discount, Teleport
+    Level 1 - EXP:    0, New Gifts: <Any Loot> (+6 Likability)
+    Level 2 - EXP:    6, New Gifts: Lustrous Leather (+20 Likability), Solid Hoof (+15 Likability), <Quality Loot> (+15 Likability)
+    Level 3 - EXP:  486, New Gifts: Resilient Leather (+40 Likability), Shabby Iron Plate (+30 Likability), <Rare Loot> (+30 Likability)
+    Level 4 - EXP: 1686, Bonus: 5% Discount, Teleport
 
 * Oliver <Serraborg Castle> (Minor/Teleport, Serraborg Region)
-    Level 1 - EXP: 0, New Gifts: <Any Lumber> (+6 Likability)
-    Level 2 - EXP: 6, New Gifts: Hardwood (+30 Likability), <Quality Loot> (+15 Likability)
-    Level 3 - EXP: 286, New Gifts: Light Lumber (+45 Likability), <Rare Loot> (+30 Likability)
-    Level 4 - EXP: 1006, Bonus: Discount, Teleport
+    Level 1 - EXP:    0, New Gifts: <Any Lumber> (+6 Likability)
+    Level 2 - EXP:    6, New Gifts: Hardwood (+30 Likability), <Quality Loot> (+15 Likability)
+    Level 3 - EXP:  286, New Gifts: Light Lumber (+45 Likability), <Rare Loot> (+30 Likability)
+    Level 4 - EXP: 1006, Bonus: 5% Discount, Teleport
 
 * Watt <Serraborg Castle> (Normal/Teleport, Serraborg Region)
-    Level 1 - EXP: 0, New Gifts: <Any Rock> (+6 Likability)
-    Level 2 - EXP: 6, New Gifts: Iron Ore (+30 Likability), <Quality Loot> (+15 Likability)
-    Level 3 - EXP: 286, New Gifts: Copper Ore (+45 Likability), <Rare Loot> (+30 Likability)
+    Level 1 - EXP:    0, New Gifts: <Any Rock> (+6 Likability)
+    Level 2 - EXP:    6, New Gifts: Iron Ore (+30 Likability), <Quality Loot> (+15 Likability)
+    Level 3 - EXP:  286, New Gifts: Copper Ore (+45 Likability), <Rare Loot> (+30 Likability)
     Level 4 - EXP: 1006, Bonus: (Title - Kingdom Affiliate), Teleport
 
 * Helen <Serraborg Castle> (Major/Teleport, Serraborg Region)
-    Level 1 - EXP: 0, New Gifts: <Any Fruit> (+6 Likability)
-    Level 2 - EXP: 6, New Gifts: Delicious Strawberry Jam (+20 Likability), Strawberry Jam (+15 Likability), <Quality Loot> (+15 Likability)
-    Level 3 - EXP: 486, New Gifts: Delicious Apple Sandwich (+40 Likability), Apple Sandwich (+30 Likability), <Rare Loot> (+30 Likability)
-    Level 4 - EXP: 1686, Bonus: Discount, Teleport
+    Level 1 - EXP:    0, New Gifts: <Any Fruit> (+6 Likability)
+    Level 2 - EXP:    6, New Gifts: Delicious Strawberry Jam (+20 Likability), Strawberry Jam (+15 Likability), <Quality Loot> (+15 Likability)
+    Level 3 - EXP:  486, New Gifts: Delicious Apple Sandwich (+40 Likability), Apple Sandwich (+30 Likability), <Rare Loot> (+30 Likability)
+    Level 4 - EXP: 1686, Bonus: 5% Discount, Teleport
 
 * Hwaryeong <Serraborg Castle> (Original Normal/Teleport, Serraborg Region)
-    Level 1 - EXP: 0, New Gifts: <Any Jewel> (+6 Likability)
-    Level 2 - EXP: 6, New Gifts: Topaz (+20 Likability), Amethyst (+20 Likability), Emerald (+20 Likability)
-    Level 3 - EXP: 286, New Gifts: Pearl (+40 Likability)
+    Level 1 - EXP:    0, New Gifts: <Any Jewel> (+6 Likability)
+    Level 2 - EXP:    6, New Gifts: Topaz (+20 Likability), Amethyst (+20 Likability), Emerald (+20 Likability)
+    Level 3 - EXP:  286, New Gifts: Pearl (+40 Likability)
     Level 4 - EXP: 1006, Bonus: (Title - Idol Fan), Teleport
 
 * Otiros <Fox Plains> (Minor, Serraborg Outskirts Region)
-    Level 1 - EXP: 0, New Gifts: <Any Leather> (+6 Likability)
-    Level 2 - EXP: 6, New Gifts: <Any Cloth> (+30 Likability), <Quality Loot> (+15 Likability)
-    Level 3 - EXP: 286, New Gifts: Cotton Cloth (+45 Likability), <Rare Loot> (+30 Likability)
-    Level 4 - EXP: 1006, Bonus: Discount
+    Level 1 - EXP:    0, New Gifts: <Any Leather> (+6 Likability)
+    Level 2 - EXP:    6, New Gifts: <Any Cloth> (+30 Likability), <Quality Loot> (+15 Likability)
+    Level 3 - EXP:  286, New Gifts: Cotton Cloth (+45 Likability), <Rare Loot> (+30 Likability)
+    Level 4 - EXP: 1006, Bonus: 5% Discount
 
 * Alm <Fox Plains> (Major, Serraborg Outskirts Region)
-    Level 1 - EXP: 0, New Gifts: <Any Fruit> (+6 Likability)
-    Level 2 - EXP: 6, New Gifts: Delicious Strawberry Jam (+20 Likability), Strawberry Jam (+15 Likability), <Quality Loot> (+15 Likability)
-    Level 3 - EXP: 486, New Gifts: Delicious Apple Sandwich (+40 Likability), Apple Sandwich (+30 Likability), <Rare Loot> (+30 Likability)
-    Level 4 - EXP: 1686, Bonus: Discount
+    Level 1 - EXP:    0, New Gifts: <Any Fruit> (+6 Likability)
+    Level 2 - EXP:    6, New Gifts: Delicious Strawberry Jam (+20 Likability), Strawberry Jam (+15 Likability), <Quality Loot> (+15 Likability)
+    Level 3 - EXP:  486, New Gifts: Delicious Apple Sandwich (+40 Likability), Apple Sandwich (+30 Likability), <Rare Loot> (+30 Likability)
+    Level 4 - EXP: 1686, Bonus: 5% Discount
 
 * Willfire <Southern Plains> (Minor, Serraborg Outskirts Region)
-    Level 1 - EXP: 0, New Gifts: <Any Leather> (+6 Likability)
-    Level 2 - EXP: 6, New Gifts: <Any Cloth> (+30 Likability), <Quality Loot> (+15 Likability)
-    Level 3 - EXP: 286, New Gifts: Cotton Cloth (+45 Likability), <Rare Loot> (+30 Likability)
-    Level 4 - EXP: 1006, Bonus: Discount
+    Level 1 - EXP:    0, New Gifts: <Any Leather> (+6 Likability)
+    Level 2 - EXP:    6, New Gifts: <Any Cloth> (+30 Likability), <Quality Loot> (+15 Likability)
+    Level 3 - EXP:  286, New Gifts: Cotton Cloth (+45 Likability), <Rare Loot> (+30 Likability)
+    Level 4 - EXP: 1006, Bonus: 5% Discount
 
 * Paul <Southern Plains> (Minor/Teleport, Serraborg Outskirts Region)
-    Level 1 - EXP: 0, New Gifts: <Any Fish> (+6 Likability)
-    Level 2 - EXP: 6, New Gifts: Freshwater Shrimp (+30 Likability), <Quality Loot> (+15 Likability)
-    Level 3 - EXP: 286, New Gifts: Bluegill (+45 Likability), <Rare Loot> (+30 Likability)
-    Level 4 - EXP: 1006, Bonus: Discount, Teleport
+    Level 1 - EXP:    0, New Gifts: <Any Fish> (+6 Likability)
+    Level 2 - EXP:    6, New Gifts: Freshwater Shrimp (+30 Likability), <Quality Loot> (+15 Likability)
+    Level 3 - EXP:  286, New Gifts: Bluegill (+45 Likability), <Rare Loot> (+30 Likability)
+    Level 4 - EXP: 1006, Bonus: 5% Discount, Teleport
 
 * Dante <Southern Plains> (Minor, Serraborg Outskirts Region)
-    Level 1 - EXP: 0, New Gifts: <Any Loot> (+6 Likability)
-    Level 2 - EXP: 6, New Gifts: Lustrous Leather (+30 Likability), Sparkling Cuticle (+25 Likability), <Quality Loot> (+15 Likability)
-    Level 3 - EXP: 286, New Gifts: Little Claw (+45 Likability), Shabby Iron Plate (+38 Likability), <Rare Loot> (+30 Likability)
-    Level 4 - EXP: 1006, Bonus: Discount
+    Level 1 - EXP:    0, New Gifts: <Any Loot> (+6 Likability)
+    Level 2 - EXP:    6, New Gifts: Lustrous Leather (+30 Likability), Sparkling Cuticle (+25 Likability), <Quality Loot> (+15 Likability)
+    Level 3 - EXP:  286, New Gifts: Little Claw (+45 Likability), Shabby Iron Plate (+38 Likability), <Rare Loot> (+30 Likability)
+    Level 4 - EXP: 1006, Bonus: 5% Discount
 
 * Zepie <Southern Plains> (Original Normal/Teleport, Serraborg Outskirts Region)
-    Level 1 - EXP: 0, New Gifts: <Any Fish> (+6 Likability)
-    Level 2 - EXP: 6, New Gifts: Leather Carp (+20 Likability), Crawfish (+20 Likability), Long-Spine Porcupinefish (+20 Likability)
-    Level 3 - EXP: 286, New Gifts: Bass (+40 Likability)
+    Level 1 - EXP:    0, New Gifts: <Any Fish> (+6 Likability)
+    Level 2 - EXP:    6, New Gifts: Leather Carp (+20 Likability), Crawfish (+20 Likability), Long-Spine Porcupinefish (+20 Likability)
+    Level 3 - EXP:  286, New Gifts: Bass (+40 Likability)
     Level 4 - EXP: 1006, Bonus: (Title - Fishing Spectator), Teleport
 
 * Sergio <Wasteland> (Minor, Serraborg Outskirts Region)
-    Level 1 - EXP: 0, New Gifts: <Any Loot> (+6 Likability)
-    Level 2 - EXP: 6, New Gifts: Lustrous Leather (+30 Likability), Sparkling Cuticle (+25 Likability), <Quality Loot> (+15 Likability)
-    Level 3 - EXP: 286, New Gifts: Little Claw (+45 Likability), Shabby Iron Plate (+38 Likability), <Rare Loot> (+30 Likability)
-    Level 4 - EXP: 1006, Bonus: Discount
+    Level 1 - EXP:    0, New Gifts: <Any Loot> (+6 Likability)
+    Level 2 - EXP:    6, New Gifts: Lustrous Leather (+30 Likability), Sparkling Cuticle (+25 Likability), <Quality Loot> (+15 Likability)
+    Level 3 - EXP:  286, New Gifts: Little Claw (+45 Likability), Shabby Iron Plate (+38 Likability), <Rare Loot> (+30 Likability)
+    Level 4 - EXP: 1006, Bonus: 5% Discount
 
 * Leone <Wasteland> (Minor, Serraborg Outskirts Region)
-    Level 1 - EXP: 0, New Gifts: <Any Loot> (+6 Likability)
-    Level 2 - EXP: 6, New Gifts: Lustrous Leather (+30 Likability), Sparkling Cuticle (+25 Likability), <Quality Loot> (+15 Likability)
-    Level 3 - EXP: 286, New Gifts: Little Claw (+45 Likability), Shabby Iron Plate (+38 Likability), <Rare Loot> (+30 Likability)
-    Level 4 - EXP: 1006, Bonus: Discount
+    Level 1 - EXP:    0, New Gifts: <Any Loot> (+6 Likability)
+    Level 2 - EXP:    6, New Gifts: Lustrous Leather (+30 Likability), Sparkling Cuticle (+25 Likability), <Quality Loot> (+15 Likability)
+    Level 3 - EXP:  286, New Gifts: Little Claw (+45 Likability), Shabby Iron Plate (+38 Likability), <Rare Loot> (+30 Likability)
+    Level 4 - EXP: 1006, Bonus: 5% Discount
 
 * Clint <Wasteland> (Minor, Serraborg Outskirts Region)
-    Level 1 - EXP: 0, New Gifts: <Any Loot> (+6 Likability)
-    Level 2 - EXP: 6, New Gifts: Lustrous Leather (+30 Likability), Sparkling Cuticle (+25 Likability), <Quality Loot> (+15 Likability)
-    Level 3 - EXP: 286, New Gifts: Little Claw (+45 Likability), Shabby Iron Plate (+38 Likability), <Rare Loot> (+30 Likability)
-    Level 4 - EXP: 1006, Bonus: Discount
+    Level 1 - EXP:    0, New Gifts: <Any Loot> (+6 Likability)
+    Level 2 - EXP:    6, New Gifts: Lustrous Leather (+30 Likability), Sparkling Cuticle (+25 Likability), <Quality Loot> (+15 Likability)
+    Level 3 - EXP:  286, New Gifts: Little Claw (+45 Likability), Shabby Iron Plate (+38 Likability), <Rare Loot> (+30 Likability)
+    Level 4 - EXP: 1006, Bonus: 5% Discount
 
 * Dubane <Wasteland> (Minor, Serraborg Outskirts Region)
-    Level 1 - EXP: 0, New Gifts: <Any Loot> (+6 Likability)
-    Level 2 - EXP: 6, New Gifts: Lustrous Leather (+30 Likability), Sparkling Cuticle (+25 Likability), <Quality Loot> (+15 Likability)
-    Level 3 - EXP: 286, New Gifts: Little Claw (+45 Likability), Shabby Iron Plate (+38 Likability), <Rare Loot> (+30 Likability)
-    Level 4 - EXP: 1006, Bonus: Discount
+    Level 1 - EXP:    0, New Gifts: <Any Loot> (+6 Likability)
+    Level 2 - EXP:    6, New Gifts: Lustrous Leather (+30 Likability), Sparkling Cuticle (+25 Likability), <Quality Loot> (+15 Likability)
+    Level 3 - EXP:  286, New Gifts: Little Claw (+45 Likability), Shabby Iron Plate (+38 Likability), <Rare Loot> (+30 Likability)
+    Level 4 - EXP: 1006, Bonus: 5% Discount
 
 * Baker <Leatvar Den BF2> (Minor, Serraborg Outskirts Region)
-    Level 1 - EXP: 0, New Gifts: <Any Loot> (+6 Likability)
-    Level 2 - EXP: 6, New Gifts: Lustrous Leather (+30 Likability), Sparkling Cuticle (+25 Likability), <Quality Loot> (+15 Likability)
-    Level 3 - EXP: 286, New Gifts: Resilient Leather (+45 Likability), Shabby Iron Plate (+38 Likability), <Rare Loot> (+30 Likability)
-    Level 4 - EXP: 1006, Bonus: Discount
+    Level 1 - EXP:    0, New Gifts: <Any Loot> (+6 Likability)
+    Level 2 - EXP:    6, New Gifts: Lustrous Leather (+30 Likability), Sparkling Cuticle (+25 Likability), <Quality Loot> (+15 Likability)
+    Level 3 - EXP:  286, New Gifts: Resilient Leather (+45 Likability), Shabby Iron Plate (+38 Likability), <Rare Loot> (+30 Likability)
+    Level 4 - EXP: 1006, Bonus: 5% Discount
 
 * Vandera <Leatvar Den BF3> (Minor, Serraborg Outskirts Region)
-    Level 1 - EXP: 0, New Gifts: <Any Loot> (+6 Likability)
-    Level 2 - EXP: 6, New Gifts: Lustrous Leather (+30 Likability), Sparkling Cuticle (+25 Likability), <Quality Loot> (+15 Likability)
-    Level 3 - EXP: 286, New Gifts: Resilient Leather (+45 Likability), Shabby Iron Plate (+38 Likability), <Rare Loot> (+30 Likability)
-    Level 4 - EXP: 1006, Bonus: Discount
+    Level 1 - EXP:    0, New Gifts: <Any Loot> (+6 Likability)
+    Level 2 - EXP:    6, New Gifts: Lustrous Leather (+30 Likability), Sparkling Cuticle (+25 Likability), <Quality Loot> (+15 Likability)
+    Level 3 - EXP:  286, New Gifts: Resilient Leather (+45 Likability), Shabby Iron Plate (+38 Likability), <Rare Loot> (+30 Likability)
+    Level 4 - EXP: 1006, Bonus: 5% Discount
 
 * Estevan <Leatvar Den BF4> (Minor, Serraborg Outskirts Region)
-    Level 1 - EXP: 0, New Gifts: <Any Loot> (+6 Likability)
-    Level 2 - EXP: 6, New Gifts: Lustrous Leather (+30 Likability), Sparkling Cuticle (+25 Likability), <Quality Loot> (+15 Likability)
-    Level 3 - EXP: 286, New Gifts: Resilient Leather (+45 Likability), Shabby Iron Plate (+38 Likability), <Rare Loot> (+30 Likability)
-    Level 4 - EXP: 1006, Bonus: Discount
+    Level 1 - EXP:    0, New Gifts: <Any Loot> (+6 Likability)
+    Level 2 - EXP:    6, New Gifts: Lustrous Leather (+30 Likability), Sparkling Cuticle (+25 Likability), <Quality Loot> (+15 Likability)
+    Level 3 - EXP:  286, New Gifts: Resilient Leather (+45 Likability), Shabby Iron Plate (+38 Likability), <Rare Loot> (+30 Likability)
+    Level 4 - EXP: 1006, Bonus: 5% Discount
 
 * Baxter <Leatvar Den BF4> (Minor, Serraborg Outskirts Region)
-    Level 1 - EXP: 0, New Gifts: <Any Loot> (+6 Likability)
-    Level 2 - EXP: 6, New Gifts: Lustrous Leather (+30 Likability), Sparkling Cuticle (+25 Likability), <Quality Loot> (+15 Likability)
-    Level 3 - EXP: 286, New Gifts: Resilient Leather (+45 Likability), Shabby Iron Plate (+38 Likability), <Rare Loot> (+30 Likability)
-    Level 4 - EXP: 1006, Bonus: Discount
+    Level 1 - EXP:    0, New Gifts: <Any Loot> (+6 Likability)
+    Level 2 - EXP:    6, New Gifts: Lustrous Leather (+30 Likability), Sparkling Cuticle (+25 Likability), <Quality Loot> (+15 Likability)
+    Level 3 - EXP:  286, New Gifts: Resilient Leather (+45 Likability), Shabby Iron Plate (+38 Likability), <Rare Loot> (+30 Likability)
+    Level 4 - EXP: 1006, Bonus: 5% Discount
 
 * Rubio <Leatvar Den BF4> (Minor, Serraborg Outskirts Region)
-    Level 1 - EXP: 0, New Gifts: <Any Loot> (+6 Likability)
-    Level 2 - EXP: 6, New Gifts: Lustrous Leather (+30 Likability), Sparkling Cuticle (+25 Likability), <Quality Loot> (+15 Likability)
-    Level 3 - EXP: 286, New Gifts: Resilient Leather (+45 Likability), Shabby Iron Plate (+38 Likability), <Rare Loot> (+30 Likability)
-    Level 4 - EXP: 1006, Bonus: Discount
+    Level 1 - EXP:    0, New Gifts: <Any Loot> (+6 Likability)
+    Level 2 - EXP:    6, New Gifts: Lustrous Leather (+30 Likability), Sparkling Cuticle (+25 Likability), <Quality Loot> (+15 Likability)
+    Level 3 - EXP:  286, New Gifts: Resilient Leather (+45 Likability), Shabby Iron Plate (+38 Likability), <Rare Loot> (+30 Likability)
+    Level 4 - EXP: 1006, Bonus: 5% Discount
 
 * Ali <Baran> (Minor, Baran Region)
-    Level 1 - EXP: 0, New Gifts: <Any Cloth> (+6 Likability)
-    Level 2 - EXP: 6, New Gifts: <Quality Loot> (+15 Likability), Cotton (+30 Likability)
-    Level 3 - EXP: 286, New Gifts: <Rare Loot> (+30 Likability), Silkworm Cocoon (+45 Likability)
-    Level 4 - EXP: 1006, Bonus: Discount
+    Level 1 - EXP:    0, New Gifts: <Any Cloth> (+6 Likability)
+    Level 2 - EXP:    6, New Gifts: <Quality Loot> (+15 Likability), Cotton (+30 Likability)
+    Level 3 - EXP:  286, New Gifts: <Rare Loot> (+30 Likability), Silkworm Cocoon (+45 Likability)
+    Level 4 - EXP: 1006, Bonus: 5% Discount
 
 * Adiva <Baran> (Major/Teleport, Baran Region)
-    Level 1 - EXP: 0, New Gifts: <Any Loot> (+6 Likability)
-    Level 2 - EXP: 6, New Gifts: Quartz Fragments (+20 Likability), Resilient Leather (+15 Likability), <Quality Loot> (+15 Likability)
-    Level 3 - EXP: 486, New Gifts: Marble (+40 Likability), Thin Leg Bones (+30 Likability), <Rare Loot> (+30 Likability)
-    Level 4 - EXP: 1686, Bonus: Discount, Teleport
+    Level 1 - EXP:    0, New Gifts: <Any Loot> (+6 Likability)
+    Level 2 - EXP:    6, New Gifts: Quartz Fragments (+20 Likability), Resilient Leather (+15 Likability), <Quality Loot> (+15 Likability)
+    Level 3 - EXP:  486, New Gifts: Marble (+40 Likability), Thin Leg Bones (+30 Likability), <Rare Loot> (+30 Likability)
+    Level 4 - EXP: 1686, Bonus: 5% Discount, Teleport
 
 * Jaihin <Baran> (Major/Teleport, Baran Region)
-    Level 1 - EXP: 0, New Gifts: <Any Vegetable> (+6 Likability)
-    Level 2 - EXP: 6, New Gifts: Steamed Carp (+20 Likability), Ginger Tea (+15 Likability), <Quality Loot> (+15 Likability)
-    Level 3 - EXP: 486, New Gifts: Muffin (+40 Likability), Spicy Wings (+30 Likability), <Rare Loot> (+30 Likability)
-    Level 4 - EXP: 1686, Bonus: Discount, Teleport
+    Level 1 - EXP:    0, New Gifts: <Any Vegetable> (+6 Likability)
+    Level 2 - EXP:    6, New Gifts: Steamed Carp (+20 Likability), Ginger Tea (+15 Likability), <Quality Loot> (+15 Likability)
+    Level 3 - EXP:  486, New Gifts: Muffin (+40 Likability), Spicy Wings (+30 Likability), <Rare Loot> (+30 Likability)
+    Level 4 - EXP: 1686, Bonus: 5% Discount, Teleport
 
 * Mesien <Baran> (Minor/Teleport, Baran Region)
-    Level 1 - EXP: 0, New Gifts: <Any Loot> (+6 Likability)
-    Level 2 - EXP: 6, New Gifts: <Quality Loot> (+15 Likability), Cashmere Fabric (+30 Likability)
-    Level 3 - EXP: 286, New Gifts: <Rare Loot> (+30 Likability), Sharp Horn (+45 Likability)
-    Level 4 - EXP: 1006, Bonus: Discount, Teleport
+    Level 1 - EXP:    0, New Gifts: <Any Loot> (+6 Likability)
+    Level 2 - EXP:    6, New Gifts: <Quality Loot> (+15 Likability), Cashmere Fabric (+30 Likability)
+    Level 3 - EXP:  286, New Gifts: <Rare Loot> (+30 Likability), Sharp Horn (+45 Likability)
+    Level 4 - EXP: 1006, Bonus: 5% Discount, Teleport
 
 * Kalid <Baran> (Minor, Baran Region)
-    Level 1 - EXP: 0, New Gifts: <Any Loot> (+6 Likability)
-    Level 2 - EXP: 6, New Gifts: <Quality Loot> (+15 Likability), Cashmere Fabric (+30 Likability)
-    Level 3 - EXP: 286, New Gifts: <Rare Loot> (+30 Likability), Sharp Horn (+45 Likability)
-    Level 4 - EXP: 1006, Bonus: Discount
+    Level 1 - EXP:    0, New Gifts: <Any Loot> (+6 Likability)
+    Level 2 - EXP:    6, New Gifts: <Quality Loot> (+15 Likability), Cashmere Fabric (+30 Likability)
+    Level 3 - EXP:  286, New Gifts: <Rare Loot> (+30 Likability), Sharp Horn (+45 Likability)
+    Level 4 - EXP: 1006, Bonus: 5% Discount
 
 * Hakim <Baran> (Minor/Teleport, Baran Region)
-    Level 1 - EXP: 0, New Gifts: <Any Loot> (+6 Likability)
-    Level 2 - EXP: 6, New Gifts: <Quality Loot> (+15 Likability), Cashmere Fabric (+30 Likability)
-    Level 3 - EXP: 286, New Gifts: <Rare Loot> (+30 Likability), Sharp Horn (+45 Likability)
-    Level 4 - EXP: 1006, Bonus: Discount, Teleport
+    Level 1 - EXP:    0, New Gifts: <Any Loot> (+6 Likability)
+    Level 2 - EXP:    6, New Gifts: <Quality Loot> (+15 Likability), Cashmere Fabric (+30 Likability)
+    Level 3 - EXP:  286, New Gifts: <Rare Loot> (+30 Likability), Sharp Horn (+45 Likability)
+    Level 4 - EXP: 1006, Bonus: 5% Discount, Teleport
 
 * Magdi <Baran> (Minor/Teleport, Baran Region)
-    Level 1 - EXP: 0, New Gifts: <Any Loot> (+6 Likability)
-    Level 2 - EXP: 6, New Gifts: <Quality Loot> (+15 Likability), Resilient Leather (+30 Likability)
-    Level 3 - EXP: 286, New Gifts: <Rare Loot> (+30 Likability), Transparent Glass Piece (+45 Likability)
-    Level 4 - EXP: 1006, Bonus: Discount, Teleport
+    Level 1 - EXP:    0, New Gifts: <Any Loot> (+6 Likability)
+    Level 2 - EXP:    6, New Gifts: <Quality Loot> (+15 Likability), Resilient Leather (+30 Likability)
+    Level 3 - EXP:  286, New Gifts: <Rare Loot> (+30 Likability), Transparent Glass Piece (+45 Likability)
+    Level 4 - EXP: 1006, Bonus: 5% Discount, Teleport
 
 * Gandalva <Baran> (Original Normal/Teleport, Baran Region)
-    Level 1 - EXP: 0, New Gifts: <Any Fruit> (+6 Likability)
-    Level 2 - EXP: 6, New Gifts: Warm Ginger Tea (+20 Likability), Fresh Rice and Beans (+20 Likability), Waxy Corn (+20 Likability)
-    Level 3 - EXP: 286, New Gifts: Delicious Bibimbap (+40 Likability)
+    Level 1 - EXP:    0, New Gifts: <Any Fruit> (+6 Likability)
+    Level 2 - EXP:    6, New Gifts: Warm Ginger Tea (+20 Likability), Fresh Rice and Beans (+20 Likability), Waxy Corn (+20 Likability)
+    Level 3 - EXP:  286, New Gifts: Delicious Bibimbap (+40 Likability)
     Level 4 - EXP: 1006, Bonus: (Title - Big Shot of Baran), Teleport
 
 * Latif <Baran> (Minor/Teleport, Baran Region)
-    Level 1 - EXP: 0, New Gifts: <Any Fish> (+6 Likability)
-    Level 2 - EXP: 6, New Gifts: <Quality Loot> (+15 Likability), Whitespotted Puffer (+30 Likability)
-    Level 3 - EXP: 286, New Gifts: Bluegill (+45 Likability), <Rare Loot> (+30 Likability)
-    Level 4 - EXP: 1006, Bonus: Discount, Teleport
+    Level 1 - EXP:    0, New Gifts: <Any Fish> (+6 Likability)
+    Level 2 - EXP:    6, New Gifts: <Quality Loot> (+15 Likability), Whitespotted Puffer (+30 Likability)
+    Level 3 - EXP:  286, New Gifts: Bluegill (+45 Likability), <Rare Loot> (+30 Likability)
+    Level 4 - EXP: 1006, Bonus: 5% Discount, Teleport
 
 * Rakin <Baran> (Normal/Teleport, Baran Region)
-    Level 1 - EXP: 0, New Gifts: <Any Loot> (+6 Likability)
-    Level 2 - EXP: 6, New Gifts: <Quality Loot> (+15 Likability), Shabby Stick (+30 Likability)
-    Level 3 - EXP: 286, New Gifts: <Rare Loot> (+30 Likability), Shabby Paper (+45 Likability)
+    Level 1 - EXP:    0, New Gifts: <Any Loot> (+6 Likability)
+    Level 2 - EXP:    6, New Gifts: <Quality Loot> (+15 Likability), Shabby Stick (+30 Likability)
+    Level 3 - EXP:  286, New Gifts: <Rare Loot> (+30 Likability), Shabby Paper (+45 Likability)
     Level 4 - EXP: 1006, Bonus: (Title - Artisan's Apprentice), Teleport
 
 * Leira <Baran> (Minor/Teleport, Baran Region)
-    Level 1 - EXP: 0, New Gifts: <Any Fruit> (+6 Likability)
-    Level 2 - EXP: 6, New Gifts: <Quality Loot> (+15 Likability), Cacao (+30 Likability)
-    Level 3 - EXP: 286, New Gifts: <Rare Loot> (+30 Likability), Chocolate (+45 Likability)
-    Level 4 - EXP: 1006, Bonus: Discount, Teleport
+    Level 1 - EXP:    0, New Gifts: <Any Fruit> (+6 Likability)
+    Level 2 - EXP:    6, New Gifts: <Quality Loot> (+15 Likability), Cacao (+30 Likability)
+    Level 3 - EXP:  286, New Gifts: <Rare Loot> (+30 Likability), Chocolate (+45 Likability)
+    Level 4 - EXP: 1006, Bonus: 5% Discount, Teleport
 
 * Kamas <Baran> (Major/Teleport, Baran Region)
-    Level 1 - EXP: 0, New Gifts: <Any Grain> (+6 Likability)
-    Level 2 - EXP: 6, New Gifts: Fruit Yogurt (+20 Likability), Rice and Beans (+15 Likability), <Quality Loot> (+15 Likability)
-    Level 3 - EXP: 486, New Gifts: Sea Bass Steak (+40 Likability), Popcorn (+30 Likability), <Rare Loot> (+30 Likability)
-    Level 4 - EXP: 1686, Bonus: Discount, Teleport
+    Level 1 - EXP:    0, New Gifts: <Any Grain> (+6 Likability)
+    Level 2 - EXP:    6, New Gifts: Fruit Yogurt (+20 Likability), Rice and Beans (+15 Likability), <Quality Loot> (+15 Likability)
+    Level 3 - EXP:  486, New Gifts: Sea Bass Steak (+40 Likability), Popcorn (+30 Likability), <Rare Loot> (+30 Likability)
+    Level 4 - EXP: 1686, Bonus: 5% Discount, Teleport
 
 * Salla <Baran> (Minor/Teleport, Baran Region)
-    Level 1 - EXP: 0, New Gifts: <Any Vegetable> (+6 Likability)
-    Level 2 - EXP: 6, New Gifts: <Quality Loot> (+15 Likability), Ginger Tea (+30 Likability)
-    Level 3 - EXP: 286, New Gifts: <Rare Loot> (+30 Likability), Steamed Corn (+45 Likability)
-    Level 4 - EXP: 1006, Bonus: Discount, Teleport
+    Level 1 - EXP:    0, New Gifts: <Any Vegetable> (+6 Likability)
+    Level 2 - EXP:    6, New Gifts: <Quality Loot> (+15 Likability), Ginger Tea (+30 Likability)
+    Level 3 - EXP:  286, New Gifts: <Rare Loot> (+30 Likability), Steamed Corn (+45 Likability)
+    Level 4 - EXP: 1006, Bonus: 5% Discount, Teleport
 
 * Azima <Baran> (Major/Teleport, Baran Region)
-    Level 1 - EXP: 0, New Gifts: <Any Rock> (+6 Likability)
-    Level 2 - EXP: 6, New Gifts: Advanced Iron Ore (+20 Likability), Copper Ore (+15 Likability), <Quality Loot> (+15 Likability)
-    Level 3 - EXP: 486, New Gifts: Raw Ruby (+40 Likability), Silver Ore (+30 Likability), <Rare Loot> (+30 Likability)
-    Level 4 - EXP: 1686, Bonus: Discount, Teleport
+    Level 1 - EXP:    0, New Gifts: <Any Rock> (+6 Likability)
+    Level 2 - EXP:    6, New Gifts: Advanced Iron Ore (+20 Likability), Copper Ore (+15 Likability), <Quality Loot> (+15 Likability)
+    Level 3 - EXP:  486, New Gifts: Raw Ruby (+40 Likability), Silver Ore (+30 Likability), <Rare Loot> (+30 Likability)
+    Level 4 - EXP: 1686, Bonus: 5% Discount, Teleport
 
 * Gadan <Baran Ravine> (Minor, Baran Region)
-    Level 1 - EXP: 0, New Gifts: <Any Loot> (+6 Likability)
-    Level 2 - EXP: 6, New Gifts: <Quality Loot> (+15 Likability), Alchemist Copper Wire (+30 Likability)
-    Level 3 - EXP: 286, New Gifts: <Rare Loot> (+30 Likability), Shabby Stick (+45 Likability)
-    Level 4 - EXP: 1006, Bonus: Discount
+    Level 1 - EXP:    0, New Gifts: <Any Loot> (+6 Likability)
+    Level 2 - EXP:    6, New Gifts: <Quality Loot> (+15 Likability), Alchemist Copper Wire (+30 Likability)
+    Level 3 - EXP:  286, New Gifts: <Rare Loot> (+30 Likability), Shabby Stick (+45 Likability)
+    Level 4 - EXP: 1006, Bonus: 5% Discount
 
 * Yusri <Lizardman Valley> (Minor/Teleport, Baran Region)
-    Level 1 - EXP: 0, New Gifts: <Any Loot> (+6 Likability)
-    Level 2 - EXP: 6, New Gifts: <Quality Loot> (+15 Likability), Alchemist Copper Wire (+30 Likability)
-    Level 3 - EXP: 286, New Gifts: <Rare Loot> (+30 Likability), Shabby Stick (+45 Likability)
-    Level 4 - EXP: 1006, Bonus: Discount, Teleport
+    Level 1 - EXP:    0, New Gifts: <Any Loot> (+6 Likability)
+    Level 2 - EXP:    6, New Gifts: <Quality Loot> (+15 Likability), Alchemist Copper Wire (+30 Likability)
+    Level 3 - EXP:  286, New Gifts: <Rare Loot> (+30 Likability), Shabby Stick (+45 Likability)
+    Level 4 - EXP: 1006, Bonus: 5% Discount, Teleport
 
 * Umar <Sand Plains> (Major, Baran Region)
-    Level 1 - EXP: 0, New Gifts: <Any Grain> (+6 Likability)
-    Level 2 - EXP: 6, New Gifts: Fruit Yogurt (+20 Likability), Rice and Beans (+15 Likability), <Quality Loot> (+15 Likability)
-    Level 3 - EXP: 486, New Gifts: Sea Bass Steak (+40 Likability), Popcorn (+30 Likability), <Rare Loot> (+30 Likability)
-    Level 4 - EXP: 1686, Bonus: Discount
+    Level 1 - EXP:    0, New Gifts: <Any Grain> (+6 Likability)
+    Level 2 - EXP:    6, New Gifts: Fruit Yogurt (+20 Likability), Rice and Beans (+15 Likability), <Quality Loot> (+15 Likability)
+    Level 3 - EXP:  486, New Gifts: Sea Bass Steak (+40 Likability), Popcorn (+30 Likability), <Rare Loot> (+30 Likability)
+    Level 4 - EXP: 1686, Bonus: 5% Discount
 
 * Rodrek <Sand Plains> (Minor, Baran Region)
-    Level 1 - EXP: 0, New Gifts: <Any Loot> (+6 Likability)
-    Level 2 - EXP: 6, New Gifts: <Quality Loot> (+15 Likability), Transparent Glass Piece (+30 Likability)
-    Level 3 - EXP: 286, New Gifts: <Rare Loot> (+30 Likability), Shabby Paper (+45 Likability)
-    Level 4 - EXP: 1006, Bonus: Discount
+    Level 1 - EXP:    0, New Gifts: <Any Loot> (+6 Likability)
+    Level 2 - EXP:    6, New Gifts: <Quality Loot> (+15 Likability), Transparent Glass Piece (+30 Likability)
+    Level 3 - EXP:  286, New Gifts: <Rare Loot> (+30 Likability), Shabby Paper (+45 Likability)
+    Level 4 - EXP: 1006, Bonus: 5% Discount
 
 * Rahel <Sand Plains> (Major, Baran Region)
-    Level 1 - EXP: 0, New Gifts: <Any Grain> (+6 Likability)
-    Level 2 - EXP: 6, New Gifts: Fruit Yogurt (+20 Likability), Rice and Beans (+15 Likability), <Quality Loot> (+15 Likability)
-    Level 3 - EXP: 486, New Gifts: Sea Bass Steak (+40 Likability), Popcorn (+30 Likability), <Rare Loot> (+30 Likability)
-    Level 4 - EXP: 1686, Bonus: Discount
+    Level 1 - EXP:    0, New Gifts: <Any Grain> (+6 Likability)
+    Level 2 - EXP:    6, New Gifts: Fruit Yogurt (+20 Likability), Rice and Beans (+15 Likability), <Quality Loot> (+15 Likability)
+    Level 3 - EXP:  486, New Gifts: Sea Bass Steak (+40 Likability), Popcorn (+30 Likability), <Rare Loot> (+30 Likability)
+    Level 4 - EXP: 1686, Bonus: 5% Discount
 
 * Bruner <Sand Plains> (Minor, Baran Region)
-    Level 1 - EXP: 0, New Gifts: <Any Loot> (+6 Likability)
-    Level 2 - EXP: 6, New Gifts: <Quality Loot> (+15 Likability), Transparent Glass Piece (+30 Likability)
-    Level 3 - EXP: 286, New Gifts: <Rare Loot> (+30 Likability), Shabby Paper (+45 Likability)
-    Level 4 - EXP: 1006, Bonus: Discount
+    Level 1 - EXP:    0, New Gifts: <Any Loot> (+6 Likability)
+    Level 2 - EXP:    6, New Gifts: <Quality Loot> (+15 Likability), Transparent Glass Piece (+30 Likability)
+    Level 3 - EXP:  286, New Gifts: <Rare Loot> (+30 Likability), Shabby Paper (+45 Likability)
+    Level 4 - EXP: 1006, Bonus: 5% Discount
 
 * Miles <Sand Plains> (Minor, Baran Region)
-    Level 1 - EXP: 0, New Gifts: <Any Loot> (+6 Likability)
-    Level 2 - EXP: 6, New Gifts: <Quality Loot> (+15 Likability), Transparent Glass Piece (+30 Likability)
-    Level 3 - EXP: 286, New Gifts: <Rare Loot> (+30 Likability), Shabby Paper (+45 Likability)
-    Level 4 - EXP: 1006, Bonus: Discount
+    Level 1 - EXP:    0, New Gifts: <Any Loot> (+6 Likability)
+    Level 2 - EXP:    6, New Gifts: <Quality Loot> (+15 Likability), Transparent Glass Piece (+30 Likability)
+    Level 3 - EXP:  286, New Gifts: <Rare Loot> (+30 Likability), Shabby Paper (+45 Likability)
+    Level 4 - EXP: 1006, Bonus: 5% Discount
 
 * Lacter <Sand Plains> (Minor/Teleport, Baran Region)
-    Level 1 - EXP: 0, New Gifts: <Any Loot> (+6 Likability)
-    Level 2 - EXP: 6, New Gifts: <Quality Loot> (+15 Likability), Transparent Glass Piece (+30 Likability)
-    Level 3 - EXP: 286, New Gifts: <Rare Loot> (+30 Likability), Shabby Paper (+45 Likability)
-    Level 4 - EXP: 1006, Bonus: Discount, Teleport
+    Level 1 - EXP:    0, New Gifts: <Any Loot> (+6 Likability)
+    Level 2 - EXP:    6, New Gifts: <Quality Loot> (+15 Likability), Transparent Glass Piece (+30 Likability)
+    Level 3 - EXP:  286, New Gifts: <Rare Loot> (+30 Likability), Shabby Paper (+45 Likability)
+    Level 4 - EXP: 1006, Bonus: 5% Discount, Teleport
 
 * Amelie <Sand Plains> (Normal/Teleport, Baran Region)
-    Level 1 - EXP: 0, New Gifts: <Any Loot> (+6 Likability)
-    Level 2 - EXP: 6, New Gifts: <Quality Loot> (+15 Likability), Shabby Stick (+30 Likability)
-    Level 3 - EXP: 286, New Gifts: <Rare Loot> (+30 Likability), Shabby Paper (+45 Likability)
+    Level 1 - EXP:    0, New Gifts: <Any Loot> (+6 Likability)
+    Level 2 - EXP:    6, New Gifts: <Quality Loot> (+15 Likability), Shabby Stick (+30 Likability)
+    Level 3 - EXP:  286, New Gifts: <Rare Loot> (+30 Likability), Shabby Paper (+45 Likability)
     Level 4 - EXP: 1006, Bonus: (Title - Cheering for the Dream), Teleport
 
 * Balak <Forgotten Sand Ravine> (Minor, Baran Region)
-    Level 1 - EXP: 0, New Gifts: <Any Loot> (+6 Likability)
-    Level 2 - EXP: 6, New Gifts: <Quality Loot> (+15 Likability), Bottled Breath (+30 Likability)
-    Level 3 - EXP: 286, New Gifts: <Rare Loot> (+30 Likability), Floral Wrapping Cloth (+45 Likability)
-    Level 4 - EXP: 1006, Bonus: Discount
+    Level 1 - EXP:    0, New Gifts: <Any Loot> (+6 Likability)
+    Level 2 - EXP:    6, New Gifts: <Quality Loot> (+15 Likability), Bottled Breath (+30 Likability)
+    Level 3 - EXP:  286, New Gifts: <Rare Loot> (+30 Likability), Floral Wrapping Cloth (+45 Likability)
+    Level 4 - EXP: 1006, Bonus: 5% Discount
 
 * Paola <Land of the Forgotten Kingdom> (Major, Baran Region)
-    Level 1 - EXP: 0, New Gifts: <Any Fruit> (+6 Likability)
-    Level 2 - EXP: 6, New Gifts: <Quality Loot> (+15 Likability), Raisin Muffin (+20 Likability), Sweet Potato Cake (+15 Likability)
-    Level 3 - EXP: 486, New Gifts: <Rare Loot> (+30 Likability), Sandwich (+40 Likability), Vigor Drink (+30 Likability)
-    Level 4 - EXP: 1686, Bonus: Discount
+    Level 1 - EXP:    0, New Gifts: <Any Fruit> (+6 Likability)
+    Level 2 - EXP:    6, New Gifts: <Quality Loot> (+15 Likability), Raisin Muffin (+20 Likability), Sweet Potato Cake (+15 Likability)
+    Level 3 - EXP:  486, New Gifts: <Rare Loot> (+30 Likability), Sandwich (+40 Likability), Vigor Drink (+30 Likability)
+    Level 4 - EXP: 1686, Bonus: 5% Discount
 
 * Donia <Land of the Forgotten Kingdom> (Major, Baran Region)
-    Level 1 - EXP: 0, New Gifts: <Any Fruit> (+6 Likability)
-    Level 2 - EXP: 6, New Gifts: <Quality Loot> (+15 Likability), Raisin Muffin (+20 Likability), Sweet Potato Cake (+15 Likability)
-    Level 3 - EXP: 486, New Gifts: <Rare Loot> (+30 Likability), Sandwich (+40 Likability), Vigor Drink (+30 Likability)
-    Level 4 - EXP: 1686, Bonus: Discount
+    Level 1 - EXP:    0, New Gifts: <Any Fruit> (+6 Likability)
+    Level 2 - EXP:    6, New Gifts: <Quality Loot> (+15 Likability), Raisin Muffin (+20 Likability), Sweet Potato Cake (+15 Likability)
+    Level 3 - EXP:  486, New Gifts: <Rare Loot> (+30 Likability), Sandwich (+40 Likability), Vigor Drink (+30 Likability)
+    Level 4 - EXP: 1686, Bonus: 5% Discount
 
 * Argos <Sky Vine> (Minor, Livias Region)
-    Level 1 - EXP: 0, New Gifts: <Any Loot> (+6 Likability)
-    Level 2 - EXP: 6, New Gifts: <Quality Loot> (+15 Likability), Sparkling Powder (+30 Likability)
-    Level 3 - EXP: 286, New Gifts: <Rare Loot> (+30 Likability), Sparkling Cuticle (+45 Likability)
-    Level 4 - EXP: 1006, Bonus: Discount
+    Level 1 - EXP:    0, New Gifts: <Any Loot> (+6 Likability)
+    Level 2 - EXP:    6, New Gifts: <Quality Loot> (+15 Likability), Sparkling Powder (+30 Likability)
+    Level 3 - EXP:  286, New Gifts: <Rare Loot> (+30 Likability), Sparkling Cuticle (+45 Likability)
+    Level 4 - EXP: 1006, Bonus: 5% Discount
 
 * Magog <Sky Vine> (Minor, Livias Region)
-    Level 1 - EXP: 0, New Gifts: <Any Loot> (+6 Likability)
-    Level 2 - EXP: 6, New Gifts: <Quality Loot> (+15 Likability), Sparkling Cuticle (+30 Likability)
-    Level 3 - EXP: 286, New Gifts: <Rare Loot> (+30 Likability), Sparkling Powder (+45 Likability)
-    Level 4 - EXP: 1006, Bonus: Discount
+    Level 1 - EXP:    0, New Gifts: <Any Loot> (+6 Likability)
+    Level 2 - EXP:    6, New Gifts: <Quality Loot> (+15 Likability), Sparkling Cuticle (+30 Likability)
+    Level 3 - EXP:  286, New Gifts: <Rare Loot> (+30 Likability), Sparkling Powder (+45 Likability)
+    Level 4 - EXP: 1006, Bonus: 5% Discount
 
 * Louis <Livias> (Major/Teleport, Livias Region)
-    Level 1 - EXP: 0, New Gifts: <Any Vegetable> (+6 Likability)
-    Level 2 - EXP: 6, New Gifts: Sweet Potato Cake (+20 Likability), Mushroom Salad (+15 Likability), <Quality Loot> (+15 Likability)
-    Level 3 - EXP: 486, New Gifts: Honey Butter Chicken Legs (+40 Likability), Clam Chowder (+30 Likability), <Rare Loot> (+30 Likability)
-    Level 4 - EXP: 1686, Bonus: Discount, Teleport
+    Level 1 - EXP:    0, New Gifts: <Any Vegetable> (+6 Likability)
+    Level 2 - EXP:    6, New Gifts: Sweet Potato Cake (+20 Likability), Mushroom Salad (+15 Likability), <Quality Loot> (+15 Likability)
+    Level 3 - EXP:  486, New Gifts: Honey Butter Chicken Legs (+40 Likability), Clam Chowder (+30 Likability), <Rare Loot> (+30 Likability)
+    Level 4 - EXP: 1686, Bonus: 5% Discount, Teleport
 
 * Raoul <Livias> (Minor/Teleport, Livias Region)
-    Level 1 - EXP: 0, New Gifts: <Any Fish> (+6 Likability)
-    Level 2 - EXP: 6, New Gifts: <Quality Loot> (+15 Likability), Mackerel (+30 Likability)
-    Level 3 - EXP: 286, New Gifts: <Rare Loot> (+30 Likability), Catfish (+45 Likability)
-    Level 4 - EXP: 1006, Bonus: Discount, Teleport
+    Level 1 - EXP:    0, New Gifts: <Any Fish> (+6 Likability)
+    Level 2 - EXP:    6, New Gifts: <Quality Loot> (+15 Likability), Mackerel (+30 Likability)
+    Level 3 - EXP:  286, New Gifts: <Rare Loot> (+30 Likability), Catfish (+45 Likability)
+    Level 4 - EXP: 1006, Bonus: 5% Discount, Teleport
 
 * Adria <Livias> (Minor, Livias Region)
-    Level 1 - EXP: 0, New Gifts: <Any Loot> (+6 Likability)
-    Level 2 - EXP: 6, New Gifts: <Quality Loot> (+15 Likability), Blue Moonlight Fragment (+30 Likability)
-    Level 3 - EXP: 286, New Gifts: <Rare Loot> (+30 Likability), Shabby Paper (+45 Likability)
-    Level 4 - EXP: 1006, Bonus: Discount
+    Level 1 - EXP:    0, New Gifts: <Any Loot> (+6 Likability)
+    Level 2 - EXP:    6, New Gifts: <Quality Loot> (+15 Likability), Blue Moonlight Fragment (+30 Likability)
+    Level 3 - EXP:  286, New Gifts: <Rare Loot> (+30 Likability), Shabby Paper (+45 Likability)
+    Level 4 - EXP: 1006, Bonus: 5% Discount
 
 * Crowe <Livias> (Original Normal/Teleport, Livias Region)
-    Level 1 - EXP: 0, New Gifts: <Any Rock> (+6 Likability), Lavender (+6 Likability)
-    Level 2 - EXP: 6, New Gifts: Gold Ingot (+20 Likability), Silver Ingot (+15 Likability)
-    Level 3 - EXP: 286, New Gifts: Crystal (+40 Likability), Sapphire (+30 Likability)
+    Level 1 - EXP:    0, New Gifts: <Any Rock> (+6 Likability), Lavender (+6 Likability)
+    Level 2 - EXP:    6, New Gifts: Gold Ingot (+20 Likability), Silver Ingot (+15 Likability)
+    Level 3 - EXP:  286, New Gifts: Crystal (+40 Likability), Sapphire (+30 Likability)
     Level 4 - EXP: 1006, Bonus: (Title - Sociable), Teleport
 
 * Angel <Livias> (Minor/Teleport, Livias Region)
-    Level 1 - EXP: 0, New Gifts: <Any Fruit> (+6 Likability)
-    Level 2 - EXP: 6, New Gifts: <Quality Loot> (+15 Likability), Orange (+30 Likability)
-    Level 3 - EXP: 286, New Gifts: <Rare Loot> (+30 Likability), Lemon (+45 Likability)
-    Level 4 - EXP: 1006, Bonus: Discount, Teleport
+    Level 1 - EXP:    0, New Gifts: <Any Fruit> (+6 Likability)
+    Level 2 - EXP:    6, New Gifts: <Quality Loot> (+15 Likability), Orange (+30 Likability)
+    Level 3 - EXP:  286, New Gifts: <Rare Loot> (+30 Likability), Lemon (+45 Likability)
+    Level 4 - EXP: 1006, Bonus: 5% Discount, Teleport
 
 * Chabuk <Livias> (Minor, Livias Region)
-    Level 1 - EXP: 0, New Gifts: <Any Loot> (+6 Likability)
-    Level 2 - EXP: 6, New Gifts: <Quality Loot> (+15 Likability), Blue Moonlight Fragment (+30 Likability)
-    Level 3 - EXP: 286, New Gifts: <Rare Loot> (+30 Likability), Shabby Paper (+45 Likability)
-    Level 4 - EXP: 1006, Bonus: Discount
+    Level 1 - EXP:    0, New Gifts: <Any Loot> (+6 Likability)
+    Level 2 - EXP:    6, New Gifts: <Quality Loot> (+15 Likability), Blue Moonlight Fragment (+30 Likability)
+    Level 3 - EXP:  286, New Gifts: <Rare Loot> (+30 Likability), Shabby Paper (+45 Likability)
+    Level 4 - EXP: 1006, Bonus: 5% Discount
 
 * Asha <Livias> (Major/Teleport, Livias Region)
-    Level 1 - EXP: 0, New Gifts: <Any Rock> (+6 Likability)
-    Level 2 - EXP: 6, New Gifts: Gold Ore (+20 Likability), Silver Ore (+15 Likability), <Quality Loot> (+15 Likability)
-    Level 3 - EXP: 486, New Gifts: Raw Crystal (+40 Likability), Raw Sapphire (+30 Likability), <Rare Loot> (+30 Likability)
-    Level 4 - EXP: 1686, Bonus: Discount, Teleport
+    Level 1 - EXP:    0, New Gifts: <Any Rock> (+6 Likability)
+    Level 2 - EXP:    6, New Gifts: Gold Ore (+20 Likability), Silver Ore (+15 Likability), <Quality Loot> (+15 Likability)
+    Level 3 - EXP:  486, New Gifts: Raw Crystal (+40 Likability), Raw Sapphire (+30 Likability), <Rare Loot> (+30 Likability)
+    Level 4 - EXP: 1686, Bonus: 5% Discount, Teleport
 
 * Alegro <Livias> (Normal/Teleport, Livias Region)
-    Level 1 - EXP: 0, New Gifts: <Any Loot> (+6 Likability)
-    Level 2 - EXP: 6, New Gifts: <Quality Loot> (+15 Likability), Rough Feather (+30 Likability)
-    Level 3 - EXP: 286, New Gifts: <Rare Loot> (+30 Likability), Broken Key (+45 Likability)
+    Level 1 - EXP:    0, New Gifts: <Any Loot> (+6 Likability)
+    Level 2 - EXP:    6, New Gifts: <Quality Loot> (+15 Likability), Rough Feather (+30 Likability)
+    Level 3 - EXP:  286, New Gifts: <Rare Loot> (+30 Likability), Broken Key (+45 Likability)
     Level 4 - EXP: 1006, Bonus: (Title - Livias Vigilante), Teleport
 
 * Burgany <Livias> (Major/Teleport, Livias Region)
-    Level 1 - EXP: 0, New Gifts: <Any Fish> (+6 Likability)
-    Level 2 - EXP: 6, New Gifts: Salt-Grilled Mackerel (+20 Likability), Roasted Cutlassfish (+15 Likability), <Quality Loot> (+15 Likability)
-    Level 3 - EXP: 486, New Gifts: Pizza (+40 Likability), Hamburger (+30 Likability), <Rare Loot> (+30 Likability)
-    Level 4 - EXP: 1686, Bonus: Discount, Teleport
+    Level 1 - EXP:    0, New Gifts: <Any Fish> (+6 Likability)
+    Level 2 - EXP:    6, New Gifts: Salt-Grilled Mackerel (+20 Likability), Roasted Cutlassfish (+15 Likability), <Quality Loot> (+15 Likability)
+    Level 3 - EXP:  486, New Gifts: Pizza (+40 Likability), Hamburger (+30 Likability), <Rare Loot> (+30 Likability)
+    Level 4 - EXP: 1686, Bonus: 5% Discount, Teleport
 
 * Sezar <Livias> (Minor/Teleport, Livias Region)
-    Level 1 - EXP: 0, New Gifts: <Any Vegetable> (+6 Likability)
-    Level 2 - EXP: 6, New Gifts: <Quality Loot> (+15 Likability), Baked Sweet Potato (+30 Likability)
-    Level 3 - EXP: 286, New Gifts: <Rare Loot> (+30 Likability), Mushroom Salad (+45 Likability)
-    Level 4 - EXP: 1006, Bonus: Discount, Teleport
+    Level 1 - EXP:    0, New Gifts: <Any Vegetable> (+6 Likability)
+    Level 2 - EXP:    6, New Gifts: <Quality Loot> (+15 Likability), Baked Sweet Potato (+30 Likability)
+    Level 3 - EXP:  286, New Gifts: <Rare Loot> (+30 Likability), Mushroom Salad (+45 Likability)
+    Level 4 - EXP: 1006, Bonus: 5% Discount, Teleport
 
 * Oris <Mephisto Hall> (Minor, Livias Region)
-    Level 1 - EXP: 0, New Gifts: <Any Loot> (+6 Likability)
-    Level 2 - EXP: 6, New Gifts: <Quality Loot> (+15 Likability), Blue Moonlight Fragment (+30 Likability)
-    Level 3 - EXP: 286, New Gifts: <Rare Loot> (+30 Likability), Shabby Paper (+45 Likability)
-    Level 4 - EXP: 1006, Bonus: Discount
+    Level 1 - EXP:    0, New Gifts: <Any Loot> (+6 Likability)
+    Level 2 - EXP:    6, New Gifts: <Quality Loot> (+15 Likability), Blue Moonlight Fragment (+30 Likability)
+    Level 3 - EXP:  286, New Gifts: <Rare Loot> (+30 Likability), Shabby Paper (+45 Likability)
+    Level 4 - EXP: 1006, Bonus: 5% Discount
 
 * Jorba <Mephisto Hall BF2> (Minor, Livias Region)
-    Level 1 - EXP: 0, New Gifts: <Common Loot> (+6 Likability)
-    Level 2 - EXP: 6, New Gifts: <Quality Loot> (+15 Likability), Black Fabric (+30 Likability)
-    Level 3 - EXP: 286, New Gifts: <Rare Loot> (+30 Likability), Exorcism Silver (+45 Likability)
-    Level 4 - EXP: 1006, Bonus: Discount
+    Level 1 - EXP:    0, New Gifts: <Common Loot> (+6 Likability)
+    Level 2 - EXP:    6, New Gifts: <Quality Loot> (+15 Likability), Black Fabric (+30 Likability)
+    Level 3 - EXP:  286, New Gifts: <Rare Loot> (+30 Likability), Exorcism Silver (+45 Likability)
+    Level 4 - EXP: 1006, Bonus: 5% Discount
 
 * Broshur <Mephisto Hall BF3> (Minor, Livias Region)
-    Level 1 - EXP: 0, New Gifts: <Any Loot> (+6 Likability)
-    Level 2 - EXP: 6, New Gifts: <Quality Loot> (+15 Likability), Rough Feather (+30 Likability)
-    Level 3 - EXP: 286, New Gifts: <Rare Loot> (+30 Likability), Broken Key (+45 Likability)
-    Level 4 - EXP: 1006, Bonus: Discount
+    Level 1 - EXP:    0, New Gifts: <Any Loot> (+6 Likability)
+    Level 2 - EXP:    6, New Gifts: <Quality Loot> (+15 Likability), Rough Feather (+30 Likability)
+    Level 3 - EXP:  286, New Gifts: <Rare Loot> (+30 Likability), Broken Key (+45 Likability)
+    Level 4 - EXP: 1006, Bonus: 5% Discount
 
 * Petsi <Mephisto Hall BF4> (Minor, Livias Region)
-    Level 1 - EXP: 0, New Gifts: <Any Fish> (+6 Likability)
-    Level 2 - EXP: 6, New Gifts: <Quality Loot> (+15 Likability), Clam (+30 Likability)
-    Level 3 - EXP: 286, New Gifts: <Rare Loot> (+30 Likability), Crawfish (+45 Likability)
-    Level 4 - EXP: 1006, Bonus: Discount
+    Level 1 - EXP:    0, New Gifts: <Any Fish> (+6 Likability)
+    Level 2 - EXP:    6, New Gifts: <Quality Loot> (+15 Likability), Clam (+30 Likability)
+    Level 3 - EXP:  286, New Gifts: <Rare Loot> (+30 Likability), Crawfish (+45 Likability)
+    Level 4 - EXP: 1006, Bonus: 5% Discount
 
 * Dirgo <Mephisto Hall BF5> (Minor, Livias Region)
-    Level 1 - EXP: 0, New Gifts: <Any Loot> (+6 Likability)
-    Level 2 - EXP: 6, New Gifts: <Quality Loot> (+15 Likability), Dark Fluid (+30 Likability)
-    Level 3 - EXP: 286, New Gifts: <Rare Loot> (+30 Likability), Sparkling Powder (+45 Likability)
-    Level 4 - EXP: 1006, Bonus: Discount
+    Level 1 - EXP:    0, New Gifts: <Any Loot> (+6 Likability)
+    Level 2 - EXP:    6, New Gifts: <Quality Loot> (+15 Likability), Dark Fluid (+30 Likability)
+    Level 3 - EXP:  286, New Gifts: <Rare Loot> (+30 Likability), Sparkling Powder (+45 Likability)
+    Level 4 - EXP: 1006, Bonus: 5% Discount
 
 * Kano <Livias Mountain> (Minor/Teleport, Livias Region)
-    Level 1 - EXP: 0, New Gifts: <Any Loot> (+6 Likability)
-    Level 2 - EXP: 6, New Gifts: <Quality Loot> (+15 Likability), Tranquil Candlestick (+30 Likability)
-    Level 3 - EXP: 286, New Gifts: <Rare Loot> (+30 Likability), Solid Bone (+45 Likability)
-    Level 4 - EXP: 1006, Bonus: Discount, Teleport
+    Level 1 - EXP:    0, New Gifts: <Any Loot> (+6 Likability)
+    Level 2 - EXP:    6, New Gifts: <Quality Loot> (+15 Likability), Tranquil Candlestick (+30 Likability)
+    Level 3 - EXP:  286, New Gifts: <Rare Loot> (+30 Likability), Solid Bone (+45 Likability)
+    Level 4 - EXP: 1006, Bonus: 5% Discount, Teleport
 
 * Cherri <Livias Mountain> (Minor, Livias Region)
-    Level 1 - EXP: 0, New Gifts: <Any Loot> (+6 Likability)
-    Level 2 - EXP: 6, New Gifts: <Quality Loot> (+15 Likability), Tranquil Candlestick (+30 Likability)
-    Level 3 - EXP: 286, New Gifts: <Rare Loot> (+30 Likability), Solid Bone (+45 Likability)
-    Level 4 - EXP: 1006, Bonus: Discount
+    Level 1 - EXP:    0, New Gifts: <Any Loot> (+6 Likability)
+    Level 2 - EXP:    6, New Gifts: <Quality Loot> (+15 Likability), Tranquil Candlestick (+30 Likability)
+    Level 3 - EXP:  286, New Gifts: <Rare Loot> (+30 Likability), Solid Bone (+45 Likability)
+    Level 4 - EXP: 1006, Bonus: 5% Discount
 
 * Ragna <Livias Mountain> (Minor, Livias Region)
-    Level 1 - EXP: 0, New Gifts: <Any Loot> (+6 Likability)
-    Level 2 - EXP: 6, New Gifts: <Quality Loot> (+15 Likability), Tranquil Candlestick (+30 Likability)
-    Level 3 - EXP: 286, New Gifts: <Rare Loot> (+30 Likability), Solid Bone (+45 Likability)
-    Level 4 - EXP: 1006, Bonus: Discount
+    Level 1 - EXP:    0, New Gifts: <Any Loot> (+6 Likability)
+    Level 2 - EXP:    6, New Gifts: <Quality Loot> (+15 Likability), Tranquil Candlestick (+30 Likability)
+    Level 3 - EXP:  286, New Gifts: <Rare Loot> (+30 Likability), Solid Bone (+45 Likability)
+    Level 4 - EXP: 1006, Bonus: 5% Discount
 
 * Matther <Livias Mountain> (Minor, Livias Region)
-    Level 1 - EXP: 0, New Gifts: <Any Loot> (+6 Likability)
-    Level 2 - EXP: 6, New Gifts: <Quality Loot> (+15 Likability), Tranquil Candlestick (+30 Likability)
-    Level 3 - EXP: 286, New Gifts: <Rare Loot> (+30 Likability), Solid Bone (+45 Likability)
-    Level 4 - EXP: 1006, Bonus: Discount
+    Level 1 - EXP:    0, New Gifts: <Any Loot> (+6 Likability)
+    Level 2 - EXP:    6, New Gifts: <Quality Loot> (+15 Likability), Tranquil Candlestick (+30 Likability)
+    Level 3 - EXP:  286, New Gifts: <Rare Loot> (+30 Likability), Solid Bone (+45 Likability)
+    Level 4 - EXP: 1006, Bonus: 5% Discount
 
 * Abur <Barkan Catacombs> (Minor, Livias Region)
-    Level 1 - EXP: 0, New Gifts: <Common Loot> (+6 Likability)
-    Level 2 - EXP: 6, New Gifts: <Quality Loot> (+15 Likability), Exorcism Silver (+30 Likability)
-    Level 3 - EXP: 286, New Gifts: <Rare Loot> (+30 Likability), Tranquil Candlestick (+45 Likability)
-    Level 4 - EXP: 1006, Bonus: Discount
+    Level 1 - EXP:    0, New Gifts: <Common Loot> (+6 Likability)
+    Level 2 - EXP:    6, New Gifts: <Quality Loot> (+15 Likability), Exorcism Silver (+30 Likability)
+    Level 3 - EXP:  286, New Gifts: <Rare Loot> (+30 Likability), Tranquil Candlestick (+45 Likability)
+    Level 4 - EXP: 1006, Bonus: 5% Discount
 
 * Pegu <Barkan Catacombs BF2> (Minor, Livias Region)
-    Level 1 - EXP: 0, New Gifts: <Any Loot> (+6 Likability)
-    Level 2 - EXP: 6, New Gifts: <Quality Loot> (+15 Likability), Shabby Paper (+30 Likability)
-    Level 3 - EXP: 286, New Gifts: <Rare Loot> (+30 Likability), Dark Fluid (+45 Likability)
-    Level 4 - EXP: 1006, Bonus: Discount
+    Level 1 - EXP:    0, New Gifts: <Any Loot> (+6 Likability)
+    Level 2 - EXP:    6, New Gifts: <Quality Loot> (+15 Likability), Shabby Paper (+30 Likability)
+    Level 3 - EXP:  286, New Gifts: <Rare Loot> (+30 Likability), Dark Fluid (+45 Likability)
+    Level 4 - EXP: 1006, Bonus: 5% Discount
 
 * Deltoro <Barkan Catacombs BF3> (Minor, Livias Region)
-    Level 1 - EXP: 0, New Gifts: <Common Loot> (+6 Likability)
-    Level 2 - EXP: 6, New Gifts: <Quality Loot> (+15 Likability), Shabby Paper (+30 Likability)
-    Level 3 - EXP: 286, New Gifts: <Rare Loot> (+30 Likability), Dark Fluid (+45 Likability)
-    Level 4 - EXP: 1006, Bonus: Discount
+    Level 1 - EXP:    0, New Gifts: <Common Loot> (+6 Likability)
+    Level 2 - EXP:    6, New Gifts: <Quality Loot> (+15 Likability), Shabby Paper (+30 Likability)
+    Level 3 - EXP:  286, New Gifts: <Rare Loot> (+30 Likability), Dark Fluid (+45 Likability)
+    Level 4 - EXP: 1006, Bonus: 5% Discount
 
 * Jonathan <Barkan Catacombs BF4> (Minor, Livias Region)
-    Level 1 - EXP: 0, New Gifts: <Common Loot> (+6 Likability)
-    Level 2 - EXP: 6, New Gifts: <Quality Loot> (+15 Likability), Shabby Paper (+30 Likability)
-    Level 3 - EXP: 286, New Gifts: <Rare Loot> (+30 Likability), Bottled Breath (+45 Likability)
-    Level 4 - EXP: 1006, Bonus: Discount
+    Level 1 - EXP:    0, New Gifts: <Common Loot> (+6 Likability)
+    Level 2 - EXP:    6, New Gifts: <Quality Loot> (+15 Likability), Shabby Paper (+30 Likability)
+    Level 3 - EXP:  286, New Gifts: <Rare Loot> (+30 Likability), Bottled Breath (+45 Likability)
+    Level 4 - EXP: 1006, Bonus: 5% Discount
 
 * Segul <Barkan Catacombs BF5> (Original Shop, Livias Region)
-    Level 1 - EXP: 0, New Gifts: <Any Vegetable> (+6 Likability), Rose (+6 Likability)
-    Level 2 - EXP: 6, New Gifts: Ginger Ale (+20 Likability), Delicious Gingerbread Cookie (+15 Likability)
-    Level 3 - EXP: 486, New Gifts: Coffee (+40 Likability), Milk Tea (+30 Likability)
-    Level 4 - EXP: 1686, Bonus: Discount, (Title - Honorary Order Member)
+    Level 1 - EXP:    0, New Gifts: <Any Vegetable> (+6 Likability), Rose (+6 Likability)
+    Level 2 - EXP:    6, New Gifts: Ginger Ale (+20 Likability), Delicious Gingerbread Cookie (+15 Likability)
+    Level 3 - EXP:  486, New Gifts: Coffee (+40 Likability), Milk Tea (+30 Likability)
+    Level 4 - EXP: 1686, Bonus: 5% Discount, (Title - Honorary Order Member)
 
 * Gray <Dead Warrior's Cave> (Minor, Livias Region)
-    Level 1 - EXP: 0, New Gifts: <Any Loot> (+6 Likability)
-    Level 2 - EXP: 6, New Gifts: <Quality Loot> (+15 Likability), Sparkling Powder (+30 Likability)
-    Level 3 - EXP: 286, New Gifts: <Rare Loot> (+30 Likability), Dark Fluid (+45 Likability)
-    Level 4 - EXP: 1006, Bonus: Discount
+    Level 1 - EXP:    0, New Gifts: <Any Loot> (+6 Likability)
+    Level 2 - EXP:    6, New Gifts: <Quality Loot> (+15 Likability), Sparkling Powder (+30 Likability)
+    Level 3 - EXP:  286, New Gifts: <Rare Loot> (+30 Likability), Dark Fluid (+45 Likability)
+    Level 4 - EXP: 1006, Bonus: 5% Discount
 
 * Ave <Livias> (Skill Master, Skill Master)
-    Level 1 - EXP: 0, New Gifts: <Rare Loot> (+7 Likability)
-    Level 2 - EXP: 6, New Gifts: <Heroic Loot> (+30 Likability)
-    Level 3 - EXP: 286
-    Level 4 - EXP: 1006, Bonus: Discount, Teleport
+    Level 1 - EXP:    0, New Gifts: <Rare Loot> (+7 Likability)
+    Level 2 - EXP:    6, New Gifts: <Heroic Loot> (+30 Likability)
+    Level 3 - EXP:  286
+    Level 4 - EXP: 1006, Bonus: 5% Discount, Teleport
 
 * Grubin <Livias> (Skill Master, Skill Master)
-    Level 1 - EXP: 0, New Gifts: <Rare Loot> (+7 Likability)
-    Level 2 - EXP: 6, New Gifts: <Heroic Loot> (+30 Likability)
-    Level 3 - EXP: 286
-    Level 4 - EXP: 1006, Bonus: Discount, Teleport
+    Level 1 - EXP:    0, New Gifts: <Rare Loot> (+7 Likability)
+    Level 2 - EXP:    6, New Gifts: <Heroic Loot> (+30 Likability)
+    Level 3 - EXP:  286
+    Level 4 - EXP: 1006, Bonus: 5% Discount, Teleport
 
 * Madd <Livias> (Skill Master, Skill Master)
-    Level 1 - EXP: 0, New Gifts: <Rare Loot> (+7 Likability)
-    Level 2 - EXP: 6, New Gifts: <Heroic Loot> (+30 Likability)
-    Level 3 - EXP: 286
-    Level 4 - EXP: 1006, Bonus: Discount, Teleport
+    Level 1 - EXP:    0, New Gifts: <Rare Loot> (+7 Likability)
+    Level 2 - EXP:    6, New Gifts: <Heroic Loot> (+30 Likability)
+    Level 3 - EXP:  286
+    Level 4 - EXP: 1006, Bonus: 5% Discount, Teleport
 
 * Necar <Livias> (Skill Master, Skill Master)
-    Level 1 - EXP: 0, New Gifts: <Rare Loot> (+7 Likability)
-    Level 2 - EXP: 6, New Gifts: <Heroic Loot> (+30 Likability)
-    Level 3 - EXP: 286
-    Level 4 - EXP: 1006, Bonus: Discount, Teleport
+    Level 1 - EXP:    0, New Gifts: <Rare Loot> (+7 Likability)
+    Level 2 - EXP:    6, New Gifts: <Heroic Loot> (+30 Likability)
+    Level 3 - EXP:  286
+    Level 4 - EXP: 1006, Bonus: 5% Discount, Teleport
 
 * Bartholomew <Livias> (Skill Master, Skill Master)
-    Level 1 - EXP: 0, New Gifts: <Rare Loot> (+7 Likability)
-    Level 2 - EXP: 6, New Gifts: <Heroic Loot> (+30 Likability)
-    Level 3 - EXP: 286
-    Level 4 - EXP: 1006, Bonus: Discount, Teleport
+    Level 1 - EXP:    0, New Gifts: <Rare Loot> (+7 Likability)
+    Level 2 - EXP:    6, New Gifts: <Heroic Loot> (+30 Likability)
+    Level 3 - EXP:  286
+    Level 4 - EXP: 1006, Bonus: 5% Discount, Teleport
 
 * Jade <Livias> (Skill Master, Skill Master)
-    Level 1 - EXP: 0, New Gifts: <Rare Loot> (+7 Likability)
-    Level 2 - EXP: 6, New Gifts: <Heroic Loot> (+30 Likability)
-    Level 3 - EXP: 286
-    Level 4 - EXP: 1006, Bonus: Discount, Teleport
+    Level 1 - EXP:    0, New Gifts: <Rare Loot> (+7 Likability)
+    Level 2 - EXP:    6, New Gifts: <Heroic Loot> (+30 Likability)
+    Level 3 - EXP:  286
+    Level 4 - EXP: 1006, Bonus: 5% Discount, Teleport
