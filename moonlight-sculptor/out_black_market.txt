@@ -1,4 +1,6 @@
-For the purposes of this guide, "at night" means "between 21:00 and 03:00" and "at day" is any other time.
+
+* For the purposes of this guide, "at night" means "between 21:00 and 03:00" and "at day" is any other time.
+
 Foyd, the Black Market vendor, only appears between at night.
 Before you can purchase from him, you must do a quest from one of these NPCs:
 
