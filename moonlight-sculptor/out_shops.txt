@@ -1,0 +1,1528 @@
+** Shop #10, operated by:
+* Foyd <???> [Black Market] (npc: #100025)
+* Foyd <???> [Black Market] (npc: #100026)
+* Foyd <???> [Black Market] (npc: #102081)
+* Foyd <???> [Black Market] (npc: #103011)
+* Foyd <???> [Black Market] (npc: #105026)
+* Foyd <???> [Black Market] (npc: #106029)
+* Foyd <???> [Black Market] (npc: #106031)
+* Foyd <???> [Black Market] (npc: #113011)
+* Foyd <???> [Black Market] (npc: #184009)
+    (random in '10') Weapon Enchant Scroll: 39000g
+    (random in '10') Armor Enchant Scroll: 13000g
+    (random in '10') Blessed Weapon Enchant Scroll: 325000g
+    (random in '10') Blessed Armor Enchant Scroll: 130000g
+    (random in '10') Quality Enchant Scroll Chest: 130000g
+    (random in '10') Intermediate Option Stone Chest: 55250g
+    (random in '10') Advanced Option Stone Chest: 97500g
+    (random in '10') Quality Material Chest: 130000g
+    (random in '10') Quality Loot Chest: 130000g
+    (random in '20') Drillmaster's Delicious Lunch Box: 39000g
+    (random in '20') Cream of Mushroom Soup: 20280g
+    (random in '20') Honey Butter Chicken Legs: 20280g
+    (random in '20') Seafood Spaghetti Marinara: 20280g
+    (random in '20') Chicken Wrap: 20280g
+    (random in '20') Raisin Muffin: 20280g
+    (random in '20') Tomato Soup: 20280g
+    (random in '20') Coleslaw: 16380g
+    (random in '20') Honey Ice Cream: 16380g
+    (random in '20') Deep-Fried Squid: 16380g
+    (random in '20') Sweet Potato Cake: 16380g
+    (random in '20') Halibut Dish: 16380g
+    (random in '20') Baked Lobster with Cheese: 16380g
+    (random in '30') 10x Little Claw: 1800g
+    (random in '30') 10x Solid Hoof: 1800g
+    (random in '30') 10x Fox Heartstone: 1800g
+    (random in '30') Yivee's Seductive Tail: 2 Red Butterfly
+    (random in '30') Roshu's Solid Club: 4 Red Butterfly
+    (random in '30') Baquenchie's Sharp Molar: 5 Red Butterfly
+    (random in '30') Shiaky's Radiant Scale: 6 Red Butterfly
+    (random in '30') Osbourne's Radiant Green Quartz: 7 Red Butterfly
+    (random in '30') Laposha's Iron Greatsword: 8 Red Butterfly
+    (random in '30') Arcadia's Core: 10 Red Butterfly
+    (random in '30') Arkrasha's Thick Claw: 11 Red Butterfly
+    (random in '30') Harvy's Red Cloak Piece: 12 Red Butterfly
+    (random in '30') Mirv's Radiant Wing: 13 Red Butterfly
+    (random in '30') Syren's Steel Feather: 14 Red Butterfly
+    (random in '30') Mogsy's Solid Leg Bone: 16 Red Butterfly
+    (random in '30') Royan's Hidden Key: 17 Red Butterfly
+    (random in '30') Raja's Thick Leather: 18 Red Butterfly
+    (random in '30') Von Hawk's Evil Thoughts: 19 Red Butterfly
+    (random in '30') Desert Predator's Shell: 22 Red Butterfly
+    (random in '30') Cerberus's Blood: 24 Red Butterfly
+    (random in '30') Essence of Permafrost: 24 Red Butterfly
+    (random in '30') Queen's Fang: 24 Red Butterfly
+    (random in '30') Sand's Claw: 24 Red Butterfly
+    (random in '40') 10x Razor-Sharp Claw: 3600g
+    (random in '40') 10x Solid Bone: 3600g
+    (random in '40') 10x Delicate Hand Mirror: 3600g
+    (random in '40') 10x Bottled Breath: 3600g
+    (random in '40') 10x Transparent Glass Piece: 3600g
+    (random in '40') 10x Sparkling Cuticle: 3600g
+    (random in '40') 10x Tranquil Candlestick: 3600g
+    (random in '40') 10x Blue Moonlight Fragment: 3600g
+    (random in '40') 10x Enchanted Tail: 3600g
+    (random in '40') 10x Resilient Leather: 3600g
+    (random in '40') 10x Sparkling Powder: 3600g
+    (random in '40') Venomous Basilisk Eye: 10 Red Butterfly
+    (random in '40') Pirha's Feather: 24 Red Butterfly
+    (random in '40') Auspicious Jujube Tree: 48 Red Butterfly
+    (random in '40') Elekh's Hammer: 72 Red Butterfly
+    (random in '40') Roaring Soulstone: 96 Red Butterfly
+    (random in '50') 10x Rough Feather: 1800g
+    (random in '50') 10x Thin Leg Bones: 1800g
+    (random in '50') 10x Shabby Paper: 1800g
+    (random in '50') 10x Red Sunstone: 2400g
+    (random in '50') 10x Burnished Key: 3600g
+    (random in '50') 10x Cashmere Fabric: 3600g
+    (random in '50') Splintered Golden Fragment: 5 Red Butterfly
+    (random in '50') Golden Chunk: 10 Red Butterfly
+    (random in '50') Golden Fabric: 10 Red Butterfly
+    (random in '50') Condensed Lightning: 19 Red Butterfly
+    (random in '50') Condensed Poison: 19 Red Butterfly
+    (random in '50') Condensed Flame: 19 Red Butterfly
+    (random in '50') Condensed Ice: 19 Red Butterfly
+    (random in '50') Ripley's Token: 48 Red Butterfly
+    (random in '50') Ripley's Merciless Instinct: 144 Red Butterfly
+    (random in '50') Kamosha's Tooth: 72 Red Butterfly
+    (random in '50') Kamosha's Accessory: 216 Red Butterfly
+    (random in '50') Shire's Curse: 96 Red Butterfly
+    (random in '50') Shire's Empty Darkness: 288 Red Butterfly
+    (random in '50') Anubis's Twisted Heart: 144 Red Butterfly
+    (random in '50') Anubis's Weapon Fragment: 432 Red Butterfly
+    (random in '10') Halloween Chair: 124800g
+    (random in '10') Halloween Bed: 624000g
+    (random in '10') Halloween End Table: 156000g
+    (random in '20') Halloween Sofa: 312000g
+    (random in '20') Halloween Bookshelf: 280800g
+    (random in '20') Halloween Dresser: 780000g
+    (random in '30') Halloween Wallpaper: 15600g
+    (random in '30') Halloween Floor: 15600g
+    (random in '30') Christmas Wallpaper: 15600g
+    (random in '30') Christmas Floor: 15600g
+    (random in '30') Heart Wallpaper: 15600g
+    (random in '30') Heart Floor: 15600g
+    (random in '30') Study Room Wallpaper: 15600g
+    (random in '30') Study Room Floor: 15600g
+    (random in '30') Lumberjack's Hut Wallpaper: 15600g
+    (random in '30') Lumberjack's Hut Floor: 15600g
+    (random in '40') Halloween Carpet: 46800g
+    (random in '40') Halloween Table: 234000g
+    (random in '50') Halloween Decorative Lamp: 109200g
+    (random in '50') Halloween Display Case: 780000g
+    (random in '20') Leek Bow: 800 Red Butterfly
+    (random in '30') Leek Dagger: 800 Red Butterfly
+    (random in '40') Leek Shield: 640 Red Butterfly
+    (random in '50') Leek Staff: 800 Red Butterfly
+    (random in '10') Leek Blunt Weapon: 800 Red Butterfly
+    (random in '20') Leek Two-Handed Blunt Weapon: 800 Red Butterfly
+    (random in '30') Naiad's Blessing: 50 Red Butterfly
+
+** Shop #16, operated by:
+* Fabo <Serraborg Residential District> [Furniture Shop] (npc: #171010)
+* Nahzeem <Baran Residential District> [Furniture Shop] (npc: #187007)
+* Shakiry <Livias Residential District> [Furniture Shop] (npc: #191002)
+* Shaq <Hunter's Residential District> [Furniture Shop] (npc: #234002)
+* Panthenole <Tamlin Residential District> [Furniture Shop] (npc: #246002)
+    (random in '10') Ordinary Display Case: 15000g
+    (random in '10') Fairy Display Case: 50000g
+    (random in '10') Provence Display Case: 50000g
+    (random in '10') 2-Person Hardwood Swing: 450000g
+    (random in '10') Mysterious Fireplace: 1000000g
+    (random in '10') Hydrangea Vase: 15000g
+    (random in '10') Picture Frame: 20000g
+    (random in '10') Table Lamp: 30000g
+    (random in '10') Window: 300000g
+    (random in '20') Inventor's Chair: 96000g
+    (random in '20') Inventor's Bed: 480000g
+    (random in '20') Inventor's End Table: 120000g
+    (random in '20') Inventor's Sofa: 240000g
+    (random in '20') Inventor's Bookshelf: 216000g
+    (random in '20') Inventor's Dresser: 600000g
+    (random in '20') Inventor's Table: 180000g
+    (random in '20') Inventor's Decorative Lamp: 84000g
+    (random in '20') Inventor's Carpet: 36000g
+    (random in '20') Inventor's Wallpaper: 12000g
+    (random in '20') Inventor's Floor: 12000g
+    (random in '20') Inventor's Display Case: 600000g
+    (random in '30') Chess Chair: 4800g
+    (random in '30') Chess Bed: 24000g
+    (random in '30') Chess End Table: 6000g
+    (random in '30') Chess Sofa: 12000g
+    (random in '30') Chess Bookshelf: 10800g
+    (random in '30') Chess Dresser: 30000g
+    (random in '30') Chess Table: 9000g
+    (random in '30') Chess Decorative Lamp: 4200g
+    (random in '30') Chess Carpet: 1800g
+    (random in '30') Chess Wallpaper: 600g
+    (random in '30') Chess Floor: 600g
+    (random in '30') Chess Display Case: 30000g
+    (random in '40') Baroque Chair: 16000g
+    (random in '40') Baroque Bed: 80000g
+    (random in '40') Baroque End Table: 20000g
+    (random in '40') Baroque Sofa: 40000g
+    (random in '40') Baroque Bookshelf: 36000g
+    (random in '40') Baroque Dresser: 100000g
+    (random in '40') Baroque Table: 30000g
+    (random in '40') Baroque Decorative Lamp: 14000g
+    (random in '40') Baroque Carpet: 6000g
+    (random in '40') Baroque Wallpaper: 2000g
+    (random in '40') Baroque Floor: 2000g
+    (random in '40') Baroque Display Case: 100000g
+    (random in '50') Alchemy Chair: 32000g
+    (random in '50') Alchemy Bed: 160000g
+    (random in '50') Alchemy End Table: 40000g
+    (random in '50') Alchemy Sofa: 80000g
+    (random in '50') Alchemy Bookshelf: 72000g
+    (random in '50') Alchemy Dresser: 200000g
+    (random in '50') Alchemy Table: 60000g
+    (random in '50') Alchemy Decorative Lamp: 28000g
+    (random in '50') Alchemy Carpet: 12000g
+    (random in '50') Alchemy Wallpaper: 4000g
+    (random in '50') Alchemy Floor: 4000g
+    (random in '50') Alchemy Display Case: 200000g
+    (random in '60') Viking Chair: 160000g
+    (random in '60') Viking Bed: 800000g
+    (random in '60') Viking End Table: 200000g
+    (random in '60') Viking Sofa: 400000g
+    (random in '60') Viking Bookshelf: 360000g
+    (random in '60') Viking Dresser: 1000000g
+    (random in '60') Viking Table: 300000g
+    (random in '60') Viking Decorative Lamp: 140000g
+    (random in '60') Viking Carpet: 60000g
+    (random in '60') Viking Wallpaper: 20000g
+    (random in '60') Viking Floor: 20000g
+    (random in '60') Viking Display Case: 1000000g
+    (random in '70') Chic Black Wallpaper: 12000g
+    (random in '70') Chic Black Floor: 12000g
+    (random in '10') Picture Piece - Hunting 1/6: 100000g
+    (random in '20') Picture Piece - Hunting 2/6: 100000g
+    (random in '30') Picture Piece - Hunting 3/6: 100000g
+    (random in '40') Picture Piece - Hunting 4/6: 100000g
+    (random in '50') Picture Piece - Hunting 5/6: 100000g
+    (random in '60') Picture Piece - Hunting 6/6: 100000g
+    (random in '80') Furniture Warehouse: 500000g
+    (random in '80') Sculpture Warehouse: 500000g
+
+** Shop #7, operated by:
+* Adiva <Baran> [Pet Supply Shop] (npc: #100002)
+* Lydia <Serraborg Castle> [Pet Supply Shop] (npc: #102034)
+* Cassius <Livias> [Pet Supply Shop] (npc: #106032)
+* Timothy <Varoc Mountains Entrance> [Pet Supply Shop] (npc: #127005)
+* Riodenus <Somren Free City> [Pet Supply Shop] (npc: #131015)
+* Oannes <Tamlin> [Pet Supply Shop] (npc: #151004)
+    Grass Feed: 1000g
+    Meat Feed: 1000g
+    Insect Feed: 1000g
+    Honey Feed: 1000g
+    Subjugation Scroll: 1000g
+    Lesser Rescue Potion: 100g
+    Intermediate Rescue Potion: 250g
+    Advanced Rescue Potion: 400g
+
+** Shop #17, operated by:
+* Paul <Southern Plains> [General Goods Shop] (npc: #103002)
+    Fishing Rod: 1200g
+    Fishing Bait: 50g
+
+** Shop #23, operated by:
+* Lumberschmidt <Serraborg Castle> [Weapon Shop] (npc: #102031)
+* Hyginus <Somren Free City> [Weapon Shop] (npc: #131010)
+    First Step Greatsword: 5500g
+    First Step Two-Handed Axe: 5500g
+    First Step Sword: 5500g
+    First Step One-Handed Axe: 5500g
+    First Step Mace: 5500g
+    First Step Bow: 5500g
+    First Step Shortbow: 5500g
+    First Step Dagger: 5500g
+    First Step Chisel: 5500g
+    First Step Staff: 5500g
+    First Step Magic Staff: 5500g
+    First Step Shield: 4000g
+    First Step Magic Shield: 4000g
+    First Step Spell Dagger: 5500g
+    100x Shabby Iron Arrow: 50g
+    100x Beginner's Iron Arrow: 100g
+
+** Shop #24, operated by:
+* Grassfield <Serraborg Castle> [Armor Shop] (npc: #102009)
+* Clamans <Somren Free City> [Armor Shop] (npc: #131009)
+    First Step Plated Tunic: 5000g
+    First Step Helmet: 4500g
+    First Step Gauntlets: 4500g
+    First Step Leather Tunic: 5000g
+    First Step Hat: 4500g
+    First Step Gloves: 4500g
+    First Step Magic Tunic: 5000g
+    First Step Magic Hat: 4500g
+    First Step Magic Gloves: 4500g
+    First Step Cloak: 5750g
+
+** Shop #25, operated by:
+* Marcy <Serraborg Castle> [Accessory Shop] (npc: #102029)
+    Clover Ring: 6000g
+    Clover Earrings: 6250g
+    Clover Necklace: 6500g
+
+** Shop #27, operated by:
+* Leira <Baran> [Scroll Shop] (npc: #100012)
+* Salier <Serraborg Castle> [Scroll Shop] (npc: #102043)
+* Angel <Livias> [Scroll Shop] (npc: #106005)
+* Grammy <Somren Free City> [Scroll Shop] (npc: #131018)
+* Raymond <Tamlin> [Scroll Shop] (npc: #151006)
+    (random in '10') Return Scroll: 3000g
+
+** Shop #28, operated by:
+* Mapan <???> [Street Stall] (npc: #19)
+* Kamas <Baran> [General Goods Shop] (npc: #100017)
+* Dove <Serraborg Castle> [General Goods Shop] (npc: #102001)
+* Helen <Serraborg Castle> [General Goods Shop] (npc: #102058)
+* Burgany <Livias> [General Goods Shop] (npc: #106015)
+* Ristor <Somren Free City> [General Goods Shop] (npc: #131008)
+* Vernous <Somren Free City> [General Goods Shop] (npc: #131017)
+    100x Shabby Iron Arrow: 50g
+    100x Beginner's Iron Arrow: 100g
+    Fishing Rod: 1200g
+    Fishing Bait: 50g
+    Transformation Potion: 5000g
+    De-Transformation Potion: 5000g
+    Transmutation Agent: 200g
+    Hardening Agent: 3000g
+    100x Common Flask: 50g
+    100x Researcher's Flask: 100g
+
+** Shop #29, operated by:
+* Oliver <Serraborg Castle/Wasteland> [Restaurant] (npc: #102037)
+    Barley Bread: 1500g
+    Cereal Bar: 1500g
+    Grilled Fish: 1800g
+    Salad: 1800g
+    Boiled Egg: 1800g
+    Steamed Fish: 1800g
+    Dumpling: 1800g
+    Egg Salad: 1800g
+    Peanut Butter: 1500g
+
+** Shop #30, operated by:
+* Roseanne <Serraborg Castle> [Grocery Store] (npc: #102033)
+    Flour: 300g
+    Natural Water: 100g
+    Sugar: 100g
+    Salt: 100g
+    Cheese: 100g
+    Milk: 100g
+    Egg: 100g
+    Assorted Vegetables: 100g
+    Raw Noodles: 100g
+    Herb: 100g
+    Yeast: 100g
+
+** Shop #31, operated by:
+* Viola <Serraborg Castle> [Sewing Shop] (npc: #102025)
+    (random in '1') Black Dye: 1000000g
+    (random in '2') Red-Violet Dye: 1000000g
+    (random in '3') Purple Dye: 1000000g
+    (random in '4') Yellow Dye: 1000000g
+    (random in '5') Blue Dye: 1000000g
+    (random in '6') Green Dye: 1000000g
+
+** Shop #33, operated by:
+* Salla <Baran> [Sculpture Shop] (npc: #100018)
+* Depps <Serraborg Castle> [Sculpture Shop] (npc: #102026)
+* Sezar <Livias> [Sculpture Shop] (npc: #106016)
+* Eutica <Somren Free City> [Sculpture Shop] (npc: #131014)
+    Jahav's Desire: 70g
+    Jahav's Ideals: 150g
+
+** Shop #36, operated by:
+* Jaihin <Baran> [Potion Shop] (npc: #100003)
+* Elena <Serraborg Castle> [Potion Shop] (npc: #102028)
+* Louis <Livias> [Potion Shop] (npc: #106002)
+* Pio V <Somren Free City> [Potion Shop] (npc: #131011)
+    Lesser Haste Elixir: 360g
+    Lesser Swiftness Elixir: 360g
+    Lesser HP Recovery Potion: 100g
+    Intermediate HP Recovery Potion: 250g
+    Advanced HP Recovery Potion: 400g
+    Lesser MP Recovery Potion: 150g
+    Intermediate MP Recovery Potion: 400g
+    Advanced MP Recovery Potion: 600g
+    Transformation Potion: 5000g
+    De-Transformation Potion: 5000g
+    Ice Pack: 150g
+    Antidote: 150g
+    Styptic: 150g
+    Disinfectant: 150g
+    Cardiac Stimulant: 150g
+    Hardening Agent: 3000g
+
+** Shop #37, operated by:
+* Watt <Serraborg Castle> [Kingdom Token Exchange Site] (npc: #102057)
+* Kiro <Somren Free City> [Kingdom Token Exchange Site] (npc: #131016)
+    (random in '1') Enchant Scroll Chest: 12 Kingdom Token
+    (random in '2') Quality Enchant Scroll Chest: 25 Kingdom Token
+    (random in '3') Lesser Option Stone Chest: 5 Kingdom Token
+    (random in '4') Intermediate Option Stone Chest: 9 Kingdom Token
+    (random in '5') Advanced Option Stone Chest: 15 Kingdom Token
+    (random in '22') Ripley's Chest: 10 Kingdom Token
+    (random in '22') Kamosha's Chest: 20 Kingdom Token
+    (random in '22') Shire's Chest: 30 Kingdom Token
+    (random in '22') Anubis's Chest: 40 Kingdom Token
+    (random in '22') Drekavac's Chest: 50 Kingdom Token
+    (random in '22') Adisha's Chest: 60 Kingdom Token
+    (random in '23') Enhanced Ripley's Chest: 25 Kingdom Token
+    (random in '23') Enhanced Kamosha's Chest: 35 Kingdom Token
+    (random in '23') Enhanced Shire's Chest: 45 Kingdom Token
+    (random in '23') Enhanced Anubis's Chest: 55 Kingdom Token
+    (random in '23') Enhanced Drekavac's Chest: 65 Kingdom Token
+    (random in '23') Enhanced Adisha's Chest: 75 Kingdom Token
+    (random in '6') 3x Crystal: 450 Kingdom Token
+    (random in '7') 10x Lesser Catalyst: 80 Kingdom Token
+    (random in '8') Accessory Enchant Scroll: 1700 Kingdom Token
+    (random in '9') 5x Sheepskin: 400 Kingdom Token
+    (random in '10') Accessory Option Stone Chest: 50 Kingdom Token
+    (random in '17') Frigid Monarch's Helmet: 5000 Kingdom Token
+    (random in '17') Dawn Splendor: 5000 Kingdom Token
+    (random in '17') Frost Fairy Hat: 5000 Kingdom Token
+    (random in '17') Impending Death Armor: 4200 Kingdom Token
+    (random in '18') Kalasiris: 4800 Kingdom Token
+    (random in '18') Huge Snake Scale Armor: 4800 Kingdom Token
+    (random in '18') Ghost Hunter's Leather Armor: 4800 Kingdom Token
+    (random in '18') Elementalist Robe: 5000 Kingdom Token
+    (random in '19') Barbarian's Gloves: 4800 Kingdom Token
+    (random in '19') Vampire Gloves: 4900 Kingdom Token
+    (random in '19') Crow Gloves: 5000 Kingdom Token
+    (random in '19') Scales of Judgment: 4800 Kingdom Token
+    (random in '20') Red Night's Oath: 4200 Kingdom Token
+    (random in '20') Moros's Destruction: 4200 Kingdom Token
+    (random in '20') Queen's Arrogance: 540 Kingdom Token
+    (random in '20') Chaotic Ring: 4200 Kingdom Token
+    (random in '11') Ripley's Token: 300 Kingdom Token
+    (random in '11') Ripley's Merciless Instinct: 900 Kingdom Token
+    (random in '12') Kamosha's Tooth: 300 Kingdom Token
+    (random in '12') Kamosha's Accessory: 900 Kingdom Token
+    (random in '13') Shire's Curse: 300 Kingdom Token
+    (random in '13') Shire's Empty Darkness: 900 Kingdom Token
+    (random in '14') Anubis's Twisted Heart: 300 Kingdom Token
+    (random in '14') Anubis's Weapon Fragment: 900 Kingdom Token
+    (random in '15') Adisha's Blue Barbel: 300 Kingdom Token
+    (random in '15') Adisha's Murky Orb: 900 Kingdom Token
+    (random in '16') Drekavac's Ear: 300 Kingdom Token
+    (random in '16') Drekavac's Leash: 900 Kingdom Token
+    (random in '21') Eternal Rest Earrings: 4100 Kingdom Token
+    (random in '21') Black Ram's Song: 5000 Kingdom Token
+    (random in '21') Ennead's Blessing: 4100 Kingdom Token
+    (random in '21') Golden Ring of Blessing: 3600 Kingdom Token
+    (random in '17') Maia's Whispers: 3500 Kingdom Token
+    (random in '17') Cut-out Wound: 3000 Kingdom Token
+    (random in '18') Secret Legacy: 3200 Kingdom Token
+    (random in '18') Egir's Helmet: 3400 Kingdom Token
+    (random in '19') Sacred Faith: 5000 Kingdom Token
+    (random in '19') Dark Hunter: 3500 Kingdom Token
+    (random in '19') Apparition Chaser: 6000 Kingdom Token
+    (random in '20') Twilight Song: 3500 Kingdom Token
+    (random in '20') Sharp Howling: 5000 Kingdom Token
+    (random in '20') Moonbow Ring: 4500 Kingdom Token
+    (random in '21') Ezla Gorget: 6000 Kingdom Token
+    (random in '21') Sprouting Hope: 4500 Kingdom Token
+    (random in '21') Magnum Opus: 3000 Kingdom Token
+
+** Shop #40, operated by:
+* Latif <Baran> [Restaurant] (npc: #100010)
+    Barley Bread: 1500g
+    Cereal Bar: 1500g
+    Grilled Fish: 1800g
+    Salad: 1800g
+    Boiled Egg: 1800g
+    Steamed Fish: 1800g
+    Dumpling: 1800g
+    Egg Salad: 1800g
+    Peanut Butter: 1500g
+
+** Shop #41, operated by:
+* Azima <Baran> [Grocery Store] (npc: #100013)
+    Onion: 150g
+    Garlic: 150g
+    Yogurt: 150g
+    Pepper: 150g
+    Flour: 300g
+    Natural Water: 100g
+    Sugar: 100g
+    Salt: 100g
+    Herb: 100g
+    Yeast: 100g
+    Olive Oil: 150g
+    Assorted Vegetables: 100g
+    Butter: 150g
+    Peanuts: 150g
+
+** Shop #42, operated by:
+* Raoul <Livias> [Restaurant] (npc: #106003)
+    Barley Bread: 1500g
+    Cereal Bar: 1500g
+    Grilled Fish: 1800g
+    Salad: 1800g
+    Boiled Egg: 1800g
+    Steamed Fish: 1800g
+    Dumpling: 1800g
+    Egg Salad: 1800g
+    Peanut Butter: 1500g
+
+** Shop #43, operated by:
+* Asha <Livias> [Grocery Store] (npc: #106014)
+    Whipped Cream: 200g
+    Celery: 200g
+    Lettuce: 200g
+    Cabbage: 200g
+    Raisins: 200g
+    Ginseng: 200g
+    Grapes: 2000g
+    Olive: 200g
+    Flour: 300g
+    Natural Water: 100g
+    Sugar: 100g
+    Salt: 100g
+    Herb: 100g
+    Yeast: 100g
+
+** Shop #45, operated by:
+* Ali <Baran> [Inn] (npc: #100001)
+    Barley Bread: 1500g
+
+** Shop #46, operated by:
+* Honan <Serraborg Castle> [Inn] (npc: #102011)
+    Steamed Fish: 1800g
+    Salad: 1800g
+    Barley Bread: 1500g
+
+** Shop #47, operated by:
+* Gramin <Serraborg Castle> [Inn] (npc: #102022)
+    Steamed Fish: 1800g
+    Salad: 1800g
+    Barley Bread: 1500g
+
+** Shop #48, operated by:
+* Willfire <Southern Plains> [Inn] (npc: #103001)
+    Rice: 330g
+    Barley Bread: 1650g
+
+** Shop #49, operated by:
+* Juan <Livias> [Inn] (npc: #106001)
+    Barley Bread: 1500g
+
+** Shop #50, operated by:
+* Otiros <Fox Plains> [Inn] (npc: #108001)
+* Parvan <Varoc Mountains Entrance> [Inn] (npc: #127002)
+    Barley Bread: 1650g
+
+** Shop #100, operated by:
+* Alm <Fox Plains> [General Goods Shop] (npc: #108003)
+    100x Shabby Iron Arrow: 55g
+    100x Beginner's Iron Arrow: 110g
+    Fishing Rod: 1320g
+    Fishing Bait: 55g
+    Lesser HP Recovery Potion: 110g
+    Lesser MP Recovery Potion: 165g
+    Lesser Rescue Potion: 110g
+    Subjugation Scroll: 1100g
+    Barley Bread: 1650g
+    Jahav's Desire: 77g
+    Jahav's Ideals: 165g
+    100x Common Flask: 55g
+    100x Researcher's Flask: 110g
+
+** Shop #101, operated by:
+* Dante <Southern Plains> [General Goods Shop] (npc: #103003)
+    100x Shabby Iron Arrow: 55g
+    100x Beginner's Iron Arrow: 110g
+    Fishing Rod: 1320g
+    Fishing Bait: 55g
+    Lesser Haste Elixir: 396g
+    Lesser Swiftness Elixir: 396g
+    Lesser HP Recovery Potion: 110g
+    Lesser MP Recovery Potion: 165g
+    Lesser Rescue Potion: 110g
+    Subjugation Scroll: 1100g
+    Barley Bread: 1650g
+    Fried Egg: 1980g
+    Plain Bread: 1980g
+    Jahav's Desire: 77g
+    Jahav's Ideals: 165g
+    100x Common Flask: 55g
+    100x Researcher's Flask: 110g
+
+** Shop #102, operated by:
+* Sergio <Wasteland> [General Goods Shop] (npc: #105001)
+* Leone <Wasteland> [General Goods Shop] (npc: #105002)
+* Clint <Wasteland> [General Goods Shop] (npc: #105003)
+* Dubane <Wasteland> [General Goods Shop] (npc: #105005)
+    100x Shabby Iron Arrow: 55g
+    100x Beginner's Iron Arrow: 110g
+    Fishing Rod: 1320g
+    Fishing Bait: 55g
+    Lesser Haste Elixir: 396g
+    Lesser Swiftness Elixir: 396g
+    Lesser HP Recovery Potion: 110g
+    Lesser MP Recovery Potion: 165g
+    Lesser Rescue Potion: 110g
+    Subjugation Scroll: 1100g
+    Barley Bread: 1650g
+    Jahav's Desire: 77g
+    Jahav's Ideals: 165g
+    100x Common Flask: 55g
+    100x Researcher's Flask: 110g
+
+** Shop #103, operated by:
+* Baxter <Leatvar Den BF4> [General Goods Shop] (npc: #109001)
+* Estevan <Leatvar Den BF4> [General Goods Shop] (npc: #109002)
+* Rubio <Leatvar Den BF4> [General Goods Shop] (npc: #109003)
+* Kramer <Howling Valley> [General Goods Shop] (npc: #153001)
+* Zeiss <Howling Valley> [General Goods Shop] (npc: #153008)
+* Baker <Leatvar Den BF2> [General Goods Shop] (npc: #178001)
+* Vandera <Leatvar Den BF3> [General Goods Shop] (npc: #179001)
+    100x Shabby Iron Arrow: 55g
+    100x Beginner's Iron Arrow: 110g
+    Fishing Rod: 1320g
+    Fishing Bait: 55g
+    Lesser Haste Elixir: 396g
+    Lesser Swiftness Elixir: 396g
+    Lesser HP Recovery Potion: 110g
+    Lesser MP Recovery Potion: 165g
+    Lesser Rescue Potion: 110g
+    Subjugation Scroll: 1100g
+    Barley Bread: 1650g
+    Jahav's Desire: 77g
+    Jahav's Ideals: 165g
+    100x Common Flask: 55g
+    100x Researcher's Flask: 110g
+
+** Shop #112, operated by:
+* Weed <Leatvar Den> [General Goods Shop] (npc: #101001)
+    100x Shabby Iron Arrow: 55g
+    100x Beginner's Iron Arrow: 110g
+    Fishing Rod: 1320g
+    Fishing Bait: 55g
+    Lesser Haste Elixir: 396g
+    Lesser Swiftness Elixir: 396g
+    Lesser HP Recovery Potion: 110g
+    Lesser MP Recovery Potion: 165g
+    Lesser Rescue Potion: 110g
+    Subjugation Scroll: 1100g
+    Grass Porridge: 1650g
+
+** Shop #104, operated by:
+* Mesien <Baran> [General Goods Shop] (npc: #100004)
+* Kalid <Baran> [General Goods Shop] (npc: #100005)
+* Hakim <Baran> [General Goods Shop] (npc: #100006)
+* Magdi <???> [General Goods Shop] (npc: #100007)
+    100x Shabby Iron Arrow: 55g
+    100x Beginner's Iron Arrow: 110g
+    Fishing Rod: 1320g
+    Fishing Bait: 55g
+    Lesser Haste Elixir: 396g
+    Lesser Swiftness Elixir: 396g
+    Intermediate HP Recovery Potion: 275g
+    Intermediate MP Recovery Potion: 440g
+    Intermediate Rescue Potion: 275g
+    Subjugation Scroll: 1100g
+    Barley Bread: 1650g
+    Jahav's Desire: 77g
+    Jahav's Ideals: 165g
+    100x Common Flask: 55g
+    100x Researcher's Flask: 110g
+
+** Shop #115, operated by:
+* Gadan <Baran Ravine> [General Goods Shop] (npc: #157002)
+    100x Shabby Iron Arrow: 55g
+    100x Beginner's Iron Arrow: 110g
+    Fishing Rod: 1320g
+    Fishing Bait: 55g
+    Lesser Haste Elixir: 396g
+    Lesser Swiftness Elixir: 396g
+    Intermediate HP Recovery Potion: 275g
+    Intermediate MP Recovery Potion: 440g
+    Intermediate Rescue Potion: 275g
+    Subjugation Scroll: 1100g
+    Barley Bread: 1650g
+    Jahav's Desire: 77g
+    Jahav's Ideals: 165g
+    100x Common Flask: 55g
+    100x Researcher's Flask: 110g
+    Hardening Agent: 3300g
+
+** Shop #116, operated by:
+* Yusri <Lizardman Valley> [General Goods Shop] (npc: #156001)
+    100x Shabby Iron Arrow: 55g
+    100x Beginner's Iron Arrow: 110g
+    Fishing Rod: 1320g
+    Fishing Bait: 55g
+    Lesser Haste Elixir: 396g
+    Lesser Swiftness Elixir: 396g
+    Intermediate HP Recovery Potion: 275g
+    Intermediate MP Recovery Potion: 440g
+    Intermediate Rescue Potion: 275g
+    Subjugation Scroll: 1100g
+    Barley Bread: 1650g
+    Jahav's Desire: 77g
+    Jahav's Ideals: 165g
+    100x Common Flask: 55g
+    100x Researcher's Flask: 110g
+
+** Shop #105, operated by:
+* Umar <Sand Plains> [General Goods Shop] (npc: #113001)
+* Rodrek <Sand Plains> [General Goods Shop] (npc: #113002)
+* Rahel <Sand Plains> [General Goods Shop] (npc: #113003)
+* Bruner <Sand Plains> [General Goods Shop] (npc: #113004)
+* Miles <Sand Plains> [General Goods Shop] (npc: #113005)
+* Lacter <Sand Plains> [General Goods Shop] (npc: #113006)
+* Talen <Hunter's Hill> [Potion Shop] (npc: #125002)
+* Ray <Varoc Mountains Entrance> [Potion Shop] (npc: #127004)
+* Janet <Tamlin> [Potion Shop] (npc: #151003)
+    100x Shabby Iron Arrow: 55g
+    100x Beginner's Iron Arrow: 110g
+    Fishing Rod: 1320g
+    Fishing Bait: 55g
+    Lesser Haste Elixir: 396g
+    Lesser Swiftness Elixir: 396g
+    Intermediate HP Recovery Potion: 275g
+    Intermediate MP Recovery Potion: 440g
+    Intermediate Rescue Potion: 275g
+    Subjugation Scroll: 1100g
+    Barley Bread: 1650g
+    Jahav's Desire: 77g
+    Jahav's Ideals: 165g
+    100x Common Flask: 55g
+    100x Researcher's Flask: 110g
+
+** Shop #113, operated by:
+* Balak <Forgotten Sand Ravine> [General Goods Shop] (npc: #184001)
+    100x Shabby Iron Arrow: 55g
+    100x Beginner's Iron Arrow: 110g
+    Fishing Rod: 1320g
+    Fishing Bait: 55g
+    Lesser Haste Elixir: 396g
+    Lesser Swiftness Elixir: 396g
+    Intermediate HP Recovery Potion: 275g
+    Intermediate MP Recovery Potion: 440g
+    Intermediate Rescue Potion: 275g
+    Subjugation Scroll: 1100g
+    Barley Bread: 1650g
+    Jahav's Desire: 77g
+    Jahav's Ideals: 165g
+    100x Common Flask: 55g
+    100x Researcher's Flask: 110g
+
+** Shop #106, operated by:
+* Argos <Sky Vine> [General Goods Shop] (npc: #129001)
+* Magog <Sky Vine> [General Goods Shop] (npc: #129002)
+    100x Shabby Iron Arrow: 55g
+    100x Beginner's Iron Arrow: 110g
+    Fishing Rod: 1320g
+    Fishing Bait: 55g
+    Lesser Haste Elixir: 396g
+    Lesser Swiftness Elixir: 396g
+    Advanced HP Recovery Potion: 440g
+    Advanced MP Recovery Potion: 660g
+    Advanced Rescue Potion: 440g
+    Subjugation Scroll: 1100g
+    Barley Bread: 1650g
+    Jahav's Desire: 77g
+    Jahav's Ideals: 165g
+    100x Common Flask: 55g
+    100x Researcher's Flask: 110g
+
+** Shop #107, operated by:
+* Adria <Livias> [General Goods Shop] (npc: #106007)
+* Chabuk <Livias> [General Goods Shop] (npc: #106008)
+    100x Shabby Iron Arrow: 55g
+    100x Beginner's Iron Arrow: 110g
+    Fishing Rod: 1320g
+    Fishing Bait: 55g
+    Lesser Haste Elixir: 396g
+    Lesser Swiftness Elixir: 396g
+    Advanced HP Recovery Potion: 440g
+    Advanced MP Recovery Potion: 660g
+    Advanced Rescue Potion: 440g
+    Subjugation Scroll: 1100g
+    Barley Bread: 1650g
+    Jahav's Desire: 77g
+    Jahav's Ideals: 165g
+    100x Common Flask: 55g
+    100x Researcher's Flask: 110g
+
+** Shop #108, operated by:
+* Oris <Mephisto Hall> [General Goods Shop] (npc: #116001)
+* Jorba <Mephisto Hall BF2> [General Goods Shop] (npc: #180001)
+* Broshur <Mephisto Hall BF3> [General Goods Shop] (npc: #181001)
+* Petsi <Mephisto Hall BF4> [General Goods Shop] (npc: #182001)
+* Dirgo <Mephisto Hall BF5> [General Goods Shop] (npc: #183001)
+    100x Shabby Iron Arrow: 55g
+    100x Beginner's Iron Arrow: 110g
+    Fishing Rod: 1320g
+    Fishing Bait: 55g
+    Lesser Haste Elixir: 396g
+    Lesser Swiftness Elixir: 396g
+    Advanced HP Recovery Potion: 440g
+    Advanced MP Recovery Potion: 660g
+    Advanced Rescue Potion: 440g
+    Subjugation Scroll: 1100g
+    Barley Bread: 1650g
+    Jahav's Desire: 77g
+    Jahav's Ideals: 165g
+    100x Common Flask: 55g
+    100x Researcher's Flask: 110g
+
+** Shop #109, operated by:
+* Gray <Dead Warrior's Cave> [General Goods Shop] (npc: #118001)
+* Angela <Northern Serraborg Castle> [General Goods Shop] (npc: #123004)
+* Curtis <Northern Serraborg Castle> [General Goods Shop] (npc: #123005)
+* Prune <???> [General Goods Shop] (npc: #125001)
+* Demian <Hunter's Hill> [General Goods Shop] (npc: #125006)
+* Caprina <Hunter's Hill> [General Goods Shop] (npc: #125009)
+* Nario <Birch Tree Lake> [General Goods Shop] (npc: #126002)
+* Brandy <Birch Tree Lake> [General Goods Shop] (npc: #126009)
+* Dohan <Southern Varoc Mountains> [General Goods Shop] (npc: #144001)
+* Cavani <Southern Varoc Mountains> [General Goods Shop] (npc: #144006)
+* Grima <Howling Valley> [General Goods Shop] (npc: #153005)
+* Cindy <Serene Plains> [General Goods Shop] (npc: #219003)
+* Starlet <Serene Plains> [General Goods Shop] (npc: #219005)
+* Wood <Northern Timberlands> [General Goods Shop] (npc: #220002)
+* Michael <Northern Timberlands> [General Goods Shop] (npc: #220004)
+* Purple <Northern Timberlands> [General Goods Shop] (npc: #220006)
+    100x Shabby Iron Arrow: 55g
+    100x Beginner's Iron Arrow: 110g
+    Fishing Rod: 1320g
+    Fishing Bait: 55g
+    Lesser Haste Elixir: 396g
+    Lesser Swiftness Elixir: 396g
+    Advanced HP Recovery Potion: 440g
+    Advanced MP Recovery Potion: 660g
+    Advanced Rescue Potion: 440g
+    Subjugation Scroll: 1100g
+    Barley Bread: 1650g
+    Jahav's Desire: 77g
+    Jahav's Ideals: 165g
+    100x Common Flask: 55g
+    100x Researcher's Flask: 110g
+
+** Shop #110, operated by:
+* Cherri <Livias Mountain> [General Goods Shop] (npc: #115001)
+* Kano <Livias Mountain> [General Goods Shop] (npc: #115002)
+* Ragna <Livias Mountain> [General Goods Shop] (npc: #115003)
+* Matther <Livias Mountain> [General Goods Shop] (npc: #115004)
+    100x Shabby Iron Arrow: 55g
+    100x Beginner's Iron Arrow: 110g
+    Fishing Rod: 1320g
+    Fishing Bait: 55g
+    Lesser Haste Elixir: 396g
+    Lesser Swiftness Elixir: 396g
+    Advanced HP Recovery Potion: 440g
+    Advanced MP Recovery Potion: 660g
+    Advanced Rescue Potion: 440g
+    Subjugation Scroll: 1100g
+    Barley Bread: 1650g
+    Jahav's Desire: 77g
+    Jahav's Ideals: 165g
+    100x Common Flask: 55g
+    100x Researcher's Flask: 110g
+    Hardening Agent: 3300g
+
+** Shop #111, operated by:
+* Abur <Barkan Catacombs> [General Goods Shop] (npc: #117001)
+* Pegu <Barkan Catacombs BF2> [General Goods Shop] (npc: #174001)
+* Deltoro <Barkan Catacombs BF3> [General Goods Shop] (npc: #175001)
+* Jonathan <Barkan Catacombs BF4> [General Goods Shop] (npc: #176001)
+* Segul <Barkan Catacombs BF5> [General Goods Shop] (npc: #177001)
+    100x Shabby Iron Arrow: 55g
+    100x Beginner's Iron Arrow: 110g
+    Fishing Rod: 1320g
+    Fishing Bait: 55g
+    Lesser Haste Elixir: 396g
+    Lesser Swiftness Elixir: 396g
+    Advanced HP Recovery Potion: 440g
+    Advanced MP Recovery Potion: 660g
+    Advanced Rescue Potion: 440g
+    Subjugation Scroll: 1100g
+    Barley Bread: 1650g
+    Jahav's Desire: 77g
+    Jahav's Ideals: 165g
+    100x Common Flask: 55g
+    100x Researcher's Flask: 110g
+
+** Shop #114, operated by:
+* Paola <Land of the Forgotten Kingdom> [General Goods Shop] (npc: #167004)
+* Donia <Land of the Forgotten Kingdom> [General Goods Shop] (npc: #167005)
+    100x Shabby Iron Arrow: 55g
+    100x Beginner's Iron Arrow: 110g
+    Fishing Rod: 1320g
+    Fishing Bait: 55g
+    Lesser Haste Elixir: 396g
+    Lesser Swiftness Elixir: 396g
+    Advanced HP Recovery Potion: 440g
+    Advanced MP Recovery Potion: 660g
+    Advanced Rescue Potion: 440g
+    Subjugation Scroll: 1100g
+    Barley Bread: 1650g
+    Jahav's Desire: 77g
+    Jahav's Ideals: 165g
+    100x Common Flask: 55g
+    100x Researcher's Flask: 110g
+
+** Shop #203, operated by:
+* Guinness <???> [General Goods Shop] (npc: #127001)
+* Rosalia <Varoc Mountains Entrance> [General Goods Shop] (npc: #127006)
+    100x Shabby Iron Arrow: 55g
+    100x Beginner's Iron Arrow: 110g
+    Fishing Rod: 1320g
+    Fishing Bait: 55g
+    Lesser Haste Elixir: 396g
+    Lesser Swiftness Elixir: 396g
+    Advanced HP Recovery Potion: 440g
+    Advanced MP Recovery Potion: 660g
+    Advanced Rescue Potion: 440g
+    Subjugation Scroll: 1100g
+    Barley Bread: 1650g
+    Jahav's Desire: 77g
+    Jahav's Ideals: 165g
+    100x Common Flask: 55g
+    100x Researcher's Flask: 110g
+    Hardening Agent: 3300g
+
+** Shop #206, operated by:
+* Gana <Guild Hideout> [Potion Shop] (npc: #5017) [No Selling]
+    Lesser Haste Elixir: 360g
+    Lesser Swiftness Elixir: 360g
+    Lesser HP Recovery Potion: 100g
+    Intermediate HP Recovery Potion: 250g
+    Advanced HP Recovery Potion: 400g
+    Lesser MP Recovery Potion: 150g
+    Intermediate MP Recovery Potion: 400g
+    Advanced MP Recovery Potion: 600g
+    Transformation Potion: 5000g
+    De-Transformation Potion: 5000g
+    Ice Pack: 150g
+    Antidote: 150g
+    Styptic: 150g
+    Disinfectant: 150g
+    Cardiac Stimulant: 150g
+    Hardening Agent: 3000g
+
+** Shop #207, operated by:
+* Clormann <Guild Hideout> [Pet Supply Shop] (npc: #5019) [No Selling]
+    Grass Feed: 1000g
+    Meat Feed: 1000g
+    Insect Feed: 1000g
+    Honey Feed: 1000g
+    Subjugation Scroll: 1000g
+    Lesser Rescue Potion: 100g
+    Intermediate Rescue Potion: 250g
+    Advanced Rescue Potion: 400g
+
+** Shop #208, operated by:
+* Vanmelloy <Guild Hideout> [Restaurant] (npc: #5020) [No Selling]
+    Barley Bread: 1500g
+    Cereal Bar: 1500g
+    Grilled Fish: 1800g
+    Salad: 1800g
+    Boiled Egg: 1800g
+    Steamed Fish: 1800g
+    Dumpling: 1800g
+    Egg Salad: 1800g
+    Peanut Butter: 1500g
+
+** Shop #209, operated by:
+* Eiphen <Guild Hideout> [Grocery Store] (npc: #5021) [No Selling]
+    Flour: 300g
+    Natural Water: 100g
+    Sugar: 100g
+    Salt: 100g
+    Cheese: 100g
+    Milk: 100g
+    Egg: 100g
+    Assorted Vegetables: 100g
+    Raw Noodles: 100g
+    Herb: 100g
+    Yeast: 100g
+
+** Shop #210, operated by:
+* Penverin <Guild Hideout> [General Goods Shop] (npc: #5018) [No Selling]
+    100x Shabby Iron Arrow: 55g
+    100x Beginner's Iron Arrow: 110g
+    Fishing Rod: 1320g
+    Fishing Bait: 55g
+    Lesser Haste Elixir: 396g
+    Lesser Swiftness Elixir: 396g
+    Advanced HP Recovery Potion: 440g
+    Advanced MP Recovery Potion: 660g
+    Advanced Rescue Potion: 440g
+    Subjugation Scroll: 1100g
+    Barley Bread: 1650g
+
+** Shop #211, operated by:
+* Kieva <Guild Hideout> [Decorative Clothes Shop] (npc: #5012) [No Selling]
+    Red Tracksuit: 750 Insignia
+    Navy Tracksuit: 750 Insignia
+    Khaki Tracksuit: 500 Insignia
+    Gray Tracksuit: 500 Insignia
+
+** Shop #212, operated by:
+* Cleote <Guild Hideout> [Furniture Shop] (npc: #5016) [No Selling]
+    Ordinary Floor (Hideout): 3000 Insignia
+    Ordinary Wallpaper (Hideout): 3000 Insignia
+    Ordinary Bookshelf (Hideout): 6500 Insignia
+    Ordinary Chair (Hideout): 4000 Insignia
+    Ordinary Table (Hideout): 8500 Insignia
+    Ordinary 2-Person Bed (Hideout): 20000 Insignia
+    Ordinary 4-Person Sofa (Hideout): 25000 Insignia
+    Ordinary 6-Person Table (Hideout): 12000 Insignia
+
+** Shop #213, operated by:
+* Malto <Guild Hideout> [Furniture Shop] (npc: #5015) [No Selling]
+    Armor Rack (Hideout): 1100 Guild Coin
+    Supply Box (Hideout): 4400 Guild Coin
+    Little Wooden Chair (Hideout): 1100 Guild Coin
+    Yellow Flag (Hideout): 1100 Guild Coin
+    Green Flag (Hideout): 1100 Guild Coin
+    Meeting Desk (Hideout): 4400 Guild Coin
+    Simple Counter (Hideout): 4400 Guild Coin
+    Small Vegetable Garden (Hideout): 4400 Guild Coin
+    Midsize Vegetable Garden (Hideout): 12600 Guild Coin
+    Yellow Garland (Hideout): 4400 Guild Coin
+    Green Guild Flag (Hideout): 1100 Guild Coin
+    Yellow Guild Flag (Hideout): 1100 Guild Coin
+    Red Guild Flag (Hideout): 1100 Guild Coin
+    Guild Symbol (Hideout): 4400 Guild Coin
+    Strategy Board (Hideout): 4400 Guild Coin
+    Announcement Board (Hideout): 16300 Guild Coin
+    Martial Arts Punching Bag (Hideout): 1100 Guild Coin
+    Martial Arts Scarecrow (Hideout): 1100 Guild Coin
+    Supply Chest (Hideout): 1100 Guild Coin
+    Parchment Storage Box (Hideout): 4400 Guild Coin
+    Quality Supply Chest (Hideout): 4400 Guild Coin
+    Arrow Storage Box (Hideout): 1100 Guild Coin
+    Oak Barrel (Hideout): 1100 Guild Coin
+    Weapon Storage Rack (Hideout): 1100 Guild Coin
+    Flag Storage Box (Hideout): 4400 Guild Coin
+    Multipurpose Storage Box (Hideout): 4400 Guild Coin
+    Practice Target (Hideout): 4400 Guild Coin
+    Green Tent (Hideout): 16300 Guild Coin
+    Combatant Tin Knight (Hideout): 4400 Guild Coin
+    Combatant Cloth Knight (Hideout): 4400 Guild Coin
+    Combatant Wooden Dummy (Hideout): 4400 Guild Coin
+    Supply Cart (Hideout): 12600 Guild Coin
+    Simple Drinking Fountain (Hideout): 4400 Guild Coin
+    Supply Water Bottle (Hideout): 4400 Guild Coin
+    Water Fountain (Hideout): 4400 Guild Coin
+
+** Shop #214, operated by:
+* Ascyl <Varoc Ravine> [General Goods Shop] (npc: #221001)
+* Soproh <Varoc Ravine> [General Goods Shop] (npc: #221006)
+    100x Shabby Iron Arrow: 55g
+    100x Beginner's Iron Arrow: 110g
+    Fishing Rod: 1320g
+    Fishing Bait: 55g
+    Lesser Haste Elixir: 396g
+    Lesser Swiftness Elixir: 396g
+    Advanced HP Recovery Potion: 440g
+    Advanced MP Recovery Potion: 660g
+    Advanced Rescue Potion: 440g
+    Subjugation Scroll: 1100g
+    Barley Bread: 1650g
+    Jahav's Desire: 77g
+    Jahav's Ideals: 165g
+    100x Common Flask: 55g
+    100x Researcher's Flask: 110g
+    Hardening Agent: 3300g
+
+** Shop #215, operated by:
+* Moses <Northern Varoc Mountains> [General Goods Shop] (npc: #150003)
+* Elitel <Northern Varoc Mountains> [General Goods Shop] (npc: #150009)
+    100x Shabby Iron Arrow: 55g
+    100x Beginner's Iron Arrow: 110g
+    Fishing Rod: 1320g
+    Fishing Bait: 55g
+    Lesser Haste Elixir: 396g
+    Lesser Swiftness Elixir: 396g
+    Advanced HP Recovery Potion: 440g
+    Advanced MP Recovery Potion: 660g
+    Advanced Rescue Potion: 440g
+    Subjugation Scroll: 1100g
+    Barley Bread: 1650g
+    Jahav's Desire: 77g
+    Jahav's Ideals: 165g
+    100x Common Flask: 55g
+    100x Researcher's Flask: 110g
+    Hardening Agent: 3300g
+
+** Shop #216, operated by:
+* Intruder <Tomb of Short Legs> [General Goods Shop] (npc: #154001)
+    100x Shabby Iron Arrow: 55g
+    100x Beginner's Iron Arrow: 110g
+    Fishing Rod: 1320g
+    Fishing Bait: 55g
+    Lesser Haste Elixir: 396g
+    Lesser Swiftness Elixir: 396g
+    Advanced HP Recovery Potion: 440g
+    Advanced MP Recovery Potion: 660g
+    Advanced Rescue Potion: 440g
+    Subjugation Scroll: 1100g
+    Barley Bread: 1650g
+    Jahav's Desire: 77g
+    Jahav's Ideals: 165g
+    100x Common Flask: 55g
+    100x Researcher's Flask: 110g
+    Hardening Agent: 3300g
+
+** Shop #217, operated by:
+* Dianta <Freya's Road> [General Goods Shop] (npc: #143004)
+* Paragon <Freya's Road> [General Goods Shop] (npc: #143008)
+    100x Shabby Iron Arrow: 55g
+    100x Beginner's Iron Arrow: 110g
+    Fishing Rod: 1320g
+    Fishing Bait: 55g
+    Lesser Haste Elixir: 396g
+    Lesser Swiftness Elixir: 396g
+    Advanced HP Recovery Potion: 440g
+    Advanced MP Recovery Potion: 660g
+    Advanced Rescue Potion: 440g
+    Subjugation Scroll: 1100g
+    Barley Bread: 1650g
+    Jahav's Desire: 77g
+    Jahav's Ideals: 165g
+    100x Common Flask: 55g
+    100x Researcher's Flask: 110g
+
+** Shop #218, operated by:
+* Lee <Pilgrim's Path> [General Goods Shop] (npc: #222005)
+* Sirus <Pilgrim's Path> [General Goods Shop] (npc: #222011)
+    100x Shabby Iron Arrow: 55g
+    100x Beginner's Iron Arrow: 110g
+    Fishing Rod: 1320g
+    Fishing Bait: 55g
+    Lesser Haste Elixir: 396g
+    Lesser Swiftness Elixir: 396g
+    Advanced HP Recovery Potion: 440g
+    Advanced MP Recovery Potion: 660g
+    Advanced Rescue Potion: 440g
+    Subjugation Scroll: 1100g
+    Barley Bread: 1650g
+    Jahav's Desire: 77g
+    Jahav's Ideals: 165g
+    100x Common Flask: 55g
+    100x Researcher's Flask: 110g
+
+** Shop #219, operated by:
+* Sonia <Northern Varoc Mountains> [Restaurant] (npc: #150001)
+    (random in '10') Grass Porridge: 1650g
+    (random in '20') Barley Bread: 1650g
+    (random in '30') Hardtack: 1650g
+    (random in '40') Cereal Bar: 1650g
+    (random in '50') Boiled Egg: 1980g
+    (random in '60') Egg Salad: 1980g
+
+** Shop #220, operated by:
+* Annabel <Pilgrim's Path> [Grocery Store] (npc: #222002)
+    Barley Bread: 1650g
+    Milk: 110g
+    Cabbage: 220g
+    Raisins: 220g
+    Ginseng: 220g
+    Grapes: 2200g
+    Olive: 220g
+    Flour: 330g
+    Natural Water: 110g
+    Sugar: 110g
+    Salt: 110g
+    Herb: 110g
+    Yeast: 110g
+
+** Shop #221, operated by:
+* Brahms <Guild Hideout> [Region Scramble Shop] (npc: #5025) [No Selling]
+    (random in '1') Orange Lunarium: 300 Insignia
+    (random in '2') Whetstone: 450 Insignia
+    (random in '3') Weed's Blessing (1 Hour): 500 Insignia
+    (random in '4') Legendary Option Stone Chest: 1800 Insignia
+    (random in '5') Obsidian: 500 Insignia
+    (random in '6') Obsidian Piece: 10 Insignia
+    (random in '9') Ancient Soldier's Fighting Spirit: 20000 Insignia
+    (random in '10') Ancient Soldier's Defiance: 20000 Insignia
+    (random in '11') Ancient Soldier's Valor: 20000 Insignia
+    (random in '12') Starlight Hunter's Helmet: 20000 Insignia
+    (random in '13') Starlight Hunter's Gloves: 20000 Insignia
+    (random in '14') Starlight Hunter's Coat: 20000 Insignia
+    (random in '15') Baptist's Halo: 20000 Insignia
+    (random in '16') Baptist's Gloves: 20000 Insignia
+    (random in '17') Baptist's Silk Clothes: 20000 Insignia
+    (random in '18') Brilliant Splendor: 20000 Insignia
+    (random in '19') Blade of Fighting Spirit: 40000 Insignia
+    (random in '20') Barbarian's Sack: 40000 Insignia
+    (random in '21') Rapid Fire Bowstring: 40000 Insignia
+    (random in '22') Token of Omniscience: 40000 Insignia
+    (random in '23') Shield of Noble Will: 20000 Insignia
+    (random in '7') Twilight Magic Quartz: 10000 Insignia
+    (random in '8') Black Fragment: 2000 Insignia
+
+** Shop #222, operated by:
+* Aelita <Freya's Road> [Potion Shop] (npc: #143001)
+* Logan <Pilgrim's Path> [Potion Shop] (npc: #222003)
+    Lesser Haste Elixir: 396g
+    Lesser Swiftness Elixir: 396g
+    Lesser HP Recovery Potion: 110g
+    Intermediate HP Recovery Potion: 275g
+    Advanced HP Recovery Potion: 440g
+    Lesser MP Recovery Potion: 165g
+    Intermediate MP Recovery Potion: 440g
+    Advanced MP Recovery Potion: 660g
+    Transformation Potion: 5500g
+    De-Transformation Potion: 5500g
+    Ice Pack: 165g
+    Antidote: 165g
+    Styptic: 165g
+    Disinfectant: 165g
+    Cardiac Stimulant: 165g
+    Hardening Agent: 3300g
+
+** Shop #223, operated by:
+* Edith <Eastern Somren> [General Goods Shop] (npc: #142001)
+* Alpheus <Eastern Somren> [General Goods Shop] (npc: #142006)
+    100x Shabby Iron Arrow: 55g
+    100x Beginner's Iron Arrow: 110g
+    Fishing Rod: 1320g
+    Fishing Bait: 55g
+    Lesser Haste Elixir: 396g
+    Lesser Swiftness Elixir: 396g
+    Advanced HP Recovery Potion: 440g
+    Advanced MP Recovery Potion: 660g
+    Advanced Rescue Potion: 440g
+    Subjugation Scroll: 1100g
+    Barley Bread: 1650g
+    Jahav's Desire: 77g
+    Jahav's Ideals: 165g
+    100x Common Flask: 55g
+    100x Researcher's Flask: 110g
+
+** Shop #224, operated by:
+* Orlando <Bensa River> [General Goods Shop] (npc: #141001)
+* Theophile <Bensa River> [General Goods Shop] (npc: #141006)
+* Wright <Bensa River> [General Goods Shop] (npc: #141016)
+    100x Shabby Iron Arrow: 55g
+    100x Beginner's Iron Arrow: 110g
+    Fishing Rod: 1320g
+    Fishing Bait: 55g
+    Lesser Haste Elixir: 396g
+    Lesser Swiftness Elixir: 396g
+    Advanced HP Recovery Potion: 440g
+    Advanced MP Recovery Potion: 660g
+    Advanced Rescue Potion: 440g
+    Subjugation Scroll: 1100g
+    Barley Bread: 1650g
+    Jahav's Desire: 77g
+    Jahav's Ideals: 165g
+    100x Common Flask: 55g
+    100x Researcher's Flask: 110g
+
+** Shop #225, operated by:
+* Woodrow <Regus Outskirts> [General Goods Shop] (npc: #128001)
+    100x Shabby Iron Arrow: 55g
+    100x Beginner's Iron Arrow: 110g
+    Fishing Rod: 1320g
+    Fishing Bait: 55g
+    Lesser Haste Elixir: 396g
+    Lesser Swiftness Elixir: 396g
+    Advanced HP Recovery Potion: 440g
+    Advanced MP Recovery Potion: 660g
+    Advanced Rescue Potion: 440g
+    Subjugation Scroll: 1100g
+    Barley Bread: 1650g
+    Jahav's Desire: 77g
+    Jahav's Ideals: 165g
+    100x Common Flask: 55g
+    100x Researcher's Flask: 110g
+
+** Shop #226, operated by:
+* Glenna <Bensa River> [Restaurant] (npc: #141007)
+    Barley Bread: 1650g
+    Grilled Fish: 1980g
+    Boiled Egg: 1980g
+    Steamed Fish: 1980g
+    Egg Salad: 1980g
+
+** Shop #227, operated by:
+* Hannial <Bensa River> [Grocery Store] (npc: #141010)
+    Sugar: 110g
+    Salt: 110g
+    Olive: 220g
+    Red Pepper: 165g
+    Herb: 110g
+    Pepper: 165g
+    Onion: 165g
+    Garlic: 165g
+
+** Shop #228, operated by:
+* Anterus <Somren Free City> [Restaurant] (npc: #131012)
+    Barley Bread: 1500g
+    Cereal Bar: 1500g
+    Salad: 1800g
+    Boiled Egg: 1800g
+    Steamed Fish: 1800g
+    Dumpling: 1800g
+    Egg Salad: 1800g
+    Peanut Butter: 1500g
+
+** Shop #229, operated by:
+* Zephyrinus <Somren Free City> [Grocery Store] (npc: #131013)
+    Flour: 300g
+    Natural Water: 100g
+    Sugar: 100g
+    Salt: 100g
+    Cheese: 100g
+    Milk: 100g
+    Egg: 100g
+    Assorted Vegetables: 100g
+    Raw Noodles: 100g
+    Herb: 100g
+    Yeast: 100g
+    Onion: 150g
+    Garlic: 150g
+    Yogurt: 150g
+    Pepper: 150g
+    Olive Oil: 150g
+    Butter: 150g
+    Peanuts: 150g
+    Whipped Cream: 200g
+    Celery: 200g
+    Lettuce: 200g
+    Cabbage: 200g
+    Raisins: 200g
+    Ginseng: 200g
+    Grapes: 2000g
+    Olive: 200g
+
+** Shop #230, operated by:
+* Ethylen <Tamlin> [General Goods Shop] (npc: #151014)
+    100x Shabby Iron Arrow: 55g
+    100x Beginner's Iron Arrow: 110g
+    Fishing Rod: 1320g
+    Fishing Bait: 55g
+    Lesser Haste Elixir: 396g
+    Lesser Swiftness Elixir: 396g
+    Advanced HP Recovery Potion: 440g
+    Advanced MP Recovery Potion: 660g
+    Advanced Rescue Potion: 440g
+    Subjugation Scroll: 1100g
+    Barley Bread: 1650g
+    Jahav's Desire: 77g
+    Jahav's Ideals: 165g
+    100x Common Flask: 55g
+    100x Researcher's Flask: 110g
+
+** Shop #232, operated by:
+* Ave <???> [Warrior's Skill Shop] (npc: #106035)
+    (random in '30') Crafting Method - Warrior Master's Essence: 500 Kingdom Token [Friendship:Revered]
+
+** Shop #233, operated by:
+* Grubin <???> [Archer's Skill Shop] (npc: #106036)
+    (random in '30') Crafting Method - Archer Master's Essence: 500 Kingdom Token [Friendship:Revered]
+
+** Shop #234, operated by:
+* Madd <???> [Mage's Skill Shop] (npc: #106037)
+    (random in '30') Crafting Method - Mage Master's Essence: 500 Kingdom Token [Friendship:Revered]
+
+** Shop #235, operated by:
+* Necar <???> [Paladin's Skill Shop] (npc: #106038)
+    (random in '30') Crafting Method - Paladin Master's Essence: 500 Kingdom Token [Friendship:Revered]
+
+** Shop #236, operated by:
+* Bartholomew <???> [Sculptor's Skill Shop] (npc: #106039)
+    (random in '30') Crafting Method - Sculptor Master's Essence: 500 Kingdom Token [Friendship:Revered]
+
+** Shop #237, operated by:
+* Jade <???> [Alchemist's Skill Shop] (npc: #106040)
+    (random in '30') Crafting Method - Alchemist Master's Essence: 500 Kingdom Token [Friendship:Revered]
+
+** Shop #238, operated by:
+* Ode <Baran> [Alchemist's Item Shop] (npc: #100027)
+* Vedes <Serraborg Castle> [Alchemist's Item Shop] (npc: #102082)
+* Xavir <Livias> [Alchemist's Item Shop] (npc: #106033)
+* Herens <Hunter's Hill> [Alchemist's Item Shop] (npc: #125010)
+    100x Common Flask: 50g
+    100x Researcher's Flask: 100g
+
+** Shop #239, operated by:
+* Anna <Guild Hideout> [Furniture Shop] (npc: #5027) [No Selling]
+    Viking 2-Person Bed (Hideout): 40000 Guild Coin
+    Viking Wallpaper (Hideout): 20000 Guild Coin
+    Viking Floor (Hideout): 20000 Guild Coin
+    Inventor's 2-Person Bed (Hideout): 40000 Guild Coin
+    Inventor's Wallpaper (Hideout): 20000 Guild Coin
+    Inventor's Floor (Hideout): 20000 Guild Coin
+    Chocolate 2-Person Bed (Hideout): 40000 Guild Coin
+    Chocolate Wallpaper (Hideout): 20000 Guild Coin
+    Chocolate Floor (Hideout): 20000 Guild Coin
+
+** Shop #240, operated by:
+* Gaspard <Interior Zone City> [Accomplishment Point Shop] (npc: #131002)
+    (random in '1') Stat Increase Scroll: 3600 Accomplishment to the Order
+    (random in '2') Legendary Option Stone Chest: 1500 Accomplishment to the Order
+    (random in '3') Heroic Magic Crystallization: 800 Accomplishment to the Order
+
+** Shop #241, operated by:
+* Procedure <Serraborg Castle> [Decorative Clothes Shop] (npc: #102087)
+    (random in '1') Star Charm Bow: 3000 Kingdom Token
+    (random in '2') Star Charm Dagger: 3000 Kingdom Token
+    (random in '3') Star Charm Shield: 1200 Kingdom Token
+    (random in '4') Star Charm Staff: 3000 Kingdom Token
+    (random in '5') Star Charm Sword: 3000 Kingdom Token
+    (random in '6') Star Charm Greatsword: 3000 Kingdom Token
+
+** Shop #242, operated by:
+* Ignis <Blazing Road> [General Goods Shop] (npc: #314001)
+    100x Shabby Iron Arrow: 55g
+    100x Beginner's Iron Arrow: 110g
+    Fishing Rod: 1320g
+    Fishing Bait: 55g
+    Lesser Haste Elixir: 396g
+    Lesser Swiftness Elixir: 396g
+    Advanced HP Recovery Potion: 440g
+    Advanced MP Recovery Potion: 660g
+    Advanced Rescue Potion: 440g
+    Subjugation Scroll: 1100g
+    Barley Bread: 1650g
+    Jahav's Desire: 77g
+    Jahav's Ideals: 165g
+    100x Common Flask: 55g
+    100x Researcher's Flask: 110g
+
+** Shop #243, operated by:
+* Yiello <Frigid Frost Cave> [General Goods Shop] (npc: #316001)
+    100x Shabby Iron Arrow: 55g
+    100x Beginner's Iron Arrow: 110g
+    Fishing Rod: 1320g
+    Fishing Bait: 55g
+    Lesser Haste Elixir: 396g
+    Lesser Swiftness Elixir: 396g
+    Advanced HP Recovery Potion: 440g
+    Advanced MP Recovery Potion: 660g
+    Advanced Rescue Potion: 440g
+    Subjugation Scroll: 1100g
+    Barley Bread: 1650g
+    Jahav's Desire: 77g
+    Jahav's Ideals: 165g
+    100x Common Flask: 55g
+    100x Researcher's Flask: 110g
+
+** Shop #244, operated by:
+* Fulgur <Sharp Thunder Cave> [General Goods Shop] (npc: #318001)
+    100x Shabby Iron Arrow: 55g
+    100x Beginner's Iron Arrow: 110g
+    Fishing Rod: 1320g
+    Fishing Bait: 55g
+    Lesser Haste Elixir: 396g
+    Lesser Swiftness Elixir: 396g
+    Advanced HP Recovery Potion: 440g
+    Advanced MP Recovery Potion: 660g
+    Advanced Rescue Potion: 440g
+    Subjugation Scroll: 1100g
+    Barley Bread: 1650g
+    Jahav's Desire: 77g
+    Jahav's Ideals: 165g
+    100x Common Flask: 55g
+    100x Researcher's Flask: 110g
+
+** Shop #245, operated by:
+* Benenum <Ominous Venomous Ravine> [General Goods Shop] (npc: #320001)
+    100x Shabby Iron Arrow: 55g
+    100x Beginner's Iron Arrow: 110g
+    Fishing Rod: 1320g
+    Fishing Bait: 55g
+    Lesser Haste Elixir: 396g
+    Lesser Swiftness Elixir: 396g
+    Advanced HP Recovery Potion: 440g
+    Advanced MP Recovery Potion: 660g
+    Advanced Rescue Potion: 440g
+    Subjugation Scroll: 1100g
+    Barley Bread: 1650g
+    Jahav's Desire: 77g
+    Jahav's Ideals: 165g
+    100x Common Flask: 55g
+    100x Researcher's Flask: 110g
+
+** Shop #246, operated by:
+* Wonce <Serraborg Modern Market> [Furniture Shop] (npc: #313002)
+    Chic Black Chair: 10 Red Butterfly
+    Chic Black Bed: 60 Red Butterfly
+    Chic Black End Table: 50 Red Butterfly
+    Chic Black Sofa: 50 Red Butterfly
+    Chic Black Bookshelf: 40 Red Butterfly
+    Chic Black Storage Box: 70 Red Butterfly
+    Chic Black Table: 30 Red Butterfly
+    Chic Black Decorative Lamp: 20 Red Butterfly
+    Chic Black Carpet: 30 Red Butterfly
+    Chic Black Wallpaper: 20 Red Butterfly
+    Chic Black Floor: 20 Red Butterfly
+    Chic Black Display Case: 100 Red Butterfly
+    Lunar New Year Chair: 10 Red Butterfly
+    Lunar New Year Bed: 60 Red Butterfly
+    Lunar New Year End Table: 50 Red Butterfly
+    Lunar New Year Sofa: 50 Red Butterfly
+    Lunar New Year Bookshelf: 40 Red Butterfly
+    Lunar New Year Dresser: 70 Red Butterfly
+    Lunar New Year Table: 30 Red Butterfly
+    Lunar New Year Decorative Lamp: 20 Red Butterfly
+    Lunar New Year Carpet: 30 Red Butterfly
+    Lunar New Year Wallpaper: 20 Red Butterfly
+    Lunar New Year Floor: 20 Red Butterfly
+    Lunar New Year Display Case: 100 Red Butterfly
+    Chocolate Chair: 10 Red Butterfly
+    Chocolate Bed: 60 Red Butterfly
+    Chocolate End Table: 50 Red Butterfly
+    Chocolate Sofa: 50 Red Butterfly
+    Chocolate Bookshelf: 40 Red Butterfly
+    Chocolate Dresser: 70 Red Butterfly
+    Chocolate Table: 30 Red Butterfly
+    Chocolate Decorative Lamp: 20 Red Butterfly
+    Chocolate Carpet: 30 Red Butterfly
+    Chocolate Wallpaper: 20 Red Butterfly
+    Chocolate Floor: 20 Red Butterfly
+    Chocolate Display Case: 100 Red Butterfly
+    The Portrait of an Adventurer 1: 1000000g
+
+** Shop #247, operated by:
+* Charnay <Serraborg Modern Market> [Decorative Clothes Shop] (npc: #313005)
+    (random in '30') Black Christmas Bell Hat: 150 Red Butterfly
+    (random in '40') Black Christmas Santa Suit: 150 Red Butterfly
+    (random in '50') Black Christmas Gloves: 150 Red Butterfly
+    (random in '10') Black Christmas Bundle: 150 Red Butterfly
+    (random in '10') White Christmas Bundle: 150 Red Butterfly
+    (random in '20') Lovely Pink Beanie: 150 Red Butterfly
+    (random in '20') Mandarin Crescent Beanie: 150 Red Butterfly
+    (random in '20') Zigzag Pattern Beanie: 150 Red Butterfly
+    (random in '20') Blue Tape Beanie: 150 Red Butterfly
+    (random in '30') Frosty Beast Helmet: 200 Red Butterfly
+    (random in '40') Frosty Beast Armor: 200 Red Butterfly
+    (random in '50') Frosty Beast Gloves: 200 Red Butterfly
+    (random in '30') Nobile Light Helmet: 150 Red Butterfly
+    (random in '40') Nobile Light Armor: 150 Red Butterfly
+    (random in '50') Nobile Light Gloves: 150 Red Butterfly
+    (random in '60') Nobile Light Cloak: 150 Red Butterfly
+    (random in '30') Windstopper Hood: 200 Red Butterfly
+    (random in '40') Windstopper Suit: 200 Red Butterfly
+    (random in '50') Windstopper Gloves: 200 Red Butterfly
+    (random in '1') Terrifying Blade: 20000000g
+    (random in '2') Legendary Houdini Magic Hat: 200 Red Butterfly
+    (random in '3') Legendary Houdini Coat: 200 Red Butterfly
+    (random in '4') Legendary Houdini Gloves: 200 Red Butterfly
+    (random in '5') Blue Horn-Rimmed Glasses: 15000000g
+    (random in '6') Navy Prep Uniform: 15000000g
+    (random in '7') White Wristwatch: 15000000g
+    (random in '8') Lively School Day Bag: 15000000g
+
+** Shop #248, operated by:
+* Sylphy <???> [Free Market Coupon Shop] (npc: #1068) [No Selling]
+    New Year's Free Market Coupon: 50000g
+
+** Shop #249, operated by:
+* Ming <Serraborg Modern Market> [Furniture Shop] (npc: #313004)
+    Colorful Badge: 200000g
+    Burning Red Essence: 200000g
