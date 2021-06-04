@@ -1,3 +1,10 @@
+
+Q: What does "random in 'x'" mean?
+A: It means this shop has a random stock that is refreshed occasionally, usually daily.
+   For those shops, each shop item slot has a group id, such as 10 or 20, etc.
+   "Random in '10'" means that the item is one of the available options for the '10' slot.
+
+
 ** Shop #10, operated by:
 * Foyd <???> [Black Market] (npc: #100025)
 * Foyd <???> [Black Market] (npc: #100026)
