@@ -506,34 +506,34 @@
     Level 1 - EXP:    0, New Gifts: <Rare Loot> (+7 Likability)
     Level 2 - EXP:    6, New Gifts: <Heroic Loot> (+30 Likability)
     Level 3 - EXP:  286
-    Level 4 - EXP: 1006, Bonus: 5% Discount, Teleport
+    Level 4 - EXP: 1006, Bonus: Sells Class Master's Essence Recipe, Teleport
 
 * Grubin <Livias> (Skill Master, Skill Master)
     Level 1 - EXP:    0, New Gifts: <Rare Loot> (+7 Likability)
     Level 2 - EXP:    6, New Gifts: <Heroic Loot> (+30 Likability)
     Level 3 - EXP:  286
-    Level 4 - EXP: 1006, Bonus: 5% Discount, Teleport
+    Level 4 - EXP: 1006, Bonus: Sells Class Master's Essence Recipe, Teleport
 
 * Madd <Livias> (Skill Master, Skill Master)
     Level 1 - EXP:    0, New Gifts: <Rare Loot> (+7 Likability)
     Level 2 - EXP:    6, New Gifts: <Heroic Loot> (+30 Likability)
     Level 3 - EXP:  286
-    Level 4 - EXP: 1006, Bonus: 5% Discount, Teleport
+    Level 4 - EXP: 1006, Bonus: Sells Class Master's Essence Recipe, Teleport
 
 * Necar <Livias> (Skill Master, Skill Master)
     Level 1 - EXP:    0, New Gifts: <Rare Loot> (+7 Likability)
     Level 2 - EXP:    6, New Gifts: <Heroic Loot> (+30 Likability)
     Level 3 - EXP:  286
-    Level 4 - EXP: 1006, Bonus: 5% Discount, Teleport
+    Level 4 - EXP: 1006, Bonus: Sells Class Master's Essence Recipe, Teleport
 
 * Bartholomew <Livias> (Skill Master, Skill Master)
     Level 1 - EXP:    0, New Gifts: <Rare Loot> (+7 Likability)
     Level 2 - EXP:    6, New Gifts: <Heroic Loot> (+30 Likability)
     Level 3 - EXP:  286
-    Level 4 - EXP: 1006, Bonus: 5% Discount, Teleport
+    Level 4 - EXP: 1006, Bonus: Sells Class Master's Essence Recipe, Teleport
 
 * Jade <Livias> (Skill Master, Skill Master)
     Level 1 - EXP:    0, New Gifts: <Rare Loot> (+7 Likability)
     Level 2 - EXP:    6, New Gifts: <Heroic Loot> (+30 Likability)
     Level 3 - EXP:  286
-    Level 4 - EXP: 1006, Bonus: 5% Discount, Teleport
+    Level 4 - EXP: 1006, Bonus: Sells Class Master's Essence Recipe, Teleport
