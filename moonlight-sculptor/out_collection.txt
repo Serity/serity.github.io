@@ -1,3 +1,4 @@
+
 Feel free to save this list to your computer and delete or
 check off sections in the box as you complete them.
 
@@ -6,121 +7,121 @@ check off sections in the box as you complete them.
   == Equip: Chapter 1 ==
 [ ] = Plundered Weapon =
         Requirements:
-          Kalinga
-          Gano
-          Celtis
+          {Kalinga}
+          {Gano}
+          {Celtis}
         Rewards:
           Permanent Buff: Max HP +5
 
 [ ] = Power of Green Quartz 1 =
         Requirements:
-          Lizardman Axe
-          Lizardman Shield
-          Lizardman Staff
-          Lizardman Captain's Sword
+          {Lizardman Axe}
+          {Lizardman Shield}
+          {Lizardman Staff}
+          {Lizardman Captain's Sword}
         Rewards:
           Permanent Buff: Max HP +5
 
 [ ] = Power of Green Quartz 2 =
         Requirements:
-          Goblin Pickaxe
-          Goblin Staff
-          Giant Slayer
+          {Goblin Pickaxe}
+          {Goblin Staff}
+          {Giant Slayer}
         Rewards:
           Permanent Buff: Max HP +5
 
 [ ] = Orc's Weapon Set =
         Requirements:
-          Guandao
-          Pointed Cudgel
-          Orc's Shamanic Staff
-          Huge Orc Axe
+          {Guandao}
+          {Pointed Cudgel}
+          {Orc's Shamanic Staff}
+          {Huge Orc Axe}
         Rewards:
           Permanent Buff: Max HP +5
 
 [ ] = In the Blink of an Eye =
         Requirements:
-          Meerkat Plunderer Thief's Dagger
-          Meerkat Plunderer Warrior's Greatsword
+          {Meerkat Plunderer Thief's Dagger}
+          {Meerkat Plunderer Warrior's Greatsword}
         Rewards:
           Permanent Buff: Max HP +5
 
 [ ] = Assassin Warrior Set =
         Requirements:
-          Lumberjack's Axe
-          Assassin Warrior's Shield
-          Sand Plains Assassin Warrior's Helmet
-          Sand Plains Assassin Warrior's Gloves
-          Sand Plains Assassin Warrior's Cloak
+          {Lumberjack's Axe}
+          {Assassin Warrior's Shield}
+          {Sand Plains Assassin Warrior's Helmet}
+          {Sand Plains Assassin Warrior's Gloves}
+          {Sand Plains Assassin Warrior's Cloak}
         Rewards:
           Permanent Buff: ATK +3
 
 [ ] = Assassin Archer Set =
         Requirements:
-          Mejai Archer's Bow
-          Sand Plains Assassin Archer's Helmet
-          Sand Plains Assassin Archer's Gloves
-          Sand Plains Assassin Archer's Muffler
+          {Mejai Archer's Bow}
+          {Sand Plains Assassin Archer's Helmet}
+          {Sand Plains Assassin Archer's Gloves}
+          {Sand Plains Assassin Archer's Muffler}
         Rewards:
           Permanent Buff: DEF +3
 
 [ ] = Assassin Mage Set =
         Requirements:
-          Sand Plains Assassin Staff
-          Sand Plains Assassin Mage's Hat
-          Sand Plains Assassin Mage's Gloves
-          Sand Plains Assassin Mage's Cloak
+          {Sand Plains Assassin Staff}
+          {Sand Plains Assassin Mage's Hat}
+          {Sand Plains Assassin Mage's Gloves}
+          {Sand Plains Assassin Mage's Cloak}
         Rewards:
           Permanent Buff: Max HP +8
 
 [ ] = Assassin Captain Harvy Set =
         Requirements:
-          Sharp Dagger
-          Sand Plains Assassin Captain's Hat
-          Sand Plains Assassin Captain's Gloves
-          Sand Plains Assassin Captain's Muffler
+          {Sharp Dagger}
+          {Sand Plains Assassin Captain's Hat}
+          {Sand Plains Assassin Captain's Gloves}
+          {Sand Plains Assassin Captain's Muffler}
         Rewards:
           Permanent Buff: Max HP +8
 
 [ ] = Ant Kingdom =
         Requirements:
-          Soldier Ant Shovel
-          Soldier Ant Sword
-          Queen Ant's Baton
+          {Soldier Ant Shovel}
+          {Soldier Ant Sword}
+          {Queen Ant's Baton}
         Rewards:
           Permanent Buff: ATK +5
 
 [ ] = Serraborg Plated Set =
         Requirements:
-          Serraborg Plated Armor
-          Serraborg Plated Helmet
-          Serraborg Plated Gloves
-          Serraborg Shield
+          {Serraborg Plated Armor}
+          {Serraborg Plated Helmet}
+          {Serraborg Plated Gloves}
+          {Serraborg Shield}
         Rewards:
           Permanent Buff: Max HP +8
 
 [ ] = Serraborg Magic Set =
         Requirements:
-          Serraborg Robe
-          Serraborg Magic Hat
-          Serraborg Magic Gloves
-          Serraborg Magic Shield
+          {Serraborg Robe}
+          {Serraborg Magic Hat}
+          {Serraborg Magic Gloves}
+          {Serraborg Magic Shield}
         Rewards:
           Permanent Buff: DEF +3
 
 [ ] = Serraborg Leather Set =
         Requirements:
-          Serraborg Leather Armor
-          Serraborg Leather Helmet
-          Serraborg Leather Gloves
+          {Serraborg Leather Armor}
+          {Serraborg Leather Helmet}
+          {Serraborg Leather Gloves}
         Rewards:
           Permanent Buff: ATK +3
 
 [ ] = Serraborg Accessories Set =
         Requirements:
-          Serraborg Ring
-          Serraborg Earrings
-          Serraborg Necklace
+          {Serraborg Ring}
+          {Serraborg Earrings}
+          {Serraborg Necklace}
         Rewards:
           Permanent Buff: Max HP +8
 
@@ -128,114 +129,114 @@ check off sections in the box as you complete them.
   == Equip: Chapter 2 ==
 [ ] = Silver Accessories Set =
         Requirements:
-          Silvery Ring
-          Silver Earrings
-          Silver Necklace
+          {Silvery Ring}
+          {Silver Earrings}
+          {Silver Necklace}
         Rewards:
           Permanent Buff: ATK +3
 
 [ ] = Shadow Accessories Set =
         Requirements:
-          Shadow Ring
-          Shadow Earrings
-          Shadow Necklace
+          {Shadow Ring}
+          {Shadow Earrings}
+          {Shadow Necklace}
         Rewards:
           Permanent Buff: DEF +3
 
 [ ] = Rare Accessories Set =
         Requirements:
-          Mana Ring
-          Queen's Arrogance
-          Sly Oath
+          {Mana Ring}
+          {Queen's Arrogance}
+          {Sly Oath}
         Rewards:
           Permanent Buff: Max HP +10
 
 [ ] = Baldur Accessories Set =
         Requirements:
-          Baldur's Ring
-          Baldur's Earrings
-          Baldur's Necklace
+          {Baldur's Ring}
+          {Baldur's Earrings}
+          {Baldur's Necklace}
         Rewards:
           Permanent Buff: DEF +5
 
 [ ] = Acubens Accessories Set =
         Requirements:
-          Acubens's Ring
-          Acubens's Earrings
-          Acubens's Necklace
+          {Acubens's Ring}
+          {Acubens's Earrings}
+          {Acubens's Necklace}
         Rewards:
           Permanent Buff: DEF +5
 
 [ ] = Tubalcain Accessories Set =
         Requirements:
-          Tubalcain's Ring
-          Tubalcain's Earrings
-          Tubalcain's Necklace
+          {Tubalcain's Ring}
+          {Tubalcain's Earrings}
+          {Tubalcain's Necklace}
         Rewards:
           Permanent Buff: DEF +5
 
 [ ] = Lucky Accessories Set =
         Requirements:
-          Golden Ring of Blessing
-          Clover Ring
+          {Golden Ring of Blessing}
+          {Clover Ring}
         Rewards:
           Permanent Buff: Max HP +12
 
 [ ] = Castor's Plated Set =
         Requirements:
-          Castor's Plated Armor
-          Castor's Plated Helmet
-          Castor's Plated Gloves
+          {Castor's Plated Armor}
+          {Castor's Plated Helmet}
+          {Castor's Plated Gloves}
         Rewards:
           Permanent Buff: DEF +5
 
 [ ] = Castor's Magic Set =
         Requirements:
-          Castor's Robe
-          Castor's Magic Hat
-          Castor's Magic Gloves
-          Castor's Magic Shield
+          {Castor's Robe}
+          {Castor's Magic Hat}
+          {Castor's Magic Gloves}
+          {Castor's Magic Shield}
         Rewards:
           Permanent Buff: ATK +5
 
 [ ] = Castor's Leather Set =
         Requirements:
-          Castor's Leather Armor
-          Castor's Leather Helmet
-          Castor's Leather Gloves
+          {Castor's Leather Armor}
+          {Castor's Leather Helmet}
+          {Castor's Leather Gloves}
         Rewards:
           Permanent Buff: Max HP +12
 
 [ ] = Source of Special Power 1 =
         Requirements:
-          Blazing Fighting Spirit
-          Sharp Howling
+          {Blazing Fighting Spirit}
+          {Sharp Howling}
         Rewards:
           Permanent Buff: ATK +5
 
 [ ] = Power of the Hard Scale =
         Requirements:
-          Venomous Axe Blade
-          Deathly Twin Wings Axe
-          Huge Snake Scale Armor
+          {Venomous Axe Blade}
+          {Deathly Twin Wings Axe}
+          {Huge Snake Scale Armor}
         Rewards:
           Permanent Buff: DEF +7
 
 [ ] = Desert Sun =
         Requirements:
-          Carmellian Warrior's Sword
-          Carmellian Thief's Dagger
-          Gluttonous Crown
-          Desert Ray
+          {Carmellian Warrior's Sword}
+          {Carmellian Thief's Dagger}
+          {Gluttonous Crown}
+          {Desert Ray}
         Rewards:
           Permanent Buff: ATK +5
 
 [ ] = Your Anger Is My Happiness =
         Requirements:
-          Gnoll Sand Archer's Bow
-          Gnoll Sand Mage's Staff
-          Furious Avenger
-          Horus's Fury
+          {Gnoll Sand Archer's Bow}
+          {Gnoll Sand Mage's Staff}
+          {Furious Avenger}
+          {Horus's Fury}
         Rewards:
           Permanent Buff: ATK +5
 
@@ -243,193 +244,193 @@ check off sections in the box as you complete them.
   == Equip: Chapter 3 ==
 [ ] = Bug Queen Ripley's Set =
         Requirements:
-          Bug Queen's Armor
-          Bug Queen's Helmet
-          Bug Queen's Gloves
-          Bug Queen's Cloak
+          {Bug Queen's Armor}
+          {Bug Queen's Helmet}
+          {Bug Queen's Gloves}
+          {Bug Queen's Cloak}
         Rewards:
           Permanent Buff: DEF +7
 
 [ ] = Anubis Accessories Set =
         Requirements:
-          Anubis's Ring
-          Anubis's Earrings
-          Anubis's Necklace
+          {Anubis's Ring}
+          {Anubis's Earrings}
+          {Anubis's Necklace}
         Rewards:
           Permanent Buff: DEF +7
 
 [ ] = Anubis's Greed =
         Requirements:
-          Tyrant's Armor
-          Tyrant's Crown
-          Tyrant's Gloves
-          Tyrant's Cloak
+          {Tyrant's Armor}
+          {Tyrant's Crown}
+          {Tyrant's Gloves}
+          {Tyrant's Cloak}
         Rewards:
           Permanent Buff: Max HP +15
 
 [ ] = The Undying Legion =
         Requirements:
-          Necromancer's Robe
-          Necromancer's Veil
-          Necromancer's Gloves
-          Necromancer's Cloak
+          {Necromancer's Robe}
+          {Necromancer's Veil}
+          {Necromancer's Gloves}
+          {Necromancer's Cloak}
         Rewards:
           Permanent Buff: Max HP +15
 
 [ ] = Predator's Wildness =
         Requirements:
-          Valley Ruler's Armor
-          Valley Ruler's Helmet
-          Valley Ruler's Gloves
-          Valley Ruler's Cloak
+          {Valley Ruler's Armor}
+          {Valley Ruler's Helmet}
+          {Valley Ruler's Gloves}
+          {Valley Ruler's Cloak}
         Rewards:
           Permanent Buff: Max HP +15
 
 [ ] = Frozen Soul =
         Requirements:
-          Dawn Splendor
-          Frost Fairy Hat
+          {Dawn Splendor}
+          {Frost Fairy Hat}
         Rewards:
           Permanent Buff: ATK +7
 
 [ ] = Overcoming Insomnia =
         Requirements:
-          Ezla Gorget
-          Egir's Helmet
-          Ghost Hunter's Leather Armor
+          {Ezla Gorget}
+          {Egir's Helmet}
+          {Ghost Hunter's Leather Armor}
         Rewards:
           Permanent Buff: DEF +8
 
 [ ] = Power of the 4 Elements =
         Requirements:
-          Elementalist Robe
-          Impending Death Armor
+          {Elementalist Robe}
+          {Impending Death Armor}
         Rewards:
           Permanent Buff: ATK +7
 
 [ ] = Nightmare =
         Requirements:
-          Red Night's Oath
-          Moros's Destruction
-          Chaotic Ring
+          {Red Night's Oath}
+          {Moros's Destruction}
+          {Chaotic Ring}
         Rewards:
           Permanent Buff: DEF +8
 
 [ ] = Ruthless War =
         Requirements:
-          Herald of Death
-          Cut-out Wound
-          Frigid Monarch's Helmet
+          {Herald of Death}
+          {Cut-out Wound}
+          {Frigid Monarch's Helmet}
         Rewards:
           Permanent Buff: ATK +8
 
 [ ] = The Harpy Boss =
         Requirements:
-          Dead Shot
-          Owl Gaze Shortbow
+          {Dead Shot}
+          {Owl Gaze Shortbow}
         Rewards:
           Permanent Buff: DEF +10
 
 [ ] = Symbol of Wealth =
         Requirements:
-          Lightning Petal's Grace
-          Eternal Rest Earrings
+          {Lightning Petal's Grace}
+          {Eternal Rest Earrings}
         Rewards:
           Permanent Buff: ATK +8
 
 [ ] = Source of Special Power 2 =
         Requirements:
-          Ennead's Blessing
-          Heathen's Idol
-          Moonbow Ring
+          {Ennead's Blessing}
+          {Heathen's Idol}
+          {Moonbow Ring}
         Rewards:
           Permanent Buff: DEF +10
 
 [ ] = Kalakeya Legion's Grit =
         Requirements:
-          March of Mortality
-          March of Mortality
-          March of Mortality
-          March of Mortality
+          {March of Mortality}
+          {March of Mortality}
+          {March of Mortality}
+          {March of Mortality}
         Rewards:
           Permanent Buff: ATK +10
 
 [ ] = So Attractive =
         Requirements:
-          Depraved Saint's Staff
-          Maia's Whispers
+          {Depraved Saint's Staff}
+          {Maia's Whispers}
         Rewards:
           Permanent Buff: DEF +10
 
 [ ] = Rainbow Reflection =
         Requirements:
-          Glorious Shield
-          Sacred Faith
-          Kalasiris
+          {Glorious Shield}
+          {Sacred Faith}
+          {Kalasiris}
         Rewards:
           Permanent Buff: ATK +10
 
 [ ] = Azure Eye =
         Requirements:
-          Abyssal Iris
-          Apparition Chaser
+          {Abyssal Iris}
+          {Apparition Chaser}
         Rewards:
           Permanent Buff: DEF +10
 
 [ ] = Like a Shadow =
         Requirements:
-          +10 Shadow Knight's Plated Armor
-          +10 Shadow Hunter's Leather Armor
-          +10 Shadow Priest's Robe
-          +10 Shadow Cloak
+          +10 {Shadow Knight's Plated Armor}
+          +10 {Shadow Hunter's Leather Armor}
+          +10 {Shadow Priest's Robe}
+          +10 {Shadow Cloak}
         Rewards:
           Item: 10x Enchant Protectant
           Permanent Buff: DEF +5
 
 [ ] = In the Name of Baldur 1 =
         Requirements:
-          +10 Baldur's Greatsword
-          +10 Baldur's Sword
-          +10 Baldur's Bow
-          +10 Baldur's Dagger
-          +10 Baldur's Staff
-          +10 Baldur's Shield
+          +10 {Baldur's Greatsword}
+          +10 {Baldur's Sword}
+          +10 {Baldur's Bow}
+          +10 {Baldur's Dagger}
+          +10 {Baldur's Staff}
+          +10 {Baldur's Shield}
         Rewards:
           Item: 30x Enchant Protectant
           Permanent Buff: ATK +7
 
 [ ] = In the Name of Baldur 2 =
         Requirements:
-          +10 Baldur's Two-Handed Axe
-          +10 Baldur's One-Handed Axe
-          +10 Baldur's Shortbow
-          +10 Baldur's Chisel
-          +10 Baldur's War Staff
-          +10 Baldur's Spell Dagger
+          +10 {Baldur's Two-Handed Axe}
+          +10 {Baldur's One-Handed Axe}
+          +10 {Baldur's Shortbow}
+          +10 {Baldur's Chisel}
+          +10 {Baldur's War Staff}
+          +10 {Baldur's Spell Dagger}
         Rewards:
           Item: 30x Enchant Protectant
           Permanent Buff: DEF +10
 
 [ ] = Shine, Relic of Acubens 1 =
         Requirements:
-          +10 Acubens's Greatsword
-          +10 Acubens's Sword
-          +10 Acubens's Bow
-          +10 Acubens's Dagger
-          +10 Acubens's Staff
-          +10 Acubens's Magic Shield
+          +10 {Acubens's Greatsword}
+          +10 {Acubens's Sword}
+          +10 {Acubens's Bow}
+          +10 {Acubens's Dagger}
+          +10 {Acubens's Staff}
+          +10 {Acubens's Magic Shield}
         Rewards:
           Item: 30x Enchant Protectant
           Permanent Buff: ATK +7
 
 [ ] = Shine, Relic of Acubens 2 =
         Requirements:
-          +10 Acubens's Two-Handed Axe
-          +10 Acubens's Mace
-          +10 Acubens's Shortbow
-          +10 Acubens's Chisel
-          +10 Acubens's War Staff
-          +10 Acubens's Spell Dagger
+          +10 {Acubens's Two-Handed Axe}
+          +10 {Acubens's Mace}
+          +10 {Acubens's Shortbow}
+          +10 {Acubens's Chisel}
+          +10 {Acubens's War Staff}
+          +10 {Acubens's Spell Dagger}
         Rewards:
           Item: 30x Enchant Protectant
           Permanent Buff: DEF +10
@@ -439,306 +440,306 @@ check off sections in the box as you complete them.
   == Monster: Chapter 1 ==
 [ ] = Novice's Friend Forever 1 =
         Requirements:
-          100x Common Rabbit Card
-          100x Common Squirrel Card
-          100x Common Deer Card
-          100x Common Badger Card
-          100x Common Fox Card
+          100x {Common Rabbit Card}
+          100x {Common Squirrel Card}
+          100x {Common Deer Card}
+          100x {Common Badger Card}
+          100x {Common Fox Card}
         Rewards:
           Permanent Buff: Max HP +4
 
 [ ] = Novice's Friend Forever 2 =
         Requirements:
-          25x Quality Rabbit Card
-          25x Quality Squirrel Card
-          25x Quality Deer Card
-          25x Quality Badger Card
-          5x Yivee Card
+          25x {Quality Rabbit Card}
+          25x {Quality Squirrel Card}
+          25x {Quality Deer Card}
+          25x {Quality Badger Card}
+          5x {Yivee Card}
         Rewards:
           Permanent Buff: Max HP +5
 
 [ ] = Master of Rabbit Hunt =
         Requirements:
-          100x Common Rabbit Card
-          30x Quality Rabbit Card
+          100x {Common Rabbit Card}
+          30x {Quality Rabbit Card}
         Rewards:
           Permanent Buff: Max MP +5
 
 [ ] = Master of Boar Hunt =
         Requirements:
-          100x Common Boar Card
-          30x Quality Boar Card
+          100x {Common Boar Card}
+          30x {Quality Boar Card}
         Rewards:
           Permanent Buff: Max HP +5
 
 [ ] = Master of Slimer Hunt =
         Requirements:
-          100x Common Slimer Card
-          30x Quality Slimer Card
+          100x {Common Slimer Card}
+          30x {Quality Slimer Card}
         Rewards:
           Permanent Buff: Max MP +5
 
 [ ] = Master of Wolf Hunt =
         Requirements:
-          100x Common Wolf Card
-          30x Quality Wolf Card
-          10x Rare Wolf Card
+          100x {Common Wolf Card}
+          30x {Quality Wolf Card}
+          10x {Rare Wolf Card}
         Rewards:
           Permanent Buff: Max MP +5
 
 [ ] = Master of Basilisk Hunt =
         Requirements:
-          100x Common Basilisk Card
-          30x Quality Basilisk Card
-          10x Rare Basilisk Card
-          5x Venomous Basilisk Card
+          100x {Common Basilisk Card}
+          30x {Quality Basilisk Card}
+          10x {Rare Basilisk Card}
+          5x {Venomous Basilisk Card}
         Rewards:
           Permanent Buff: Max HP +5
 
 [ ] = Master of Spider Hunt =
         Requirements:
-          100x Common Spider Card
-          30x Quality Spider Card
-          10x Rare Spider Card
+          100x {Common Spider Card}
+          30x {Quality Spider Card}
+          10x {Rare Spider Card}
         Rewards:
           Permanent Buff: Max MP +5
 
 [ ] = Master of Goblin Hunt =
         Requirements:
-          100x Common Goblin Card
-          30x Quality Goblin Card
-          10x Rare Goblin Card
+          100x {Common Goblin Card}
+          30x {Quality Goblin Card}
+          10x {Rare Goblin Card}
         Rewards:
           Permanent Buff: Max MP +5
 
 [ ] = Pest Extermination 1 =
         Requirements:
-          100x Common Bug Card
-          100x Common Spider Card
-          100x Common Moth Card
-          100x Common Wormie Card
-          100x Common Ant Card
+          100x {Common Bug Card}
+          100x {Common Spider Card}
+          100x {Common Moth Card}
+          100x {Common Wormie Card}
+          100x {Common Ant Card}
         Rewards:
           Permanent Buff: ACC +3
 
 [ ] = Pest Extermination 2 =
         Requirements:
-          30x Quality Bug Card
-          30x Quality Spider Card
-          30x Quality Moth Card
-          30x Quality Wormie Card
-          25x Quality Ant Card
+          30x {Quality Bug Card}
+          30x {Quality Spider Card}
+          30x {Quality Moth Card}
+          30x {Quality Wormie Card}
+          25x {Quality Ant Card}
         Rewards:
           Permanent Buff: ACC +4
 
 [ ] = Ghost Chaser 1 =
         Requirements:
-          100x Common Ghost Card
-          100x Common Eye Buoy Card
-          100x Common Dullahan Card
-          100x Common Skeleton Card
+          100x {Common Ghost Card}
+          100x {Common Eye Buoy Card}
+          100x {Common Dullahan Card}
+          100x {Common Skeleton Card}
         Rewards:
           Permanent Buff: ACC +3
 
 [ ] = Ghost Chaser 2 =
         Requirements:
-          30x Quality Ghost Card
-          30x Quality Eye Buoy Card
-          30x Quality Dullahan Card
-          30x Quality Skeleton Card
+          30x {Quality Ghost Card}
+          30x {Quality Eye Buoy Card}
+          30x {Quality Dullahan Card}
+          30x {Quality Skeleton Card}
         Rewards:
           Permanent Buff: ACC +4
 
 [ ] = Call of Spirit 1 =
         Requirements:
-          100x Common Flame Spirit Card
-          100x Common Frost Spirit Card
-          100x Common Poison Spirit Card
-          100x Common Lightning Spirit Card
-          100x Common Sand Spirit Card
-          100x Common Stone Spirit Card
+          100x {Common Flame Spirit Card}
+          100x {Common Frost Spirit Card}
+          100x {Common Poison Spirit Card}
+          100x {Common Lightning Spirit Card}
+          100x {Common Sand Spirit Card}
+          100x {Common Stone Spirit Card}
         Rewards:
           Permanent Buff: ATK +2
 
 [ ] = Call of Spirit 2 =
         Requirements:
-          25x Quality Flame Spirit Card
-          25x Quality Frost Spirit Card
-          25x Quality Poison Spirit Card
-          25x Quality Lightning Spirit Card
-          25x Quality Sand Spirit Card
-          25x Quality Stone Spirit Card
+          25x {Quality Flame Spirit Card}
+          25x {Quality Frost Spirit Card}
+          25x {Quality Poison Spirit Card}
+          25x {Quality Lightning Spirit Card}
+          25x {Quality Sand Spirit Card}
+          25x {Quality Stone Spirit Card}
         Rewards:
           Permanent Buff: ATK +3
 
 [ ] = Woof! 1 =
         Requirements:
-          100x Common Wolf Card
-          100x Common Coyote Card
-          100x Common Hound Card
-          100x Common Barghest Card
+          100x {Common Wolf Card}
+          100x {Common Coyote Card}
+          100x {Common Hound Card}
+          100x {Common Barghest Card}
         Rewards:
           Permanent Buff: ACC +3
 
 [ ] = Woof! 2 =
         Requirements:
-          30x Quality Wolf Card
-          30x Quality Coyote Card
-          30x Quality Hound Card
-          30x Quality Barghest Card
+          30x {Quality Wolf Card}
+          30x {Quality Coyote Card}
+          30x {Quality Hound Card}
+          30x {Quality Barghest Card}
         Rewards:
           Permanent Buff: ACC +4
 
 [ ] = Sting like a Bee, Fly like a Butterfly 1 =
         Requirements:
-          120x Common Moth Card
-          120x Common Bee Card
+          120x {Common Moth Card}
+          120x {Common Bee Card}
         Rewards:
           Permanent Buff: Max HP +4
 
 [ ] = Sting like a Bee, Fly like a Butterfly 2 =
         Requirements:
-          50x Quality Moth Card
-          50x Quality Bee Card
+          50x {Quality Moth Card}
+          50x {Quality Bee Card}
         Rewards:
           Permanent Buff: Max HP +5
 
 [ ] = Scary Gang 1 =
         Requirements:
-          100x Common Mejai Soldiers Card
-          100x Common Poacher Card
-          100x Common Freya Brethren Card
-          100x Common Assassins Card
+          100x {Common Mejai Soldiers Card}
+          100x {Common Poacher Card}
+          100x {Common Freya Brethren Card}
+          100x {Common Assassins Card}
         Rewards:
           Permanent Buff: ATK +2
 
 [ ] = Scary Gang 2 =
         Requirements:
-          30x Quality Mejai Soldiers Card
-          30x Quality Poacher Card
-          30x Quality Freya Brethren Card
-          30x Quality Assassins Card
+          30x {Quality Mejai Soldiers Card}
+          30x {Quality Poacher Card}
+          30x {Quality Freya Brethren Card}
+          30x {Quality Assassins Card}
         Rewards:
           Permanent Buff: ATK +3
 
 [ ] = Infamous Water Creature 1 =
         Requirements:
-          100x Common Naga Card
-          100x Common Creepo Card
-          100x Common Dragon Turtle Card
-          100x Common Crab Card
+          100x {Common Naga Card}
+          100x {Common Creepo Card}
+          100x {Common Dragon Turtle Card}
+          100x {Common Crab Card}
         Rewards:
           Permanent Buff: Max HP +3
 
 [ ] = Infamous Water Creature 2 =
         Requirements:
-          30x Quality Naga Card
-          30x Quality Creepo Card
-          30x Quality Dragon Turtle Card
-          30x Quality Crab Card
+          30x {Quality Naga Card}
+          30x {Quality Creepo Card}
+          30x {Quality Dragon Turtle Card}
+          30x {Quality Crab Card}
         Rewards:
           Permanent Buff: Max HP +4
 
 [ ] = Beware the Bear 1 =
         Requirements:
-          60x Common Owlbear Card
-          60x Common Bear Card
-          60x Common Bugbear Card
-          15x Quality Owlbear Card
-          15x Quality Bear Card
-          15x Quality Bugbear Card
+          60x {Common Owlbear Card}
+          60x {Common Bear Card}
+          60x {Common Bugbear Card}
+          15x {Quality Owlbear Card}
+          15x {Quality Bear Card}
+          15x {Quality Bugbear Card}
         Rewards:
           Permanent Buff: Max HP +5
 
 [ ] = Artificial Creatures 1 =
         Requirements:
-          100x Common Puppet Card
-          100x Common Golem Card
+          100x {Common Puppet Card}
+          100x {Common Golem Card}
         Rewards:
           Permanent Buff: ACC +3
 
 [ ] = Artificial Creatures 2 =
         Requirements:
-          50x Quality Puppet Card
-          50x Quality Golem Card
+          50x {Quality Puppet Card}
+          50x {Quality Golem Card}
         Rewards:
           Permanent Buff: ACC +4
 
 [ ] = The Devil 1 =
         Requirements:
-          100x Common Black Undead Clan Card
-          100x Common Satyr Card
+          100x {Common Black Undead Clan Card}
+          100x {Common Satyr Card}
         Rewards:
           Permanent Buff: ACC +3
 
 [ ] = The Devil 2 =
         Requirements:
-          50x Quality Black Undead Clan Card
-          50x Quality Satyr Card
+          50x {Quality Black Undead Clan Card}
+          50x {Quality Satyr Card}
         Rewards:
           Permanent Buff: ACC +4
 
 [ ] = Upright Beasts 1 =
         Requirements:
-          30x Common Hound Card
-          30x Common Carmellian Card
-          30x Common Gnoll Card
-          30x Common Anthro Card
+          30x {Common Hound Card}
+          30x {Common Carmellian Card}
+          30x {Common Gnoll Card}
+          30x {Common Anthro Card}
         Rewards:
           Permanent Buff: Max HP +6
 
 [ ] = Upright Beasts 2 =
         Requirements:
-          50x Quality Hound Card
-          50x Quality Carmellian Card
-          50x Quality Gnoll Card
-          50x Quality Anthro Card
-          10x Roshu Card
+          50x {Quality Hound Card}
+          50x {Quality Carmellian Card}
+          50x {Quality Gnoll Card}
+          50x {Quality Anthro Card}
+          10x {Roshu Card}
         Rewards:
           Permanent Buff: ATK +3
 
 [ ] = Other Upright Beasts 1 =
         Requirements:
-          30x Common Meerkat Card
-          30x Common Lizardman Card
-          30x Common Kobold Card
-          30x Common Lycan Card
+          30x {Common Meerkat Card}
+          30x {Common Lizardman Card}
+          30x {Common Kobold Card}
+          30x {Common Lycan Card}
         Rewards:
           Permanent Buff: Max HP +6
 
 [ ] = Other Upright Beasts 2 =
         Requirements:
-          50x Quality Meerkat Card
-          50x Quality Lizardman Card
-          50x Quality Kobold Card
-          50x Quality Lycan Card
-          10x Laposha Card
+          50x {Quality Meerkat Card}
+          50x {Quality Lizardman Card}
+          50x {Quality Kobold Card}
+          50x {Quality Lycan Card}
+          10x {Laposha Card}
         Rewards:
           Permanent Buff: ATK +3
 
 [ ] = Three Ugly Siblings 1 =
         Requirements:
-          30x Quality Orc Card
-          30x Quality Goblin Card
-          30x Quality Troll Card
+          30x {Quality Orc Card}
+          30x {Quality Goblin Card}
+          30x {Quality Troll Card}
         Rewards:
           Permanent Buff: ACC +4
 
 [ ] = Agh! You Surprised Me! 1 =
         Requirements:
-          100x Common Dwarf Card
-          50x Quality Dwarf Card
-          100x Common Goblin Card
-          50x Quality Goblin Card
+          100x {Common Dwarf Card}
+          50x {Quality Dwarf Card}
+          100x {Common Goblin Card}
+          50x {Quality Goblin Card}
         Rewards:
           Permanent Buff: ACC +4
 
 [ ] = Be My Eyes 1 =
         Requirements:
-          100x Common Dullahan Card
-          100x Common Eye Buoy Card
-          50x Quality Dullahan Card
-          50x Quality Eye Buoy Card
+          100x {Common Dullahan Card}
+          100x {Common Eye Buoy Card}
+          50x {Quality Dullahan Card}
+          50x {Quality Eye Buoy Card}
         Rewards:
           Permanent Buff: Max HP +6
 
@@ -746,232 +747,232 @@ check off sections in the box as you complete them.
   == Monster: Chapter 2 ==
 [ ] = Call of Spirit 3 =
         Requirements:
-          10x Rare Flame Spirit Card
-          10x Rare Frost Spirit Card
-          10x Rare Poison Spirit Card
-          10x Rare Lightning Spirit Card
-          10x Rare Sand Spirit Card
-          10x Rare Stone Spirit Card
+          10x {Rare Flame Spirit Card}
+          10x {Rare Frost Spirit Card}
+          10x {Rare Poison Spirit Card}
+          10x {Rare Lightning Spirit Card}
+          10x {Rare Sand Spirit Card}
+          10x {Rare Stone Spirit Card}
         Rewards:
           Permanent Buff: ATK +5
 
 [ ] = Three Ugly Siblings 2 =
         Requirements:
-          15x Rare Orc Card
-          15x Rare Goblin Card
-          15x Rare Troll Card
+          15x {Rare Orc Card}
+          15x {Rare Goblin Card}
+          15x {Rare Troll Card}
         Rewards:
           Permanent Buff: Max HP +7
 
 [ ] = Master of Assassin Hunt =
         Requirements:
-          100x Common Assassins Card
-          50x Quality Assassins Card
-          20x Rare Assassins Card
-          10x Harvy Card
+          100x {Common Assassins Card}
+          50x {Quality Assassins Card}
+          20x {Rare Assassins Card}
+          10x {Harvy Card}
         Rewards:
           Permanent Buff: ACC +5
 
 [ ] = Master of Lycan Hunt =
         Requirements:
-          100x Common Lycan Card
-          50x Quality Lycan Card
-          20x Rare Lycan Card
-          10x Raja Card
+          100x {Common Lycan Card}
+          50x {Quality Lycan Card}
+          20x {Rare Lycan Card}
+          10x {Raja Card}
         Rewards:
           Permanent Buff: Max HP +8
 
 [ ] = Master of Orc Hunt =
         Requirements:
-          100x Common Orc Card
-          50x Quality Orc Card
-          20x Rare Orc Card
-          10x Baquenchie Card
+          100x {Common Orc Card}
+          50x {Quality Orc Card}
+          20x {Rare Orc Card}
+          10x {Baquenchie Card}
         Rewards:
           Permanent Buff: Max HP +8
 
 [ ] = Scary Gang 3 =
         Requirements:
-          20x Rare Mejai Soldiers Card
-          20x Rare Poacher Card
-          20x Rare Freya Brethren Card
-          20x Rare Assassins Card
+          20x {Rare Mejai Soldiers Card}
+          20x {Rare Poacher Card}
+          20x {Rare Freya Brethren Card}
+          20x {Rare Assassins Card}
         Rewards:
           Permanent Buff: ACC +6
 
 [ ] = Infamous Water Creature 3 =
         Requirements:
-          20x Rare Naga Card
-          20x Rare Creepo Card
-          20x Rare Dragon Turtle Card
-          20x Rare Crab Card
+          20x {Rare Naga Card}
+          20x {Rare Creepo Card}
+          20x {Rare Dragon Turtle Card}
+          20x {Rare Crab Card}
         Rewards:
           Permanent Buff: ACC +6
 
 [ ] = Beware the Bear 2 =
         Requirements:
-          25x Rare Owlbear Card
-          25x Rare Bear Card
-          25x Rare Bugbear Card
+          25x {Rare Owlbear Card}
+          25x {Rare Bear Card}
+          25x {Rare Bugbear Card}
         Rewards:
           Permanent Buff: ACC +6
 
 [ ] = Be My Eyes 2 =
         Requirements:
-          25x Rare Dullahan Card
-          25x Rare Eye Buoy Card
+          25x {Rare Dullahan Card}
+          25x {Rare Eye Buoy Card}
         Rewards:
           Permanent Buff: ACC +5
 
 [ ] = Ghost Chaser 3 =
         Requirements:
-          25x Rare Ghost Card
-          25x Rare Eye Buoy Card
-          25x Rare Dullahan Card
-          25x Rare Skeleton Card
-          5x Lich Shire Card
+          25x {Rare Ghost Card}
+          25x {Rare Eye Buoy Card}
+          25x {Rare Dullahan Card}
+          25x {Rare Skeleton Card}
+          5x {Lich Shire Card}
         Rewards:
           Permanent Buff: ATK +6
 
 [ ] = Woof! 3 =
         Requirements:
-          25x Rare Wolf Card
-          25x Rare Hound Card
-          25x Rare Barghest Card
-          10x Cerberus Card
+          25x {Rare Wolf Card}
+          25x {Rare Hound Card}
+          25x {Rare Barghest Card}
+          10x {Cerberus Card}
         Rewards:
           Permanent Buff: Max HP +8
 
 [ ] = Pest Extermination 3 =
         Requirements:
-          25x Rare Bug Card
-          25x Rare Spider Card
-          25x Rare Moth Card
-          25x Rare Wormie Card
-          25x Rare Ant Card
-          10x Mirv Card
+          25x {Rare Bug Card}
+          25x {Rare Spider Card}
+          25x {Rare Moth Card}
+          25x {Rare Wormie Card}
+          25x {Rare Ant Card}
+          10x {Mirv Card}
         Rewards:
           Permanent Buff: ATK +6
 
 [ ] = Upright Beasts 3 =
         Requirements:
-          50x Rare Hound Card
-          50x Rare Carmellian Card
-          50x Rare Gnoll Card
-          50x Rare Anthro Card
-          10x Roshu Card
+          50x {Rare Hound Card}
+          50x {Rare Carmellian Card}
+          50x {Rare Gnoll Card}
+          50x {Rare Anthro Card}
+          10x {Roshu Card}
         Rewards:
           Permanent Buff: ATK +5
 
 [ ] = Other Upright Beasts 3 =
         Requirements:
-          50x Rare Meerkat Card
-          50x Rare Lizardman Card
-          50x Rare Kobold Card
-          50x Rare Lycan Card
-          10x Laposha Card
+          50x {Rare Meerkat Card}
+          50x {Rare Lizardman Card}
+          50x {Rare Kobold Card}
+          50x {Rare Lycan Card}
+          10x {Laposha Card}
         Rewards:
           Permanent Buff: ACC +6
 
 [ ] = Three Lizardmen =
         Requirements:
-          10x Shakki Card
-          10x Laposha Card
-          10x Arkrasha Card
+          10x {Shakki Card}
+          10x {Laposha Card}
+          10x {Arkrasha Card}
         Rewards:
           Permanent Buff: Max HP +10
 
 [ ] = The Skin is Nearer than the Shirt =
         Requirements:
-          50x Quality Crab Card
-          50x Quality Scorpion Card
-          10x Desert Predator Card
+          50x {Quality Crab Card}
+          50x {Quality Scorpion Card}
+          10x {Desert Predator Card}
         Rewards:
           Permanent Buff: Max HP +8
 
 [ ] = Agh! You Surprised Me! 2 =
         Requirements:
-          25x Rare Dwarf Card
-          25x Rare Goblin Card
-          10x Osbourne Card
-          10x Frost Goblin Card
+          25x {Rare Dwarf Card}
+          25x {Rare Goblin Card}
+          10x {Osbourne Card}
+          10x {Frost Goblin Card}
         Rewards:
           Permanent Buff: ACC +6
 
 [ ] = A Hen Into the Wild =
         Requirements:
-          60x Quality Harpy Card
-          60x Quality Fowl Card
-          60x Cockatrice Card
+          60x {Quality Harpy Card}
+          60x {Quality Fowl Card}
+          60x {Cockatrice Card}
         Rewards:
           Permanent Buff: Max HP +8
 
 [ ] = Hard as a Rock 1 =
         Requirements:
-          100x Common Dragon Turtle Card
-          100x Common Golem Card
-          100x Common Stone Spirit Card
-          15x Arcadia Card
+          100x {Common Dragon Turtle Card}
+          100x {Common Golem Card}
+          100x {Common Stone Spirit Card}
+          15x {Arcadia Card}
         Rewards:
           Permanent Buff: Max HP +8
 
 [ ] = Artificial Creatures 3 =
         Requirements:
-          50x Rare Puppet Card
-          50x Rare Golem Card
-          50x Lesser Brawler Dummy Card
+          50x {Rare Puppet Card}
+          50x {Rare Golem Card}
+          50x {Lesser Brawler Dummy Card}
         Rewards:
           Permanent Buff: Max HP +8
 
 [ ] = The Devil 3 =
         Requirements:
-          50x Rare Black Undead Clan Card
-          50x Rare Satyr Card
-          10x Baphomet Card
+          50x {Rare Black Undead Clan Card}
+          50x {Rare Satyr Card}
+          10x {Baphomet Card}
         Rewards:
           Permanent Buff: Max HP +8
 
 [ ] = Bonesetter's Clinic =
         Requirements:
-          50x Rare Skeleton Card
-          15x Mogsy Card
-          15x Royan Card
-          15x Von Hawk Card
-          15x Elekh Card
+          50x {Rare Skeleton Card}
+          15x {Mogsy Card}
+          15x {Royan Card}
+          15x {Von Hawk Card}
+          15x {Elekh Card}
         Rewards:
           Permanent Buff: ATK +6
 
 [ ] = I'm a Dragon, Too! 1 =
         Requirements:
-          100x Common Lindworm Card
-          100x Common Dragon Turtle Card
-          10x Wyvern Card
+          100x {Common Lindworm Card}
+          100x {Common Dragon Turtle Card}
+          10x {Wyvern Card}
         Rewards:
           Permanent Buff: Max HP +12
 
 [ ] = I'm a Dragon, Too! 2 =
         Requirements:
-          60x Quality Lindworm Card
-          60x Quality Dragon Turtle Card
-          10x Drake Card
+          60x {Quality Lindworm Card}
+          60x {Quality Dragon Turtle Card}
+          10x {Drake Card}
         Rewards:
           Permanent Buff: Max MP +8
 
 [ ] = Reptiles =
         Requirements:
-          60x Quality Lizardman Card
-          60x Quality Basilisk Card
-          60x Quality Dragon Turtle Card
-          10x Venomous Basilisk Card
-          5x Kamosha Card
+          60x {Quality Lizardman Card}
+          60x {Quality Basilisk Card}
+          60x {Quality Dragon Turtle Card}
+          10x {Venomous Basilisk Card}
+          5x {Kamosha Card}
         Rewards:
           Permanent Buff: Max HP +12
 
 [ ] = Taming a Devil Dog =
         Requirements:
-          20x Roshu Card
-          20x Raja Card
-          20x Cerberus Card
+          20x {Roshu Card}
+          20x {Raja Card}
+          20x {Cerberus Card}
         Rewards:
           Permanent Buff: Max MP +8
 
@@ -979,163 +980,163 @@ check off sections in the box as you complete them.
   == Monster: Chapter 3 ==
 [ ] = Pest Extermination 4 =
         Requirements:
-          15x Mirv Card
-          10x Thorciasid Card
-          10x Ripley Card
+          15x {Mirv Card}
+          10x {Thorciasid Card}
+          10x {Ripley Card}
         Rewards:
           Permanent Buff: Max HP +25
 
 [ ] = Big Lizardman Family =
         Requirements:
-          50x Rare Lizardman Card
-          10x Shakki Card
-          10x Laposha Card
-          10x Arkrasha Card
-          10x Kamosha Card
+          50x {Rare Lizardman Card}
+          10x {Shakki Card}
+          10x {Laposha Card}
+          10x {Arkrasha Card}
+          10x {Kamosha Card}
         Rewards:
           Permanent Buff: ATK +8
 
 [ ] = Hard as a Rock 2 =
         Requirements:
-          60x Quality Dragon Turtle Card
-          60x Quality Golem Card
-          60x Quality Stone Spirit Card
-          10x Vargod Card
+          60x {Quality Dragon Turtle Card}
+          60x {Quality Golem Card}
+          60x {Quality Stone Spirit Card}
+          10x {Vargod Card}
         Rewards:
           Permanent Buff: ACC +10
 
 [ ] = Hard as a Rock 3 =
         Requirements:
-          30x Rare Dragon Turtle Card
-          30x Rare Golem Card
-          30x Rare Stone Spirit Card
-          5x Cheul Card
+          30x {Rare Dragon Turtle Card}
+          30x {Rare Golem Card}
+          30x {Rare Stone Spirit Card}
+          5x {Cheul Card}
         Rewards:
           Permanent Buff: ATK +15
 
 [ ] = I'm a Dragon, Too! 3 =
         Requirements:
-          30x Rare Lindworm Card
-          30x Rare Dragon Turtle Card
-          5x Cariph Card
+          30x {Rare Lindworm Card}
+          30x {Rare Dragon Turtle Card}
+          5x {Cariph Card}
         Rewards:
           Permanent Buff: ATK +15
 
 [ ] = Protecting Nature =
         Requirements:
-          25x Rare Lightning Struck Tree Card
-          25x Rare Treant Card
-          10x Oren Card
+          25x {Rare Lightning Struck Tree Card}
+          25x {Rare Treant Card}
+          10x {Oren Card}
         Rewards:
           Permanent Buff: Max HP +30
 
 [ ] = I'm Upset! =
         Requirements:
-          10x Baphomet Card
-          10x Baphmetus Card
-          5x Tiras Card
+          10x {Baphomet Card}
+          10x {Baphmetus Card}
+          5x {Tiras Card}
         Rewards:
           Permanent Buff: ATK +15
 
 [ ] = Three Naga Leaders =
         Requirements:
-          15x Valakeya Card
-          15x Kalakeya Card
-          10x Adisha Card
+          15x {Valakeya Card}
+          15x {Kalakeya Card}
+          10x {Adisha Card}
         Rewards:
           Permanent Buff: ACC +10
 
 [ ] = The Bear and its Friends 1 =
         Requirements:
-          100x Common Bear Card
-          50x Quality Bear Card
-          50x Quality Assassins Card
-          50x Quality Poacher Card
-          50x Quality Goblin Card
+          100x {Common Bear Card}
+          50x {Quality Bear Card}
+          50x {Quality Assassins Card}
+          50x {Quality Poacher Card}
+          50x {Quality Goblin Card}
         Rewards:
           Permanent Buff: Max HP +6
 
 [ ] = The Bear and its Friends 2 =
         Requirements:
-          50x Quality Owlbear Card
-          50x Quality Bugbear Card
-          30x Rare Assassins Card
-          30x Rare Poacher Card
-          30x Rare Goblin Card
+          50x {Quality Owlbear Card}
+          50x {Quality Bugbear Card}
+          30x {Rare Assassins Card}
+          30x {Rare Poacher Card}
+          30x {Rare Goblin Card}
         Rewards:
           Permanent Buff: Max HP +7
 
 [ ] = The Bear and its Friends 3 =
         Requirements:
-          30x Rare Owlbear Card
-          30x Rare Bugbear Card
-          20x Harvy Card
-          20x Krieg Card
-          20x Osbourne Card
+          30x {Rare Owlbear Card}
+          30x {Rare Bugbear Card}
+          20x {Harvy Card}
+          20x {Krieg Card}
+          20x {Osbourne Card}
         Rewards:
           Permanent Buff: Max HP +8
 
 [ ] = Can You Crush It? 1 =
         Requirements:
-          100x Common Creepo Card
-          50x Quality Creepo Card
-          100x Common Golem Card
-          50x Quality Golem Card
+          100x {Common Creepo Card}
+          50x {Quality Creepo Card}
+          100x {Common Golem Card}
+          50x {Quality Golem Card}
         Rewards:
           Permanent Buff: DEF +2
 
 [ ] = Can You Crush It? 2 =
         Requirements:
-          30x Rare Creepo Card
-          30x Rare Golem Card
-          10x Arcadia Card
+          30x {Rare Creepo Card}
+          30x {Rare Golem Card}
+          10x {Arcadia Card}
         Rewards:
           Permanent Buff: DEF +3
 
 [ ] = Smart Enemy 1 =
         Requirements:
-          100x Common Fowl Card
-          100x Common Hound Card
-          50x Quality Hound Card
-          100x Common Lycan Card
-          50x Quality Lycan Card
+          100x {Common Fowl Card}
+          100x {Common Hound Card}
+          50x {Quality Hound Card}
+          100x {Common Lycan Card}
+          50x {Quality Lycan Card}
         Rewards:
           Permanent Buff: EVD +2
 
 [ ] = Smart Enemy 2 =
         Requirements:
-          50x Quality Fowl Card
-          30x Rare Lycan Card
-          20x Roshu Card
-          20x Raja Card
+          50x {Quality Fowl Card}
+          30x {Rare Lycan Card}
+          20x {Roshu Card}
+          20x {Raja Card}
         Rewards:
           Permanent Buff: EVD +3
 
 [ ] = Buff Guys 1 =
         Requirements:
-          100x Common Ogre Card
-          50x Quality Ogre Card
-          30x Rare Ogre Card
-          20x Cyclops Card
+          100x {Common Ogre Card}
+          50x {Quality Ogre Card}
+          30x {Rare Ogre Card}
+          20x {Cyclops Card}
         Rewards:
           Permanent Buff: Max HP +8
 
 [ ] = Buff Guys 2 =
         Requirements:
-          100x Common Minotaur Card
-          50x Quality Minotaur Card
-          30x Rare Minotaur Card
-          20x Girallon Card
+          100x {Common Minotaur Card}
+          50x {Quality Minotaur Card}
+          30x {Rare Minotaur Card}
+          20x {Girallon Card}
         Rewards:
           Permanent Buff: Max HP +9
 
 [ ] = Buff Guys 3 =
         Requirements:
-          100x Common Anthro Card
-          50x Quality Anthro Card
-          30x Rare Anthro Card
-          20x Shaluka Card
-          10x Dekhar Card
+          100x {Common Anthro Card}
+          50x {Quality Anthro Card}
+          30x {Rare Anthro Card}
+          20x {Shaluka Card}
+          10x {Dekhar Card}
         Rewards:
           Permanent Buff: Max HP +10
 
@@ -1144,141 +1145,141 @@ check off sections in the box as you complete them.
   == Sculpture: Chapter 1 ==
 [ ] = Give Me a Star, Angel 1 =
         Requirements:
-          Radiant Star Sculpture
-          Angel Wings Sculpture
+          {Radiant Star Sculpture}
+          {Angel Wings Sculpture}
         Rewards:
           Permanent Buff: Max HP +5
 
 [ ] = Give Me a Star, Angel 2 =
         Requirements:
-          Fine Radiant Star Sculpture
-          Fine Angel Wings Sculpture
+          {Fine Radiant Star Sculpture}
+          {Fine Angel Wings Sculpture}
         Rewards:
           Permanent Buff: Max HP +6
 
 [ ] = Give Me a Star, Angel 3 =
         Requirements:
-          Superb Radiant Star Sculpture
-          Superb Angel Wings Sculpture
+          {Superb Radiant Star Sculpture}
+          {Superb Angel Wings Sculpture}
         Rewards:
           Permanent Buff: Max HP +7
 
 [ ] = Give Me a Star, Angel 4 =
         Requirements:
-          Masterpiece Radiant Star Sculpture
-          Masterpiece Angel Wings Sculpture
+          {Masterpiece Radiant Star Sculpture}
+          {Masterpiece Angel Wings Sculpture}
         Rewards:
           Permanent Buff: Max HP +8
 
 [ ] = The Rabbit Who Yearns for the Moon 1 =
         Requirements:
-          Delicate Crescent Moon Sculpture
-          Running Rabbit Sculpture
+          {Delicate Crescent Moon Sculpture}
+          {Running Rabbit Sculpture}
         Rewards:
           Permanent Buff: DEF +3
 
 [ ] = The Rabbit Who Yearns for the Moon 2 =
         Requirements:
-          Fine Delicate Crescent Moon Sculpture
-          Fine Running Rabbit Sculpture
+          {Fine Delicate Crescent Moon Sculpture}
+          {Fine Running Rabbit Sculpture}
         Rewards:
           Permanent Buff: DEF +4
 
 [ ] = The Rabbit Who Yearns for the Moon 3 =
         Requirements:
-          Superb Delicate Crescent Moon Sculpture
-          Superb Running Rabbit Sculpture
+          {Superb Delicate Crescent Moon Sculpture}
+          {Superb Running Rabbit Sculpture}
         Rewards:
           Permanent Buff: DEF +5
 
 [ ] = The Rabbit Who Yearns for the Moon 4 =
         Requirements:
-          Masterpiece Delicate Crescent Moon Sculpture
-          Masterpiece Running Rabbit Sculpture
+          {Masterpiece Delicate Crescent Moon Sculpture}
+          {Masterpiece Running Rabbit Sculpture}
         Rewards:
           Permanent Buff: DEF +6
 
 [ ] = Bad News Travels Fast 1 =
         Requirements:
-          Horse Sculpture
-          Winged Shoes Sculpture
+          {Horse Sculpture}
+          {Winged Shoes Sculpture}
         Rewards:
           Permanent Buff: DEF +3
 
 [ ] = Bad News Travels Fast 2 =
         Requirements:
-          Fine Horse Sculpture
-          Fine Winged Shoes Sculpture
+          {Fine Horse Sculpture}
+          {Fine Winged Shoes Sculpture}
         Rewards:
           Permanent Buff: DEF +4
 
 [ ] = Bad News Travels Fast 3 =
         Requirements:
-          Superb Horse Sculpture
-          Superb Winged Shoes Sculpture
+          {Superb Horse Sculpture}
+          {Superb Winged Shoes Sculpture}
         Rewards:
           Permanent Buff: DEF +5
 
 [ ] = Bad News Travels Fast 4 =
         Requirements:
-          Masterpiece Horse Sculpture
-          Masterpiece Winged Shoes Sculpture
+          {Masterpiece Horse Sculpture}
+          {Masterpiece Winged Shoes Sculpture}
         Rewards:
           Permanent Buff: DEF +6
 
 [ ] = Patience is a Virtue 1 =
         Requirements:
-          Sculpture of Patience
-          Silent Sage Sculpture
+          {Sculpture of Patience}
+          {Silent Sage Sculpture}
         Rewards:
           Permanent Buff: Max MP +3
 
 [ ] = Patience is a Virtue 2 =
         Requirements:
-          Fine Sculpture of Patience
-          Fine Silent Sage Sculpture
+          {Fine Sculpture of Patience}
+          {Fine Silent Sage Sculpture}
         Rewards:
           Permanent Buff: Max MP +4
 
 [ ] = Patience is a Virtue 3 =
         Requirements:
-          Superb Sculpture of Patience
-          Superb Silent Sage Sculpture
+          {Superb Sculpture of Patience}
+          {Superb Silent Sage Sculpture}
         Rewards:
           Permanent Buff: Max MP +5
 
 [ ] = Patience is a Virtue 4 =
         Requirements:
-          Masterpiece Sculpture of Patience
-          Masterpiece Silent Sage Sculpture
+          {Masterpiece Sculpture of Patience}
+          {Masterpiece Silent Sage Sculpture}
         Rewards:
           Permanent Buff: Max MP +6
 
 [ ] = Rise and Shine 1 =
         Requirements:
-          Brent Native Fowl Sculpture
-          Sleeping Boy Sculpture
+          {Brent Native Fowl Sculpture}
+          {Sleeping Boy Sculpture}
         Rewards:
           Permanent Buff: DEF +3
 
 [ ] = Rise and Shine 2 =
         Requirements:
-          Fine Brent Native Fowl Sculpture
-          Fine Sleeping Boy Sculpture
+          {Fine Brent Native Fowl Sculpture}
+          {Fine Sleeping Boy Sculpture}
         Rewards:
           Permanent Buff: DEF +4
 
 [ ] = Rise and Shine 3 =
         Requirements:
-          Superb Brent Native Fowl Sculpture
-          Superb Sleeping Boy Sculpture
+          {Superb Brent Native Fowl Sculpture}
+          {Superb Sleeping Boy Sculpture}
         Rewards:
           Permanent Buff: DEF +5
 
 [ ] = Rise and Shine 4 =
         Requirements:
-          Masterpiece Brent Native Fowl Sculpture
-          Masterpiece Sleeping Boy Sculpture
+          {Masterpiece Brent Native Fowl Sculpture}
+          {Masterpiece Sleeping Boy Sculpture}
         Rewards:
           Permanent Buff: DEF +6
 
@@ -1286,161 +1287,161 @@ check off sections in the box as you complete them.
   == Sculpture: Chapter 2 ==
 [ ] = I'm the Chef Today 1 =
         Requirements:
-          Fisherman Sculpture
-          Golden Carp Sculpture
-          Royal Chef Sculpture
+          {Fisherman Sculpture}
+          {Golden Carp Sculpture}
+          {Royal Chef Sculpture}
         Rewards:
           Permanent Buff: EVD +4
 
 [ ] = I'm the Chef Today 2 =
         Requirements:
-          Fine Fisherman Sculpture
-          Fine Golden Carp Sculpture
-          Fine Royal Chef Sculpture
+          {Fine Fisherman Sculpture}
+          {Fine Golden Carp Sculpture}
+          {Fine Royal Chef Sculpture}
         Rewards:
           Permanent Buff: EVD +5
 
 [ ] = I'm the Chef Today 3 =
         Requirements:
-          Superb Fisherman Sculpture
-          Superb Golden Carp Sculpture
-          Superb Royal Chef Sculpture
+          {Superb Fisherman Sculpture}
+          {Superb Golden Carp Sculpture}
+          {Superb Royal Chef Sculpture}
         Rewards:
           Permanent Buff: EVD +6
 
 [ ] = I'm the Chef Today 4 =
         Requirements:
-          Masterpiece Fisherman Sculpture
-          Masterpiece Golden Carp Sculpture
-          Masterpiece Royal Chef Sculpture
+          {Masterpiece Fisherman Sculpture}
+          {Masterpiece Golden Carp Sculpture}
+          {Masterpiece Royal Chef Sculpture}
         Rewards:
           Permanent Buff: EVD +7
 
 [ ] = Not All No. 1 Kids are Happy 1 =
         Requirements:
-          Golden Fiodar Sculpture
-          Sculpture of Endless Knowledge
-          Sleeping Girl Sculpture
+          {Golden Fiodar Sculpture}
+          {Sculpture of Endless Knowledge}
+          {Sleeping Girl Sculpture}
         Rewards:
           Permanent Buff: Max HP +8
 
 [ ] = Not All No. 2 Kids are Happy 2 =
         Requirements:
-          Fine Golden Fiodar Sculpture
-          Fine Sculpture of Endless Knowledge
-          Fine Sleeping Girl Sculpture
+          {Fine Golden Fiodar Sculpture}
+          {Fine Sculpture of Endless Knowledge}
+          {Fine Sleeping Girl Sculpture}
         Rewards:
           Permanent Buff: Max HP +9
 
 [ ] = Not All No. 3 Kids are Happy 3 =
         Requirements:
-          Superb Golden Fiodar Sculpture
-          Superb Sculpture of Endless Knowledge
-          Superb Sleeping Girl Sculpture
+          {Superb Golden Fiodar Sculpture}
+          {Superb Sculpture of Endless Knowledge}
+          {Superb Sleeping Girl Sculpture}
         Rewards:
           Permanent Buff: Max HP +10
 
 [ ] = Not All No. 4 Kids are Happy 4 =
         Requirements:
-          Masterpiece Golden Fiodar Sculpture
-          Masterpiece Sculpture of Endless Knowledge
-          Masterpiece Sleeping Girl Sculpture
+          {Masterpiece Golden Fiodar Sculpture}
+          {Masterpiece Sculpture of Endless Knowledge}
+          {Masterpiece Sleeping Girl Sculpture}
         Rewards:
           Permanent Buff: Max HP +11
 
 [ ] = Predator and Prey 1 =
         Requirements:
-          Elk Sculpture
-          Deer Sculpture
-          Lion Monster Sculpture
-          Hyena Sculpture
+          {Elk Sculpture}
+          {Deer Sculpture}
+          {Lion Monster Sculpture}
+          {Hyena Sculpture}
         Rewards:
           Permanent Buff: DEF +5
 
 [ ] = Predator and Prey 2 =
         Requirements:
-          Fine Elk Sculpture
-          Fine Deer Sculpture
-          Fine Lion Monster Sculpture
-          Fine Hyena Sculpture
+          {Fine Elk Sculpture}
+          {Fine Deer Sculpture}
+          {Fine Lion Monster Sculpture}
+          {Fine Hyena Sculpture}
         Rewards:
           Permanent Buff: DEF +6
 
 [ ] = Predator and Prey 3 =
         Requirements:
-          Superb Elk Sculpture
-          Superb Deer Sculpture
-          Superb Lion Monster Sculpture
-          Superb Hyena Sculpture
+          {Superb Elk Sculpture}
+          {Superb Deer Sculpture}
+          {Superb Lion Monster Sculpture}
+          {Superb Hyena Sculpture}
         Rewards:
           Permanent Buff: DEF +7
 
 [ ] = Predator and Prey 4 =
         Requirements:
-          Masterpiece Elk Sculpture
-          Masterpiece Deer Sculpture
-          Masterpiece Lion Monster Sculpture
-          Masterpiece Hyena Sculpture
+          {Masterpiece Elk Sculpture}
+          {Masterpiece Deer Sculpture}
+          {Masterpiece Lion Monster Sculpture}
+          {Masterpiece Hyena Sculpture}
         Rewards:
           Permanent Buff: DEF +8
 
 [ ] = Under the Sea 1 =
         Requirements:
-          Water Spirit Naiad Sculpture
-          Sea Serpent Sculpture
-          Shark Sculpture
+          {Water Spirit Naiad Sculpture}
+          {Sea Serpent Sculpture}
+          {Shark Sculpture}
         Rewards:
           Permanent Buff: Max HP +8
 
 [ ] = Under the Sea 2 =
         Requirements:
-          Fine Water Spirit Naiad Sculpture
-          Fine Sea Serpent Sculpture
-          Fine Shark Sculpture
+          {Fine Water Spirit Naiad Sculpture}
+          {Fine Sea Serpent Sculpture}
+          {Fine Shark Sculpture}
         Rewards:
           Permanent Buff: Max HP +9
 
 [ ] = Under the Sea 3 =
         Requirements:
-          Superb Water Spirit Naiad Sculpture
-          Superb Sea Serpent Sculpture
-          Superb Shark Sculpture
+          {Superb Water Spirit Naiad Sculpture}
+          {Superb Sea Serpent Sculpture}
+          {Superb Shark Sculpture}
         Rewards:
           Permanent Buff: Max HP +10
 
 [ ] = Under the Sea 4 =
         Requirements:
-          Masterpiece Water Spirit Naiad Sculpture
-          Masterpiece Sea Serpent Sculpture
-          Masterpiece Shark Sculpture
+          {Masterpiece Water Spirit Naiad Sculpture}
+          {Masterpiece Sea Serpent Sculpture}
+          {Masterpiece Shark Sculpture}
         Rewards:
           Permanent Buff: Max HP +11
 
 [ ] = Knowledge is Power 1 =
         Requirements:
-          Tarae Sculpture
-          Winged Hat Sculpture
+          {Tarae Sculpture}
+          {Winged Hat Sculpture}
         Rewards:
           Permanent Buff: Max HP +7
 
 [ ] = Knowledge is Power 2 =
         Requirements:
-          Fine Tarae Sculpture
-          Fine Winged Hat Sculpture
+          {Fine Tarae Sculpture}
+          {Fine Winged Hat Sculpture}
         Rewards:
           Permanent Buff: Max HP +8
 
 [ ] = Knowledge is Power 3 =
         Requirements:
-          Superb Tarae Sculpture
-          Superb Winged Hat Sculpture
+          {Superb Tarae Sculpture}
+          {Superb Winged Hat Sculpture}
         Rewards:
           Permanent Buff: Max HP +9
 
 [ ] = Knowledge is Power 4 =
         Requirements:
-          Masterpiece Tarae Sculpture
-          Masterpiece Winged Hat Sculpture
+          {Masterpiece Tarae Sculpture}
+          {Masterpiece Winged Hat Sculpture}
         Rewards:
           Permanent Buff: Max HP +10
 
@@ -1448,153 +1449,153 @@ check off sections in the box as you complete them.
   == Sculpture: Chapter 3 ==
 [ ] = The Giving Tree 1 =
         Requirements:
-          Tree and Bird Sculpture
-          Treant Sculpture
+          {Tree and Bird Sculpture}
+          {Treant Sculpture}
         Rewards:
           Permanent Buff: DEF +5
 
 [ ] = The Giving Tree 2 =
         Requirements:
-          Fine Tree and Bird Sculpture
-          Fine Treant Sculpture
+          {Fine Tree and Bird Sculpture}
+          {Fine Treant Sculpture}
         Rewards:
           Permanent Buff: DEF +6
 
 [ ] = The Giving Tree 3 =
         Requirements:
-          Superb Tree and Bird Sculpture
-          Superb Treant Sculpture
+          {Superb Tree and Bird Sculpture}
+          {Superb Treant Sculpture}
         Rewards:
           Permanent Buff: DEF +7
 
 [ ] = The Giving Tree 4 =
         Requirements:
-          Masterpiece Tree and Bird Sculpture
-          Masterpiece Treant Sculpture
+          {Masterpiece Tree and Bird Sculpture}
+          {Masterpiece Treant Sculpture}
         Rewards:
           Item: 5x Orange Lunarium
           Permanent Buff: DEF +8
 
 [ ] = Two Suns 1 =
         Requirements:
-          Blazing Sun Sculpture
-          Sun God Sculpture
+          {Blazing Sun Sculpture}
+          {Sun God Sculpture}
         Rewards:
           Permanent Buff: EVD +7
 
 [ ] = Two Suns 2 =
         Requirements:
-          Fine Blazing Sun Sculpture
-          Fine Sun God Sculpture
+          {Fine Blazing Sun Sculpture}
+          {Fine Sun God Sculpture}
         Rewards:
           Permanent Buff: EVD +8
 
 [ ] = Two Suns 3 =
         Requirements:
-          Superb Blazing Sun Sculpture
-          Superb Sun God Sculpture
+          {Superb Blazing Sun Sculpture}
+          {Superb Sun God Sculpture}
         Rewards:
           Permanent Buff: EVD +9
 
 [ ] = Two Suns 4 =
         Requirements:
-          Masterpiece Blazing Sun Sculpture
-          Masterpiece Sun God Sculpture
+          {Masterpiece Blazing Sun Sculpture}
+          {Masterpiece Sun God Sculpture}
         Rewards:
           Item: 5x Orange Lunarium
           Permanent Buff: EVD +10
 
 [ ] = Ruler of the Sky 1 =
         Requirements:
-          Azure Wyvern Sculpture
-          Dragon Sculpture
-          Frostwyrm Sculpture
+          {Azure Wyvern Sculpture}
+          {Dragon Sculpture}
+          {Frostwyrm Sculpture}
         Rewards:
           Permanent Buff: EVD +7
 
 [ ] = Ruler of the Sky 2 =
         Requirements:
-          Fine Azure Wyvern Sculpture
-          Fine Dragon Sculpture
-          Fine Frostwyrm Sculpture
+          {Fine Azure Wyvern Sculpture}
+          {Fine Dragon Sculpture}
+          {Fine Frostwyrm Sculpture}
         Rewards:
           Permanent Buff: EVD +8
 
 [ ] = Ruler of the Sky 3 =
         Requirements:
-          Superb Azure Wyvern Sculpture
-          Superb Dragon Sculpture
-          Superb Frostwyrm Sculpture
+          {Superb Azure Wyvern Sculpture}
+          {Superb Dragon Sculpture}
+          {Superb Frostwyrm Sculpture}
         Rewards:
           Permanent Buff: EVD +9
 
 [ ] = Ruler of the Sky 4 =
         Requirements:
-          Masterpiece Azure Wyvern Sculpture
-          Masterpiece Dragon Sculpture
-          Masterpiece Frostwyrm Sculpture
+          {Masterpiece Azure Wyvern Sculpture}
+          {Masterpiece Dragon Sculpture}
+          {Masterpiece Frostwyrm Sculpture}
         Rewards:
           Item: 5x Orange Lunarium
           Permanent Buff: EVD +10
 
 [ ] = Eternal Enemy 1 =
         Requirements:
-          Cat Sculpture
-          Ratman Sculpture
+          {Cat Sculpture}
+          {Ratman Sculpture}
         Rewards:
           Permanent Buff: DEF +7
 
 [ ] = Eternal Enemy 2 =
         Requirements:
-          Fine Cat Sculpture
-          Fine Ratman Sculpture
+          {Fine Cat Sculpture}
+          {Fine Ratman Sculpture}
         Rewards:
           Permanent Buff: DEF +8
 
 [ ] = Eternal Enemy 3 =
         Requirements:
-          Superb Cat Sculpture
-          Superb Ratman Sculpture
+          {Superb Cat Sculpture}
+          {Superb Ratman Sculpture}
         Rewards:
           Permanent Buff: DEF +9
 
 [ ] = Eternal Enemy 4 =
         Requirements:
-          Masterpiece Cat Sculpture
-          Masterpiece Ratman Sculpture
+          {Masterpiece Cat Sculpture}
+          {Masterpiece Ratman Sculpture}
         Rewards:
           Item: 5x Orange Lunarium
           Permanent Buff: DEF +10
 
 [ ] = Oh, My Goddess 1 =
         Requirements:
-          Goddess Freya Sculpture
-          Prina Sculpture
-          Icy Beauty Sculpture
+          {Goddess Freya Sculpture}
+          {Prina Sculpture}
+          {Icy Beauty Sculpture}
         Rewards:
           Permanent Buff: Max MP +4
 
 [ ] = Oh, My Goddess 2 =
         Requirements:
-          Fine Goddess Freya Sculpture
-          Fine Prina Sculpture
-          Fine Icy Beauty Sculpture
+          {Fine Goddess Freya Sculpture}
+          {Fine Prina Sculpture}
+          {Fine Icy Beauty Sculpture}
         Rewards:
           Permanent Buff: Max MP +5
 
 [ ] = Oh, My Goddess 3 =
         Requirements:
-          Superb Goddess Freya Sculpture
-          Superb Prina Sculpture
-          Superb Icy Beauty Sculpture
+          {Superb Goddess Freya Sculpture}
+          {Superb Prina Sculpture}
+          {Superb Icy Beauty Sculpture}
         Rewards:
           Permanent Buff: Max MP +6
 
 [ ] = Oh, My Goddess 4 =
         Requirements:
-          Masterpiece Goddess Freya Sculpture
-          Masterpiece Prina Sculpture
-          Masterpiece Icy Beauty Sculpture
+          {Masterpiece Goddess Freya Sculpture}
+          {Masterpiece Prina Sculpture}
+          {Masterpiece Icy Beauty Sculpture}
         Rewards:
           Permanent Buff: Max MP +7
 
@@ -1603,222 +1604,222 @@ check off sections in the box as you complete them.
   == Buddy: Chapter 1 ==
 [ ] = Calling All Cats 1 =
         Requirements:
-          All-Black Kitty
-          Tortie Kitty
-          Gray Tabby Kitty
+          {All-Black Kitty}
+          {Tortie Kitty}
+          {Gray Tabby Kitty}
         Rewards:
           Permanent Buff: Max HP +60
 
 [ ] = Calling All Yattas =
         Requirements:
-          Golden Yatta
-          Brown Yatta
-          Red Yatta
+          {Golden Yatta}
+          {Brown Yatta}
+          {Red Yatta}
         Rewards:
           Permanent Buff: DEF +8
 
 [ ] = Calling All Cats 2 =
         Requirements:
-          Cheese Tabby Kitty
-          Calico Kitty
-          Tuxedo Kitty
-          Siamese Kitty
+          {Cheese Tabby Kitty}
+          {Calico Kitty}
+          {Tuxedo Kitty}
+          {Siamese Kitty}
         Rewards:
           Permanent Buff: Max HP +60
 
 [ ] = Calling All Pandas =
         Requirements:
-          Baby Panda
-          Red Glasses Panda
-          Overalls Panda
-          Beret Panda
-          Martial Arts Panda
-          Oddball Pandaman
+          {Baby Panda}
+          {Red Glasses Panda}
+          {Overalls Panda}
+          {Beret Panda}
+          {Martial Arts Panda}
+          {Oddball Pandaman}
         Rewards:
           Permanent Buff: Max HP +60
 
 [ ] = In Black and White! =
         Requirements:
-          Oddball Pandaman
-          Tuxedo Kitty
-          Orca Penguin
+          {Oddball Pandaman}
+          {Tuxedo Kitty}
+          {Orca Penguin}
         Rewards:
           Permanent Buff: ATK +8
 
 [ ] = Rub for Good Luck! =
         Requirements:
-          Golden Yatta
-          Li'l Goose
-          Golden Lucky Pig
+          {Golden Yatta}
+          {Li'l Goose}
+          {Golden Lucky Pig}
         Rewards:
           Permanent Buff: Max HP +80
 
 [ ] = A Dog Chasing Chickens =
         Requirements:
-          Yellow Puppy
-          Black Puppy
-          Brown Cluckie
-          White Cluckie
+          {Yellow Puppy}
+          {Black Puppy}
+          {Brown Cluckie}
+          {White Cluckie}
         Rewards:
           Permanent Buff: DEF +10
 
 [ ] = Ring-A-Ling-A-Ding =
         Requirements:
-          Cheese Tabby Kitty
-          Calico Kitty
-          Bell Otter
-          Hibernating Otter
+          {Cheese Tabby Kitty}
+          {Calico Kitty}
+          {Bell Otter}
+          {Hibernating Otter}
         Rewards:
           Permanent Buff: Max HP +80
 
 [ ] = Got Bamboo? =
         Requirements:
-          Baby Panda
-          Red Glasses Panda
-          Red Panda
-          Red-Hooded Red Panda
+          {Baby Panda}
+          {Red Glasses Panda}
+          {Red Panda}
+          {Red-Hooded Red Panda}
         Rewards:
           Permanent Buff: DEF +10
 
 [ ] = Calling All Red Pandas 1 =
         Requirements:
-          Red Panda
-          Hoppin' Zombie Red Panda
-          Passionate Red Panda
+          {Red Panda}
+          {Hoppin' Zombie Red Panda}
+          {Passionate Red Panda}
         Rewards:
           Permanent Buff: Max HP +80
 
 [ ] = Calling All Leopards =
         Requirements:
-          Brown Leopard
-          Yellow Leopard
-          Black Panther
+          {Brown Leopard}
+          {Yellow Leopard}
+          {Black Panther}
         Rewards:
           Permanent Buff: ATK +10
 
 [ ] = Calling All Venomous Spirits =
         Requirements:
-          Little Venomous Spirit
-          Mature Venomous Spirit
-          Huge Venomous Spirit
+          {Little Venomous Spirit}
+          {Mature Venomous Spirit}
+          {Huge Venomous Spirit}
         Rewards:
           Permanent Buff: Max HP +80
 
 [ ] = Better Wash That Rag! =
         Requirements:
-          Deep-Cleaner Penguin
-          Specter
-          Ghosty
+          {Deep-Cleaner Penguin}
+          {Specter}
+          {Ghosty}
         Rewards:
           Permanent Buff: DEF +10
 
 [ ] = What a Splendid Coxcomb! =
         Requirements:
-          Goose-A-Doodle-Doo
-          White Cluckie
-          Rock 'n' Roll Penguin
+          {Goose-A-Doodle-Doo}
+          {White Cluckie}
+          {Rock 'n' Roll Penguin}
         Rewards:
           Permanent Buff: PHY ATK +10
 
 [ ] = It's Me, I'm the Present. =
         Requirements:
-          Passionate Red Panda
-          Goosey
-          Ribbon Otter
+          {Passionate Red Panda}
+          {Goosey}
+          {Ribbon Otter}
         Rewards:
           Permanent Buff: MAG ATK +10
 
 [ ] = Juggling Is Easy =
         Requirements:
-          Martial Arts Panda
-          Light Green Eye Buoy
-          Green Eye Buoy
-          Purple Eye Buoy
+          {Martial Arts Panda}
+          {Light Green Eye Buoy}
+          {Green Eye Buoy}
+          {Purple Eye Buoy}
         Rewards:
           Permanent Buff: ATK +10
 
 [ ] = Calling All Geese 1 =
         Requirements:
-          Gosling
-          Goosefred
-          Goosetaf
-          Goose and Rose
+          {Gosling}
+          {Goosefred}
+          {Goosetaf}
+          {Goose and Rose}
         Rewards:
           Permanent Buff: ATK +15
 
 [ ] = Calling All Red Pandas 2 =
         Requirements:
-          Red-Hooded Red Panda
-          Prison Garb Red Panda
-          Robot Red Panda
-          Sailor Red Panda
+          {Red-Hooded Red Panda}
+          {Prison Garb Red Panda}
+          {Robot Red Panda}
+          {Sailor Red Panda}
         Rewards:
           Permanent Buff: Max HP +100
 
 [ ] = Calling All Penguins 1 =
         Requirements:
-          Baby Penguin
-          Rock 'n' Roll Penguin
-          King Penguin
-          Military Band Penguin
+          {Baby Penguin}
+          {Rock 'n' Roll Penguin}
+          {King Penguin}
+          {Military Band Penguin}
         Rewards:
           Permanent Buff: PHY ATK +12
 
 [ ] = Calling All Penguins 2 =
         Requirements:
-          Orca Penguin
-          Reserve Forces Penguin
-          Pilot Penguin
-          Deep-Cleaner Penguin
+          {Orca Penguin}
+          {Reserve Forces Penguin}
+          {Pilot Penguin}
+          {Deep-Cleaner Penguin}
         Rewards:
           Permanent Buff: MAG ATK +12
 
 [ ] = Calling All Ghosts =
         Requirements:
-          Specter
-          Angry Specter
-          Ghosty
-          Black Ghosty
+          {Specter}
+          {Angry Specter}
+          {Ghosty}
+          {Black Ghosty}
         Rewards:
           Permanent Buff: DEF +15
 
 [ ] = Calling All Geese 2 =
         Requirements:
-          Goose-A-Doodle-Doo
-          Li'l Goose
-          Augoostus
-          Goosey
-          Gooseflex
+          {Goose-A-Doodle-Doo}
+          {Li'l Goose}
+          {Augoostus}
+          {Goosey}
+          {Gooseflex}
         Rewards:
           Permanent Buff: Max HP +100
 
 [ ] = Calling All Eye Buoys =
         Requirements:
-          Red Eye Buoy
-          Light Green Eye Buoy
-          Green Eye Buoy
-          Blue Eye Buoy
-          Purple Eye Buoy
+          {Red Eye Buoy}
+          {Light Green Eye Buoy}
+          {Green Eye Buoy}
+          {Blue Eye Buoy}
+          {Purple Eye Buoy}
         Rewards:
           Permanent Buff: DEF +15
 
 [ ] = Calling All Hogs 1 =
         Requirements:
-          Piglet
-          Gift Ribbon Pig
-          White Spotted Pig
-          Black Pig
-          Brown Boar
+          {Piglet}
+          {Gift Ribbon Pig}
+          {White Spotted Pig}
+          {Black Pig}
+          {Brown Boar}
         Rewards:
           Permanent Buff: Max HP +100
 
 [ ] = Calling All Hogs 2 =
         Requirements:
-          Tiger Pig
-          Chef Pig
-          Red Piggybank
-          Golden Lucky Pig
-          Boar
+          {Tiger Pig}
+          {Chef Pig}
+          {Red Piggybank}
+          {Golden Lucky Pig}
+          {Boar}
         Rewards:
           Permanent Buff: ATK +15
 
@@ -1826,352 +1827,352 @@ check off sections in the box as you complete them.
   == Buddy: Chapter 2 ==
 [ ] = Calling All Otters =
         Requirements:
-          Bell Otter
-          Ribbon Otter
-          Cap Otter
-          Detective Otter
-          Hip Otter
-          Hibernating Otter
+          {Bell Otter}
+          {Ribbon Otter}
+          {Cap Otter}
+          {Detective Otter}
+          {Hip Otter}
+          {Hibernating Otter}
         Rewards:
           Permanent Buff: ATK +30
 
 [ ] = A Comfy-Cozy Nap =
         Requirements:
-          Hibernating Otter
-          Alpaca
+          {Hibernating Otter}
+          {Alpaca}
         Rewards:
           Permanent Buff: PHY DEF +25
 
 [ ] = Plush and Fluffy =
         Requirements:
-          Goose and Rose
-          Frost Owlbear
+          {Goose and Rose}
+          {Frost Owlbear}
         Rewards:
           Permanent Buff: MAG DEF +25
 
 [ ] = Don't Go Picking Poison Mushrooms with Your Bare Hands 1 =
         Requirements:
-          Huge Venomous Spirit
-          Naked Hand
+          {Huge Venomous Spirit}
+          {Naked Hand}
         Rewards:
           Permanent Buff: PHY ATK +25
 
 [ ] = An Unripe Apple and an Apple Tree =
         Requirements:
-          Light Green Eye Buoy
-          Treant
+          {Light Green Eye Buoy}
+          {Treant}
         Rewards:
           Permanent Buff: MAG ATK +25
 
 [ ] = The King Is Naked =
         Requirements:
-          King Penguin
-          Naked Hand
+          {King Penguin}
+          {Naked Hand}
         Rewards:
           Permanent Buff: Max HP +150
 
 [ ] = How Many Eyes? =
         Requirements:
-          Red Eye Buoy
-          Chimera
+          {Red Eye Buoy}
+          {Chimera}
         Rewards:
           Permanent Buff: DEF +30
 
 [ ] = A Funny Little Jump =
         Requirements:
-          Brown Yatta
-          Hoppin' Zombie Red Panda
-          Alpaca
+          {Brown Yatta}
+          {Hoppin' Zombie Red Panda}
+          {Alpaca}
         Rewards:
           Permanent Buff: PHY DEF +25
 
 [ ] = But Which Ear Is the Real One? =
         Requirements:
-          Red Yatta
-          Angry Specter
-          Ogre Conjurer
+          {Red Yatta}
+          {Angry Specter}
+          {Ogre Conjurer}
         Rewards:
           Permanent Buff: MAG DEF +25
 
 [ ] = An Unexpected Combination =
         Requirements:
-          Tortie Kitty
-          Baby Penguin
-          Alpine Ogre
+          {Tortie Kitty}
+          {Baby Penguin}
+          {Alpine Ogre}
         Rewards:
           Permanent Buff: ATK +30
 
 [ ] = A Spy among Us =
         Requirements:
-          Calico Kitty
-          Siamese Kitty
-          Brown Leopard
-          Chimera
+          {Calico Kitty}
+          {Siamese Kitty}
+          {Brown Leopard}
+          {Chimera}
         Rewards:
           Permanent Buff: Max HP +150
 
 [ ] = The Robot and the Nerds =
         Requirements:
-          Robot Red Panda
-          Goosetaf
-          Ogre Conjurer
+          {Robot Red Panda}
+          {Goosetaf}
+          {Ogre Conjurer}
         Rewards:
           Permanent Buff: PHY ATK +25
 
 [ ] = To the Sea! =
         Requirements:
-          Orca Penguin
-          Sailor Red Panda
-          Naga Spearman
+          {Orca Penguin}
+          {Sailor Red Panda}
+          {Naga Spearman}
         Rewards:
           Permanent Buff: MAG ATK +25
 
 [ ] = Master and Minion =
         Requirements:
-          Reserve Forces Penguin
-          Green Lizardman
-          Laposha
+          {Reserve Forces Penguin}
+          {Green Lizardman}
+          {Laposha}
         Rewards:
           Permanent Buff: ATK +30
 
 [ ] = Mud Bath Mania! =
         Requirements:
-          Piglet
-          Brown Boar
-          Swamp Kripo
+          {Piglet}
+          {Brown Boar}
+          {Swamp Kripo}
         Rewards:
           Permanent Buff: DEF +30
 
 [ ] = I Do What I Want 1 =
         Requirements:
-          Beret Panda
-          Gooseflex
-          Goosey
-          Helmeted Skeleton
+          {Beret Panda}
+          {Gooseflex}
+          {Goosey}
+          {Helmeted Skeleton}
         Rewards:
           Permanent Buff: ATK +30
 
 [ ] = A Pink Button Nose =
         Requirements:
-          Gray Tabby Kitty
-          Gift Ribbon Pig
-          Alpaca
-          Boar
+          {Gray Tabby Kitty}
+          {Gift Ribbon Pig}
+          {Alpaca}
+          {Boar}
         Rewards:
           Permanent Buff: DEF +30
 
 [ ] = The Sartorialist =
         Requirements:
-          Overalls Panda
-          Ribbon Otter
-          Chef Pig
-          Torn-Gloved Hand
+          {Overalls Panda}
+          {Ribbon Otter}
+          {Chef Pig}
+          {Torn-Gloved Hand}
         Rewards:
           Permanent Buff: DMG Increase +0.6%
 
 [ ] = A Smart Outfit =
         Requirements:
-          Military Band Penguin
-          Goosefred
-          Gloved Hand
-          Detective Otter
+          {Military Band Penguin}
+          {Goosefred}
+          {Gloved Hand}
+          {Detective Otter}
         Rewards:
           Permanent Buff: Max HP +150
 
 [ ] = Adorable Babies 1 =
         Requirements:
-          Orc
-          Gosling
-          Piglet
-          Baby Yeti
+          {Orc}
+          {Gosling}
+          {Piglet}
+          {Baby Yeti}
         Rewards:
           Permanent Buff: ATK +30
 
 [ ] = Parasitic and Symbiotic =
         Requirements:
-          Treant
-          Little Venomous Spirit
-          Mature Venomous Spirit
-          Huge Venomous Spirit
+          {Treant}
+          {Little Venomous Spirit}
+          {Mature Venomous Spirit}
+          {Huge Venomous Spirit}
         Rewards:
           Permanent Buff: PHY DEF +25
 
 [ ] = Parasitic and Symbiotic Thrills =
         Requirements:
-          Shocked Treant
-          Little Venomous Spirit
-          Mature Venomous Spirit
-          Huge Venomous Spirit
+          {Shocked Treant}
+          {Little Venomous Spirit}
+          {Mature Venomous Spirit}
+          {Huge Venomous Spirit}
         Rewards:
           Permanent Buff: MAG DEF +25
 
 [ ] = Is This a Room or a Pigsty? =
         Requirements:
-          Tiger Pig
-          Black Pig
-          Deep-Cleaner Penguin
-          Fingerless-Gloved Hand
+          {Tiger Pig}
+          {Black Pig}
+          {Deep-Cleaner Penguin}
+          {Fingerless-Gloved Hand}
         Rewards:
           Permanent Buff: Max HP +150
 
 [ ] = Before the Lightning Strike =
         Requirements:
-          Treant
-          Shocked Treant
+          {Treant}
+          {Shocked Treant}
         Rewards:
           Permanent Buff: ATK +40
 
 [ ] = Taste My Lightning! =
         Requirements:
-          Lightning Lizardman
-          Shocked Treant
+          {Lightning Lizardman}
+          {Shocked Treant}
         Rewards:
           Permanent Buff: DEF +40
 
 [ ] = Spear and Shield =
         Requirements:
-          Naga Spearman
-          Shield Skeleton
+          {Naga Spearman}
+          {Shield Skeleton}
         Rewards:
           Permanent Buff: PHY DEF +32
 
 [ ] = Gone Hiking =
         Requirements:
-          Alpine Ogre
-          Treant
+          {Alpine Ogre}
+          {Treant}
         Rewards:
           Permanent Buff: MAG DEF +32
 
 [ ] = The Owl in the Tree =
         Requirements:
-          Shocked Treant
-          Owlbear
+          {Shocked Treant}
+          {Owlbear}
         Rewards:
           Permanent Buff: PHY ATK +32
 
 [ ] = The Gloves Are Off! =
         Requirements:
-          Torn-Gloved Hand
-          Frost Owlbear
+          {Torn-Gloved Hand}
+          {Frost Owlbear}
         Rewards:
           Permanent Buff: MAG ATK +32
 
 [ ] = Puppies Love Bones =
         Requirements:
-          Yellow Puppy
-          Skeleton
-          Shield Skeleton
+          {Yellow Puppy}
+          {Skeleton}
+          {Shield Skeleton}
         Rewards:
           Permanent Buff: Max HP +200
 
 [ ] = Stoplights =
         Requirements:
-          Blood Red Orc
-          Yellow Leopard
-          Blue Lindwurm
+          {Blood Red Orc}
+          {Yellow Leopard}
+          {Blue Lindwurm}
         Rewards:
           Permanent Buff: PHY DEF +32
 
 [ ] = The King and the Kingsguard =
         Requirements:
-          King Penguin
-          Naga Honor Guard
-          Helmeted Skeleton
+          {King Penguin}
+          {Naga Honor Guard}
+          {Helmeted Skeleton}
         Rewards:
           Permanent Buff: MAG DEF +32
 
 [ ] = Don't Go Picking Poison Mushrooms with Your Bare Hands 2 =
         Requirements:
-          Mature Venomous Spirit
-          Torn-Gloved Hand
-          Fingerless-Gloved Hand
+          {Mature Venomous Spirit}
+          {Torn-Gloved Hand}
+          {Fingerless-Gloved Hand}
         Rewards:
           Permanent Buff: PHY ATK +32
 
 [ ] = Carroty Friends =
         Requirements:
-          Blood Red Orc
-          Red Lindwurm
-          Red Piggybank
+          {Blood Red Orc}
+          {Red Lindwurm}
+          {Red Piggybank}
         Rewards:
           Permanent Buff: MAG ATK +32
 
 [ ] = The Mischief Cleanup Crew =
         Requirements:
-          Green Lindwurm
-          Goosefred
-          Gloved Hand
+          {Green Lindwurm}
+          {Goosefred}
+          {Gloved Hand}
         Rewards:
           Permanent Buff: ATK +40
 
 [ ] = Zigs and Zags =
         Requirements:
-          Augoostus
-          Grasslands Kripo
-          Lightning Lizardman
+          {Augoostus}
+          {Grasslands Kripo}
+          {Lightning Lizardman}
         Rewards:
           Permanent Buff: Max HP +200
 
 [ ] = Alluring Blue Eyes =
         Requirements:
-          All-Black Kitty
-          Siamese Kitty
-          Blue Eye Buoy
-          Helmeted Skeleton
-          Skeleton
+          {All-Black Kitty}
+          {Siamese Kitty}
+          {Blue Eye Buoy}
+          {Helmeted Skeleton}
+          {Skeleton}
         Rewards:
           Permanent Buff: DMG Defense +0.6%
 
 [ ] = I Do What I Want 2 =
         Requirements:
-          Military Band Penguin
-          Cap Otter
-          Ogre Grenadier
-          Lightning Lizardman
+          {Military Band Penguin}
+          {Cap Otter}
+          {Ogre Grenadier}
+          {Lightning Lizardman}
         Rewards:
           Permanent Buff: ATK +40
 
 [ ] = Easy on the Eyes =
         Requirements:
-          Green Lizardman
-          Green Eye Buoy
-          Orc
-          Green Lindwurm
-          Grasslands Kripo
+          {Green Lizardman}
+          {Green Eye Buoy}
+          {Orc}
+          {Green Lindwurm}
+          {Grasslands Kripo}
         Rewards:
           Permanent Buff: Max HP +200
 
 [ ] = Calling All Lindwurms =
         Requirements:
-          Blue Lindwurm
-          Green Lindwurm
-          Red Lindwurm
+          {Blue Lindwurm}
+          {Green Lindwurm}
+          {Red Lindwurm}
         Rewards:
           Permanent Buff: MAG ATK +40
 
 [ ] = Calling All Ogres =
         Requirements:
-          Alpine Ogre
-          Ogre Grenadier
-          Ogre Conjurer
+          {Alpine Ogre}
+          {Ogre Grenadier}
+          {Ogre Conjurer}
         Rewards:
           Permanent Buff: MAG DEF +40
 
 [ ] = Calling All Living Hands =
         Requirements:
-          Naked Hand
-          Gloved Hand
-          Torn-Gloved Hand
-          Fingerless-Gloved Hand
+          {Naked Hand}
+          {Gloved Hand}
+          {Torn-Gloved Hand}
+          {Fingerless-Gloved Hand}
         Rewards:
           Permanent Buff: PHY ATK +40
 
 [ ] = Calling All Kripos =
         Requirements:
-          Kripo
-          Swamp Kripo
-          Grasslands Kripo
-          Cave Kripo
+          {Kripo}
+          {Swamp Kripo}
+          {Grasslands Kripo}
+          {Cave Kripo}
         Rewards:
           Permanent Buff: PHY DEF +40
 
@@ -2179,276 +2180,276 @@ check off sections in the box as you complete them.
   == Buddy: Chapter 3 ==
 [ ] = I Believe I Can Fly...Eventually =
         Requirements:
-          Pilot Penguin
-          Brown Cluckie
-          Hippogriff
+          {Pilot Penguin}
+          {Brown Cluckie}
+          {Hippogriff}
         Rewards:
           Permanent Buff: Crit DMG RES +5%
 
 [ ] = Who Wants to Play Ball? =
         Requirements:
-          Brown Yatta
-          Red Eye Buoy
-          Cap Otter
-          Drake
+          {Brown Yatta}
+          {Red Eye Buoy}
+          {Cap Otter}
+          {Drake}
         Rewards:
           Permanent Buff: DMG Defense +1%
 
 [ ] = Bananas?! =
         Requirements:
-          Naga Honor Guard
-          Girallon
+          {Naga Honor Guard}
+          {Girallon}
         Rewards:
           Permanent Buff: Pierce RES +2%
 
 [ ] = A Vacant Stare =
         Requirements:
-          Robot Red Panda
-          Shield Skeleton
-          Girallon
+          {Robot Red Panda}
+          {Shield Skeleton}
+          {Girallon}
         Rewards:
           Permanent Buff: Crit DMG RES +5%
 
 [ ] = Don't Wolf It Down! =
         Requirements:
-          Chef Pig
-          Kripo
-          Chowhound Naga
+          {Chef Pig}
+          {Kripo}
+          {Chowhound Naga}
         Rewards:
           Permanent Buff: Pierce RES +2%
 
 [ ] = A Fabulous Hairstyle =
         Requirements:
-          Augoostus
-          Hippogriff
-          Rock 'n' Roll Penguin
-          Baby Yeti
+          {Augoostus}
+          {Hippogriff}
+          {Rock 'n' Roll Penguin}
+          {Baby Yeti}
         Rewards:
           Permanent Buff: DMG Increase +1%
 
 [ ] = In a Purple Haze =
         Requirements:
-          Purple Eye Buoy
-          Little Venomous Spirit
-          Cave Kripo
-          Drake
+          {Purple Eye Buoy}
+          {Little Venomous Spirit}
+          {Cave Kripo}
+          {Drake}
         Rewards:
           Permanent Buff: Pierce RES +2%
 
 [ ] = Calling All Nagas =
         Requirements:
-          Naga Honor Guard
-          Naga Spearman
-          Chowhound Naga
+          {Naga Honor Guard}
+          {Naga Spearman}
+          {Chowhound Naga}
         Rewards:
           Permanent Buff: DMG Increase +1%
 
 [ ] = Buns Are So Hot Right Now =
         Requirements:
-          Blood Red Orc
-          Skeleton
-          Girallon
+          {Blood Red Orc}
+          {Skeleton}
+          {Girallon}
         Rewards:
           Permanent Buff: DMG Defense +1%
 
 [ ] = Aerial Acrobatics =
         Requirements:
-          Chimera
-          Hippogriff
-          Red Lindwurm
+          {Chimera}
+          {Hippogriff}
+          {Red Lindwurm}
         Rewards:
           Permanent Buff: Pierce RES +2%
 
 [ ] = Calling All Lizardmen =
         Requirements:
-          Green Lizardman
-          Lightning Lizardman
-          Laposha
-          Arkrasha
+          {Green Lizardman}
+          {Lightning Lizardman}
+          {Laposha}
+          {Arkrasha}
         Rewards:
           Permanent Buff: DMG Defense +1%
 
 [ ] = Tiny Little Wings =
         Requirements:
-          Gosling
-          Blue Lindwurm
-          Owlbear
-          Drake
+          {Gosling}
+          {Blue Lindwurm}
+          {Owlbear}
+          {Drake}
         Rewards:
           Permanent Buff: Crit DMG RES +5%
 
 [ ] = Copper-Toned Skin =
         Requirements:
-          Brown Boar
-          Brown Leopard
-          Ogre Conjurer
-          Swamp Kripo
-          Arkrasha
+          {Brown Boar}
+          {Brown Leopard}
+          {Ogre Conjurer}
+          {Swamp Kripo}
+          {Arkrasha}
         Rewards:
           Permanent Buff: ATK +1.5%
 
 [ ] = Adorable Babies 2 =
         Requirements:
-          Baby Panda
-          Baby Penguin
-          Wyvern
+          {Baby Panda}
+          {Baby Penguin}
+          {Wyvern}
         Rewards:
           Permanent Buff: DMG Defense +2%
 
 [ ] = Freeeeeedom! =
         Requirements:
-          Prison Garb Red Panda
-          Reserve Forces Penguin
-          Von Hawk
+          {Prison Garb Red Panda}
+          {Reserve Forces Penguin}
+          {Von Hawk}
         Rewards:
           Permanent Buff: Crit DMG RES +10%
 
 [ ] = Red Lenses or Blue? =
         Requirements:
-          Red Eye Buoy
-          Blue Eye Buoy
-          Cyclops
+          {Red Eye Buoy}
+          {Blue Eye Buoy}
+          {Cyclops}
         Rewards:
           Permanent Buff: Pierce RES +4%
 
 [ ] = Everyone's Blind in the Dark =
         Requirements:
-          All-Black Kitty
-          Black Puppy
-          Black Pig
-          Black Ghosty
-          Black Panther
-          Von Hawk
+          {All-Black Kitty}
+          {Black Puppy}
+          {Black Pig}
+          {Black Ghosty}
+          {Black Panther}
+          {Von Hawk}
         Rewards:
           Permanent Buff: DMG Increase +2%
 
 [ ] = Red + Blue = ? =
         Requirements:
-          Red Yatta
-          Blue Eye Buoy
-          Blood Red Orc
-          Ice Goblin
+          {Red Yatta}
+          {Blue Eye Buoy}
+          {Blood Red Orc}
+          {Ice Goblin}
         Rewards:
           Permanent Buff: Max HP +2%
 
 [ ] = Charming White Fur =
         Requirements:
-          Boar
-          White Spotted Pig
-          Alpaca
-          Ice Goblin
+          {Boar}
+          {White Spotted Pig}
+          {Alpaca}
+          {Ice Goblin}
         Rewards:
           Permanent Buff: PHY DEF +2%
 
 [ ] = I Love Being in the Dark =
         Requirements:
-          Angry Specter
-          Hoppin' Zombie Red Panda
-          Cave Kripo
-          Von Hawk
+          {Angry Specter}
+          {Hoppin' Zombie Red Panda}
+          {Cave Kripo}
+          {Von Hawk}
         Rewards:
           Permanent Buff: MAG DEF +2%
 
 [ ] = The Neighborhood Hipster =
         Requirements:
-          Overalls Panda
-          Ice Goblin
-          Tiger Pig
-          Hip Otter
-          Fingerless-Gloved Hand
+          {Overalls Panda}
+          {Ice Goblin}
+          {Tiger Pig}
+          {Hip Otter}
+          {Fingerless-Gloved Hand}
         Rewards:
           Permanent Buff: DMG Increase +2%
 
 [ ] = I Love the Cold =
         Requirements:
-          Baby Yeti
-          Frost Owlbear
-          Ice Goblin
+          {Baby Yeti}
+          {Frost Owlbear}
+          {Ice Goblin}
         Rewards:
           Permanent Buff: DMG Defense +2%
 
 [ ] = Calling All Skeletons =
         Requirements:
-          Helmeted Skeleton
-          Skeleton
-          Shield Skeleton
-          Von Hawk
+          {Helmeted Skeleton}
+          {Skeleton}
+          {Shield Skeleton}
+          {Von Hawk}
         Rewards:
           Permanent Buff: MAG ATK +1%
 
 [ ] = Threadbare and Shivering =
         Requirements:
-          Cyclops
-          Red Panda
-          Alpine Ogre
-          Naked Hand
-          Kripo
+          {Cyclops}
+          {Red Panda}
+          {Alpine Ogre}
+          {Naked Hand}
+          {Kripo}
         Rewards:
           Permanent Buff: PHY ATK +1%
 
 [ ] = The Smile of an Angel! =
         Requirements:
-          Drake
-          Arkrasha
-          Chowhound Naga
+          {Drake}
+          {Arkrasha}
+          {Chowhound Naga}
         Rewards:
           Permanent Buff: Max HP +1.6%
 
 [ ] = Today's the Day I Start Working Out! =
         Requirements:
-          Cyclops
-          Chowhound Naga
-          Goose and Rose
+          {Cyclops}
+          {Chowhound Naga}
+          {Goose and Rose}
         Rewards:
           Permanent Buff: Max HP +1.6%
 
 [ ] = But Who's Stronger? =
         Requirements:
-          Owlbear
-          Girallon
-          Cyclops
+          {Owlbear}
+          {Girallon}
+          {Cyclops}
         Rewards:
           Permanent Buff: PHY ATK +1.5%
 
 [ ] = No Shirt, No Shoes, Just Underpants! =
         Requirements:
-          Laposha
-          Ogre Grenadier
-          Cyclops
-          Arkrasha
+          {Laposha}
+          {Ogre Grenadier}
+          {Cyclops}
+          {Arkrasha}
         Rewards:
           Permanent Buff: MAG ATK +1.5%
 
 [ ] = Considerable Charisma =
         Requirements:
-          Wyvern
-          Hippogriff
-          Drake
+          {Wyvern}
+          {Hippogriff}
+          {Drake}
         Rewards:
           Permanent Buff: PHY DEF +3%
 
 [ ] = The Bad, the Weird, and the Stupid =
         Requirements:
-          Chowhound Naga
-          Wyvern
-          Girallon
+          {Chowhound Naga}
+          {Wyvern}
+          {Girallon}
         Rewards:
           Permanent Buff: MAG DEF +3%
 
 [ ] = Don't Make Eye Contact! =
         Requirements:
-          Wyvern
-          Arkrasha
-          Baby Yeti
-          Hippogriff
+          {Wyvern}
+          {Arkrasha}
+          {Baby Yeti}
+          {Hippogriff}
         Rewards:
           Permanent Buff: Max HP +2%
 
 [ ] = A Scathing Gaze =
         Requirements:
-          Von Hawk
-          Ice Goblin
-          Wyvern
+          {Von Hawk}
+          {Ice Goblin}
+          {Wyvern}
         Rewards:
           Permanent Buff: ATK +2.5%
 
@@ -2457,119 +2458,119 @@ check off sections in the box as you complete them.
   == Other: Chapter 1 ==
 [ ] = Don't Catch a Cold =
         Requirements:
-          5x Delicious Nutritious Honey Water
-          5x Delicious Warm Ginger Tea
-          5x Delicious Bird Meat Soup for the Soul
+          5x {Delicious Nutritious Honey Water}
+          5x {Delicious Warm Ginger Tea}
+          5x {Delicious Bird Meat Soup for the Soul}
         Rewards:
           Permanent Buff: Max MP +4
 
 [ ] = Winter Snack =
         Requirements:
-          10x Sweet Potato
-          5x Delicious Baked Sweet Potato
-          Mysterious Fireplace
+          10x {Sweet Potato}
+          5x {Delicious Baked Sweet Potato}
+          {Mysterious Fireplace}
         Rewards:
           Permanent Buff: Max MP +3
 
 [ ] = An Innocent Bystander Gets Hurt in a Fight =
         Requirements:
-          River Dolphin
-          30x Freshwater Shrimp
-          10x Grilled Jumbo Shrimp
+          {River Dolphin}
+          30x {Freshwater Shrimp}
+          10x {Grilled Jumbo Shrimp}
         Rewards:
           Permanent Buff: Max Weight Increase +10
 
 [ ] = Let's Make Fish Buns =
         Requirements:
-          10x Crucian Carp
-          100x Flour
-          100x Milk
-          100x Egg
-          100x Butter
+          10x {Crucian Carp}
+          100x {Flour}
+          100x {Milk}
+          100x {Egg}
+          100x {Butter}
         Rewards:
           Permanent Buff: Max MP +5
 
 [ ] = Janitor of Royal Road =
         Requirements:
-          50x Old Boots
-          50x Rusty Can
-          50x Shattered Glass Bottle
+          50x {Old Boots}
+          50x {Rusty Can}
+          50x {Shattered Glass Bottle}
         Rewards:
           Permanent Buff: Max Weight Increase +10
 
 [ ] = Summer Superfood =
         Requirements:
-          30x Eel
-          10x Regus Eel
+          30x {Eel}
+          10x {Regus Eel}
         Rewards:
           Permanent Buff: Max Weight Increase +5
 
 [ ] = Mind over Body =
         Requirements:
-          3x Eina's Blessing
-          50x Benevolent Holy Water of Restoration
-          50x Sleep RES Elixir
+          3x {Eina's Blessing}
+          50x {Benevolent Holy Water of Restoration}
+          50x {Sleep RES Elixir}
         Rewards:
           Permanent Buff: Max MP +5
 
 [ ] = Waiting for a Big Fish =
         Requirements:
-          1000x Lesser Haste Elixir
-          50x Fake Bait
-          Masterpiece Fisherman Sculpture
+          1000x {Lesser Haste Elixir}
+          50x {Fake Bait}
+          {Masterpiece Fisherman Sculpture}
         Rewards:
           Permanent Buff: Max MP +5
 
 [ ] = Don't Eat, Give it to Your Pet =
         Requirements:
-          10x Grass Feed
-          10x Meat Feed
-          10x Insect Feed
-          10x Honey Feed
-          50x Superior Rescue Potion
+          10x {Grass Feed}
+          10x {Meat Feed}
+          10x {Insect Feed}
+          10x {Honey Feed}
+          50x {Superior Rescue Potion}
         Rewards:
           Permanent Buff: Max MP +3
 
 [ ] = Can You Hear =
         Requirements:
-          30x Red Sunstone
-          30x Condensed Flame
+          30x {Red Sunstone}
+          30x {Condensed Flame}
         Rewards:
           Permanent Buff: Max Weight Increase +5
 
 [ ] = My Heartbeat =
         Requirements:
-          10x Fox Heartstone
-          10x Anubis's Twisted Heart
-          10x Petrified Heart
-          10x Devek Wooden Heart
+          10x {Fox Heartstone}
+          10x {Anubis's Twisted Heart}
+          10x {Petrified Heart}
+          10x {Devek Wooden Heart}
         Rewards:
           Permanent Buff: Max MP +5
 
 [ ] = Not All Shiny Things are Gold =
         Requirements:
-          100x Sparkling Cuticle
-          100x Sparkling Powder
-          20x Shiaky's Radiant Scale
-          20x Osbourne's Radiant Green Quartz
+          100x {Sparkling Cuticle}
+          100x {Sparkling Powder}
+          20x {Shiaky's Radiant Scale}
+          20x {Osbourne's Radiant Green Quartz}
         Rewards:
           Permanent Buff: Max HP +6
 
 [ ] = Time is Gold, My Friend =
         Requirements:
-          100x Splintered Golden Fragment
-          100x Golden Chunk
-          100x Golden Fabric
-          100x Cracked Hourglass
+          100x {Splintered Golden Fragment}
+          100x {Golden Chunk}
+          100x {Golden Fabric}
+          100x {Cracked Hourglass}
         Rewards:
           Permanent Buff: Max MP +4
 
 [ ] = Fun Night Fishing (Beware the Bugs) =
         Requirements:
-          100x Moon-Touched Piece
-          50x Luminous Night Fishing Float
-          Superb Fisherman Sculpture
-          3x Telescope Goldfish
+          100x {Moon-Touched Piece}
+          50x {Luminous Night Fishing Float}
+          {Superb Fisherman Sculpture}
+          3x {Telescope Goldfish}
         Rewards:
           Item: Crafting Method - Moonlight Fishing Rod
           Permanent Buff: Max MP +3
@@ -2578,146 +2579,146 @@ check off sections in the box as you complete them.
   == Other: Chapter 2 ==
 [ ] = Triplets' Room =
         Requirements:
-          3x Provence Bed
-          3x Provence Bookshelf
-          3x Provence Table
-          3x Provence Chair
-          3x Provence Decorative Lamp
-          3x Leaf Doll
+          3x {Provence Bed}
+          3x {Provence Bookshelf}
+          3x {Provence Table}
+          3x {Provence Chair}
+          3x {Provence Decorative Lamp}
+          3x {Leaf Doll}
         Rewards:
           Permanent Buff: Max Weight Increase +5
 
 [ ] = Fry it Up! =
         Requirements:
-          50x Delicious French Fries
-          50x Delicious Carrot Fries
-          50x Delicious Onion Rings
-          50x Delicious Deep-Fried Squid
-          50x Delicious Fried Cuttlefish
-          50x Old Boots
+          50x {Delicious French Fries}
+          50x {Delicious Carrot Fries}
+          50x {Delicious Onion Rings}
+          50x {Delicious Deep-Fried Squid}
+          50x {Delicious Fried Cuttlefish}
+          50x {Old Boots}
         Rewards:
           Permanent Buff: ATK +5
 
 [ ] = Official Snack Cart Menu =
         Requirements:
-          30x Delicious Spicy Marinated Smelt
-          30x Delicious Seafood Stew
-          30x Delicious Parboiled Octopus
-          30x Delicious Fishcake Soup
-          100x Thick Chicken Foot
+          30x {Delicious Spicy Marinated Smelt}
+          30x {Delicious Seafood Stew}
+          30x {Delicious Parboiled Octopus}
+          30x {Delicious Fishcake Soup}
+          100x {Thick Chicken Foot}
         Rewards:
           Permanent Buff: DEF +5
 
 [ ] = Recommended Midsummer Menu =
         Requirements:
-          30x Delicious Assorted Fruit
-          30x Delicious Spicy Wings
-          30x Delicious Fish and Chips
-          30x Delicious Deep-Fried Squid
-          20x Krieg's Red Booze
+          30x {Delicious Assorted Fruit}
+          30x {Delicious Spicy Wings}
+          30x {Delicious Fish and Chips}
+          30x {Delicious Deep-Fried Squid}
+          20x {Krieg's Red Booze}
         Rewards:
           Permanent Buff: Max Weight Increase +5
 
 [ ] = Invisible Man =
         Requirements:
-          5x Transparency Potion
-          Transparent Cloak
+          5x {Transparency Potion}
+          {Transparent Cloak}
         Rewards:
           Permanent Buff: Max MP +3
 
 [ ] = It's Dangerous Outside =
         Requirements:
-          Roof Head Doll
-          Mysterious Fireplace
-          Ordinary Bed
+          {Roof Head Doll}
+          {Mysterious Fireplace}
+          {Ordinary Bed}
         Rewards:
           Permanent Buff: Max Weight Increase +10
 
 [ ] = Masterpiece Collector 1 =
         Requirements:
-          Picture Piece - Campsite 1/6
-          Picture Piece - Campsite 2/6
-          Picture Piece - Campsite 3/6
-          Picture Piece - Campsite 4/6
-          Picture Piece - Campsite 5/6
-          Picture Piece - Campsite 6/6
+          {Picture Piece - Campsite 1/6}
+          {Picture Piece - Campsite 2/6}
+          {Picture Piece - Campsite 3/6}
+          {Picture Piece - Campsite 4/6}
+          {Picture Piece - Campsite 5/6}
+          {Picture Piece - Campsite 6/6}
         Rewards:
           Permanent Buff: Max MP +3
 
 [ ] = Masterpiece Collector 2 =
         Requirements:
-          Picture Piece - Hunting 1/6
-          Picture Piece - Hunting 2/6
-          Picture Piece - Hunting 3/6
-          Picture Piece - Hunting 4/6
-          Picture Piece - Hunting 5/6
-          Picture Piece - Hunting 6/6
+          {Picture Piece - Hunting 1/6}
+          {Picture Piece - Hunting 2/6}
+          {Picture Piece - Hunting 3/6}
+          {Picture Piece - Hunting 4/6}
+          {Picture Piece - Hunting 5/6}
+          {Picture Piece - Hunting 6/6}
         Rewards:
           Permanent Buff: Max MP +3
 
 [ ] = Colorful Plushie =
         Requirements:
-          Green Toy Egg
-          Mysterious Green Toy Egg
-          Blue Toy Egg
-          Purple Toy Egg
-          Orange Toy Egg
+          {Green Toy Egg}
+          {Mysterious Green Toy Egg}
+          {Blue Toy Egg}
+          {Purple Toy Egg}
+          {Orange Toy Egg}
         Rewards:
           Permanent Buff: Max Weight Increase +5
 
 [ ] = Neutral Plushie =
         Requirements:
-          Gray Snow Lion Doll
-          Dark Gray Snow Lion Doll
-          Black Snow Lion Doll
-          Gray Yatta Doll
-          Gray Thief Doll
+          {Gray Snow Lion Doll}
+          {Dark Gray Snow Lion Doll}
+          {Black Snow Lion Doll}
+          {Gray Yatta Doll}
+          {Gray Thief Doll}
         Rewards:
           Permanent Buff: Max Weight Increase +10
 
 [ ] = A Doll on a Journey =
         Requirements:
-          Lost Traveler's Distress Letter
-          Airplane Pilot Doll
+          {Lost Traveler's Distress Letter}
+          {Airplane Pilot Doll}
         Rewards:
           Permanent Buff: Max Weight Increase +10
 
 [ ] = Cute Animal Doll =
         Requirements:
-          Bunny-Eared Yatta Doll
-          Spotted Cow Doll
+          {Bunny-Eared Yatta Doll}
+          {Spotted Cow Doll}
         Rewards:
           Permanent Buff: Max Weight Increase +10
 
 [ ] = I Protect My Party Member 1 =
         Requirements:
-          30x [Lesser Party Potion] ATK
-          30x [Lesser Party Potion] DEF
-          30x [Lesser Party Potion] Max HP/MP
+          30x {[Lesser Party Potion] ATK}
+          30x {[Lesser Party Potion] DEF}
+          30x {[Lesser Party Potion] Max HP/MP}
         Rewards:
           Permanent Buff: Max MP +3
 
 [ ] = I Protect My Party Member 2 =
         Requirements:
-          20x [Intermediate Party Potion] ATK
-          20x [Intermediate Party Potion] DEF
-          20x [Intermediate Party Potion] Max HP/MP
+          20x {[Intermediate Party Potion] ATK}
+          20x {[Intermediate Party Potion] DEF}
+          20x {[Intermediate Party Potion] Max HP/MP}
         Rewards:
           Permanent Buff: Max MP +3
 
 [ ] = I Protect My Party Member 3 =
         Requirements:
-          10x [Advanced Party Potion] ATK
-          10x [Advanced Party Potion] DEF
-          10x [Advanced Party Potion] Max HP/MP
+          10x {[Advanced Party Potion] ATK}
+          10x {[Advanced Party Potion] DEF}
+          10x {[Advanced Party Potion] Max HP/MP}
         Rewards:
           Permanent Buff: Max MP +3
 
 [ ] = Fixing Ingrown Nails =
         Requirements:
-          10x Kalakeya's Spear Claw
-          10x Griffin's Fierce Claw
-          10x Sand's Claw
+          10x {Kalakeya's Spear Claw}
+          10x {Griffin's Fierce Claw}
+          10x {Sand's Claw}
         Rewards:
           Permanent Buff: ATK +5
 
@@ -2725,192 +2726,192 @@ check off sections in the box as you complete them.
   == Other: Chapter 3 ==
 [ ] = A Doll That Likes Makeup =
         Requirements:
-          Clown Yatta Doll
-          Sun Doll
-          Angel Yatta Doll
-          Magician Yatta Doll
+          {Clown Yatta Doll}
+          {Sun Doll}
+          {Angel Yatta Doll}
+          {Magician Yatta Doll}
         Rewards:
           Permanent Buff: Max Weight Increase +10
 
 [ ] = A Doll with a Hat =
         Requirements:
-          Lantern Hat Doll
-          Pirate Hat Doll
-          Red Hat Elk Doll
+          {Lantern Hat Doll}
+          {Pirate Hat Doll}
+          {Red Hat Elk Doll}
         Rewards:
           Permanent Buff: Max Weight Increase +10
 
 [ ] = Elk Doll with Small Horns 1 =
         Requirements:
-          Elk Doll
-          Blue Elk Doll
-          Peach Elk Doll
-          Red Bow Tie Elk Doll
+          {Elk Doll}
+          {Blue Elk Doll}
+          {Peach Elk Doll}
+          {Red Bow Tie Elk Doll}
         Rewards:
           Permanent Buff: Max Weight Increase +10
 
 [ ] = Elk Doll with Small Horns 2 =
         Requirements:
-          Queen Elk Doll
-          Maid Elk Doll
-          Red Hat Elk Doll
+          {Queen Elk Doll}
+          {Maid Elk Doll}
+          {Red Hat Elk Doll}
         Rewards:
           Permanent Buff: Max Weight Increase +10
 
 [ ] = Pumpkins Galore =
         Requirements:
-          Pumpkin Head Doll
-          10x Delicious Pumpkin Porridge
-          10x Delicious Pumpkin Pie
-          10x Delicious Steamed 5-Grain Sweet Pumpkin
+          {Pumpkin Head Doll}
+          10x {Delicious Pumpkin Porridge}
+          10x {Delicious Pumpkin Pie}
+          10x {Delicious Steamed 5-Grain Sweet Pumpkin}
         Rewards:
           Permanent Buff: Max MP +5
 
 [ ] = What do you call the king of vegetables? Elvis Parsley! =
         Requirements:
-          100x Orange
-          10x Old Boots
-          Oren's Seed
-          Oren's Halo
+          100x {Orange}
+          10x {Old Boots}
+          {Oren's Seed}
+          {Oren's Halo}
         Rewards:
           Permanent Buff: Max Weight Increase +20
 
 [ ] = I'm the King Fisher Here! =
         Requirements:
-          10x Striped Jewfish
-          10x Swordfish
-          10x Goliath Grouper
-          10x Sturgeon
-          10x Marlin
+          10x {Striped Jewfish}
+          10x {Swordfish}
+          10x {Goliath Grouper}
+          10x {Sturgeon}
+          10x {Marlin}
         Rewards:
           Permanent Buff: Max Weight Increase +20
 
 [ ] = The Millionaire's Ambition =
         Requirements:
-          10x Radiant Goblin's Magic Wand
-          Masterpiece Golden Goblin Sculpture
-          Masterpiece Dynamic Dolphin Figurehead
-          Masterpiece Tarae Sculpture
-          Sly Oath
-          Sparkling Greed
+          10x {Radiant Goblin's Magic Wand}
+          {Masterpiece Golden Goblin Sculpture}
+          {Masterpiece Dynamic Dolphin Figurehead}
+          {Masterpiece Tarae Sculpture}
+          {Sly Oath}
+          {Sparkling Greed}
         Rewards:
           Permanent Buff: DEF +10
 
 [ ] = Unique Plushie Collector =
         Requirements:
-          Leaf Doll
-          Sun Doll
-          Pirate Hat Doll
-          Spotted Cow Doll
-          Roof Head Doll
-          Pumpkin Head Doll
+          {Leaf Doll}
+          {Sun Doll}
+          {Pirate Hat Doll}
+          {Spotted Cow Doll}
+          {Roof Head Doll}
+          {Pumpkin Head Doll}
         Rewards:
           Permanent Buff: ATK +10
 
 [ ] = Fancy Dinner =
         Requirements:
-          100x Delicious Bowl of Rice
-          30x Delicious Blue Crab Soup
-          30x Delicious BBQ Platter
-          100x Mineral Water
+          100x {Delicious Bowl of Rice}
+          30x {Delicious Blue Crab Soup}
+          30x {Delicious BBQ Platter}
+          100x {Mineral Water}
         Rewards:
           Permanent Buff: Max Weight Increase +10
 
 [ ] = Basics of Weapon Crafting 1 =
         Requirements:
-          300x Iron Ingot
-          200x Advanced Iron Ingot
-          100x Superior Iron Ingot
-          300x Light Lumber
-          200x Solid Lumber
-          100x Sturdy Lumber
+          300x {Iron Ingot}
+          200x {Advanced Iron Ingot}
+          100x {Superior Iron Ingot}
+          300x {Light Lumber}
+          200x {Solid Lumber}
+          100x {Sturdy Lumber}
         Rewards:
           Permanent Buff: Max Weight Increase +5
 
 [ ] = Basics of Armor Crafting 1 =
         Requirements:
-          300x Cotton Cloth
-          200x Silk Cloth
-          100x Quality Silk Cloth
-          300x Thin Leather
-          200x Tough Leather
-          100x Quality Leather
+          300x {Cotton Cloth}
+          200x {Silk Cloth}
+          100x {Quality Silk Cloth}
+          300x {Thin Leather}
+          200x {Tough Leather}
+          100x {Quality Leather}
         Rewards:
           Permanent Buff: Max Weight Increase +5
 
 [ ] = Elegant Tea Party =
         Requirements:
-          50x Delicious Ginger Tea
-          50x Delicious Warm Ginger Tea
-          50x Delicious Herbal Tea
-          50x Delicious Milk Tea
-          50x Delicious Sweet Potato Cake
+          50x {Delicious Ginger Tea}
+          50x {Delicious Warm Ginger Tea}
+          50x {Delicious Herbal Tea}
+          50x {Delicious Milk Tea}
+          50x {Delicious Sweet Potato Cake}
         Rewards:
           Permanent Buff: Max Weight Increase +5
 
 [ ] = Meat Party =
         Requirements:
-          200x Prime Raw Meat
-          200x High Quality Bird Meat
-          50x Delicious BBQ Platter
-          50x Delicious Honey Butter Chicken Legs
+          200x {Prime Raw Meat}
+          200x {High Quality Bird Meat}
+          50x {Delicious BBQ Platter}
+          50x {Delicious Honey Butter Chicken Legs}
         Rewards:
           Permanent Buff: Max Weight Increase +5
 
 [ ] = Forget the Calories =
         Requirements:
-          100x Delicious Chocolate
-          50x Delicious Chocolate Chip Cookie
-          50x Delicious Chocolate Ice Cream
-          50x Delicious Brownie
+          100x {Delicious Chocolate}
+          50x {Delicious Chocolate Chip Cookie}
+          50x {Delicious Chocolate Ice Cream}
+          50x {Delicious Brownie}
         Rewards:
           Permanent Buff: Max Weight Increase +5
 
 [ ] = Trendy Child's Room 1 =
         Requirements:
-          Toy Wallpaper
-          Toy Bed
-          Toy Chair
-          Toy End Table
-          Toy Storage Box
+          {Toy Wallpaper}
+          {Toy Bed}
+          {Toy Chair}
+          {Toy End Table}
+          {Toy Storage Box}
         Rewards:
           Permanent Buff: Max Weight Increase +8
 
 [ ] = Trendy Child's Room 2 =
         Requirements:
-          Toy Floor
-          Toy Table
-          Toy Sofa
-          Toy Bookshelf
-          Toy Decorative Lamp
-          Toy Carpet
+          {Toy Floor}
+          {Toy Table}
+          {Toy Sofa}
+          {Toy Bookshelf}
+          {Toy Decorative Lamp}
+          {Toy Carpet}
         Rewards:
           Permanent Buff: Max Weight Increase +8
 
 [ ] = Baby Shark, Doo Doo Doo =
         Requirements:
-          20x Sturgeon
-          20x Hammerhead Shark
-          10x Delicious Caviar
+          20x {Sturgeon}
+          20x {Hammerhead Shark}
+          10x {Delicious Caviar}
         Rewards:
           Item: Baby Shark
 
 [ ] = I Want a Cat, Too! =
         Requirements:
-          Meerkat Plunderer Thief's Dagger
-          30x Rare Meerkat Card
-          Masterpiece Cat Sculpture
-          100x Puffy Tail
+          {Meerkat Plunderer Thief's Dagger}
+          30x {Rare Meerkat Card}
+          {Masterpiece Cat Sculpture}
+          100x {Puffy Tail}
         Rewards:
           Item: Gracie the Cat
 
 [ ] = Life on Desert =
         Requirements:
-          100x Cracked Hourglass
-          30x Rare Sand Spirit Card
-          10x Desert Predator's Shell
-          50x Lifeblood of the Forest
-          50x Mysterious Bud
+          100x {Cracked Hourglass}
+          30x {Rare Sand Spirit Card}
+          10x {Desert Predator's Shell}
+          50x {Lifeblood of the Forest}
+          50x {Mysterious Bud}
         Rewards:
           Item: Taco Tuesday Sombrero
 
@@ -2918,107 +2919,107 @@ check off sections in the box as you complete them.
   == Other: Memo Collection ==
 [ ] = Collecting Unidentified Documents 1 =
         Requirements:
-          5x Unidentified Document 1
-          5x Unidentified Document 2
-          5x Unidentified Document 3
-          5x Unidentified Document 4
-          5x Unidentified Document 5
-          5x Unidentified Document 6
+          5x {Unidentified Document 1}
+          5x {Unidentified Document 2}
+          5x {Unidentified Document 3}
+          5x {Unidentified Document 4}
+          5x {Unidentified Document 5}
+          5x {Unidentified Document 6}
         Rewards:
           Permanent Buff: Max Weight Increase +5
 
 [ ] = Collecting Unidentified Documents 2 =
         Requirements:
-          5x Unidentified Document 7
-          5x Unidentified Document 8
-          5x Unidentified Document 9
-          5x Unidentified Document 10
-          5x Unidentified Document 11
-          5x Unidentified Document 12
+          5x {Unidentified Document 7}
+          5x {Unidentified Document 8}
+          5x {Unidentified Document 9}
+          5x {Unidentified Document 10}
+          5x {Unidentified Document 11}
+          5x {Unidentified Document 12}
         Rewards:
           Permanent Buff: Max Weight Increase +5
 
 [ ] = Collecting Unidentified Documents 3 =
         Requirements:
-          5x Unidentified Document 13
-          5x Unidentified Document 14
-          5x Unidentified Document 15
-          5x Unidentified Document 16
-          5x Unidentified Document 17
-          5x Unidentified Document 18
+          5x {Unidentified Document 13}
+          5x {Unidentified Document 14}
+          5x {Unidentified Document 15}
+          5x {Unidentified Document 16}
+          5x {Unidentified Document 17}
+          5x {Unidentified Document 18}
         Rewards:
           Permanent Buff: Max Weight Increase +5
 
 [ ] = Collecting Unidentified Documents 4 =
         Requirements:
-          5x Unidentified Document 19
-          5x Unidentified Document 20
-          5x Unidentified Document 21
-          5x Unidentified Document 22
-          5x Unidentified Document 23
-          5x Unidentified Document 24
+          5x {Unidentified Document 19}
+          5x {Unidentified Document 20}
+          5x {Unidentified Document 21}
+          5x {Unidentified Document 22}
+          5x {Unidentified Document 23}
+          5x {Unidentified Document 24}
         Rewards:
           Permanent Buff: Max Weight Increase +5
 
 [ ] = Collecting Unidentified Documents 5 =
         Requirements:
-          5x Unidentified Document 25
-          5x Unidentified Document 26
-          5x Unidentified Document 27
-          5x Unidentified Document 28
-          5x Unidentified Document 29
-          5x Unidentified Document 30
+          5x {Unidentified Document 25}
+          5x {Unidentified Document 26}
+          5x {Unidentified Document 27}
+          5x {Unidentified Document 28}
+          5x {Unidentified Document 29}
+          5x {Unidentified Document 30}
         Rewards:
           Permanent Buff: Max Weight Increase +5
 
 [ ] = Collecting Unidentified Documents 6 =
         Requirements:
-          5x Unidentified Document 31
-          5x Unidentified Document 32
-          5x Unidentified Document 33
-          5x Unidentified Document 34
-          5x Unidentified Document 35
-          5x Unidentified Document 36
+          5x {Unidentified Document 31}
+          5x {Unidentified Document 32}
+          5x {Unidentified Document 33}
+          5x {Unidentified Document 34}
+          5x {Unidentified Document 35}
+          5x {Unidentified Document 36}
         Rewards:
           Permanent Buff: Max Weight Increase +5
 
 [ ] = Some Adventurer's Journal 1 =
         Requirements:
-          5x Some Adventurer's Journal 1
-          5x Some Adventurer's Journal 2
-          5x Some Adventurer's Journal 3
-          5x Some Adventurer's Journal 4
-          5x Some Adventurer's Journal 5
+          5x {Some Adventurer's Journal 1}
+          5x {Some Adventurer's Journal 2}
+          5x {Some Adventurer's Journal 3}
+          5x {Some Adventurer's Journal 4}
+          5x {Some Adventurer's Journal 5}
         Rewards:
           Permanent Buff: Max Weight Increase +3
 
 [ ] = Some Adventurer's Journal 2 =
         Requirements:
-          5x Some Adventurer's Journal 6
-          5x Some Adventurer's Journal 7
-          5x Some Adventurer's Journal 8
-          5x Some Adventurer's Journal 9
-          5x Some Adventurer's Journal 10
+          5x {Some Adventurer's Journal 6}
+          5x {Some Adventurer's Journal 7}
+          5x {Some Adventurer's Journal 8}
+          5x {Some Adventurer's Journal 9}
+          5x {Some Adventurer's Journal 10}
         Rewards:
           Permanent Buff: Max Weight Increase +3
 
 [ ] = Some Adventurer's Journal 3 =
         Requirements:
-          5x Some Adventurer's Journal 11
-          5x Some Adventurer's Journal 12
-          5x Some Adventurer's Journal 13
-          5x Some Adventurer's Journal 14
-          5x Some Adventurer's Journal 15
+          5x {Some Adventurer's Journal 11}
+          5x {Some Adventurer's Journal 12}
+          5x {Some Adventurer's Journal 13}
+          5x {Some Adventurer's Journal 14}
+          5x {Some Adventurer's Journal 15}
         Rewards:
           Permanent Buff: Max Weight Increase +3
 
 [ ] = Some Adventurer's Journal 4 =
         Requirements:
-          5x Some Adventurer's Journal 16
-          5x Some Adventurer's Journal 17
-          5x Some Adventurer's Journal 18
-          5x Some Adventurer's Journal 19
-          5x Some Adventurer's Journal 20
-          5x Some Adventurer's Journal 21
+          5x {Some Adventurer's Journal 16}
+          5x {Some Adventurer's Journal 17}
+          5x {Some Adventurer's Journal 18}
+          5x {Some Adventurer's Journal 19}
+          5x {Some Adventurer's Journal 20}
+          5x {Some Adventurer's Journal 21}
         Rewards:
           Permanent Buff: Max Weight Increase +5
