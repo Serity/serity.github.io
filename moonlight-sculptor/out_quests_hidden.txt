@@ -6,6 +6,10 @@ it does not check AI scripts which may have additional criteria such as required
 items, required levels, required time of day, etc. There may also be other required
 quests as part of an AI's scripts that are not mentioned here.
 
+Notably, the Black Market questline's "quests" tend to not be actual quests and are
+just hidden parts of an AI's script. For help on unlocking the Black Market, see here: 
+https://serity.github.io/moonlight-sculptor/out_black_market.txt
+
 
 
 #43: {Suspicious Chair}
