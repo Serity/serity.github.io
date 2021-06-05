@@ -1,4 +1,15 @@
+
+                    * IMPORTANT NOTE *
+There may be other criteria required in order to start or continue a quest
+besides "another quest was completed". This data only checks the quest database;
+it does not check AI scripts which may have additional criteria such as required
+items, required levels, required time of day, etc. There may also be other required
+quests as part of an AI's scripts that are not mentioned here.
+
+
+
 #43: {Suspicious Chair}
+* Honan <Serraborg Castle>
     Sit on the chair in front of the First Step Inn.
     (Sit on the chair in front of the First Step Inn.)
 * Rewards
@@ -6,6 +17,7 @@
     - 100x Gold
 
 #3113: {Ennead's Secret}
+* Rodrias <Serraborg Castle>
 * (Pre-req: Quest 'Handle with Care')
     Uncover every secret in Ennead.
     (Uncover every secret about the Land of the Forgotten Kingdom.)
@@ -15,6 +27,7 @@
     - 4600x Gold
 
 #19: {The Crystal's Power of Light}
+* Jaihin <Baran>
     Talk to Jaihin the potion merchant.
     (Jaihin the potion merchant tells you about a Transformation Potion and recommends you try it.)
 * Rewards
@@ -23,18 +36,21 @@
     - 1x De-Transformation Potion
 
 #33: {Making a Cute Friend}
+* Lydia <Serraborg Castle>
     Talk to Lydia the pet supply merchant.
     (You talk to Lydia, the pet supply merchant of Serraborg Castle. She tells you how to tame a pet, an adventurer's adorable companion.)
 * Rewards
     - 2520x XP
 
 #34: {Everyone's Best Friend}
+* Lydia <Serraborg Castle (Takes place in Fox Plains)>
     Tame a Rabbit at the Fox Plains.
     (Using the herbivore feed Lydia gave you, tame a Rabbit at the Fox Plains.)
 * Rewards
     - 2520x XP
 
 #460: {Drillmaster's Acknowledgement}
+* Durk <Serraborg Castle (Takes place in Serraborg Training Center)>
     Talk to Durk.
     (When you come back from the Leatvar Den suppression, Durk happily greets you. He says he has a gift for you and asks you to wait a moment.)
 * Rewards
@@ -44,6 +60,7 @@
     - 3x Drillmaster's Lunch Box
 
 #461: {Order of Freya's Savior}
+* Eina <Serraborg Castle>
     Talk to Eina.
     (Priestess Eina is delighted to see you found the Order of Freya's holy treasure. You've become the hero of the Order of Freya.)
 * Rewards
@@ -52,6 +69,7 @@
     - 7600x Gold
 
 #462: {Eye Protection}
+* Parme <Serraborg Castle>
     Collect Shattered Glass Bottles.
     (It makes Parme happy to see adventurers engaging in her line of work and crafting. But having personal experience with deteriorating vision from spending a long time working the bellows, she feels compelled to help you. First, Parme asks you to bring a Shattered Glass Bottle.)
 * Rewards
@@ -59,6 +77,7 @@
     - 1400x Gold
 
 #3234: {Sturdy Frame}
+* Parme <Serraborg Castle>
 * (Pre-req: Quest 'Eye Protection')
     Collect Advanced Iron Ingots.
     (Parme tells you to bring back an Advanced Iron Ingot to make a sturdy frame for her glasses.)
@@ -67,6 +86,7 @@
     - 1400x Gold
 
 #3235: {The Finishing Touch}
+* Parme <Serraborg Castle>
 * (Pre-req: Quest 'Sturdy Frame')
     Collect Rubies.
     (Lastly, Parme tells you to bring a Ruby to decorate her glasses.)
@@ -75,6 +95,7 @@
     - 1400x Gold
 
 #3236: {Watch Like a Hawk}
+* Parme <Serraborg Castle>
 * (Pre-req: Quest 'The Finishing Touch')
     Deliver the items to Parme.
     (Telling you to take a good care of your eyes, Parme gives you the glasses she made. Now you can not only protect your vision, but also see things you weren't able to see before.)
@@ -84,6 +105,7 @@
     - 1x Parme's Glasses
 
 #463: {Learn to Hit Hard}
+* Swordhead505 <Serraborg Castle>
     Talk to Swordhead505.
     (Serraborg Castle's Swordhead505 tells you about the Hard Hit skill, which is the most basic skill in martial arts.)
 * Rewards
@@ -92,6 +114,7 @@
     - Skill: Hard Hit M
 
 #464: {Free XP Recovery}
+* Eina <Serraborg Castle>
     Receive XP Recovery from Eina.
     (Oh no! You died and lost some of your hard-earned XP. Go to Eina in front of the Serraborg Sanctum to recover your XP.)
 * Rewards
@@ -99,6 +122,7 @@
     - 600x Gold
 
 #481: {Suppression Team Qualification}
+* Valdor <Wasteland>
 * (Pre-req: Quest 'The Watchman's Favor')
     Hunt Coyotes.
     (Wanting to test your skills before hunting the mad Fox, Valdor asks you to defeat some Coyotes. Exterminate the Coyotes around the area.)
@@ -107,6 +131,7 @@
     - 1700x Gold
 
 #482: {Go to Valdor}
+* Valdor <Wasteland>
 * (Pre-req: Quest 'Suppression Team Qualification')
     Talk to Valdor.
     (After easily subduing the Coyotes, you talk to Valdor. He praises you for your excellent skills and says you should meet Harris.)
@@ -115,6 +140,7 @@
     - 600x Gold
 
 #483: {Go to Harris}
+* Harris <Fox Plains>
 * (Pre-req: Quest 'Go to Valdor')
     Go to Harris.
     (You bring Valdor's recommendation and Harris lets you pass. Then, he asks you to find his missing allies.)
@@ -123,6 +149,7 @@
     - 900x Gold
 
 #3238: {The Last Information}
+* Harris <Fox Plains>
 * (Pre-req: Quest 'Go to Harris')
     Ask the watchman about the last reported location of the missing Suppression Team member.
     (Check the last reported location of the missing Suppression Team member.)
@@ -131,6 +158,7 @@
     - 900x Gold
 
 #484: {Find the Missing Luciano}
+* Watchman <Fox Plains>
 * (Pre-req: Quest 'The Last Information')
     Find the Suppression Team member in the western region.
     (Find a Suppression Team member on the western path who looks bewitched.)
@@ -139,6 +167,7 @@
     - 900x Gold
 
 #485: {Find the Missing Domingo}
+* Harris <Fox Plains>
 * (Pre-req: Quest 'Find the Missing Luciano')
     Find the Suppression Team member in the eastern region.
     (Find a Suppression Team member on the eastern path who looks bewitched.)
@@ -147,6 +176,7 @@
     - 900x Gold
 
 #486: {Find the Missing Carreras}
+* Harris <Fox Plains>
 * (Pre-req: Quest 'Find the Missing Domingo')
     Find the last missing Suppression Team member.
     (Find the last Suppression Team member who looks bewitched.)
@@ -155,6 +185,7 @@
     - 900x Gold
 
 #487: {Go to Harris}
+* Harris <Fox Plains>
 * (Pre-req: Quest 'Find the Missing Carreras')
     Go to Harris.
     (After finding all of the members, you go back to Harris. Harris tells you about the mad Fox Yivee and desperately asks you to defeat it.)
@@ -163,6 +194,7 @@
     - 900x Gold
 
 #488: {Seductive Fox Elimination}
+* Harris <Fox Plains>
 * (Pre-req: Quest 'Go to Harris')
     Find and defeat Yivee.
     (You find Yivee hiding somewhere in the Fox Plains. You finally defeat Yivee, who has been causing trouble in the Fox Plains.)
@@ -171,6 +203,7 @@
     - 1700x Gold
 
 #489: {Go to Harris}
+* Harris <Fox Plains>
 * (Pre-req: Quest 'Seductive Fox Elimination')
     Go to Harris.
     (After defeating Yivee, report back to Harris.)
@@ -179,6 +212,7 @@
     - 900x Gold
 
 #490: {No One Can Seduce You}
+* Harris <Fox Plains>
 * (Pre-req: Quest 'Go to Harris')
     Talk to Harris.
     (Harris is delighted and gives you a Suppression Team Token, which allows you to freely go in and out of the Fox Plains.)
@@ -188,6 +222,7 @@
     - 900x Gold
 
 #491: {Suspicious Shadow}
+* Willfire <Southern Plains>
     Talk to McKlein.
     (Willfire tells you about a strange phenomenon that has been happening in the Southern Plains recently. Willfire says it caused he and McKlein to quarrel. He asks you to convince McKlein.)
 * Rewards
@@ -195,6 +230,7 @@
     - 500x Gold
 
 #492: {Suspicious Animal}
+* McKlein <Southern Plains>
 * (Pre-req: Quest 'Suspicious Shadow')
     Hunt the Moonlight Wolves that only appear at night.
     (At Willfire's request, you go speak to McKlein. McKlein says the Moonlight Wolves, which appear at night, are responsible for all the troubles. He asks you to hunt them down.)
@@ -203,6 +239,7 @@
     - 900x Gold
 
 #493: {Go to McKlein}
+* McKlein <Southern Plains>
 * (Pre-req: Quest 'Suspicious Animal')
     Talk to McKlein.
     (McKlein tells you about a story he learned. At McKlein's request, investigate the suspicious shadow.)
@@ -211,6 +248,7 @@
     - 500x Gold
 
 #494: {A Distant Commotion}
+* McKlein <Southern Plains>
 * (Pre-req: Quest 'Go to McKlein')
     Talk to Paul.
     (You go to Paul at McKlein's request, but Paul looks scared for some reason and says he doesn't know anything. He yells at you, saying you should go to Dante. You feel something is amiss, but decide to find Dante anyway.)
@@ -219,6 +257,7 @@
     - 500x Gold
 
 #495: {Go to Dante}
+* Paul <Southern Plains>
 * (Pre-req: Quest 'A Distant Commotion')
     Talk to Dante.
     (Dante says he witnessed a group of monsters that used to live in the lake fighting the Hounds over territory. You decide to find out who used to live in the lake.)
@@ -227,6 +266,7 @@
     - 500x Gold
 
 #496: {Monster Turf War}
+* Paul <Southern Plains>
 * (Pre-req: Quest 'Go to Dante')
     Find the Spirit.
     (You find the spirit who was exiled from the lake in a remote place. The spirit is extremely upset and shows hostility against you.)
@@ -235,6 +275,7 @@
     - 600x Gold
 
 #497: {Distrustful Spirit}
+* Spirit <Southern Plains>
 * (Pre-req: Quest 'Monster Turf War')
     Defeat the Hound Soldiers and Hound Warriors.
     (The lake spirit says that if you want to gain its trust, you'll have to defeat Hound Soldiers and Hound Warriors. You exterminate the Hound Soldiers and Hound Warriors around the area in order to gain the spirit's trust.)
@@ -243,6 +284,7 @@
     - 1100x Gold
 
 #498: {Return to the Spirit}
+* Spirit <Southern Plains>
 * (Pre-req: Quest 'Distrustful Spirit')
     Return to the Spirit.
     (You go back after defeating the Hound Soldiers, and the lake spirit acknowledges your skills a little. The spirit says that if you defeat Roshu, the Hound leader who kicked the spirit out of the lake, you'll gain the spirit's friendship.)
@@ -251,6 +293,7 @@
     - 600x Gold
 
 #499: {Marauder Elimination}
+* Spirit <Southern Plains>
 * (Pre-req: Quest 'Return to the Spirit')
     Find and defeat Marauder Roshu.
     (You find Marauder Roshu, the culprit behind all the trouble, and successfully defeat him.)
@@ -259,6 +302,7 @@
     - 1200x Gold
 
 #500: {Return to the Spirit}
+* Spirit <Southern Plains>
 * (Pre-req: Quest 'Marauder Elimination')
     Return to the Spirit.
     (Go back to the spirit and report that you defeated Roshu.)
@@ -267,6 +311,7 @@
     - 600x Gold
 
 #501: {The Spirit's Friend}
+* Spirit <Southern Plains>
 * (Pre-req: Quest 'Return to the Spirit')
     Talk to theSpirit.
     (Delighted, the spirit says you gained its friendship. It gives you a Mangy Horse it has been taking care of.)
@@ -277,6 +322,7 @@
     - 1x Mangy Horse Contract
 
 #503: {The Watchman's Favor}
+* Watchman <Fox Plains (Takes place in Wasteland)>
     Talk to Valdor.
     (The watchman is aware that you're traveling to fight against the Undying Legion. Trusting your skills, the watchman asks you a difficult favor.)
 * Rewards
@@ -284,6 +330,7 @@
     - 600x Gold
 
 #504: {Adeline's Grievances}
+* Adeline <Wasteland>
     Talk to Valdor.
     (While you're listening to Adeline's grievances, Valdor appears.)
 * Rewards
@@ -291,6 +338,7 @@
     - 600x Gold
 
 #510: {Kayne's Call}
+* Kayne <Serraborg Castle (Takes place in Serraborg Palace)>
     Enter Serraborg Palace and talk to Kayne.
     (You enter the Serraborg Palace to talk to Honor Guard Captain Kayne. He asks you to obtain a Vigor Elixir to cure King Fiodar's lethargy, as the Knight Captain's inauguration is coming up.)
 * Rewards
@@ -298,6 +346,7 @@
     - 3900x Gold
 
 #511: {Kayne's Concern}
+* Kayne <Serraborg Castle>
 * (Pre-req: Quest 'Kayne's Call')
     Get the Vigor Elixir from Elena.
     (Go to Elena of Serraborg Castle to obtain the Vigor Elixir.)
@@ -306,6 +355,7 @@
     - 3900x Gold
 
 #512: {King Fiodar's Recovery}
+* Elena <Serraborg Castle (Takes place in Serraborg Palace)>
 * (Pre-req: Quest 'Kayne's Concern')
     Bring the Vigor Elixir to King Fiodar.
     (When you bring the Vigor Elixir to the lethargic King Fiodar, he quickly regains his vigor.)
@@ -314,6 +364,7 @@
     - 3900x Gold
 
 #513: {Knight Captain Inauguration}
+* Fiodar <Serraborg Castle (Takes place in Serraborg Palace)>
 * (Pre-req: Quest 'King Fiodar's Recovery')
     Be inaugurated as the Rosheim Royal Knight Captain.
     (Once King Fiodar regains his vigor, he appoints you as the Royal Knight Captain of Rosheim. After the official inauguration, you take on the position.)
@@ -322,6 +373,7 @@
     - 3900x Gold
 
 #514: {King Fiodar's Grave}
+* Fiodar <Serraborg Castle (Takes place in Serraborg Palace)>
 * (Pre-req: Quest 'Knight Captain Inauguration')
     Find and bring the 3 decorations that King Fiodar ordered.
     (King Fiodar of Rosheim Kingdom has been preparing for his eternal rest. Find 3 accessories to decorate his tomb.)
@@ -330,12 +382,14 @@
     - 3900x Gold
 
 #515: {Kayne's Recall}
+* Kayne <Serraborg Castle (Takes place in Serraborg Palace)>
     Enter Serraborg Palace and talk to Kayne.
     (You enter the Serraborg Palace to talk to Honor Guard Captain Kayne. He asks you to obtain a Vigor Elixir to cure King Fiodar's lethargy, as the Knight Captain's inauguration is coming up.)
 * Rewards
     - 3900x Gold
 
 #516: {Reseat the Knight Captain}
+* Fiodar <Serraborg Castle (Takes place in Serraborg Palace)>
 * (Pre-req: Quest 'Kayne's Recall')
     Be re-inaugurated as the Rosheim Royal Knight Captain.
     (Once King Fiodar regains his vigor, he appoints you as the Royal Knight Captain of Rosheim. After the official inauguration, you take on the position.)
@@ -344,6 +398,7 @@
     - 3900x Gold
 
 #517: {Fancy King Fiodar Sculpture}
+* Fiodar <Serraborg Castle>
 * (Pre-req: Quest 'Knight Captain Inauguration')
     Commission the Fancy King Fiodar Sculpture from Serraborg Castle Sculptor Depps.
     (Go find Depps the Sculptor of Serraborg Castle to receive the fancy sculpture King Fiodar ordered.)
@@ -352,6 +407,7 @@
     - 3900x Gold
 
 #518: {Blazing Sunstone}
+* Fiodar <Serraborg Castle (Takes place in Baran)>
 * (Pre-req: Quest 'Knight Captain Inauguration')
     Commission the Blazing Sunstone from Baran Village blacksmith Rakin.
     (Get the Blazing Sunstone crafted by Rakin, the blacksmith of Baran Village.)
@@ -360,6 +416,7 @@
     - 3900x Gold
 
 #519: {Xygon's Silver Rake}
+* Fiodar <Serraborg Castle (Takes place in Livias)>
 * (Pre-req: Quest 'Knight Captain Inauguration')
     Receive Xygon's Silver Rake from Crowe of Livias.
     (Receive Xygon's Silver Rake from Crowe, the Livias blacksmith.)
@@ -368,6 +425,7 @@
     - 3900x Gold
 
 #700: {For Your Eyes Only}
+* Transformed Suppression Team Member <Wasteland>
     Find the transformed Suppression Team member at the Wasteland.
     (You show the document you found by chance to Ciel. Ciel asks you to help a Suppression Team member who's on a mission. After drinking the Orc Transformation Potion, find the transformed Suppression Team member.)
 * Rewards
@@ -375,6 +433,7 @@
     - 800x Gold
 
 #701: {Another Transformation}
+* Transformed Suppression Team Member <Wasteland>
 * (Pre-req: Quest 'For Your Eyes Only')
     Transform into an Orc and get checked by the Suppression Team.
     (After transforming into an Orc, you run into the team member who's carrying out the mission near the Orc Town. Explain the situation to the wary Suppression Team member.)
@@ -383,6 +442,7 @@
     - 800x Gold
 
 #702: {The Kingdom's Crisis}
+* Transformed Suppression Team Member <Wasteland>
 * (Pre-req: Quest 'Another Transformation')
     Move with the Suppression Team to whereBaquenchie will appear.
     (After explaining the situation to the transformed Suppression Team member, they tell you the plan. Go to Baquenchie's territory with the team member.)
@@ -391,6 +451,7 @@
     - 800x Gold
 
 #703: {How to Overcome the Crisis}
+* Transformed Suppression Team Member <Wasteland>
 * (Pre-req: Quest 'The Kingdom's Crisis')
     Escape from the Orc's base.
     (You and the Suppression Team member are in danger. Escape from the Orc's base.)
@@ -399,6 +460,7 @@
     - 800x Gold
 
 #704: {Use an Enemy, Catch an Enemy}
+* Transformed Suppression Team Member <Wasteland>
 * (Pre-req: Quest 'How to Overcome the Crisis')
     Collect the Lizardman Fluid.
     (Collect Lizardman Fluid to make a Lizardman Transformation Potion.)
@@ -407,6 +469,7 @@
     - 3000x Gold
 
 #705: {Alienation Strategy}
+* Transformed Suppression Team Member <Wasteland>
 * (Pre-req: Quest 'Use an Enemy, Catch an Enemy')
     Return to the transformed Suppression Team member.
     (Deliver the Lizardman Fluid to the transformed Suppression Team member.)
@@ -417,6 +480,7 @@
     - 1x De-Transformation Potion
 
 #706: {The Genius of Transformation}
+* Transformed Suppression Team Member <Wasteland>
 * (Pre-req: Quest 'Alienation Strategy')
     Transform into a Lizardman and get checked by the Suppression Team.
     (Confirm with the Suppression Team member that you've been transformed into a Lizard.)
@@ -425,6 +489,7 @@
     - 800x Gold
 
 #707: {Make a Disturbance 1}
+* Transformed Suppression Team Member <Wasteland>
 * (Pre-req: Quest 'The Genius of Transformation')
     Badmouth the Orcs.
     (After transforming into a Lizardman, badmouth the Orcs.)
@@ -433,6 +498,7 @@
     - 800x Gold
 
 #708: {Make a Disturbance 2}
+* Transformed Suppression Team Member <Wasteland>
 * (Pre-req: Quest 'Make a Disturbance 1')
     Badmouth the Orcs.
     (After transforming into a Lizardman, badmouth the Orcs.)
@@ -441,6 +507,7 @@
     - 800x Gold
 
 #709: {Make a Disturbance 3}
+* Transformed Suppression Team Member <Wasteland>
 * (Pre-req: Quest 'Make a Disturbance 2')
     Badmouth the Orcs.
     (After transforming into a Lizardman, badmouth the Orcs.)
@@ -449,6 +516,7 @@
     - 800x Gold
 
 #710: {Emergency Escape}
+* Transformed Suppression Team Member <Wasteland>
 * (Pre-req: Quest 'Make a Disturbance 3')
     Escape from the Orc's base.
     (Run away from the Orc's base.)
@@ -458,6 +526,7 @@
     - 800x Gold
 
 #720: {Secret Map of Somewhere}
+* Rodrek <Sand Plains>
     Ask the Sand Plains residents about the secret map.
     (You find a map by chance. Ask people about this secret map.)
 * Rewards
@@ -465,6 +534,7 @@
     - 1600x Gold
 
 #721: {A Familiar Terrain}
+* Rodrek <Sand Plains>
 * (Pre-req: Quest 'Secret Map of Somewhere')
     Move to where Rodrek told you about.
     (Go to the location Rodrek told you.)
@@ -473,6 +543,7 @@
     - 1600x Gold
 
 #722: {Assassins' Secret Spot}
+* Rodrek <Sand Plains>
 * (Pre-req: Quest 'A Familiar Terrain')
     Talk to Rodrek about what happened.
     (Tell Rodrek what happened.)
@@ -481,6 +552,7 @@
     - 1600x Gold
 
 #723: {The Perfect Disguise}
+* Rodrek <Sand Plains>
 * (Pre-req: Quest 'Assassins' Secret Spot')
     Collect Assassin's Poison Plants carried by the Assassin Members.
     (Rodrek suggests transforming into an Assassin Member to find out what they're hiding.)
@@ -489,6 +561,7 @@
     - 6200x Gold
 
 #724: {Assassin's Poison Plant}
+* Rodrek <Sand Plains>
 * (Pre-req: Quest 'The Perfect Disguise')
     Deliver the Assassin's Poison Plants to Rodrek.
     (Deliver the Assassin's Poison Plant to Rodrek.)
@@ -497,6 +570,7 @@
     - 1600x Gold
 
 #725: {Fool the Thieves}
+* Rodrek <Sand Plains>
 * (Pre-req: Quest 'Assassin's Poison Plant')
     Transform into an Assassin Member and talk to the Assassin Gatekeeper.
     (Transform into an Assassin Member to talk to the Assassin Gatekeeper.)
@@ -505,6 +579,7 @@
     - 1600x Gold
 
 #730: {Thieves' Secret Spot}
+* Assassin Gatekeeper <Sand Plains (Takes place in Ant Tunnel)>
 * (Pre-req: Quest 'Fool the Thieves')
     Enter the Assassins' Secret Spot.
     (Go to the place the Assassin Member guides you to.)
@@ -513,6 +588,7 @@
     - 1600x Gold
 
 #731: {Sweep the Secret Spot 1}
+* Assassin Gatekeeper <Ant Tunnel>
 * (Pre-req: Quest 'Thieves' Secret Spot')
     Clean up the Assassins' Secret Spot.
     (Transform into an Assassin Member to wipe out the Assassins' Secret Spot.)
@@ -521,6 +597,7 @@
     - 6200x Gold
 
 #732: {Sweep the Secret Spot 2}
+* Assassin Gatekeeper <Ant Tunnel>
 * (Pre-req: Quest 'Sweep the Secret Spot 1')
     Clean up the Assassins' Secret Spot.
     (Transform into an Assassin Member to wipe out the Assassins' Secret Spot.)
@@ -529,6 +606,7 @@
     - 6200x Gold
 
 #733: {How to Get Outside}
+* Assassin Gatekeeper <Ant Tunnel>
 * (Pre-req: Quest 'Sweep the Secret Spot 2')
     Ask the Assassin Gatekeeper how to exit.
     (Ask the Assassin Member how you can leave the Secret Spot.)
@@ -538,6 +616,7 @@
     - 3x Teleportation Picture
 
 #734: {Assassin's Treasure}
+* Assassin Gatekeeper <Ant Tunnel (Takes place in Sand Plains)>
 * (Pre-req: Quest 'How to Get Outside')
     Come out of the Secret Spot and go to Rodrek.
     (Tell Rodrek the things you saw at the Assassins' Secret Spot.)
@@ -546,6 +625,7 @@
     - 1600x Gold
 
 #740: {The Real Owner of the Treasure}
+* Rodrek <Sand Plains>
 * (Pre-req: Quest 'Assassin's Treasure')
     Collect Assassin's Poison Plants to transform into Harvy.
     (Collect Assassin's Poison Plants to transform into Harvy.)
@@ -554,6 +634,7 @@
     - 6200x Gold
 
 #741: {Pretend to be the Boss}
+* Rodrek <Sand Plains>
 * (Pre-req: Quest 'The Real Owner of the Treasure')
     Deliver the Assassin's Poison Plants to Rodrek.
     (Deliver the Assassin's Poison Plant to Rodrek.)
@@ -562,6 +643,7 @@
     - 1600x Gold
 
 #742: {The Owner of the Secret Spot}
+* Rodrek <Sand Plains>
 * (Pre-req: Quest 'Pretend to be the Boss')
     Transform into Harvy and go to the Assassin's Secret Spot.
     (Transform into Harvy and go to the Assassins' Secret Spot.)
@@ -570,6 +652,7 @@
     - 1600x Gold
 
 #743: {Bold Thievery}
+* Rodrek <Sand Plains (Takes place in Ant Tunnel)>
 * (Pre-req: Quest 'The Owner of the Secret Spot')
     Steal the treasure in the secret spot.
     (Steal the treasure from the Assassins' Secret Spot.)
@@ -579,6 +662,7 @@
     - 1x Assassin's Stolen Goods
 
 #744: {Loot Thief}
+* Rodrek <Sand Plains>
 * (Pre-req: Quest 'Bold Thievery')
     Talk to Rodrek about the treasure.
     (Tell Rodrek about the treasure.)
@@ -587,6 +671,7 @@
     - 1600x Gold
 
 #745: {No Conscience Whatsoever}
+* Rodrek <Sand Plains>
     Give the treasure to Rodrek.
     (Deliver the treasure to Rodrek.)
 * Rewards
@@ -596,6 +681,7 @@
     - Skill: Pile It On M
 
 #746: {Textbook of Ethics}
+* Rodrek <Sand Plains>
     Give the treasure to Rahel.
     (Deliver the treasure to Rahel.)
 * Rewards
@@ -605,6 +691,7 @@
     - Skill: Battle-Tested Veteran M
 
 #750: {Lost Members 1}
+* Kadeo <Ant Tunnel>
     Find the Expedition Team at the northeast of the Ant Tunnel and collect the Expedition Team Member's Rings.
     (Find the Expedition Team who got lost at the northeastern part of the Ant Tunnel and collect the Expedition Team Member Ring.)
 * Rewards
@@ -612,6 +699,7 @@
     - 6800x Gold
 
 #751: {Lost Members 2}
+* Kadeo <Ant Tunnel>
 * (Pre-req: Quest 'Lost Members 1')
     Find the Expedition Team at the southeast of the Ant Tunnel and collect the Expedition Team Member's Rings.
     (Find the Expedition Team who got lost at the southeastern part of the Ant Tunnel and collect the Expedition Team Member Ring.)
@@ -620,6 +708,7 @@
     - 6800x Gold
 
 #752: {Lost Members 3}
+* Kadeo <Ant Tunnel>
 * (Pre-req: Quest 'Lost Members 2')
     Find the Expedition Team at the west of the Ant Tunnel and collect the Expedition Team Member's Rings.
     (Find the Expedition Team who got lost at the western part of the Ant Tunnel and collect the Expedition Team Member Ring.)
@@ -628,6 +717,7 @@
     - 6800x Gold
 
 #753: {Honorary Expedition Team Member}
+* Kadeo <Ant Tunnel>
 * (Pre-req: Quest 'Lost Members 3')
     Deliver the Expedition Team Member's Ring to the Expedition Team Captain.
     (All Expedition Team Members have been found, and the Expedition Team Captain has returned.)
@@ -638,6 +728,7 @@
     - 3x Teleportation Picture
 
 #760: {Survey the Big Dungeon}
+* Cedric <Mephisto Hall>
     Explore every floor of Mephisto Hall.
     (Explore all floors of Mephisto Hall and obtain a map.)
 * Rewards
@@ -645,6 +736,7 @@
     - 2600x Gold
 
 #761: {Mephisto Hall Explorer}
+* Cedric <Mephisto Hall>
 * (Pre-req: Quest 'Survey the Big Dungeon')
     Return to Cedric at Mephisto Hall BF1.
     (Return to Cedric.)
@@ -653,6 +745,7 @@
     - 2600x Gold
 
 #770: {The Hidden Azure Island}
+* Cedric <Mephisto Hall (Takes place in Livias)>
 * (Pre-req: Quest 'Mephisto Hall Explorer')
     Ask Livias residents about the hidden place in Livias.
     (Ask Livias residents if they know anything about what Cedric told you.)
@@ -661,6 +754,7 @@
     - 2600x Gold
 
 #771: {Alegro's Wariness}
+* Alegro <Livias>
 * (Pre-req: Quest 'The Hidden Azure Island')
     Eliminate every Harpy nearby.
     (Alegro is wary of you, but asks you to drive out the nearby Harpies.)
@@ -669,6 +763,7 @@
     - 5100x Gold
 
 #772: {Softened Heart}
+* Alegro <Livias>
 * (Pre-req: Quest 'Alegro's Wariness')
     Return to Alegro.
     (After driving out the Harpies, go back to Alegro.)
@@ -677,6 +772,7 @@
     - 2600x Gold
 
 #773: {Conflict with the Harpies}
+* Alegro <Livias>
 * (Pre-req: Quest 'Softened Heart')
     Eliminate Harpy Syren.
     (Alegro asks you to defeat Harpy Syren if you want to gain his trust.)
@@ -686,6 +782,7 @@
     - 1x Syren's Wing
 
 #774: {Resolving Doubts}
+* Alegro <Livias>
 * (Pre-req: Quest 'Conflict with the Harpies')
     Return to Alegro.
     (After driving out Harpy Syren, go back to Alegro.)
@@ -694,6 +791,7 @@
     - 2600x Gold
 
 #775: {Token of Friendship}
+* Alegro <Livias>
 * (Pre-req: Quest 'Resolving Doubts')
     Use the Livias Village Map.
     (Alegro gives you a gift as a token of friendship and suggests you use it.)
@@ -702,6 +800,7 @@
     - 10200x Gold
 
 #780: {Complete Annihilation}
+* Yusri <Lizardman Valley>
     Defeat every monster inhabiting Lizardman Valley.
     (Yusri says we must break the Lizardmen's spirits so they don't invade Baran Village. He asks you to defeat all of them.)
 * Rewards
@@ -709,6 +808,7 @@
     - 2700x Gold
 
 #781: {Bright Future}
+* Yusri <Lizardman Valley>
 * (Pre-req: Quest 'Complete Annihilation')
     Return to the Yusri.
     (At Yusri's request, you defeat many Lizardmen.)
@@ -719,6 +819,7 @@
     - 200x Advanced MP Recovery Potion
 
 #782: {Acknowledgement of the Kingdom}
+* Mibal <Serraborg Castle (Takes place in Wasteland)>
     Defeat every monster inhabiting the Wasteland.
     (Mibal says in order to be acknowledged and become a Kingdom Centurion, annihilate the monsters at the Wasteland.)
 * Rewards
@@ -726,6 +827,7 @@
     - 1900x Gold
 
 #783: {Kingdom Centurion}
+* Mibal <Serraborg Castle (Takes place in Serraborg Barracks)>
 * (Pre-req: Quest 'Acknowledgement of the Kingdom')
     Return to Mibal.
     (Defeat many monsters at the Wasteland and go back to Mibal.)
@@ -735,6 +837,7 @@
     - 1000x Gold
 
 #784: {The Story of the Big World}
+* Glen <Serraborg Castle>
     Tell the story from outside of Serraborg.
     (Glen at Serraborg Castle asks you to tell her about Livias and Baran Village.)
 * Rewards
@@ -745,6 +848,7 @@
     - 2x Armor Enchant Scroll
 
 #785: {A Friend's Concern}
+* Lydia <Serraborg Castle (Takes place in Baran)>
     Deliver 5 Barley Bread to Adiva at Baran Village.
     (Lydia at Serraborg Castle is concerned about Adiva, her friend living in Baran Village. She asks you to check if Adiva's doing okay.)
 * Rewards
@@ -753,6 +857,7 @@
     - 3x Teleportation Picture
 
 #786: {Lunch Box Delivery Business 1}
+* Melissa <Serraborg Castle (Takes place in Serraborg Barracks)>
     Deliver Melissa's Lunch Box to Gats.
     (Melissa, the chef of Serraborg Castle, asks for your help to make her new business successful.)
 * Rewards
@@ -760,6 +865,7 @@
     - 900x Gold
 
 #787: {Lunch Box Delivery Business 2}
+* Melissa <Serraborg Castle (Takes place in Hunter Union)>
 * (Pre-req: Quest 'Lunch Box Delivery Business 1')
     Deliver Melissa's Lunch Box to Robin.
     (Melissa, the chef of Serraborg Castle, asks for your help to make her new business successful.)
@@ -768,6 +874,7 @@
     - 900x Gold
 
 #788: {Lunch Box Delivery Business 3}
+* Melissa <Serraborg Castle (Takes place in Mage Colloquium)>
 * (Pre-req: Quest 'Lunch Box Delivery Business 2')
     Deliver Melissa's Lunch Box to Hend.
     (Melissa, the chef of Serraborg Castle, asks for your help to make her new business successful.)
@@ -776,6 +883,7 @@
     - 900x Gold
 
 #789: {Lunch Box Delivery Business 4}
+* Melissa <Serraborg Castle (Takes place in Serraborg Sanctum)>
 * (Pre-req: Quest 'Lunch Box Delivery Business 3')
     Deliver Melissa's Lunch Box to Senna.
     (Melissa, the chef of Serraborg Castle, asks for your help to make her new business successful.)
@@ -784,6 +892,7 @@
     - 900x Gold
 
 #790: {Lunch Box Delivery Business 5}
+* Melissa <Serraborg Castle (Takes place in Sculptor Association)>
 * (Pre-req: Quest 'Lunch Box Delivery Business 4')
     Deliver Melissa's Lunch Box to Camus.
     (Melissa, the chef of Serraborg Castle, asks for your help to make her new business successful.)
@@ -792,6 +901,7 @@
     - 900x Gold
 
 #791: {Successful First Delivery}
+* Melissa <Serraborg Castle>
 * (Pre-req: Quest 'Lunch Box Delivery Business 5')
     Return to Melissa.
     (Melissa, the chef of Serraborg Castle, asks for your help to make her new business successful.)
@@ -802,6 +912,7 @@
     - 5x Drillmaster's Lunch Box
 
 #792: {Balanced Diet Only}
+* Raoul <Livias>
 * (Pre-req: Quest 'Successful First Delivery')
     Eat the Bowl of Rice that Raoul gave you.
     (Raoul, the food merchant of Livias, is handing out food to people who look hungry.)
@@ -812,6 +923,7 @@
     - 3x Marinated Grilled Fish
 
 #793: {The Marauders}
+* Ali <Baran (Takes place in Sand Plains)>
     Defeat the Ant Lions at the Sand Plains.
     (Ali, the innkeeper of Baran Village, asks you to defeat Ant Lions because he's terrified of them.)
 * Rewards
@@ -819,6 +931,7 @@
     - 3300x Gold
 
 #794: {A Charming Dance}
+* Hwaryeong <Serraborg Castle (Takes place in Sky Vine)>
     Collect Honey.
     (Hwaryeong of Serraborg Castle wants to make a fragrance to boost the allure of her dances. She asks you to obtain Honey for her.)
 * Rewards
@@ -826,6 +939,7 @@
     - 9000x Gold
 
 #795: {An Attractive Scent}
+* Hwaryeong <Serraborg Castle>
 * (Pre-req: Quest 'A Charming Dance')
     Deliver Honey to Hwaryeong.
     (Collect Honey and give it to Hwaryeong so she can make an attractive fragrance.)
@@ -834,6 +948,7 @@
     - 2300x Gold
 
 #796: {Limited Knowledge}
+* Hend <Serraborg Castle>
     Ask Hend's questions to Rodrias.
     (Ask Rodrias what Hend wants to know.)
 * Rewards
@@ -841,6 +956,7 @@
     - 900x Gold
 
 #797: {The Cranky Sage}
+* Rodrias <Serraborg Castle (Takes place in Mage Colloquium)>
 * (Pre-req: Quest 'Limited Knowledge')
     Deliver Rodrias's word to Hend.
     (Rodrias begrudgingly answers the question. Tell Hend what he said.)
@@ -849,6 +965,7 @@
     - 900x Gold
 
 #798: {Restricted Knowledge}
+* Hend <Serraborg Castle>
 * (Pre-req: Quest 'The Cranky Sage')
     Ask Hend's questions to Rodrias again.
     (Ask Rodrias what Hend wants to know.)
@@ -857,6 +974,7 @@
     - 900x Gold
 
 #799: {Sage's Wisdom}
+* Rodrias <Serraborg Castle (Takes place in Mage Colloquium)>
 * (Pre-req: Quest 'Restricted Knowledge')
     Deliver Rodrias's word to Hend.
     (Rodrias begrudgingly answers the question. Tell Hend what he said.)
@@ -867,6 +985,7 @@
     - 2x Armor Enchant Scroll
 
 #800: {Food for Cheering}
+* Robin <Serraborg Castle (Takes place in Hunter Union)>
     Gather 10 Potatoes from Southern Plains and deliver them to Robin.
     (Robin wants to make food for the Fox Plains Hunters to cheer them up. He asks you to bring 10 Potatoes.)
 * Rewards
@@ -875,6 +994,7 @@
     - 100x Serraborg Hunter Arrow
 
 #801: {Happy Screams}
+* Camus <Serraborg Castle (Takes place in Sand Plains)>
     Receive a Big Marble from the Sand Plains blacksmith Amelie.
     (Camus ordered Marble for the Sculptor's test, but has no time to pick it up. He asks you to pick it up for him.)
 * Rewards
@@ -882,6 +1002,7 @@
     - 1900x Gold
 
 #802: {Big Marble}
+* Amelie <Sand Plains (Takes place in Sculptor Association)>
 * (Pre-req: Quest 'Happy Screams')
     Deliver the Big Marble to Camus.
     (Amelie says you're right on time and asks you to bring the Marble to Camus.)
@@ -890,6 +1011,7 @@
     - 1900x Gold
 
 #803: {The Dwarf's Weapon}
+* Amelie <Sand Plains>
     Deliver 3 Advanced Iron Ingots to Amelie.
     (Amelie is ecstatic about crafting a Dwarf's Sword. Deliver 3 Advanced Iron Ingots that Amelie ordered.)
 * Rewards
@@ -897,6 +1019,7 @@
     - 2300x Gold
 
 #804: {Amelie's Crushed Sword}
+* Amelie <Sand Plains (Takes place in Baran)>
 * (Pre-req: Quest 'The Dwarf's Weapon')
     Show Amelie's Sword to Rakin of Baran Village.
     (Amelie is disappointed that her sword is messed up. She gives you the sword so you can melt it and get the iron ingot out of it.)
@@ -906,6 +1029,7 @@
     - 3x Advanced Iron Ingot
 
 #805: {Barkan's Force}
+* Senna <Serraborg Castle (Takes place in Baran)>
     Go to Gandalva.
     (Paladin Senna says there's an urgent command from the order and relays you the instructions.)
 * Rewards
@@ -914,6 +1038,7 @@
     - 3x Teleportation Picture
 
 #812: {Confession}
+* Eina <Serraborg Castle>
 * (Pre-req: Quest 'No Conscience Whatsoever')
     Go to Eina.
     (Priestess Eina calls you and says there's bad news. Eina says you should confess your sins to god and ask for forgiveness.)
@@ -922,6 +1047,7 @@
     - 1600x Gold
 
 #813: {How to Atone for Sins}
+* Eina <Serraborg Castle (Takes place in Sand Plains)>
 * (Pre-req: Quest 'Confession')
     Defeat the Assassins.
     (Eina says in order to atone for your sins, you need to punish the Assassins who stole money from the people of the Sand Plains. She asks you to defeat them.)
@@ -930,6 +1056,7 @@
     - 3100x Gold
 
 #814: {Drop the Baggage Behind You}
+* Eina <Serraborg Castle>
 * (Pre-req: Quest 'How to Atone for Sins')
     Go to Eina.
     (After defeating all of the Assassins, go back to Eina.)
@@ -939,6 +1066,7 @@
     - Skill: Battle-Tested Veteran M
 
 #815: {Learn about the World}
+* Balak <Forgotten Sand Ravine>
 * (Pre-req: Quest 'Textbook of Ethics')
     Go to Balak.
     (Balak says you're known for being ignorant of the ways of the world and suggests you come see him.)
@@ -947,6 +1075,7 @@
     - 1600x Gold
 
 #816: {Blow off Steam}
+* Balak <Forgotten Sand Ravine (Takes place in Sand Plains)>
 * (Pre-req: Quest 'Learn about the World')
     Defeat the Assassins.
     (Balak says you must be upset the Assassins deceived you. He suggests you should take it out on them.)
@@ -955,6 +1084,7 @@
     - 3100x Gold
 
 #817: {Good Guy, Bad Guy}
+* Balak <Forgotten Sand Ravine>
 * (Pre-req: Quest 'Blow off Steam')
     Go to Balak.
     (After defeating all of the Assassins, go back to Balak.)
@@ -964,30 +1094,35 @@
     - Skill: Pile It On M
 
 #823: {Good Armor}
+* Naguib <Baran>
     Deliver 30 Resilient Leather to Naguib.
     (Naguib says his armor broke because of Lizardmen. He asks you to collect Resilient Leather to make new armor.)
 * Rewards
     - 5000x Gold
 
 #824: {A New Sale Item}
+* Araz <Baran>
     Deliver 30 Resilient Leather to Araz.
     (Araz says Lizardmen's Resilient Leather is sold for a good price at the market. He asks you to obtain a few pieces of it.)
 * Rewards
     - 100x Gold
 
 #825: {The Last Operation}
+* Bakr <Baran>
     Deliver 30 Resilient Leather to Bakr.
     (Bakr says he plans to transform into a Lizardman and destroy them from within. For this strategy to work, he needs you to bring Resilient Leather.)
 * Rewards
     - 2500x Gold
 
 #826: {Vandalism}
+* Francis <Serraborg Castle (Takes place in Southern Plains)>
     Collect 5 Shattered Glass Bottles at the Southern Plains.
     (Francis searches you quickly and assumes you're the one who destroyed the pots. He says you'll have to do community service to be forgiven. He asks you to collect Shattered Glass Bottles from the Southern Plains by using a fishing rod.)
 * Rewards
     - 47500x XP
 
 #827: {Community Service}
+* Francis <Serraborg Castle>
 * (Pre-req: Quest 'Vandalism')
     Deliver the Shattered Glass Bottles to Francis.
     (Collect all the Shattered Glass Bottles and deliver them to Francis.)
@@ -995,6 +1130,7 @@
     - 47500x XP
 
 #828: {Volunteer Work in a Distant Place}
+* Francis <Serraborg Castle (Takes place in Livias Mountain)>
 * (Pre-req: Quest 'Community Service')
     Go to Cherriat Livias Mountain.
     (Francis says there's a complaint from Livias and asks you to resolve it. You head out to address the complaint, which was sent by Cherri of Livias Mountain.)
@@ -1002,6 +1138,7 @@
     - 47500x XP
 
 #829: {Clean up the Environment}
+* Cherri <Livias Mountain>
 * (Pre-req: Quest 'Volunteer Work in a Distant Place')
     Defeat every monster on Livias Mountain.
     (Cherri says Livias Mountain is in danger because of the increased number of monsters. She asks you to defeat them.)
@@ -1009,6 +1146,7 @@
     - 47500x XP
 
 #830: {For Greener Mountains}
+* Cherri <Livias Mountain>
 * (Pre-req: Quest 'Clean up the Environment')
     Return to Cherri.
     (After defeating the monsters at Livias Mountain, go back to Cherri.)
@@ -1016,6 +1154,7 @@
     - 47500x XP
 
 #831: {The Last Volunteer Work}
+* Cherri <Livias Mountain (Takes place in Serraborg Castle)>
 * (Pre-req: Quest 'For Greener Mountains')
     Go to Francis.
     (Cherri asks you to thank Francis for her.)
@@ -1023,6 +1162,7 @@
     - 47500x XP
 
 #832: {Once in a Lifetime}
+* Francis <Serraborg Castle>
 * (Pre-req: Quest 'The Last Volunteer Work')
     Find Elekh's Hammer at the Ossuary.
     (After doing the community service, Francis asks you a personal favor. He asks you to obtain Elekh's Hammer.)
@@ -1030,6 +1170,7 @@
     - 47500x XP
 
 #833: {A Clean Slate}
+* Francis <Serraborg Castle>
 * (Pre-req: Quest 'Once in a Lifetime')
     Deliver Elekh's Hammer to Francis.
     (You obtain Elekh's Hammer and give it to Francis, and he tells you how to apply a custom title.)
@@ -1038,6 +1179,7 @@
     - 2x Transparency Potion
 
 #867: {Cool Water}
+* Mati <Baran>
     Give 5 Natural Water to Mati.
     (You meet Mati, who's been encumbered by a lot of belongings. When you ask Mati what they're for, he says he'll tell you if you can bring him a cold glass of water.)
 * Rewards
@@ -1045,47 +1187,56 @@
     - 900x Gold
 
 #834: {Repaying Kindness}
+* Araz <Baran>
     Go to Araz the next evening.
     (Araz thanks you for your kindness and asks you to come back the next day.)
 * Rewards
 
 #835: {Baran Black Market}
+* Kalid <Baran>
     Use the Black Market.
     (You can use the Black Market that only operates at night in Baran.)
 * Rewards
 
 #836: {A Secret Trade}
+* Rodrek <Sand Plains>
     Go to Rodrek the next evening.
     (Rodrek says he's not around today and you should come back tomorrow.)
 * Rewards
 
 #837: {Sand Plains Black Market}
+* Rodrek <Sand Plains>
     Use the Black Market.
     (You can use the Black Market that appears in the Sand Plains.)
 * Rewards
 
 #838: {Watch Out for the Ghost}
+* Crowe <Livias>
     Collect Shattered Glass Bottles and Advanced Iron Ingots and deliver them to Crowe.
     (Crowe says he'll make a ghost-exterminating lantern for you if you bring him 5 Shattered Glass Bottles and 2 Advanced Iron Ingots.)
 * Rewards
 
 #839: {A Familiar Light}
+* Dark Shadow <Livias>
     Talk again tomorrow evening.
     (The Dark Shadow says he didn't come today and that you should come back tomorrow.)
 * Rewards
 
 #845: {Livias Black Market}
+* Dark Shadow <Livias>
     Use the Black Market.
     (You can use the Black Market that appears in Livias.)
 * Rewards
 
 #846: {The Meaning of Sunflowers}
+* Depps <Serraborg Castle>
     Find Depps at Serraborg Castle.
     (After one Sculptor made a Sunflower Sculpture for confessing romantic feelings, it became very popular for that purpose. Struggling to meet high demand, Depps asks you to help him, knowing that you enjoy making sculptures.)
 * Rewards
     - 47500x XP
 
 #847: {Radiant Bloom}
+* Depps <Serraborg Castle (Takes place in Baran)>
 * (Pre-req: Quest 'The Meaning of Sunflowers')
     Gather Solid Hardwood to make a Sunflower Sculpture with.
     (To make a Sunflower Sculpture, you need Solid Hardwood in good quality. Go out to get the materials so you can supply the hardwood.)
@@ -1093,6 +1244,7 @@
     - 47500x XP
 
 #848: {The Everlasting Sunflower}
+* Depps <Serraborg Castle>
 * (Pre-req: Quest 'Radiant Bloom')
     Deliver the Sunflower Sculpture Depps gave to Honest_Lake.
     (Thanks to your help, Depps was able to supply the required amount of Sunflower Sculptures. He gives you a Sunflower Sculpture to repay you. Honest_Lake sees that and gingerly asks you a favor.)
@@ -1100,53 +1252,62 @@
     - 47500x XP
 
 #849: {I Have a Question!}
+* Rodrias <Serraborg Castle>
     Ask Rodrias a question.
     (Those who asked Sage Rodrias for advice turned out to be successful, so you'd also like him to give you advice. However, Sage Rodrias doesn't feel like doing anything and doesn't respond to your call. You persistently try to make conversation with him 100 times. This annoys Rodrias, who proceeds to yell at you.)
 * Rewards
 
 #850: {Seeing is Believing}
+* Rodrias <Serraborg Castle>
 * (Pre-req: Quest 'I Have a Question!')
     Find and interview experts in each field.
     (Rodrias is upset that you won't leave him alone. He says you should go meet experts in each field to gain their insights first.)
 * Rewards
 
 #851: {Warrior's Qualification}
+* Rodrias <Serraborg Castle (Takes place in Serraborg Barracks)>
 * (Pre-req: Quest 'Seeing is Believing')
     Ask Gats for advice.
     (Go to Gats of the Warrior Guild to get advice.)
 * Rewards
 
 #852: {Archer's Qualification}
+* Rodrias <Serraborg Castle (Takes place in Hunter Union)>
 * (Pre-req: Quest 'Warrior's Qualification')
     Ask Robin for advice.
     (Go to Robin of the Archer Guild to get advice.)
 * Rewards
 
 #853: {Mage's Qualification}
+* Rodrias <Serraborg Castle (Takes place in Mage Colloquium)>
 * (Pre-req: Quest 'Archer's Qualification')
     Ask Hend for advice.
     (Go to Hend of the Mage Guild to get advice.)
 * Rewards
 
 #854: {Paladin's Qualification}
+* Rodrias <Serraborg Castle (Takes place in Serraborg Sanctum)>
 * (Pre-req: Quest 'Mage's Qualification')
     Ask Senna for advice.
     (Go to Senna of the Paladin Guild to get advice.)
 * Rewards
 
 #855: {Sculptor's Qualification}
+* Rodrias <Serraborg Castle (Takes place in Sculptor Association)>
 * (Pre-req: Quest 'Paladin's Qualification')
     Ask Camus for advice.
     (Go to Camus of the Sculptor Guild to get advice.)
 * Rewards
 
 #856: {The Foundation of Growth}
+* Rodrias <Serraborg Castle>
 * (Pre-req: Quest 'Sculptor's Qualification')
     Tell Rodrias what you learned.
     (After listening to many experts in different fields, you realized something. Tell Rodrias about the epiphany you gained from the experience.)
 * Rewards
 
 #857: {Anti-Drowsiness Flavor}
+* LightFungus <Serraborg Castle>
     Deliver 1 Unidentified Drink to LightFungus.
     (Serraborg Watchman LightFungus is looking for a drink to keep him awake during his night shift. Bring him an Unidentified Drink.)
 * Rewards
@@ -1154,6 +1315,7 @@
     - 700x Gold
 
 #858: {Movements in the Dark}
+* JuMaxie <Serraborg Castle (Takes place in Wasteland)>
     Defeat the Dreary Coyotes that only appear at night.
     (Serraborg Castle's Warrior JuMaxie says her allies are struggling to fight the Dreary Coyotes in the Wasteland and asks you to help them.)
 * Rewards
@@ -1161,6 +1323,7 @@
     - 500x Gold
 
 #859: {The Threat Revealed}
+* Shiara <Baran (Takes place in Lizardman Valley)>
     Defeat the Depraved Lizardman Commanders at Lizardman Valley.
     (The knight Shiara of Baran is patrolling the area to prevent a Lizardman invasion. He says the Depraved Lizardman Commander is expanding their forces to prepare for an invasion, and appears in the area every night. Defeat the Depraved Lizardman Commander on behalf of Shiara.)
 * Rewards
@@ -1168,6 +1331,7 @@
     - 1600x Gold
 
 #860: {An Extended Journey}
+* Rodrias <Serraborg Castle>
     Go to Rodrias.
     (While speaking with Tielmen at the Somren Free City, Weed comes to find you personally and instructs you to go to Rodrias.)
 * Rewards
@@ -1177,6 +1341,7 @@
     - 1x Wings of Will
 
 #861: {Chicken for a Midnight Snack!}
+* Durk <Serraborg Residential District>
     Eat midnight snacks with Durk.
     (Durk felt bad for you since you couldn't even have dinner before you left. When you come back, Durk invites you over for dinner.)
 * Rewards
@@ -1185,6 +1350,7 @@
     - 5x Fried Chicken
 
 #862: {The Scholar's Passion}
+* Lavi <Baran Residential District (Takes place in Sand Plains)>
     Defeat the King Ant Lion that only appears at night.
     (Lavi the geologist is ready to research the fossil recently discovered at the Sand Plains. The research usually continues into the night, but she's unable to dig into the ground to research because of the King Ant Lions running amok at night, so she asks for your help.)
 * Rewards
@@ -1193,6 +1359,7 @@
     - 10x Skill Book
 
 #863: {I Had a Nightmare}
+* Eina <Serraborg Castle>
     Consult with Eina about the troubled nights.
     (You had a nightmare at the inn. Go to Priestess Eina at the Serraborg Sanctum to ask her about the nightmare.)
 * Rewards
@@ -1201,6 +1368,7 @@
     - 5x Vigor Drink
 
 #864: {Watch Underfoot}
+* Atiff <Baran Residential District (Takes place in Sand Plains)>
     Defeat the Blue Scorpions and Vicious Blue Scorpions that only show up at night.
     (Atiff is in charge of patrolling at night all the way to the Sand Plains. However, he gets injured and is unable to patrol. Go on night patrol in Atiff's stead and defeat the Blue Scorpions and Vicious Blue Scorpions that appear at night.)
 * Rewards
@@ -1208,6 +1376,7 @@
     - 1700x Gold
 
 #865: {Night on the Land}
+* Lench <Livias>
     Defeat the monsters that only show up at night and collect Moon-Touched Pieces.
     (Adventurers from Livias have been telling Lench the Knight that there are nocturnal monsters in the land. Very intrigued, Lench wants you to bring him mysterious jewels the nocturnal monsters are said to drop.)
 * Rewards
@@ -1215,6 +1384,7 @@
     - 3400x Gold
 
 #866: {Moon-Touched Jewel}
+* Lench <Livias>
 * (Pre-req: Quest 'Night on the Land')
     Deliver the Moon-Touched Pieces to Lench.
     (Defeat the monsters that only appear at night, collect the Moon-Touched Pieces, and bring them to Lench.)
@@ -1224,70 +1394,82 @@
     - 15x Raw Sapphire
 
 #868: {Another Masterpiece}
+* Depps <Serraborg Castle>
     Talk to the Serraborg Castle Sculptor Depps.
     (<no bartender desc> (quest 868))
 * Rewards
 
 #869: {Burning Ice}
+* Depps <Serraborg Castle (Takes place in Frozen Lands)>
 * (Pre-req: Quest 'Another Masterpiece')
     Collect 5 Condensed Ice at the Frozen Lands.
     (<no bartender desc> (quest 869))
 * Rewards
 
 #870: {Blazing Passion}
+* Depps <Serraborg Castle>
 * (Pre-req: Quest 'Burning Ice')
     Deliver the Condensed Ice to Depps.
     (<no bartender desc> (quest 870))
 * Rewards
 
 #871: {Stronger Power}
+* Depps <Serraborg Castle (Takes place in Scorched Lands)>
 * (Pre-req: Quest 'Blazing Passion')
     Collect 5 Condensed Flames at the Scorched Lands.
     (<no bartender desc> (quest 871))
 * Rewards
 
 #872: {Continental Flames}
+* Depps <Serraborg Castle>
 * (Pre-req: Quest 'Stronger Power')
     Deliver the Condensed Flames to Depps.
     (<no bartender desc> (quest 872))
 * Rewards
 
 #873: {The Task}
+* Eina <Serraborg Castle>
     Talk to the Serraborg Sanctum's priestess, Eina.
     (<no bartender desc> (quest 873))
 * Rewards
 
 #874: {The Holders of Mysterious Power 1}
+* Eina <Serraborg Castle (Takes place in Livias)>
 * (Pre-req: Quest 'The Task')
     Collect Silver Ore for research.
     (<no bartender desc> (quest 874))
 * Rewards
 
 #875: {The Holders of Mysterious Power 2}
+* Eina <Serraborg Castle (Takes place in Leatvar Den BF3)>
 * (Pre-req: Quest 'The Holders of Mysterious Power 1')
     Collect Raw Amethysts for research.
     (<no bartender desc> (quest 875))
 * Rewards
 
 #876: {The Holders of Mysterious Power 3}
+* Eina <Serraborg Castle (Takes place in Leatvar Den BF4)>
 * (Pre-req: Quest 'The Holders of Mysterious Power 2')
     Collect Raw Emeralds for research.
     (<no bartender desc> (quest 876))
 * Rewards
 
 #877: {Not Ready to be Revealed}
+* Eina <Serraborg Castle>
 * (Pre-req: Quest 'The Holders of Mysterious Power 3')
     Go to Eina to deliver the research materials.
     (<no bartender desc> (quest 877))
 * Rewards
 
 #878: {The Timid Food Researcher}
+* Roseanne <Serraborg Castle>
     Deliver the cooking ingredients to Roseanne.
     (Grocery Merchant Roseanne asks for your help because she wants to study cooking, but is afraid of leaving the village to get ingredients. Get food ingredients that can be acquired from the Southern Plains for Roseanne.)
 * Rewards
     - 5000x Gold
 
 #879: {Sorry for the Lost Ingredients}
+* Melissa <Serraborg Castle>
     Deliver 3 Crackers to Melissa.
     (Feeling bad that a lot of ingredients were lost, Serraborg Castle Chef Melissa helps you.)
 * Rewards
@@ -1295,6 +1477,7 @@
     - 1x Delicious Canape
 
 #880: {How to Subsist}
+* Rodrias <Serraborg Castle>
     Get water from the water fountain as Rodrias advised.
     (Rodrias says he'll tell you how to survive when you don't have enough money.)
 * Rewards
@@ -1303,6 +1486,7 @@
     - 1x Fountain Water
 
 #881: {How to Quench Your Thirst}
+* Rodrias <Serraborg Castle>
 * (Pre-req: Quest 'How to Subsist')
     Drink the Fountain Water as Rodrias advised.
     (Rodrias says he'll tell you how to survive when you don't have enough money.)
@@ -1311,6 +1495,7 @@
     - 100x Gold
 
 #882: {To Make Things Worse}
+* Rodrias <Serraborg Castle>
 * (Pre-req: Quest 'How to Quench Your Thirst')
     Go to Rodrias to complain.
     (You followed Rodrias's advice, but it backfired. Go to Rodrias and ask why this happened.)
@@ -1322,6 +1507,7 @@
     - 5x Mineral Water
 
 #883: {Bona Fide Bookworm 1}
+* Envis <Bensa River>
     Deliver 3 Vigor Drinks to Envis.
     (Exhausted from a excessively focused reading stint, Envis asks you to get a Vigor Drink so they can regain their concentration to read books again.)
 * Rewards
@@ -1330,6 +1516,7 @@
     - 3x XP Recovery Scroll
 
 #884: {Bona Fide Bookworm 2}
+* Aival <Regus Outskirts>
     Deliver 3 Chocolate Ice Creams to Aival.
     (Aival claims to have learned everything they know from books. Upon hearing about the Vigor Drink you delivered to Envis, Aival asks you for some Chocolate Ice Cream.)
 * Rewards
@@ -1338,6 +1525,7 @@
     - 3x Crystal Treasure Chest
 
 #885: {Comfortable Resting Place}
+* Matther <Livias Mountain>
     Deliver 10 Thin Leather to make a chair.
     (After a sudden earthquake that happened recently, a lot of people are visiting Livias Mountain. Matther of Livias Mountain decides to create a rest stop they can use.)
 * Rewards
@@ -1345,6 +1533,7 @@
     - 5000x Gold
 
 #889: {Delicious Whipped Cream}
+* Pele <Livias>
     Buy 10 Whipped Cream from Asha.
     (Livias's Little Birdfolk Pele tells you his friend Royd made him a Whipped Cream Cake. Pele says Asha's Whipped Cream Cake is the best and strongly recommends that you try it.)
 * Rewards
@@ -1352,6 +1541,7 @@
     - 5000x Gold
 
 #886: {A Popular Item}
+* Asha <Livias>
 * (Pre-req: Quest 'Delicious Whipped Cream')
     Deliver 20 Milk to Asha.
     (Asha says that ever since the big earthquake, countless people from the land below have been coming to buy her whipped cream. She's run out of inventory and asks you to get some milk for her.)
@@ -1361,6 +1551,7 @@
     - 3x Whipped Cream
 
 #887: {To Achieve Deep Sleep}
+* Marianne <Livias Mountain>
     Deliver 20 Rough Feathers to Marianne.
     (Marianne says the binding power of summoning has weakened lately, and this was what caused the big earthquake. What's more, strong aftershocks have kept coming. Unable to sleep well, she wants to make a comfy pillow. Bring her some Rough Feathers so she can have a good night's sleep.)
 * Rewards
@@ -1368,6 +1559,7 @@
     - 5000x Gold
 
 #888: {Calm Down, My Friend}
+* Adelia <Livias Mountain>
     Deliver 10 Cardiac Stimulants to Adelia.
     (Adelia is exhausted physically and mentally from the recent earthquake and asks you to bring her a Cardiac Stimulant.)
 * Rewards
@@ -1375,6 +1567,7 @@
     - 5000x Gold
 
 #890: {Natural Beggar}
+* Gandalva <Baran>
     Freeload off Latif.
     (Gandalva sees that you're hungry. He tells you to go see Latif and he'll give you a meal.)
 * Rewards
@@ -1383,6 +1576,7 @@
     - 1x Delicious Bibimbap
 
 #891: {Beg One More Time}
+* Gandalva <Baran>
     Freeload off Latif again.
     (Gandalva sees you're hungry and says Latif could give you another meal.)
 * Rewards
@@ -1391,6 +1585,7 @@
     - 1x Bibimbap
 
 #892: {Just One More Time}
+* Gandalva <Baran>
     Freeload off Latif yet again.
     (Gandalva sees you're hungry and says Latif could give you one last meal.)
 * Rewards
@@ -1401,6 +1596,7 @@
     - 1x Assorted Vegetables
 
 #893: {A Clever Birdfolk}
+* Ricardo <Livias>
     Look for Ricardo's diary.
     (Ricardo the clever Birdfolk says he lost his diary in the grass on the way to Livias Mountain and asks you to help find it. )
 * Rewards
@@ -1408,6 +1604,7 @@
     - 5000x Gold
 
 #894: {Precious Diary}
+* Ricardo <Livias>
     Return the diary to Ricardo.
     (Ricardo the clever Birdfolk says he lost his diary in the grass on the way to Livias Mountain and asks you to help find it. )
 * Rewards
@@ -1415,6 +1612,7 @@
     - 5000x Gold
 
 #895: {The 300 Eggs' Whereabouts 1}
+* Ricardo <Livias>
     Gather information about the 300 eggs from Burgany.
     (According to Ricardo's diary, some adventurer wants to buy 300 Birdfolk eggs and hatch them. Ricardo wants to know where the 300 eggs went and asks you to find out.)
 * Rewards
@@ -1422,6 +1620,7 @@
     - 3200x Gold
 
 #896: {The 300 Eggs' Whereabouts 2}
+* Ricardo <Livias (Takes place in Baran)>
 * (Pre-req: Quest 'The 300 Eggs' Whereabouts 1')
     Gather information about the 300 eggs from Gandalva.
     (Burgany tells you which direction the adventurer who bought 300 eggs went in. Go to Baran Village to find out where the 300 eggs are.)
@@ -1430,6 +1629,7 @@
     - 3200x Gold
 
 #897: {The 300 Eggs' Whereabouts 3}
+* Ricardo <Livias (Takes place in Baran)>
 * (Pre-req: Quest 'The 300 Eggs' Whereabouts 2')
     Gather information about the 300 eggs from Kamas.
     (Gandalva tells you which direction the adventurer who bought 300 eggs went in. Go to Kamas at the general store to find out where the 300 eggs are.)
@@ -1438,6 +1638,7 @@
     - 3200x Gold
 
 #898: {The 300 Eggs' Whereabouts 4}
+* Ricardo <Livias (Takes place in Baran)>
 * (Pre-req: Quest 'The 300 Eggs' Whereabouts 3')
     Gather information about the 300 eggs from Azima.
     (Kamas tells you which direction the adventurer who bought 300 eggs went in. Go to Azima at the grocery store to find out where the 300 eggs are.)
@@ -1446,6 +1647,7 @@
     - 3200x Gold
 
 #899: {The Last Clue for the 300 Eggs}
+* Ricardo <Livias (Takes place in Baran)>
 * (Pre-req: Quest 'The 300 Eggs' Whereabouts 4')
     Deliver 3 Roses to Azima.
     (Azima says she knows where the eggs are and says she'll give you information if you bring her materials.)
@@ -1455,6 +1657,7 @@
     - 1x Special Fried Egg
 
 #900: {The Brutal Truth}
+* Ricardo <Livias (Takes place in Baran)>
 * (Pre-req: Quest 'The Last Clue for the 300 Eggs')
     Explain the situation to Azima.
     (You can't bring yourself to tell the brutal truth to Ricardo. Find a solution with Azima.)
@@ -1464,6 +1667,7 @@
     - 1x Azima's Chicken
 
 #901: {A White Lie}
+* Ricardo <Livias>
 * (Pre-req: Quest 'The Brutal Truth')
     Let Ricardo know about the whereabouts of the 300 eggs.
     (Thanks to Azima's help, you won't have to tell Ricardo the brutal truth. Go back to Ricardo and tell him the false information.)
@@ -1473,6 +1677,7 @@
     - 5000x Gold
 
 #902: {The Troublesome Suppression Team}
+* Mibal <Serraborg Barracks (Takes place in Leatvar Den BF2)>
     Check on the troublesome Arvid.
     (Mibal says the troublesome Suppression Team has been giving him a lot of headaches. He is busy, though, so check what's going on with Suppression Team member Arvid on his behalf.)
 * Rewards
@@ -1480,6 +1685,7 @@
     - 1000x Gold
 
 #903: {Arvid Isn't Doing Well}
+* Mibal <Serraborg Barracks (Takes place in Leatvar Den BF2)>
 * (Pre-req: Quest 'The Troublesome Suppression Team')
     Check something beside Arvid.
     (Arvid is not doing well. Something is on the ground near Arvid. Check it to find a clue.)
@@ -1489,6 +1695,7 @@
     - 1x Sipped Kobold Thief's Potion
 
 #904: {Find the Culprit}
+* Mibal <Serraborg Barracks (Takes place in Leatvar Den BF2)>
 * (Pre-req: Quest 'Arvid Isn't Doing Well')
     Find a suspicious individual and interrogate them.
     (You find a Kobold Thief's Potion, but it looks like someone took a sip from it. Find someone who might have something to do with this clue and interrogate them.)
@@ -1497,6 +1704,7 @@
     - 1000x Gold
 
 #905: {The Origin of the Tainted Water 1}
+* Mibal <Serraborg Barracks (Takes place in Leatvar Den BF2)>
 * (Pre-req: Quest 'Find the Culprit')
     Get a Tainted Water Sample from the lake.
     (Hardy says you're also responsible for solving this matter because you were involved in it. You need to go with Hardy and get a Tainted Water Sample in order to solve the problem.)
@@ -1506,6 +1714,7 @@
     - 1x Tainted Water Sample
 
 #906: {The Origin of the Tainted Water 2}
+* Mibal <Serraborg Barracks (Takes place in Leatvar Den)>
 * (Pre-req: Quest 'The Origin of the Tainted Water 1')
     Deliver the Tainted Water Sample to Louise.
     (Get advice from Louise the alchemist in order to analyze the Tainted Water Sample.)
@@ -1514,6 +1723,7 @@
     - 3800x Gold
 
 #907: {The Origin of the Tainted Water 3}
+* Mibal <Serraborg Barracks (Takes place in Leatvar Den)>
 * (Pre-req: Quest 'The Origin of the Tainted Water 2')
     Deliver 10 Unidentified Drinks to Louise.
     (Louise says special materials are required in order to analyze the sample. Collect the needed materials and bring them to Louise.)
@@ -1522,6 +1732,7 @@
     - 1000x Gold
 
 #908: {Wake Up, Arvid!}
+* Mibal <Serraborg Barracks (Takes place in Leatvar Den BF2)>
 * (Pre-req: Quest 'The Origin of the Tainted Water 3')
     Give Arvid the Unidentified Antidote to drink.
     (Make Arvid drink the Unidentified Antidote that Louise made.)
@@ -1531,6 +1742,7 @@
     - 1x Quality Enchant Scroll Chest
 
 #909: {Suppression Team Report}
+* Mibal <Serraborg Barracks>
 * (Pre-req: Quest 'Wake Up, Arvid!')
     Report the Suppression Team's situation to Mibal.
     (Report everything that happened to Mibal.)
@@ -1540,6 +1752,7 @@
     - 2x Enchant Protectant
 
 #910: {Sickening Fishy Smell}
+* Dante <Southern Plains>
     Get advice from Fisherman Paul.
     (Dante is sick of the fishy smell and wants to get rid of it. Get advice from Paul, an experienced fisherman, and bring the information to Dante.)
 * Rewards
@@ -1547,6 +1760,7 @@
     - 500x Gold
 
 #911: {Makeshift Fragrance}
+* Dante <Southern Plains>
 * (Pre-req: Quest 'Sickening Fishy Smell')
     Deliver 5 Herbs to Dante.
     (Paul says you could try using some herbs to mask the smell. You don't know how effective it will be, but you still wish to help. Bring herbs for the desperate Dante.)
@@ -1555,6 +1769,7 @@
     - 500x Gold
 
 #912: {Make the Real Fragrance}
+* Qumonta <Sky Vine>
     Deliver 5 Lavender to Qumonta.
     (Qumonta is helping to make Dante's Fragrance. Help by collecting Lavender, the fragrance's main material.)
 * Rewards
@@ -1562,6 +1777,7 @@
     - 2300x Gold
 
 #913: {Fragrance Material Delivery}
+* Qumonta <Sky Vine (Takes place in Southern Plains)>
 * (Pre-req: Quest 'Make the Real Fragrance')
     Deliver the fragrance materials to Dante.
     (Deliver the fragrance material to Dante because Qumonta is too busy to do so.)
@@ -1570,6 +1786,7 @@
     - 2300x Gold
 
 #914: {Dante's Fragrance is Complete}
+* Dante <Southern Plains>
     Meet Dante and listen to his story.
     (Dante sent a letter informing you that his fragrance has been completed and he'd like to see you.)
 * Rewards
@@ -1578,6 +1795,7 @@
     - 1x Dante's Fragrance
 
 #915: {Sensitive to Scent}
+* Dante <Southern Plains>
 * (Pre-req: Quest 'Dante's Fragrance is Complete')
     Find someone with a sensitive nose and have the fragrance evaluated.
     (Dante says he needs advice for the fragrance he made. Find someone who has a good sense of smell to review the fragrance.)
@@ -1586,6 +1804,7 @@
     - 4600x Gold
 
 #916: {In Need of Cold Medicine}
+* Adria <Livias>
 * (Pre-req: Quest 'Sensitive to Scent')
     Ask Louis about cold medicine.
     (Adria caught a cold. Louis the potion merchant might know a way to help her.)
@@ -1594,6 +1813,7 @@
     - 2300x Gold
 
 #917: {Birdfolk's Cold Medicine 1}
+* Adria <Livias>
 * (Pre-req: Quest 'In Need of Cold Medicine')
     Deliver 20 Deadly Poison to Louis.
     (A Birdfolk's cold is more severe than a human's, so it requires more potent medicine to beat. Louis asks you to bring a strange ingredient for making Birdfolk's Cold Medicine.)
@@ -1602,6 +1822,7 @@
     - 4600x Gold
 
 #918: {Birdfolk's Cold Medicine 2}
+* Adria <Livias>
 * (Pre-req: Quest 'Birdfolk's Cold Medicine 1')
     Deliver 10 Insect Feed to Louis.
     (A Birdfolk's cold is more severe than a human's, so it requires more potent medicine to beat. Louis asks you to bring a strange ingredient for making Birdfolk's Cold Medicine.)
@@ -1610,6 +1831,7 @@
     - 4600x Gold
 
 #919: {Fight the Bad Cold}
+* Adria <Livias>
 * (Pre-req: Quest 'Birdfolk's Cold Medicine 2')
     Deliver the Birdfolk's Cold Medicine to Adria.
     (Deliver the completed Birdfolk's Cold Medicine to Adria.)
@@ -1618,6 +1840,7 @@
     - 2300x Gold
 
 #920: {Dante's Fragrance Review}
+* Dante <Southern Plains>
 * (Pre-req: Quest 'Fight the Bad Cold')
     Deliver the fragrance evaluation to Dante.
     (After Adria takes a rest, you go back to her and get her review of Dante's Fragrance. Deliver the Fragrance Evaluation Report to Dante.)
@@ -1628,6 +1851,7 @@
     - 5x Pearl
 
 #921: {The Father's Revenge}
+* Payle <Serraborg Castle>
     Talk to Payle.
     (Listen to Payle, who seems to be in trouble.)
 * Rewards
@@ -1635,6 +1859,7 @@
     - 3000x Gold
 
 #922: {Gotcha!}
+* Payle <Serraborg Castle (Takes place in Southern Plains)>
 * (Pre-req: Quest 'The Father's Revenge')
     Find the swindler at the Southern Plains.
     (A swindler at the Southern Plains has taken away a precious item that belongs to Payle's father. Go out to find the swindler on behalf of Payle's father.)
@@ -1643,6 +1868,7 @@
     - 3000x Gold
 
 #923: {Proof of Your Power}
+* Sucrose <Southern Plains (Takes place in Barkan Catacombs BF5)>
 * (Pre-req: Quest 'Gotcha!')
     Defeat 1 Von Hawk.
     (Sucrose the swindler scoffs and doesn't even listen to you. Defeat a strong monster to show Sucrose how powerful you are.)
@@ -1651,6 +1877,7 @@
     - 5900x Gold
 
 #924: {Beat Sucrose}
+* Payle <Serraborg Castle (Takes place in Southern Plains)>
 * (Pre-req: Quest 'Proof of Your Power')
     Display your power to Sucrose.
     (After defeating a strong monster, go prove your strength to Sucrose.)
@@ -1659,6 +1886,7 @@
     - 3000x Gold
 
 #925: {A Very Scary Method}
+* Payle <Serraborg Castle>
 * (Pre-req: Quest 'Beat Sucrose')
     Consult with Payle.
     (Sucrose doesn't even budge. Discuss with Payle about how to teach Sucrose a lesson.)
@@ -1667,6 +1895,7 @@
     - 3000x Gold
 
 #926: {Transform into Elekh}
+* Payle <Serraborg Castle (Takes place in Leatvar Den)>
 * (Pre-req: Quest 'A Very Scary Method')
     Deliver 1 Elekh's Hammer to Louise.
     (Payle comes up with a scary plan. He says Louise the alchemist has figured out how to make a terrifying Transformation Potion. Bring the materials to Louise so she can brew one.)
@@ -1677,6 +1906,7 @@
     - 1x De-Transformation Potion
 
 #927: {Give Sucrose Hell}
+* Payle <Serraborg Castle (Takes place in Southern Plains)>
 * (Pre-req: Quest 'Transform into Elekh')
     Transform into Elekh to give Sucrose hell.
     (Having obtained Elekh's Transformation Potion from Louise, you follow the plan you made with Payle. Once you find Sucrose, use the potion to threaten him.)
@@ -1687,6 +1917,7 @@
     - 10x Fox Heartstone
 
 #928: {Deliver the Precious Item}
+* Payle <Serraborg Castle>
 * (Pre-req: Quest 'Give Sucrose Hell')
     Deliver the precious object to Payle or his father.
     (You got the item back from Sucrose. Deliver it to Payle or his father.)
@@ -1698,6 +1929,7 @@
     - 3x Blue Lunarium
 
 #776: {Deliver the Precious Doll}
+* Strongest Swordsman <Serraborg Castle>
 * (Pre-req: Quest 'Give Sucrose Hell')
     Deliver the precious object to Payle or his father.
     (You got the item back from Sucrose. Deliver it to Payle or his father.)
@@ -1709,6 +1941,7 @@
     - 3x Blue Lunarium
 
 #929: {Tough Love}
+* Trusi <Serene Plains>
     Defeat every Hedgehog.
     (Trusi came back from a trip to the Serene Plains, where he was researching Hedgehogs. The research didn't go well, though, because the Hedgehogs were so lazy. Trusi wants you to take revenge on them.)
 * Rewards
@@ -1716,6 +1949,7 @@
     - 10900x Gold
 
 #930: {The Troublemakers}
+* Trusi <Serene Plains>
 * (Pre-req: Quest 'Tough Love')
     Report the situation to Trusi.
     (The Lazy Hedgehogs didn't learn anything, even after being punished. Report to Trusi that the situation hasn't changed.)
@@ -1724,6 +1958,7 @@
     - 5500x Gold
 
 #931: {Desperate for Advice}
+* Trusi <Serene Plains (Takes place in Serraborg Castle)>
 * (Pre-req: Quest 'The Troublemakers')
     Talk to Lydia.
     (Trusi wants to get advice from his close acquaintance Lydia, who researches animals.)
@@ -1732,6 +1967,7 @@
     - 5500x Gold
 
 #932: {Unbelievable Advice}
+* Trusi <Serene Plains>
 * (Pre-req: Quest 'Desperate for Advice')
     Deliver the unbelievable story to Trusi.
     (Lydia says Hedgehogs often get lazy when they fall in love. Could it be true? It's hard to believe, but tell Trusi what Lydia said.)
@@ -1740,6 +1976,7 @@
     - 5500x Gold
 
 #933: {Nothing to Lose}
+* Trusi <Serene Plains>
 * (Pre-req: Quest 'Unbelievable Advice')
     Collect Little Claws.
     (Trusi says he can't forgive the Hedgehogs for delaying his research for such a preposterous reason. He says he thought of a good way to teach them a lesson and asks you to bring materials.)
@@ -1748,6 +1985,7 @@
     - 21800x Gold
 
 #934: {Suspicious Materials for a Dark Plan}
+* Trusi <Serene Plains>
 * (Pre-req: Quest 'Nothing to Lose')
     Deliver the collected materials to Trusi.
     (Trusi says he can't forgive the Hedgehogs for delaying his research for such a preposterous reason. He says he thought of a good way to teach them a lesson and asks you to bring materials.)
@@ -1757,6 +1995,7 @@
     - 1x Vicious Hedgehog Transformation Potion
 
 #935: {Destruction of the Hedgehog}
+* Trusi <Serene Plains>
 * (Pre-req: Quest 'Suspicious Materials for a Dark Plan')
     Defeat 10 Lazy Hedgehogs while transformed.
     (Trusi says he'll teach the Hedgehogs a lesson and gives you a Vicious Hedgehog Transformation Potion. His plan is to make you transform into a Vicious Hedgehog and kick them in the teeth.)
@@ -1766,6 +2005,7 @@
     - 1x De-Transformation Potion
 
 #936: {Cruel Trusi}
+* Trusi <Serene Plains>
 * (Pre-req: Quest 'Destruction of the Hedgehog')
     Return to Trusi and report the situation.
     (After punishing all the Lazy Hedgehogs, you go to Trusi to report. You feel bad that you were probably too cruel to the Hedgehogs.)
@@ -1775,6 +2015,7 @@
     - 7x Pearl
 
 #937: {Not Enough Hands for Dismantling}
+* Curtis <Northern Serraborg Castle>
     Examine the deconstructed item.
     (Deconstructor Curtis is swamped with work and asks for your help. Look through the deconstructed items and bring anything that looks valuable back to Curtis.)
 * Rewards
@@ -1783,6 +2024,7 @@
     - 1x Old-Looking Wood
 
 #938: {Old-Looking Wood}
+* Curtis <Northern Serraborg Castle>
 * (Pre-req: Quest 'Not Enough Hands for Dismantling')
     Deliver wood to Curtis.
     (You found some old-looking wood among the deconstructed items. Unlike other wood, it looks like it could be valuable. Talk to Curtis about this.)
@@ -1791,6 +2033,7 @@
     - 5500x Gold
 
 #939: {Tree Identification Results}
+* Curtis <Northern Serraborg Castle (Takes place in Fox Plains)>
 * (Pre-req: Quest 'Old-Looking Wood')
     Have the wood inspected by Walter the lumberjack.
     (Bring the Hardwood to Lumberjack Walter to assess its value. You hope it'll be something special.)
@@ -1799,6 +2042,7 @@
     - 5500x Gold
 
 #940: {Just an Old Tree}
+* Curtis <Northern Serraborg Castle>
 * (Pre-req: Quest 'Tree Identification Results')
     Deliver the unfortunate inspection results to Curtis.
     (Unfortunately, it was just an old wooden board. Report to Curtis about this unfortunate news.)
@@ -1807,6 +2051,7 @@
     - 5500x Gold
 
 #941: {Try One More Time}
+* Curtis <Northern Serraborg Castle>
 * (Pre-req: Quest 'Just an Old Tree')
     Examine another deconstructed item.
     (Curtis is disappointed about the Hardwood, but says that's a pretty typical occurrence for deconstructors. Look through the deconstructed items and bring Curtis something that looks valuable.)
@@ -1816,6 +2061,7 @@
     - 1x Mysterious Radiant Rock
 
 #942: {The Mysterious Radiant Rock}
+* Curtis <Northern Serraborg Castle>
 * (Pre-req: Quest 'Try One More Time')
     Deliver the rock to Curtis.
     (Among the deconstructed items, you found a rock that emits a mysterious light. Unlike other rocks, it looks like it could be valuable. Let Curtis know about this.)
@@ -1824,6 +2070,7 @@
     - 5500x Gold
 
 #943: {Rock Identification Results}
+* Curtis <Northern Serraborg Castle (Takes place in Baran Ravine)>
 * (Pre-req: Quest 'The Mysterious Radiant Rock')
     Have the rock inspected by Tarene the geologist.
     (Bring the rock to Tarene the geologist to assess its value. You hope it'll be something special.)
@@ -1832,6 +2079,7 @@
     - 5500x Gold
 
 #944: {Just a Strange Rock}
+* Curtis <Northern Serraborg Castle>
 * (Pre-req: Quest 'Rock Identification Results')
     Deliver the unfortunate inspection results to Curtis.
     (Unfortunately, it was just a strange rock. Report this underwhelming news to Curtis.)
@@ -1840,6 +2088,7 @@
     - 5500x Gold
 
 #945: {The Last Try}
+* Curtis <Northern Serraborg Castle>
 * (Pre-req: Quest 'Just a Strange Rock')
     Examine the last deconstructed item.
     (Curtis is very disappointed about the rock, but says sometimes things just don't work out. He asks you to look through the deconstructed items one last time. If you find something that looks valuable, bring it to Curtis.)
@@ -1849,6 +2098,7 @@
     - 1x Very Soft Fabric
 
 #946: {Very Soft Fabric}
+* Curtis <Northern Serraborg Castle>
 * (Pre-req: Quest 'The Last Try')
     Deliver the fabric to Curtis.
     (You found a Very Soft Fabric among the deconstructed items. Unlike other fabrics, it looks like it could be valuable. Talk to Curtis about this.)
@@ -1857,6 +2107,7 @@
     - 5500x Gold
 
 #947: {Fabric Identification Results}
+* Curtis <Northern Serraborg Castle (Takes place in Serraborg Castle)>
 * (Pre-req: Quest 'Very Soft Fabric')
     Have the fabric inspected by Viola the seamstress.
     (Bring the Fabric to Seamstress Viola to assess its value. You hope it'll be something special.)
@@ -1865,6 +2116,7 @@
     - 5500x Gold
 
 #948: {Expensive Fabric}
+* Curtis <Northern Serraborg Castle>
 * (Pre-req: Quest 'Fabric Identification Results')
     Deliver the successful inspection results to Curtis.
     (Turns out, it's a very valuable and expensive fabric! Bring the good news to Curtis.)
@@ -1874,6 +2126,7 @@
     - 3x Intermediate Option Stone Chest
 
 #949: {Protect the Forest Keeper's Forest}
+* Brandy <Birch Tree Lake>
     Deliver 50 Hardwood to Forest keeper Brandy.
     (Forest Keeper Brandy is upset right now. Before the forest gets mad too, help the Forest Keeper feel better.)
 * Rewards
@@ -1881,6 +2134,7 @@
     - 5600x Gold
 
 #950: {Protect the Lemon Tree}
+* Brandy <Birch Tree Lake>
 * (Pre-req: Quest 'Protect the Forest Keeper's Forest')
     Deliver 30 Lemons to Forest Keeper Brandy.
     (It's strange that the Forest Keeper is asking you to collect items related to trees because he claims the forest is mad. Brandy is still upset, though, so bring the items he asked to make him feel better.)
@@ -1889,6 +2143,7 @@
     - 5600x Gold
 
 #951: {Protect the Orange Tree}
+* Brandy <Birch Tree Lake>
 * (Pre-req: Quest 'Protect the Lemon Tree')
     Deliver 30 Oranges to Forest Keeper Brandy.
     (You can't let go of this strange feeling. Could the forest really be mad? Bring the orange he asked for and get to the bottom of this.)
@@ -1897,6 +2152,7 @@
     - 5600x Gold
 
 #952: {Report the Corrupt Forest Keeper}
+* Brandy <Birch Tree Lake>
 * (Pre-req: Quest 'Protect the Orange Tree')
     Report Brandy to Nario.
     (Report Brandy's corrupt acts to the retired Officer Nario. She'll be able to give you some good advice.)
@@ -1905,6 +2161,7 @@
     - 5600x Gold
 
 #953: {You're Finished}
+* Nario <Birch Tree Lake>
 * (Pre-req: Quest 'Report the Corrupt Forest Keeper')
     Threaten the evil Forest Keeper Brandy.
     (Nario gave you a note. It could be a threatening message to Brandy. It looks like you should listen to Nario and show the note to Brandy.)
@@ -1916,6 +2173,7 @@
     - 30x Orange
 
 #954: {The Retired Officer's Contribution}
+* Nario <Birch Tree Lake>
 * (Pre-req: Quest 'You're Finished')
     Explain the situation to Nario.
     (The note was extremely effective. Now that you got the item back from Brandy, it's time to report to Nario.)
@@ -1925,6 +2183,7 @@
     - 3x Enchant Scroll Chest
 
 #955: {A Strange Taste in Pets}
+* Lina <Northern Timberlands>
     Go see the monster trapped inside a chest.
     (First, check what kind of monster Lina wants.)
 * Rewards
@@ -1932,6 +2191,7 @@
     - 5900x Gold
 
 #956: {A Very Odd Monster}
+* Lina <Northern Timberlands>
 * (Pre-req: Quest 'A Strange Taste in Pets')
     Return to Lina and ask a question.
     (Go check if the monster that's trapped in the chest is the monster Lina wants.)
@@ -1940,6 +2200,7 @@
     - 5900x Gold
 
 #957: {Try Stealing the Monster}
+* Lina <Northern Timberlands>
 * (Pre-req: Quest 'A Very Odd Monster')
     Steal the monster trapped inside a chest.
     (Lina says that because she's still a kid she doesn't feel comfortable stealing the monster. Lina wants you to steal it for her.)
@@ -1948,6 +2209,7 @@
     - 5900x Gold
 
 #958: {Bribe the Hunter}
+* Lina <Northern Timberlands>
 * (Pre-req: Quest 'Try Stealing the Monster')
     Give 5,000 Gold to Ash in exchange for some tips.
     (Ash the hunter says it's his job to stay up all night. Now that you've been caught by him, you'll have to bribe him.)
@@ -1956,6 +2218,7 @@
     - 5900x Gold
 
 #959: {Eliminate the Witness}
+* Ash <Northern Timberlands>
 * (Pre-req: Quest 'Bribe the Hunter')
     Defeat the nearby monsters.
     (Ask gives you a tip. He says defeating nearby monsters will reduce the number of witnesses, which will provide you an opening to steal the monster.)
@@ -1964,6 +2227,7 @@
     - 11800x Gold
 
 #960: {Steal the Monster}
+* Ash <Northern Timberlands>
 * (Pre-req: Quest 'Eliminate the Witness')
     Steal the monster trapped inside a chest.
     (Ask gives you a tip. He says defeating nearby monsters will reduce the number of witnesses, which will provide you an opening to steal the monster.)
@@ -1972,6 +2236,7 @@
     - 23600x Gold
 
 #961: {A Strange Pet Gift}
+* Lina <Northern Timberlands>
 * (Pre-req: Quest 'Steal the Monster')
     Deliver the monster to Lina.
     (Following Ash's tip, you were able to rescue the strange monster. Go back to Lina, who must be itching for you to come back with the monster.)
@@ -1981,6 +2246,7 @@
     - 30x Purple Lunarium Fragment
 
 #962: {I Need an Interpreter}
+* Bernelli <Hunter's Hill>
     Ask Catherine about what Bernelli said.
     (You can't make sense of what Bernelli said. Catherine was one of the words Bernelli mentioned, so go talk to Catherine.)
 * Rewards
@@ -1988,6 +2254,7 @@
     - 6200x Gold
 
 #963: {Find the Lost Valuable Item}
+* Catherine <Hunter's Hill>
 * (Pre-req: Quest 'I Need an Interpreter')
     Look for Catherine's valuables.
     (Did Bernelli purposely throw away Catherine's valuable item? It's unclear at the moment, but go find Catherine's precious item.)
@@ -1997,6 +2264,7 @@
     - 1x Catherine's Ring
 
 #964: {The Valuable Item is Found}
+* Catherine <Hunter's Hill>
 * (Pre-req: Quest 'Find the Lost Valuable Item')
     Deliver the valuables to Catherine.
     (You found Catherine's valuables in the bush near the lake.)
@@ -2005,6 +2273,7 @@
     - 6200x Gold
 
 #965: {An Impossible Conversation}
+* Catherine <Hunter's Hill>
 * (Pre-req: Quest 'The Valuable Item is Found')
     Explain the situation to Bernelli.
     (Bernelli might be worried, so let her know that you found Catherine's valuables.)
@@ -2013,6 +2282,7 @@
     - 6200x Gold
 
 #966: {Write It Down}
+* Bernelli <Hunter's Hill>
 * (Pre-req: Quest 'An Impossible Conversation')
     Deliver 20 Shabby Paper to Bernelli.
     (Give Bernelli some paper since it seems difficult for her to speak. Hopefully it'll make the conversation easier.)
@@ -2021,6 +2291,7 @@
     - 6200x Gold
 
 #967: {A Heartfelt Letter}
+* Bernelli <Hunter's Hill>
 * (Pre-req: Quest 'Write It Down')
     Deliver Bernelli's Heartfelt Letter to Catherine.
     (Bernelli writes on the paper without a problem and gives you a sealed letter for Catherine. Bring Bernelli's Heartfelt Letter to Catherine.)
@@ -2030,6 +2301,7 @@
     - 1x Hunter's Token
 
 #968: {Alpine Rescue Team Test 1}
+* Seif <Varoc Mountains Entrance>
     Find the Lost Traveler at the Varoc Mountains Entrance.
     (Seif is giving a test for becoming a scout to those who know the geography well. Find a lost traveler at the Varoc Mountains Entrance.)
 * Rewards
@@ -2037,6 +2309,7 @@
     - 6500x Gold
 
 #969: {Escort the Traveler 1}
+* Seif <Varoc Mountains Entrance>
 * (Pre-req: Quest 'Alpine Rescue Team Test 1')
     Bring the traveler to Seif.
     (Escort the frightened lost traveler to Seif.)
@@ -2045,6 +2318,7 @@
     - 6500x Gold
 
 #970: {Alpine Rescue Team Test 2}
+* Seif <Varoc Mountains Entrance (Takes place in Southern Varoc Mountains)>
 * (Pre-req: Quest 'Escort the Traveler 1')
     Find the Lost Traveler at the Southern Varoc Mountains.
     (Seif is giving people a chance to take a test for becoming a scout if they know the geography well. Find a Lost Traveler at the Southern Varoc Mountains.)
@@ -2053,6 +2327,7 @@
     - 6500x Gold
 
 #971: {Escort the Traveler 2}
+* Seif <Varoc Mountains Entrance>
 * (Pre-req: Quest 'Alpine Rescue Team Test 2')
     Bring the traveler to Seif.
     (Escort the frightened lost traveler to Seif.)
@@ -2062,6 +2337,7 @@
     - 6500x Gold
 
 #972: {Proof of Hard Training}
+* Dohan <Southern Varoc Mountains>
     Smash the big boulder beside Dohan.
     (Dohan the ascetic says you look like you've trained very hard. He says if you destroy the big boulder next to him, he'll give you a gift.)
 * Rewards
@@ -2069,6 +2345,7 @@
     - 27200x Gold
 
 #973: {Boulder's a Piece of Cake}
+* Dohan <Southern Varoc Mountains>
 * (Pre-req: Quest 'Proof of Hard Training')
     Prove your training to Dohan.
     (Destroying the boulder was a piece of cake. Go back to Dohan to prove your strength.)
@@ -2078,6 +2355,7 @@
     - 1x Novice's Cloak
 
 #974: {The Priest Who Likes the Witch}
+* Grima <Howling Valley>
     Deliver 3 Crucian Carps to Grima.
     (Get a carp to lure the Black Cat and bring it to Grima.)
 * Rewards
@@ -2085,6 +2363,7 @@
     - 7200x Gold
 
 #975: {The Witch's Black Cat}
+* Grima <Howling Valley>
 * (Pre-req: Quest 'The Priest Who Likes the Witch')
     Bring a cat from a nearby bush.
     (You hear the sounds of the Black Cat. It must have smelled the carp.)
@@ -2094,6 +2373,7 @@
     - 1x Witch's Black Cat
 
 #976: {Looking for the Cat's Owner}
+* Grima <Howling Valley>
 * (Pre-req: Quest 'The Witch's Black Cat')
     Bring the Black Cat to the Witch of the East.
     (The owner of the Black Cat must be a witch. At Grima's request, bring the Black Cat to the Witch of the East.)
@@ -2102,6 +2382,7 @@
     - 7200x Gold
 
 #977: {The Stray Cat}
+* Grima <Howling Valley>
 * (Pre-req: Quest 'Looking for the Cat's Owner')
     Bring Grima the Black Cat.
     (You're told there's no witch who keeps a cat in the Howling Valley. You have no choice but to bring the cat to Grima.)
@@ -2110,6 +2391,7 @@
     - 7200x Gold
 
 #978: {Hollow Magic Stone}
+* Grima <Howling Valley>
 * (Pre-req: Quest 'The Stray Cat')
     Defeat the monsters to collect dark energy in the magic stone.
     (Grima says the magic stone he was going to give to the witch as a gift doesn't have its dark energy anymore. He's a priest, so he regrettably can't collect dark energy for her. Ironically, he's quite a big fan of witches. Fill the magic stone with dark energy for Grima.)
@@ -2118,6 +2400,7 @@
     - 14300x Gold
 
 #979: {Dark Energy Magic Stone}
+* Grima <Howling Valley>
 * (Pre-req: Quest 'Hollow Magic Stone')
     Deliver the Dark Energy Magic Stone to Grima.
     (Deliver the magic stone brimming with dark energy to Grima. You wonder how Grima will react.)
@@ -2126,6 +2409,7 @@
     - 7200x Gold
 
 #980: {Something Appropriate for the Witch}
+* Grima <Howling Valley>
 * (Pre-req: Quest 'Dark Energy Magic Stone')
     Exchange the witch-like object with the Witch of the West.
     (Grima asks you give the magic stone to the witch and exchange it for an item that best represents witches.)
@@ -2134,6 +2418,7 @@
     - 7200x Gold
 
 #981: {The Cursed Jewel}
+* Grima <Howling Valley>
 * (Pre-req: Quest 'Something Appropriate for the Witch')
     If you think the jewel is fine, then deliver the cursed jewel to Grima.
     (Deliver the jewel with a horrible curse from the Witch of the West to Grima. Is it safe to even hold this thing if the curse is real? Would it be okay if you bring it to Grima?)
@@ -2145,6 +2430,7 @@
     - 3x Ordinary Sculpture Pot
 
 #982: {The Best Jewel for the Witch}
+* Grima <Howling Valley>
 * (Pre-req: Quest 'Something Appropriate for the Witch')
     Deliver the most witch-like jewel to Grima.
     (You can't help but ask the witch if it's safe. Now you feel better about giving the jewel to Grima.)
@@ -2156,6 +2442,7 @@
     - 5x Ordinary Sculpture Pot
 
 #983: {The Famous Sculptor}
+* Neiro <Serraborg Castle (Takes place in Tamlin)>
     Get a Sculpting Skill Book from the renowned Sculptor Neil.
     (Neiro, the Serraborg Castle Sculpture merchant, is sad because Depps's skills aren't improving. He wants you to get the Sculpting Skill Book from Neil, one of the famous Sculptors.)
 * Rewards
@@ -2163,6 +2450,7 @@
     - 7500x Gold
 
 #984: {The Basics of Sculpting}
+* Neil <Tamlin>
 * (Pre-req: Quest 'The Famous Sculptor')
     Deliver the basic materials for sculpting.
     (Neil says he can't give the Sculpting Skill Book to someone who doesn't even know the basics of sculpting. Give a basic sculpting material to Neil to prove that you know the basics of sculpting.)
@@ -2172,6 +2460,7 @@
     - 1x Sculpting Skill Book
 
 #985: {The Sculpting Skill Book}
+* Neiro <Serraborg Castle>
 * (Pre-req: Quest 'The Basics of Sculpting')
     Deliver the Sculpting Skill Book to Neiro.
     (Neil acknowledges you and gives you the Sculpting Skill Book. Deliver the Skill Book to Neiro and good things are sure to happen.)
@@ -2197,6 +2486,7 @@
     - 1x Mangy Horse Contract (1 Day)
 
 #988: {I'm the Only Single One Around Here}
+* Mo_Princess_Quito <Serraborg Castle>
     Witness the confession of love .
     (You unintentionally witness a confession near Serraborg Castle.)
 * Rewards
@@ -2205,6 +2495,7 @@
     - 700x Gold
 
 #989: {The Butler's Day}
+* Yeah_nnefer_Mom <Serraborg Castle>
     Deliver 10 Sweet Potatoes to Yeah_nnefer_Mom.
     (Sweet Potatoes are supposed to be good for cats. You're asked to bring 10 Sweet Potatoes so they can be nutritiously boiled for the cats to eat.)
 * Rewards
@@ -2214,6 +2505,7 @@
     - 1x Mysterious Green Toy Egg
 
 #990: {Noise between Floors}
+* RiceCakeMama <Serraborg Castle>
     Deliver 10 Potatoes to RiceCakeMama.
     (RiceCakeMama is mad at her upper floor neighbor because they stomp around all day. She decides to be patient one more time and wants to bring them Boiled Potatoes to talk to them nicely.)
 * Rewards
@@ -2223,6 +2515,7 @@
     - 10x Solid Lumber
 
 #991: {A Blatant Lie}
+* Paros <Serraborg Castle>
     Lend 100,000 Gold to Paros.
     (Suspicious Paros says he lost his wallet and asks you to lend him money.)
 * Rewards
@@ -2231,6 +2524,7 @@
     - 700x Gold
 
 #992: {Bless the Food Delivery Service}
+* Ddoongji <Serraborg Castle>
     Receive the Grilled Skewer Camping Set from Oliver the food merchant.
     (Ddoongji is upset that Neomint made it hard to catch fish. She orders a Grilled Skewer Camping Set to alleviate her hunger alone.)
 * Rewards
@@ -2238,6 +2532,7 @@
     - 700x Gold
 
 #993: {Eating Comes First}
+* Oliver <Serraborg Castle>
 * (Pre-req: Quest 'Bless the Food Delivery Service')
     Deliver the Grilled Skewer Camping Set to Ddoongji.
     (Quickly and accurately deliver the Grilled Skewer Camping Set you received from Oliver the food merchant to Ddoongji.)
@@ -2247,6 +2542,7 @@
     - 3x Salmon
 
 #994: {A Misunderstanding}
+* Ms.Onion <Serraborg Castle>
     Send your regards to Applemango.
     (Ms.Onion is upset that Applemango hasn't been spending time with him. He asks you to tell Applemango how he feels.)
 * Rewards
@@ -2255,6 +2551,7 @@
     - 1x Delicious Apple Sandwich
 
 #995: {Young Friendship}
+* Applemango <Serraborg Castle>
 * (Pre-req: Quest 'A Misunderstanding')
     Send your regards to Ms.Onion.
     (Applemango realizes there was a misunderstanding in their friendship. Smiling, she asks you to tell Ms.Onion to get ready for PvP and that she'll be there soon.)
@@ -2265,6 +2562,7 @@
     - 10x Mineral Water
 
 #996: {State-of-the-Art Fishing Equipment 1}
+* Neomint <Serraborg Castle>
     Craft a Luminous Night Fishing Float.
     (Ddoongji has been increasingly disruptive, so Neomint decides to teach Ddoongji a lesson. Neomint wants to use a Luminous Night Fishing Float to show him what real fishing looks like. She asks you to craft a Luminous Night Fishing Float on the Alchemy Crafting Table.)
 * Rewards
@@ -2272,6 +2570,7 @@
     - 15600x Gold
 
 #997: {State-of-the-Art Fishing Equipment 2}
+* Neomint <Serraborg Castle>
 * (Pre-req: Quest 'State-of-the-Art Fishing Equipment 1')
     Deliver the Luminous Night Fishing Float to Neomint.
     (After crafting the Luminous Night Fishing Float on the Alchemy Crafting Table, bring it to Neomint.)
@@ -2283,6 +2582,7 @@
     - 1x Fake Bait
 
 #998: {Back in my days}
+* Kano <Livias Mountain>
     Find Ameri who went to get coffee beans
     (Kano, worried about Ameri who went off to get coffee beans and still has not come back, asks you to find Ameri. Ameri usually collects coffee beans near where Cherri the alpine rescuer lives, in the north of Livias Mountain.)
 * Rewards
@@ -2290,6 +2590,7 @@
     - 5000x Gold
 
 #999: {Iced Americano always}
+* Kano <Livias Mountain>
 * (Pre-req: Quest 'Back in my days')
     Go to Kano with Ameri
     (Return to Kano with Ameri after collecting coffee beans.)
@@ -2299,6 +2600,7 @@
     - 2x Delicious Coffee
 
 #223: {Belongings Left in Tamlin}
+* Fonz <Birch Tree Lake (Takes place in Tamlin)>
     Find the belongings left in Tamlin.
     (You're on your way to find the Waterlight Painter's belongings, which were left in Tamlin. The painter's house is near the Tamlin Village hills.)
 * Rewards
@@ -2306,6 +2608,7 @@
     - 30200x Gold
 
 #224: {Belongings That Show the Passage of Time}
+* Fonz <Birch Tree Lake>
 * (Pre-req: Quest 'Belongings Left in Tamlin')
     Deliver the belongings to the Waterlight Painter.
     (You hand over the belongings the Waterlight Painter was worried about. The belongings are clearly time-worn.)
@@ -2314,6 +2617,7 @@
     - 7600x Gold
 
 #225: {Materials for Painting 1}
+* Fonz <Birch Tree Lake (Takes place in Tamlin)>
 * (Pre-req: Quest 'Belongings That Show the Passage of Time')
     Receive paints from Janet.
     (Find the painting materials that the Waterlight Painter ordered from Tamlin merchants. It's not guaranteed they'll remember it, though.)
@@ -2322,6 +2626,7 @@
     - 7600x Gold
 
 #226: {Materials for Painting 2}
+* Fonz <Birch Tree Lake (Takes place in Tamlin)>
 * (Pre-req: Quest 'Materials for Painting 1')
     Receive Soft Fur from Oannes.
     (Find the painting materials that the Waterlight Painter ordered from Tamlin merchants. It's not guaranteed they'll remember it, though.)
@@ -2330,6 +2635,7 @@
     - 7600x Gold
 
 #227: {Materials for Painting 3}
+* Fonz <Birch Tree Lake (Takes place in Tamlin)>
 * (Pre-req: Quest 'Materials for Painting 2')
     Receive Paper from Raymond.
     (Find the painting materials that the Waterlight Painter ordered from Tamlin merchants. It's not guaranteed they'll remember it, though.)
@@ -2338,6 +2644,7 @@
     - 7600x Gold
 
 #228: {Last Preparation Complete}
+* Fonz <Birch Tree Lake>
 * (Pre-req: Quest 'Materials for Painting 3')
     Deliver the art supplies to the Waterlight Painter.
     (All the merchants remembered what the Waterlight Painter ordered. Bring the good news to the Waterlight Painter and deliver the last materials.)
@@ -2347,6 +2654,7 @@
     - 1x Sculptor's Love Story Vol. 1
 
 #229: {Sculptor's Love Story, Vol. 1}
+* Fonz <Birch Tree Lake>
 * (Pre-req: Quest 'Last Preparation Complete')
     Use Sculptor's Love Story, Vol. 1.
     (Read a fiction book aloud to the Waterlight Painter, as his poor eyesight leaves him unable to read. Read it carefully and tell him what you thought about it.)
@@ -2357,6 +2665,7 @@
     - 1x Time Piece
 
 #230: {Vol. 1, Ch. 1: The Stranger}
+* Fonz <Birch Tree Lake>
 * (Pre-req: Quest 'Sculptor's Love Story, Vol. 1')
     Move to where the Birch Tree Lake residents are staying.
     (After visiting many places over many adventures, The Sculptor decided to spend some time at Birch Tree Lake. The Sculptor went where he thought the lake residents were to find a place to stay.)
@@ -2365,6 +2674,7 @@
     - 7600x Gold
 
 #231: {Vol. 1, Ch. 2: The Mysterious Rumor 1}
+* Fonz <Birch Tree Lake>
 * (Pre-req: Quest 'Vol. 1, Ch. 1: The Stranger')
     Move to the noisy upper road.
     (The Sculptor didn't see anyone there, but heard a noise coming from the street above. Thinking there might be residents there, the Sculptor walked up to the street.)
@@ -2373,6 +2683,7 @@
     - 7600x Gold
 
 #232: {Vol. 1, Ch. 2: The Mysterious Rumor 2}
+* Fonz <Birch Tree Lake>
 * (Pre-req: Quest 'Vol. 1, Ch. 2: The Mysterious Rumor 1')
     Ask Keyes the lake resident about the rumor.
     (The Sculptor saw some local residents talking to each other. According to them, the Naga mix-breeds were dangerous and must be removed from the lake. Intrigued by their ordeal, the Sculptor asked for more details.)
@@ -2381,6 +2692,7 @@
     - 7600x Gold
 
 #233: {Vol. 1, Ch. 3: Chasing the Rumor}
+* Fonz <Birch Tree Lake>
 * (Pre-req: Quest 'Vol. 1, Ch. 2: The Mysterious Rumor 2')
     Ask other lake residents about the location of the mermaid.
     (The residents wanted the mermaid dead, and the Sculptor felt bad about it. The Sculptor decided to save the mermaid and asked another resident where the mermaid could be found.)
@@ -2389,6 +2701,7 @@
     - 7600x Gold
 
 #234: {Vol. 1, Ch. 4: Meeting the Mermaid}
+* Fonz <Birch Tree Lake>
 * (Pre-req: Quest 'Vol. 1, Ch. 3: Chasing the Rumor')
     Find the mermaid.
     (The resident told the Sculptor that the mermaid was hiding in a place with thick grass near the lake. The resident asked the Sculptor to let them know when the mermaid was found, but the Sculptor had no intention of doing that. The Sculptor hurriedly walked to find the mermaid before the resident could.)
@@ -2397,6 +2710,7 @@
     - 7600x Gold
 
 #235: {Give the First Review}
+* Fonz <Birch Tree Lake>
 * (Pre-req: Quest 'Vol. 1, Ch. 4: Meeting the Mermaid')
     Deliver the review of vol. 1 to the Waterlight Painter.
     (You've finished reading the first volume. Give the Waterlight Painter your review.)
@@ -2407,6 +2721,7 @@
     - 1x Picture Piece - Crescent Moon Boat 3/6
 
 #236: {Sculptor's Love Story, Vol. 2}
+* Fonz <Birch Tree Lake>
 * (Pre-req: Quest 'Give the First Review')
     Use Sculptor's Love Story, Vol. 2.
     (The Waterlight Painter is very intrigued by the story you tell him. Read the rest of the story for the Waterlight Painter.)
@@ -2417,6 +2732,7 @@
     - 1x Time Piece
 
 #237: {Vol. 2, Ch. 1: The Mermaid's Sorrow}
+* Fonz <Birch Tree Lake>
 * (Pre-req: Quest 'Sculptor's Love Story, Vol. 2')
     Return to the crying mermaid.
     (The morose mermaid was sitting among the bushes. The Sculptor spoke to the sad mermaid, hoping to hear her story.)
@@ -2425,6 +2741,7 @@
     - 7600x Gold
 
 #238: {Vol. 2, Ch. 2: For Peace of Mind}
+* Fonz <Birch Tree Lake>
 * (Pre-req: Quest 'Vol. 2, Ch. 1: The Mermaid's Sorrow')
     Defeat the bad Nagas nearby.
     (The mermaid wasn't only being bullied by humans, but also by the Nagas. The Sculptor thought something must be done about this, and decided to eliminate the cruel Nagas around the lake to comfort the mermaid.)
@@ -2433,6 +2750,7 @@
     - 15100x Gold
 
 #239: {Vol. 2, Ch. 3: May You Find Peace}
+* Fonz <Birch Tree Lake>
 * (Pre-req: Quest 'Vol. 2, Ch. 2: For Peace of Mind')
     Talk to the mermaid who calmed down.
     (The lake around the mermaid was now quiet, thanks to the Sculptor. Worried about the mermaid being harassed by Sahuagin, the Sculptor hurriedly went back to the mermaid.)
@@ -2441,6 +2759,7 @@
     - 7600x Gold
 
 #240: {Vol. 2, Ch. 4: Out of the Lake}
+* Fonz <Birch Tree Lake (Takes place in Hunter's Hill)>
 * (Pre-req: Quest 'Vol. 2, Ch. 3: May You Find Peace')
     Look for a place to hide on Hunter's Hill.
     (There was nowhere else at Birch Tree Lake for the mermaid to stay. The Sculptor decided to find a place for the mermaid because it was hard for her to come out of the water. He decided to head to the nearby Hunter's Hill.)
@@ -2449,6 +2768,7 @@
     - 7600x Gold
 
 #241: {Vol. 2, Ch. 5: Enchanted Clothes 1}
+* Fonz <Birch Tree Lake (Takes place in Hunter's Hill)>
 * (Pre-req: Quest 'Vol. 2, Ch. 4: Out of the Lake')
     Look for an outfit that a mermaid could wear from nearby merchants.
     (The Sculptor found bushes where the mermaid could hide near the lake, which looked like a perfect spot for her. But he realized the mermaid needed enchanted clothes that could cover her fins and make it look like she had legs. The Sculptor went to a village populated by hunters to find the clothes.)
@@ -2457,6 +2777,7 @@
     - 7600x Gold
 
 #242: {Vol. 2, Ch. 5: Enchanted Clothes 2}
+* Fonz <Birch Tree Lake (Takes place in Hunter's Hill)>
 * (Pre-req: Quest 'Vol. 2, Ch. 5: Enchanted Clothes 1')
     Pay Bera 50,000 Gold.
     (Bera repeatedly asked who the clothing was for, so the Sculptor told him it was for the mermaid. He did not seem to be bothered by it, and said he'd even help the Sculptor bring the mermaid there by crafting the enchanted clothes. But he needed money for the materials, so the Sculptor happily agreed to pay for it.)
@@ -2465,6 +2786,7 @@
     - 7600x Gold
 
 #243: {Vol. 2, Ch. 6: New Legs}
+* Fonz <Birch Tree Lake>
 * (Pre-req: Quest 'Vol. 2, Ch. 5: Enchanted Clothes 2')
     Deliver the Enchanted Clothes to the mermaid.
     (Thanks to Bera's kindness, the enchanted clothes were successfully crafted. The Sculptor quickly went back to where he had left the mermaid.)
@@ -2473,6 +2795,7 @@
     - 7600x Gold
 
 #244: {Give the Second Review}
+* Fonz <Birch Tree Lake>
 * (Pre-req: Quest 'Vol. 2, Ch. 6: New Legs')
     Deliver the review of vol. 2 to the Waterlight Painter.
     (You've finished reading the second volume. Give the Waterlight Painter your review.)
@@ -2483,6 +2806,7 @@
     - 1x Picture Piece - Crescent Moon Boat 1/6
 
 #245: {Sculptor's Love Story, Vol. 3}
+* Fonz <Birch Tree Lake>
 * (Pre-req: Quest 'Give the Second Review')
     Use Sculptor's Love Story, Vol. 3.
     (The Waterlight Painter is very intrigued by the story you tell him. Read the rest of the story for the Waterlight Painter.)
@@ -2493,6 +2817,7 @@
     - 1x Time Piece
 
 #246: {Vol. 3, Ch. 1: The Evacuation Site}
+* Fonz <Birch Tree Lake (Takes place in Hunter's Hill)>
 * (Pre-req: Quest 'Sculptor's Love Story, Vol. 3')
     Go to the shelter that you showed the mermaid.
     (The Sculptor headed to the temporary shelter where he had left the mermaid.)
@@ -2501,6 +2826,7 @@
     - 7600x Gold
 
 #247: {Vol. 3, Ch. 2: The Mermaid's Disappearance}
+* Fonz <Birch Tree Lake (Takes place in Hunter's Hill)>
 * (Pre-req: Quest 'Vol. 3, Ch. 1: The Evacuation Site')
     Investigate the traces found nearby.
     (The mermaid was nowhere to be found. The Sculptor knew there was no way that timid, legless mermaid could have gone off by herself. He searched his surroundings, thinking someone must have kidnapped the mermaid.)
@@ -2509,6 +2835,7 @@
     - 30200x Gold
 
 #248: {Vol. 3, Ch. 3: Wrong Faith}
+* Fonz <Birch Tree Lake (Takes place in Hunter's Hill)>
 * (Pre-req: Quest 'Vol. 3, Ch. 2: The Mermaid's Disappearance')
     Go to the location where you met Bera the Hunter last time.
     (In the burning campfire, the Sculptor found the clothing that Bera the hunter was wearing. He realized it was a mistake to trust the hunter. Seeking revenge, the Sculptor secretly went to the place he had last seen Bera.)
@@ -2517,6 +2844,7 @@
     - 7600x Gold
 
 #249: {Vol. 3, Ch. 4: Trust Destroyed}
+* Fonz <Birch Tree Lake (Takes place in Hunter's Hill)>
 * (Pre-req: Quest 'Vol. 3, Ch. 3: Wrong Faith')
     Head to where the noise is coming from.
     (Bera wasn't where he was before, but the Sculptor heard a voice from somewhere nearby. Positive that it was Bera's voice, the Sculptor stealthily snuck to the place the voice was coming from.)
@@ -2525,6 +2853,7 @@
     - 7600x Gold
 
 #250: {Give the Third Review}
+* Fonz <Birch Tree Lake>
 * (Pre-req: Quest 'Vol. 3, Ch. 4: Trust Destroyed')
     Deliver the review of vol. 3 to the Waterlight Painter.
     (You've finished reading the third volume. Give the Waterlight Painter your review.)
@@ -2535,6 +2864,7 @@
     - 1x Picture Piece - Crescent Moon Boat 4/6
 
 #251: {Sculptor's Love Story, Vol. 4}
+* Fonz <Birch Tree Lake>
 * (Pre-req: Quest 'Give the Third Review')
     Use Sculptor's Love Story, Vol. 4.
     (The Waterlight Painter is very intrigued by the story you tell him. Read the rest of the story for the Waterlight Painter.)
@@ -2545,6 +2875,7 @@
     - 1x Time Piece
 
 #252: {Vol. 4, Ch. 1: Tracking}
+* Fonz <Birch Tree Lake (Takes place in Hunter's Residential District)>
 * (Pre-req: Quest 'Sculptor's Love Story, Vol. 4')
     Move to the Hunters' Residential District.
     (Following the hunters, the Sculptor made his way to the Hunters' Residential District to rescue the mermaid.)
@@ -2553,6 +2884,7 @@
     - 7600x Gold
 
 #253: {Vol. 4, Ch. 2: A Clever Move}
+* Fonz <Birch Tree Lake (Takes place in Hunter's Residential District)>
 * (Pre-req: Quest 'Vol. 4, Ch. 1: Tracking')
     Look for a way to rescue the mermaid.
     (Excited to sell the Mermaid's Tears and make a lot of money, the hunters threw a party. The Sculptor found the mermaid near the hunters' table, but couldn't rescue her because there were too many people around. The Sculptor needed to find a clever way to rescue the mermaid. An idea popped into his head, and so the Sculptor went to a nearby chef.)
@@ -2561,6 +2893,7 @@
     - 7600x Gold
 
 #254: {Vol. 4, Ch. 3: The Disguise}
+* Fonz <Birch Tree Lake (Takes place in Hunter's Residential District)>
 * (Pre-req: Quest 'Vol. 4, Ch. 2: A Clever Move')
     Serve a Big Meat Chunk to the hunter's table.
     (The Sculptor decided that intoxicating the hunters would be the best way to lower their guards. The Sculptor pretended to be a new recruit and approached the chef. The chef instructed him to serve food to the hunters. The Sculptor brought a big chunk of meat to their table.)
@@ -2569,6 +2902,7 @@
     - 30200x Gold
 
 #255: {Vol. 4, Ch. 4: Something's Missing}
+* Fonz <Birch Tree Lake (Takes place in Hunter's Residential District)>
 * (Pre-req: Quest 'Vol. 4, Ch. 3: The Disguise')
     Return to Chef Ethan and get liquor.
     (The key was to serve the hunters alcohol to make them get drunk. The Sculptor decided to first serve a chunk of meat, because they'd want to wash it down with booze after eating it. As expected, the hunters were excited about the meat and ordered drinks. The Sculptor went back to the chef and said they wanted alcohol.)
@@ -2577,6 +2911,7 @@
     - 7600x Gold
 
 #256: {Vol. 4, Ch. 5: A Risky Endeavor}
+* Fonz <Birch Tree Lake (Takes place in Hunter's Residential District)>
 * (Pre-req: Quest 'Vol. 4, Ch. 4: Something's Missing')
     Mix the strong booze before you go to the table.
     (The chef was delighted to hear that and brought out some alcohol. The Sculptor decided to mix the drinks to make them stronger. Pretending like he was off serving, the Sculptor snuck into the bushes while the chef wasn't looking.)
@@ -2585,6 +2920,7 @@
     - 7600x Gold
 
 #257: {Vol. 4, Ch. 6: The Perfect Plan}
+* Fonz <Birch Tree Lake (Takes place in Hunter's Residential District)>
 * (Pre-req: Quest 'Vol. 4, Ch. 5: A Risky Endeavor')
     Serve the cocktail to the hunter's table.
     (The Sculptor successfully mixed the drinks while the chef wasn't looking, and brought the drinks out to be served like nothing happened.)
@@ -2593,6 +2929,7 @@
     - 30200x Gold
 
 #258: {Vol. 4, Ch. 7: The Waiting Game}
+* Fonz <Birch Tree Lake (Takes place in Hunter's Residential District)>
 * (Pre-req: Quest 'Vol. 4, Ch. 6: The Perfect Plan')
     Return to the bush and wait for the hunters to get drunk.
     (Everything went as the Sculptor planned, and now the only thing left was to wait for the hunters to get drunk. It was all about the waiting game. The Sculptor waited quietly until there was a chance to rescue the mermaid.)
@@ -2601,6 +2938,7 @@
     - 7600x Gold
 
 #259: {Vol. 4, Ch. 8: An Opportunity Arises}
+* Fonz <Birch Tree Lake (Takes place in Hunter's Residential District)>
 * (Pre-req: Quest 'Vol. 4, Ch. 7: The Waiting Game')
     Rescue the mermaid.
     (The long wait finally paid off, as the hunters were drunk out of their minds. However, the Sculptor didn't let his guard down and carefully rescued the mermaid.)
@@ -2609,6 +2947,7 @@
     - 30200x Gold
 
 #260: {Give the Fourth Review}
+* Fonz <Birch Tree Lake>
 * (Pre-req: Quest 'Vol. 4, Ch. 8: An Opportunity Arises')
     Deliver the review of vol. 4 to the Waterlight Painter.
     (You've finished reading the fourth volume. Give the Waterlight Painter your review.)
@@ -2619,6 +2958,7 @@
     - 1x Picture Piece - Crescent Moon Boat 6/6
 
 #261: {Sculptor's Love Story, Vol. 5}
+* Fonz <Birch Tree Lake>
 * (Pre-req: Quest 'Give the Fourth Review')
     Use Sculptor's Love Story, Vol. 5.
     (The Waterlight Painter is very intrigued by the story you tell him. Read the rest of the story for the Waterlight Painter.)
@@ -2629,6 +2969,7 @@
     - 1x Time Piece
 
 #262: {Vol. 5, Ch. 1: Somewhere You've Never Been}
+* Fonz <Birch Tree Lake (Takes place in Northern Timberlands)>
 * (Pre-req: Quest 'Sculptor's Love Story, Vol. 5')
     Move to the Northern Timberlands.
     (The only place the Sculptor and the mermaid could go now was the Northern Timberlands. Staying positive, the Sculptor headed in that direction.)
@@ -2637,6 +2978,7 @@
     - 7600x Gold
 
 #263: {Vol. 5, Ch. 2: The Trip 1}
+* Fonz <Birch Tree Lake (Takes place in Northern Timberlands)>
 * (Pre-req: Quest 'Vol. 5, Ch. 1: Somewhere You've Never Been')
     Look around the area together with the mermaid.
     (When they arrived at the Northern Timberlands, the mermaid got excited, saying she'd never seen a place like this. Trying not to worry that someone might be following them, they decided to take a look around.)
@@ -2645,6 +2987,7 @@
     - 7600x Gold
 
 #264: {Vol. 5, Ch. 2: The Trip 2}
+* Fonz <Birch Tree Lake (Takes place in Northern Timberlands)>
 * (Pre-req: Quest 'Vol. 5, Ch. 2: The Trip 1')
     Look around the area together with the mermaid.
     (The mermaid was fascinated by the trap. The Sculptor couldn't bring himself to teach the innocent mermaid what it was for. They went to look at some of the beautiful natural scenery to help the mermaid feel comfortable.)
@@ -2653,6 +2996,7 @@
     - 7600x Gold
 
 #265: {Vol. 5, Ch. 2: The Trip 3}
+* Fonz <Birch Tree Lake (Takes place in Northern Timberlands)>
 * (Pre-req: Quest 'Vol. 5, Ch. 2: The Trip 2')
     Look around the area together with the mermaid.
     (The mermaid stopped under a big tree. She said it would make her very happy if there was a big tree like that around the lake. Realizing she was now unable to return to the lake, the mermaid looked sad. The Sculptor guided the mermaid to some blooming flowers to make her feel better.)
@@ -2661,6 +3005,7 @@
     - 7600x Gold
 
 #266: {Vol. 5, Ch. 3: The End of the Trip}
+* Fonz <Birch Tree Lake (Takes place in Northern Timberlands)>
 * (Pre-req: Quest 'Vol. 5, Ch. 2: The Trip 3')
     Gather flowers for the mermaid.
     (The mermaid became more homesick as time went by. The Sculptor and the mermaid realized it was time to end their trip. The mermaid thought if she brought beautiful flowers for the lake residents, they might accept her.)
@@ -2669,6 +3014,7 @@
     - 30200x Gold
 
 #267: {Vol. 5, Ch. 4: Preparing to Leave}
+* Fonz <Birch Tree Lake (Takes place in Northern Timberlands)>
 * (Pre-req: Quest 'Vol. 5, Ch. 3: The End of the Trip')
     Deliver the gathered flowers to the mermaid.
     (While the mermaid was resting, the Sculptor brought her fresh flowers.)
@@ -2677,6 +3023,7 @@
     - 7600x Gold
 
 #268: {Vol. 5, Ch. 5: The Return}
+* Fonz <Birch Tree Lake (Takes place in Northern Timberlands)>
 * (Pre-req: Quest 'Vol. 5, Ch. 4: Preparing to Leave')
     Gather extra flowers for the lake residents.
     (While the Sculptor was gathering more flowers, the mermaid said she'd go ahead and bring the flowers she had to the residents. The Sculptor was worried that something bad might happen to her, especially since the mermaid was still traumatized by the residents. After contemplating what to do, the mermaid said she'd take a rest at the top part of the big lake, far away from the residents. When the Sculptor arrives, the mermaid said, they could go see the residents together. The Sculptor was relieved to hear the mermaid's suggestion and gathered more flowers.)
@@ -2685,6 +3032,7 @@
     - 30200x Gold
 
 #269: {Give the Fifth Review}
+* Fonz <Birch Tree Lake>
 * (Pre-req: Quest 'Vol. 5, Ch. 5: The Return')
     Deliver the review of vol. 5 to the Waterlight Painter.
     (You've finished reading the fifth volume. Give the Waterlight Painter your review.)
@@ -2695,6 +3043,7 @@
     - 1x Picture Piece - Crescent Moon Boat 2/6
 
 #270: {Sculptor's Love Story, Vol. 6}
+* Fonz <Birch Tree Lake>
 * (Pre-req: Quest 'Give the Fifth Review')
     Use Sculptor's Love Story, Vol. 6.
     (The Waterlight Painter is very intrigued by the story you tell him. Read the rest of the story for the Waterlight Painter.)
@@ -2705,6 +3054,7 @@
     - 1x Time Piece
 
 #271: {Vol. 6, Ch. 1: To the Meeting Place}
+* Fonz <Birch Tree Lake>
 * (Pre-req: Quest 'Sculptor's Love Story, Vol. 6')
     Move to Birch Tree Lake, where the mermaid headed.
     (The Sculptor gathered the last flower and followed the mermaid to Birch Tree Lake.)
@@ -2713,6 +3063,7 @@
     - 7600x Gold
 
 #272: {Vol. 6, Ch. 2: An Ominous Story}
+* Fonz <Birch Tree Lake>
 * (Pre-req: Quest 'Vol. 6, Ch. 1: To the Meeting Place')
     Ask Keyes the lake resident about the mermaid's whereabouts.
     (The lake residents were already near the Northern Timberlands. Sensing there was something wrong, the Sculptor eavesdropped on the residents. It sounded like something bad had happened to the mermaid. The Sculptor approached the residents to ask where the mermaid was.)
@@ -2721,6 +3072,7 @@
     - 7600x Gold
 
 #273: {Vol. 6, Ch. 3: An Odious Story}
+* Fonz <Birch Tree Lake>
 * (Pre-req: Quest 'Vol. 6, Ch. 2: An Ominous Story')
     Interrogate Alkie the resident.
     (The lake residents looked guilty and were hesitant to talk to the Sculptor. The Sculptor interrogated them until they told him what happened.)
@@ -2729,6 +3081,7 @@
     - 7600x Gold
 
 #274: {Vol. 6, Ch. 4: Another Testimony}
+* Fonz <Birch Tree Lake>
 * (Pre-req: Quest 'Vol. 6, Ch. 3: An Odious Story')
     Look for Delphine, the resident who knows the mermaid's whereabouts.
     (They didn't know much, but told him that they saw a resident named Delphine dragging the mermaid somewhere. The Sculptor went to find Delphine to get to the bottom of this.)
@@ -2737,6 +3090,7 @@
     - 7600x Gold
 
 #275: {Vol. 6, Ch. 5: The Mermaid's Whereabouts}
+* Fonz <Birch Tree Lake>
 * (Pre-req: Quest 'Vol. 6, Ch. 4: Another Testimony')
     Move to the location where you promised to meet the mermaid.
     (Delphine told him that some residents and hunters dragged the mermaid to the upper side of the lake. It sounded like the place where the mermaid told the Sculptor to meet her. The Sculptor hurriedly headed to the meeting place.)
@@ -2745,6 +3099,7 @@
     - 7600x Gold
 
 #276: {Vol. 6, Ch. 6: The Mermaid's Disappearance}
+* Fonz <Birch Tree Lake>
 * (Pre-req: Quest 'Vol. 6, Ch. 5: The Mermaid's Whereabouts')
     Plant flowers while waiting for the mermaid.
     (To his surprise, it was empty. The residents and the mermaid were nowhere to be found. The only things the Sculptor found were the beautiful tears of the mermaid and the flowers she brought. Trying to stay hopeful, the Sculptor decided to wait for the mermaid. He thought planting her favorite flowers might help her find her way back to him.)
@@ -2753,6 +3108,7 @@
     - 30200x Gold
 
 #277: {Vol. 6, Ch. 7: Where Only Flowers Remain}
+* Fonz <Birch Tree Lake>
 * (Pre-req: Quest 'Vol. 6, Ch. 6: The Mermaid's Disappearance')
     Plant the remaining flowers while waiting for the mermaid.
     (With high hopes, the Sculptor finished planting his flowers. His mind was consumed with thoughts of the mermaid, who he hoped was headed to Birch Tree Lake.)
@@ -2761,6 +3117,7 @@
     - 30200x Gold
 
 #278: {Vol. 6, Ch. 8: Endless Waiting}
+* Fonz <Birch Tree Lake>
 * (Pre-req: Quest 'Vol. 6, Ch. 7: Where Only Flowers Remain')
     Wait in front of the boulder for the mermaid.
     (After he was done planting flowers, there was nothing more the Sculptor could do. He longingly stood motionless at the place they'd promised to meet and waited for her.)
@@ -2769,6 +3126,7 @@
     - 7600x Gold
 
 #279: {Give the Last Review}
+* Fonz <Birch Tree Lake>
 * (Pre-req: Quest 'Vol. 6, Ch. 8: Endless Waiting')
     Deliver the final review to the Waterlight Painter.
     (You've finished reading the Sculptor's Love Story. Give the Waterlight Painter your review.)
@@ -2778,11 +3136,13 @@
     - 1x Picture Piece - Crescent Moon Boat 5/6
 
 #280: {Lost Item}
+* Fonz <Birch Tree Lake>
     Receive the lost item from the Waterlight Painter.
     (You can't enter the Chasm of Time because you lost the item the painter gave you. Go back to the Waterlight Painter to get the lost item.)
 * Rewards
 
 #281: {One-Off Job}
+* Giselle <Livias Residential District>
     Start the part-time job that Giselle suggested.
     (Giselle, a resident of Livias, is feeling under the weather and is looking for someone to fill in for her at the restaurant today.)
 * Rewards
@@ -2790,6 +3150,7 @@
     - 3900x Gold
 
 #282: {Master of Greeting}
+* Giselle <Livias Residential District>
 * (Pre-req: Quest 'One-Off Job')
     Greet the customer.
     (Greet the customers with an upbeat and welcoming voice as they enter and exit.)
@@ -2798,6 +3159,7 @@
     - 3900x Gold
 
 #283: {Master of Takeout}
+* Giselle <Livias Residential District>
 * (Pre-req: Quest 'Master of Greeting')
     Bag the bread that the customer ordered.
     (When taking orders from customers, make sure to check what they ordered before the food is made.)
@@ -2806,6 +3168,7 @@
     - 3900x Gold
 
 #284: {Master of Table Cleaning}
+* Giselle <Livias Residential District>
 * (Pre-req: Quest 'Master of Takeout')
     Clean the table that the customer left.
     (After customers leave, quickly clean the table for the next customers. Make sure it's sparkling clean! )
@@ -2814,6 +3177,7 @@
     - 3900x Gold
 
 #285: {Master of Calculation}
+* Giselle <Livias Residential District>
 * (Pre-req: Quest 'Master of Table Cleaning')
     Receive your part-time job pay from Giselle.
     (Get paid for your hard work at the Livias Residential District restaurant from Giselle. You deserve some rest!)
@@ -2824,6 +3188,7 @@
     - 1x [Lv. 140] Heroic Plentiful Parchment
 
 #286: {Rock, Paper, Scissors: Round 1}
+* Alphez <Baran Residential District>
     Win in rock-paper-scissors against Alphez.
     (You meet Alphez on a bridge in the Baran Residential District.
 Alphez asks you to play rock, paper, scissors. If you win all rounds, he says he'll give you a Sculpture crafting material. Rock, paper, scissors!)
@@ -2832,6 +3197,7 @@ Alphez asks you to play rock, paper, scissors. If you win all rounds, he says he
     - 1500x Gold
 
 #287: {Rock, Paper, Scissors: Round 2}
+* Alphez <Baran Residential District>
 * (Pre-req: Quest 'Rock, Paper, Scissors: Round 1')
     Win in rock-paper-scissors against Alphez.
     (The second round of rock, paper, scissors with Alphez has started. Rock, paper, scissors!)
@@ -2840,6 +3206,7 @@ Alphez asks you to play rock, paper, scissors. If you win all rounds, he says he
     - 1500x Gold
 
 #288: {Rock, Paper, Scissors: Final Round}
+* Alphez <Baran Residential District>
 * (Pre-req: Quest 'Rock, Paper, Scissors: Round 2')
     Win in rock-paper-scissors against Alphez.
     (The final round of rock, paper, scissors with Alphez has started. Rock, paper, scissors!)
@@ -2849,6 +3216,7 @@ Alphez asks you to play rock, paper, scissors. If you win all rounds, he says he
     - 1x Topaz
 
 #289: {Come out, come out}
+* Phind <Serraborg Residential District>
     Find the hidden Phind
     (I met Phind in the Serraborg Residential District. Phind wants to play hide and seek, but he cannot play by himself and tells the adventurer to be it and find him.)
 * Rewards
@@ -2856,6 +3224,7 @@ Alphez asks you to play rock, paper, scissors. If you win all rounds, he says he
     - 7600x Gold
 
 #290: {Wherever you are}
+* Phind <Baran Residential District>
 * (Pre-req: Quest 'Come out, come out')
     Find the hidden Phind
     (I met Phind again in the Baran Residential District. Phind wants to play hide and seek, but he cannot play by himself and tells the adventurer to be it and find him.)
@@ -2864,6 +3233,7 @@ Alphez asks you to play rock, paper, scissors. If you win all rounds, he says he
     - 7600x Gold
 
 #291: {I can't find the nightingale}
+* Phind <Livias Residential District>
 * (Pre-req: Quest 'Wherever you are')
     Find the hidden Phind
     (I met Phind again in the Livias Residential District. Phind wants to play hide and seek, but he cannot play by himself and tells the adventurer to be it and find him.)
@@ -2873,6 +3243,7 @@ Alphez asks you to play rock, paper, scissors. If you win all rounds, he says he
     - 1x Golden Fabric
 
 #292: {Tutelary of the Timberlands}
+* Milo <Northern Timberlands>
     Collect 30 Elk Horns.
     (Poacher Milo shows up to the Northern Timberlands and says the legendary elk god has been discovered recently. He asks if you're interested in pursuing it.)
 * Rewards
@@ -2880,6 +3251,7 @@ Alphez asks you to play rock, paper, scissors. If you win all rounds, he says he
     - 7600x Gold
 
 #293: {Huge, Beautiful Horns}
+* Milo <Northern Timberlands>
 * (Pre-req: Quest 'Tutelary of the Timberlands')
     Deliver the Elk Horns to Milo.
     (You collected all the Elk Horns. Now, deliver them to Milo.)
@@ -2888,6 +3260,7 @@ Alphez asks you to play rock, paper, scissors. If you win all rounds, he says he
     - 7600x Gold
 
 #294: {A Huge Movement}
+* Milo <Northern Timberlands>
 * (Pre-req: Quest 'Huge, Beautiful Horns')
     Talk to Milo.
     (You follow Milo's directions and offered the Elk Horns, but nothing happens. Ask Milo why that is.)
@@ -2896,6 +3269,7 @@ Alphez asks you to play rock, paper, scissors. If you win all rounds, he says he
     - 7600x Gold
 
 #300: {Secret of the Hat}
+* Phyton <Serraborg Castle>
     Deliver 5 Resilient Leather to Phyton.
     (Phyton says he's been having nightmares because of the Black Bear Hat, but he likes it too much to throw it away. Phyton asks you to collect materials that can be used to substitute for the Black Bear Hat.)
 * Rewards
@@ -2904,6 +3278,7 @@ Alphez asks you to play rock, paper, scissors. If you win all rounds, he says he
     - 1x Black Bear Hat
 
 #301: {In Need of Listening Ears}
+* Rowd <Baran Village Private Dwelling>
     Listen to Rowd's story.
     (Rowd the traveler says she needs someone to patiently listen to her stories. Listen to Rowd when you're ready.)
 * Rewards
@@ -2912,6 +3287,7 @@ Alphez asks you to play rock, paper, scissors. If you win all rounds, he says he
     - 1100x Gold
 
 #302: {Don't Cut Me Off!}
+* Rowd <Baran Village Private Dwelling>
     Listen to Rowd's story to the end.
     (Rowd gets upset because you stopped listening to her. Listen to her story until the end.)
 * Rewards
@@ -2920,11 +3296,13 @@ Alphez asks you to play rock, paper, scissors. If you win all rounds, he says he
     - 1100x Gold
 
 #303: {Hard-to-Find Treasure}
+* Theseus <Tamlin>
     Deliver the Mermaid's Tears to Theseus or Alpheon.
     (Theseus recognizes the Mermaid's Tears and says he wants them. Alpheon has been also looking for the tears, so listen to their stories and give the Mermaid's Tears to whoever seems more desperate.)
 * Rewards
 
 #304: {A Jewel Emitting Red Light}
+* Theseus <Tamlin>
     Deliver the Mermaid's Tears to Theseus.
     (Give the Mermaid's Tears to Theseus, who desperately wants them. He says he'll give you a jewel that emits red light as a gift.)
 * Rewards
@@ -2933,6 +3311,7 @@ Alphez asks you to play rock, paper, scissors. If you win all rounds, he says he
     - 1x Ruby
 
 #305: {A Delicate Golden Jewel}
+* Alpheon <Tamlin>
     Deliver the Mermaid's Tears to Alpheon.
     (Give the Mermaid's Tears to Alpheon, who desperately wants them. He says he'll give you a delicate golden jewel as a gift.)
 * Rewards
@@ -2941,6 +3320,7 @@ Alphez asks you to play rock, paper, scissors. If you win all rounds, he says he
     - 1x Topaz
 
 #306: {Punctuality Required}
+* Gramin <Serraborg Castle (Takes place in Gramin's Inn)>
     Hear Mercy out.
     (Gramin is concerned that Mercy is not as hardworking as before. Listen to Mercy to find out what's going on.)
 * Rewards
@@ -2948,6 +3328,7 @@ Alphez asks you to play rock, paper, scissors. If you win all rounds, he says he
     - 1500x Gold
 
 #307: {Too Much Work! 1}
+* Gramin <Serraborg Castle (Takes place in Gramin's Inn)>
 * (Pre-req: Quest 'Punctuality Required')
     Clean up the empty cups on the inn's table.
     (Mercy is too busy to listen, so do chores at the inn to help her.)
@@ -2956,6 +3337,7 @@ Alphez asks you to play rock, paper, scissors. If you win all rounds, he says he
     - 5800x Gold
 
 #308: {Too Much Work! 2}
+* Gramin <Serraborg Castle (Takes place in Gramin's Inn)>
 * (Pre-req: Quest 'Too Much Work! 1')
     Clean up the empty cups on the inn's table.
     (Mercy is too busy to listen, so do chores at the inn to help her.)
@@ -2964,6 +3346,7 @@ Alphez asks you to play rock, paper, scissors. If you win all rounds, he says he
     - 5800x Gold
 
 #309: {Too Much Work! 3}
+* Gramin <Serraborg Castle (Takes place in Gramin's Inn)>
 * (Pre-req: Quest 'Too Much Work! 2')
     Clean up the empty bottles in the inn's drawer.
     (Mercy is too busy to listen, so do chores at the inn to help her.)
@@ -2972,6 +3355,7 @@ Alphez asks you to play rock, paper, scissors. If you win all rounds, he says he
     - 5800x Gold
 
 #310: {Pausing for Breath}
+* Gramin <Serraborg Castle (Takes place in Gramin's Inn)>
 * (Pre-req: Quest 'Too Much Work! 3')
     Listen to Mercy.
     (You took care of some of the work at the inn, so now should be able to listen to Mercy. Go back to Mercy and hear what she has to say.)
@@ -2980,6 +3364,7 @@ Alphez asks you to play rock, paper, scissors. If you win all rounds, he says he
     - 1500x Gold
 
 #311: {Corrupt Boss Gramin}
+* Gramin <Serraborg Castle>
 * (Pre-req: Quest 'Pausing for Breath')
     Talk to Gramin, the horrible boss.
     (She says Gramin hasn't paid her Gold for a while. Listen to the story of Gramin, the corrupt boss.)
@@ -2989,6 +3374,7 @@ Alphez asks you to play rock, paper, scissors. If you win all rounds, he says he
     - 2x Splintered Golden Fragment
 
 #312: {Scary Story Contest}
+* Damid <Parvan Cabin>
     Participate in the spooky story contest.
     (Parvan Cabin is holding a scary story context. You can talk to Damid, the contest host, to join the contest any time.)
 * Rewards
@@ -2996,6 +3382,7 @@ Alphez asks you to play rock, paper, scissors. If you win all rounds, he says he
     - 7200x Gold
 
 #313: {My Ghost Story}
+* Damid <Parvan Cabin>
 * (Pre-req: Quest 'Scary Story Contest')
     Sit on a chair and share the story.
     (To enter the contest, you just sit on a chair and tell the scariest story you know.)
@@ -3004,6 +3391,7 @@ Alphez asks you to play rock, paper, scissors. If you win all rounds, he says he
     - 7200x Gold
 
 #314: {Ariel's Special Potion}
+* Damid <Parvan Cabin (Takes place in Howling Valley)>
 * (Pre-req: Quest 'My Ghost Story')
     Receive a Ghost Vision Mushroom Potion from Ariel.
     (No one believed you when you said you saw a ghost. You go to Ariel to get a potion to prove that you're telling the truth.)
@@ -3012,6 +3400,7 @@ Alphez asks you to play rock, paper, scissors. If you win all rounds, he says he
     - 7200x Gold
 
 #315: {Ghost Vision Mushroom Potion}
+* Damid <Parvan Cabin (Takes place in Howling Valley)>
 * (Pre-req: Quest 'Ariel's Special Potion')
     Deliver 10 Witch's Venomous Mushrooms to Ariel.
     (Ariel says the potion is complicated to make. She asks you to bring very important ingredients for making a Ghost Vision Mushroom Potion. She also tells you that a Witch's Venomous Mushroom can be obtained from a Huge Venomous Spirit.)
@@ -3020,6 +3409,7 @@ Alphez asks you to play rock, paper, scissors. If you win all rounds, he says he
     - 7200x Gold
 
 #316: {Have You Seen a Ghost?}
+* Damid <Parvan Cabin>
 * (Pre-req: Quest 'Ghost Vision Mushroom Potion')
     Return to the cabin and deliver the Ghost Vision Mushroom Potion.
     (You manage to obtain the Ghost Vision Mushroom Potion and head back to Parvan Cabin. This potion could help you win the contest.)
@@ -3030,6 +3420,7 @@ Alphez asks you to play rock, paper, scissors. If you win all rounds, he says he
     - 1x Versa's Grace
 
 #317: {Expensive Antique}
+* Von <Tamlin>
     Successfully sell the antique at the highest price.
     (Von the antique collector wants to prank Caesar the secondhand merchant by selling his lousiest antique item at a high price. Try to sell the antique item at a high price. You can get the antique item once a day from Von.)
 * Rewards
@@ -3037,6 +3428,7 @@ Alphez asks you to play rock, paper, scissors. If you win all rounds, he says he
     - 7600x Gold
 
 #318: {Ha! You're a Fool!}
+* Von <Tamlin>
 * (Pre-req: Quest 'Expensive Antique')
     Tell the truth to Caesar the secondhand merchant.
     (You successfully sold the antique at the highest price! Let Caesar know and see the look on his face.)
@@ -3047,6 +3439,7 @@ Alphez asks you to play rock, paper, scissors. If you win all rounds, he says he
     - 15x Pearl
 
 #319: {Selling Antiques}
+* Von <Tamlin>
     Sell the antique to Caesar secondhand merchant.
     (Sell the antique to Caesar the secondhand merchant. Try to sell it at the highest price possible.)
 * Rewards
@@ -3054,6 +3447,7 @@ Alphez asks you to play rock, paper, scissors. If you win all rounds, he says he
     - 1000x Gold
 
 #320: {Antique Sales Completed}
+* Von <Tamlin>
 * (Pre-req: Quest 'Selling Antiques')
     Submit the receipt to Von the antique collector.
     (You got a receipt that says the antique was sold to Caesar. Give it to Von to check if you sold it at a high price.)
@@ -3062,6 +3456,7 @@ Alphez asks you to play rock, paper, scissors. If you win all rounds, he says he
     - 1000x Gold
 
 #321: {The Best Service}
+* Giselle <Livias Residential District>
     Reach customer satisfaction level 100
     (Carefully observe what the customers want and take action to bring their satisfaction up to 100.)
 * Rewards
@@ -3069,6 +3464,7 @@ Alphez asks you to play rock, paper, scissors. If you win all rounds, he says he
     - 15600x Gold
 
 #322: {Welcome!}
+* Giselle <Livias Residential District>
     Guide a customer to their seat.
     (Lead the customer who's been waiting. Which seat could the customer want?)
 * Rewards
@@ -3077,6 +3473,7 @@ Alphez asks you to play rock, paper, scissors. If you win all rounds, he says he
     - 10x Satisfaction Level
 
 #323: {What Would You Like to Order?}
+* Giselle <Livias Residential District>
 * (Pre-req: Quest 'Welcome!')
     Take the ready customer's order.
     (Take the customer's order when they're ready. It's important to remember the order accurately.)
@@ -3086,6 +3483,7 @@ Alphez asks you to play rock, paper, scissors. If you win all rounds, he says he
     - 10x Satisfaction Level
 
 #324: {Food is Ready!}
+* Giselle <Livias Residential District>
 * (Pre-req: Quest 'What Would You Like to Order?')
     Go get the finished dish.
     (The food is ready. Go get the food.)
@@ -3094,6 +3492,7 @@ Alphez asks you to play rock, paper, scissors. If you win all rounds, he says he
     - 15600x Gold
 
 #325: {Here's Your Food}
+* Giselle <Livias Residential District>
 * (Pre-req: Quest 'Food is Ready!')
     Serve the ordered food.
     (Now that you've got the food, bring it to the customer to serve. It's important to serve the food to the person who ordered it.)
@@ -3103,6 +3502,7 @@ Alphez asks you to play rock, paper, scissors. If you win all rounds, he says he
     - 10x Satisfaction Level
 
 #326: {Anything Else You Need?}
+* Giselle <Livias Residential District>
 * (Pre-req: Quest 'Here's Your Food')
     Serve the additional order for another customer.
     (Another customer needs something. Take care of the additional order.)
@@ -3112,6 +3512,7 @@ Alphez asks you to play rock, paper, scissors. If you win all rounds, he says he
     - 10x Satisfaction Level
 
 #327: {Ready for Your Check?}
+* Giselle <Livias Residential District>
 * (Pre-req: Quest 'Anything Else You Need?')
     Help the finished customer check out.
     (Help the customer with billing when they are done eating. It's important to calculate the bill accurately.)
@@ -3121,6 +3522,7 @@ Alphez asks you to play rock, paper, scissors. If you win all rounds, he says he
     - 10x Satisfaction Level
 
 #328: {Goodbye}
+* Giselle <Livias Residential District>
 * (Pre-req: Quest 'Ready for Your Check?')
     Clean the table that the customer was eating at.
     (Clean the table for the next customer.)
@@ -3129,6 +3531,7 @@ Alphez asks you to play rock, paper, scissors. If you win all rounds, he says he
     - 15600x Gold
 
 #329: {Welcome!}
+* Giselle <Livias Residential District>
 * (Pre-req: Quest 'Goodbye')
     Guide a customer to their seat.
     (Lead the customer who's been waiting. Which seat could the customer want?)
@@ -3138,6 +3541,7 @@ Alphez asks you to play rock, paper, scissors. If you win all rounds, he says he
     - 10x Satisfaction Level
 
 #330: {What Would You Like to Order?}
+* Giselle <Livias Residential District>
 * (Pre-req: Quest 'Welcome!')
     Take the ready customer's order.
     (Take the customer's order when they're ready. It's important to remember the order accurately.)
@@ -3147,6 +3551,7 @@ Alphez asks you to play rock, paper, scissors. If you win all rounds, he says he
     - 10x Satisfaction Level
 
 #331: {Food is Ready!}
+* Giselle <Livias Residential District>
 * (Pre-req: Quest 'What Would You Like to Order?')
     Go get the finished dish.
     (The food is ready. Go get the food.)
@@ -3155,6 +3560,7 @@ Alphez asks you to play rock, paper, scissors. If you win all rounds, he says he
     - 15600x Gold
 
 #332: {Here's Your Food}
+* Giselle <Livias Residential District>
 * (Pre-req: Quest 'Food is Ready!')
     Serve the ordered food.
     (Now that you've got the food, bring it to the customer to serve. It's important to serve the food to the person who ordered it.)
@@ -3164,6 +3570,7 @@ Alphez asks you to play rock, paper, scissors. If you win all rounds, he says he
     - 10x Satisfaction Level
 
 #333: {Anything Else You Need?}
+* Giselle <Livias Residential District>
 * (Pre-req: Quest 'Here's Your Food')
     Serve the additional order for another customer.
     (Another customer needs something. Take care of the additional order.)
@@ -3173,6 +3580,7 @@ Alphez asks you to play rock, paper, scissors. If you win all rounds, he says he
     - 10x Satisfaction Level
 
 #334: {Ready for Your Check?}
+* Giselle <Livias Residential District>
 * (Pre-req: Quest 'Anything Else You Need?')
     Help the finished customer check out.
     (Help the customer with billing when they are done eating. It's important to calculate the bill accurately.)
@@ -3182,6 +3590,7 @@ Alphez asks you to play rock, paper, scissors. If you win all rounds, he says he
     - 10x Satisfaction Level
 
 #335: {Goodbye}
+* Giselle <Livias Residential District>
 * (Pre-req: Quest 'Ready for Your Check?')
     Clean the table that the customer was eating at.
     (Clean the table for the next customer.)
@@ -3190,6 +3599,7 @@ Alphez asks you to play rock, paper, scissors. If you win all rounds, he says he
     - 15600x Gold
 
 #336: {Nice Part-Time Job Pay}
+* Giselle <Livias Residential District>
 * (Pre-req: Quest 'The Best Service')
     Receive pay from Giselle in the morning after you finish all your work.
     (Giselle says she can calculate your pay in the morning. She says you should come back in the morning to get paid.)
@@ -3201,6 +3611,7 @@ Alphez asks you to play rock, paper, scissors. If you win all rounds, he says he
     - 1x [Lv. 120] Rare Plentiful Parchment
 
 #337: {Prelude to Dark History}
+* Giselle <Livias Residential District>
     Deliver the Hangover Drink to the regular customer.
     (Deliver the hangover drink for the regular customer who seems totally out of it.)
 * Rewards
@@ -3208,6 +3619,7 @@ Alphez asks you to play rock, paper, scissors. If you win all rounds, he says he
     - 5200x Gold
 
 #338: {Piece of Memory 1}
+* Aynar <Livias Residential District>
 * (Pre-req: Quest 'Prelude to Dark History')
     Find a blue bird and a yellow bird flying in the sky.
     (Help the regular customer remember what happened yesterday.)
@@ -3216,6 +3628,7 @@ Alphez asks you to play rock, paper, scissors. If you win all rounds, he says he
     - 5200x Gold
 
 #339: {Piece of Memory 2}
+* Aynar <Livias Residential District>
 * (Pre-req: Quest 'Piece of Memory 1')
     Find a Green Dragon ascending to heaven.
     (Help the regular customer remember what happened yesterday.)
@@ -3224,6 +3637,7 @@ Alphez asks you to play rock, paper, scissors. If you win all rounds, he says he
     - 5200x Gold
 
 #340: {Piece of Memory 3}
+* Aynar <Livias Residential District>
 * (Pre-req: Quest 'Piece of Memory 2')
     Find the Warrior wrapped in many layers of thin armor.
     (Help the regular customer remember what happened yesterday.)
@@ -3232,6 +3646,7 @@ Alphez asks you to play rock, paper, scissors. If you win all rounds, he says he
     - 5200x Gold
 
 #341: {Piece of Memory 4}
+* Aynar <Livias Residential District>
 * (Pre-req: Quest 'Piece of Memory 3')
     Within the fields of flowers, find Aynar's first love's house.
     (Help the regular customer remember what happened yesterday.)
@@ -3240,6 +3655,7 @@ Alphez asks you to play rock, paper, scissors. If you win all rounds, he says he
     - 5200x Gold
 
 #342: {The Last Piece of Memory}
+* Aynar <Livias Residential District>
 * (Pre-req: Quest 'Piece of Memory 4')
     Confirm the truth with Charlotte the watchman.
     (Help the regular customer remember what happened yesterday.)
@@ -3250,6 +3666,7 @@ Alphez asks you to play rock, paper, scissors. If you win all rounds, he says he
     - 1x Tempest Warrior Mercenary Contract
 
 #343: {Serraborg's Aesthetics}
+* Armond <Serraborg Residential District>
     Find a chair in the Serraborg Residential District that lets you see the scenery well.
     (Find out which chair allows you to enjoy the scenery the best so you can tell Armond. Try to find scenery that best represents the Serraborg Residential District.)
 * Rewards
@@ -3257,6 +3674,7 @@ Alphez asks you to play rock, paper, scissors. If you win all rounds, he says he
     - 3900x Gold
 
 #344: {Baran's Aesthetics}
+* Armond <Serraborg Residential District (Takes place in Baran Residential District)>
 * (Pre-req: Quest 'Serraborg's Aesthetics')
     Find a chair in the Baran Residential District that lets you see the scenery well.
     (Find out which chair allows you to enjoy the scenery the best so you can tell Armond. Try to find scenery that best represents the Baran Residential District.)
@@ -3265,6 +3683,7 @@ Alphez asks you to play rock, paper, scissors. If you win all rounds, he says he
     - 3900x Gold
 
 #345: {Livias's Aesthetics}
+* Armond <Serraborg Residential District (Takes place in Livias Residential District)>
 * (Pre-req: Quest 'Baran's Aesthetics')
     Find a chair in the Livias Residential District that lets you see the scenery well.
     (Find out which chair allows you to enjoy the scenery the best so you can tell Armond. Try to find scenery that best represents the Livias Residential District.)
@@ -3273,6 +3692,7 @@ Alphez asks you to play rock, paper, scissors. If you win all rounds, he says he
     - 3900x Gold
 
 #346: {Picturesque Scenery}
+* Armond <Serraborg Residential District>
 * (Pre-req: Quest 'Livias's Aesthetics')
     Introduce the perfect spot in each region to Armond.
     (Introduce all the great spots to Armond. The scenery should be good enough to inspire him to create great art.)
@@ -3283,6 +3703,7 @@ Alphez asks you to play rock, paper, scissors. If you win all rounds, he says he
     - 1x Outdoor Ordinary Chair
 
 #347: {Plant of the New Land}
+* Christian <Serraborg Residential District (Takes place in Land of the Forgotten Kingdom)>
     Receive the Radiant Cactus Sample.
     (Christian says he's never seen the Radiant Cactus that emits light at night, and wants you to get a sample of it. He says it won't be easy to capture the light in the sample.)
 * Rewards
@@ -3290,6 +3711,7 @@ Alphez asks you to play rock, paper, scissors. If you win all rounds, he says he
     - 15600x Gold
 
 #348: {I'm a Botanist, Too}
+* Christian <Serraborg Residential District>
 * (Pre-req: Quest 'Plant of the New Land')
     Deliver the sample to Christian.
     (Deliver the Radiant Cactus Sample to Christian. Now the botanists will be able to continue their research.)
@@ -3301,12 +3723,14 @@ Alphez asks you to play rock, paper, scissors. If you win all rounds, he says he
     - 1x Outdoor Hydrangea Vase
 
 #349: {Cactus Sample}
+* Christian <Serraborg Residential District (Takes place in Land of the Forgotten Kingdom)>
     Try to gather the Cactus Sample.
     (Gather the cactus sample for Christian.)
 * Rewards
     - 1x Cactus Sample
 
 #350: {Love It or Hate It Fragrance}
+* Vedes <Serraborg Castle>
     Deliver Dante's Fragrance to Vedes.
     (Vedes has been looking for his signature cologne. He says he really likes Dante's Fragrance.)
 * Rewards
@@ -3315,6 +3739,7 @@ Alphez asks you to play rock, paper, scissors. If you win all rounds, he says he
     - 3x Seductive Perfume
 
 #351: {Dead Drunk}
+* Marco <Somren Free City>
     Return to Marco to talk
     (Marco, who is dead drunk, is busy looking for his wallet and tells you to talk to him again soon.)
 * Rewards
@@ -3323,6 +3748,7 @@ Alphez asks you to play rock, paper, scissors. If you win all rounds, he says he
     - 5x Intermediate Gold Chest
 
 #352: {Decurion Haslam's Order 1}
+* Haslam <Northern Serraborg Castle>
     Defeat every enemy at Northern Serraborg Castle.
     (Decurion Haslam, who's guarding the entrance of Northern Serraborg Castle, says evil monsters are terrorizing Serraborg Castle residents. He asks you to defeat the monsters around the area.)
 * Rewards
@@ -3330,6 +3756,7 @@ Alphez asks you to play rock, paper, scissors. If you win all rounds, he says he
     - 13400x Gold
 
 #353: {Decurion Haslam's Order 1 Report}
+* Haslam <Northern Serraborg Castle>
 * (Pre-req: Quest 'Decurion Haslam's Order 1')
     Report to Haslam that they've been defeated.
     (After defeating the monsters around Northern Serraborg Castle, report to Decurion Haslam.)
@@ -3338,6 +3765,7 @@ Alphez asks you to play rock, paper, scissors. If you win all rounds, he says he
     - 6700x Gold
 
 #354: {Decurion Haslam's Order 2}
+* Haslam <Northern Serraborg Castle>
 * (Pre-req: Quest 'Decurion Haslam's Order 1 Report')
     Defeat all 1,000 of the enemies at Northern Serraborg Castle in time.
     (It looks like Decurion Haslam wants you to prove your might. He asks you to defeat 1,000 monsters at Northern Serraborg Castle in 30 minutes.)
@@ -3346,6 +3774,7 @@ Alphez asks you to play rock, paper, scissors. If you win all rounds, he says he
     - 13400x Gold
 
 #355: {Decurion Haslam's Order 2 Report}
+* Haslam <Northern Serraborg Castle>
 * (Pre-req: Quest 'Decurion Haslam's Order 2')
     Report to Haslam that they've been defeated.
     (After defeating the monsters around Northern Serraborg Castle within the time limit, report to Decurion Haslam.)
@@ -3359,6 +3788,7 @@ Alphez asks you to play rock, paper, scissors. If you win all rounds, he says he
     - 1x [Lesser Party Potion] Max HP/MP
 
 #424: {Sweet Confession of Love}
+* Denis <Tamlin>
     Deliver the Love Letter to Lamia
     (Denis the herbalist, asked you to deliver the Love Letter to his wife Lamia who is waiting for him.)
 * Rewards
@@ -3366,6 +3796,7 @@ Alphez asks you to play rock, paper, scissors. If you win all rounds, he says he
     - 8000x Gold
 
 #425: {Sweet and Sour Organic Strawberry}
+* Lamia <Tamlin>
 * (Pre-req: Quest 'Sweet Confession of Love')
     Gather Strawberries
     (Lamia, who was waiting for Denis, decides to make his favorite chocolate. She asked you to bring strawberries for making Sweet and Sour Strawberry Chocolate.)
@@ -3374,6 +3805,7 @@ Alphez asks you to play rock, paper, scissors. If you win all rounds, he says he
     - 31800x Gold
 
 #426: {Sweet and Sour Strawberry Chocolate}
+* Lamia <Tamlin>
 * (Pre-req: Quest 'Sweet and Sour Organic Strawberry')
     Deliver the 10 Strawberries to Lamia
     (Deliver the strawberries Lamia asked for.)
@@ -3382,6 +3814,7 @@ Alphez asks you to play rock, paper, scissors. If you win all rounds, he says he
     - 8000x Gold
 
 #427: {Aesthetics of Waiting}
+* Lamia <Tamlin>
 * (Pre-req: Quest 'Sweet and Sour Strawberry Chocolate')
     Defeat every monster at Tamlin
     (Lamia has started making Denis's favorite strawberry chocolate with the fresh ingredients. She asked you to defeat the monsters around the village in the meantime.)
@@ -3390,6 +3823,7 @@ Alphez asks you to play rock, paper, scissors. If you win all rounds, he says he
     - 15900x Gold
 
 #428: {Sweet Smell}
+* Lamia <Tamlin>
 * (Pre-req: Quest 'Aesthetics of Waiting')
     Return to Lamia
     (Defeat the monsters around the village and return to Lamia who is making the chocolate and waiting for you.)
@@ -3398,6 +3832,7 @@ Alphez asks you to play rock, paper, scissors. If you win all rounds, he says he
     - 8000x Gold
 
 #429: {Bridge of Magpies}
+* Lamia <Tamlin>
 * (Pre-req: Quest 'Sweet Smell')
     Deliver Handmade Love Chocolates to Denis
     (Deliver the strawberry chocolate carefully made by Lamia to Denis the herbalist.)
@@ -3406,6 +3841,7 @@ Alphez asks you to play rock, paper, scissors. If you win all rounds, he says he
     - 8000x Gold
 
 #430: {Banabracadabra!}
+* Denis <Tamlin>
 * (Pre-req: Quest 'Bridge of Magpies')
     Listen to Denis about How to Win At Love
     (Denis has said he will tell you the secret to love and to return to him if you are curious about love.)
@@ -3415,6 +3851,7 @@ Alphez asks you to play rock, paper, scissors. If you win all rounds, he says he
     - 1x Banana Hat
 
 #431: {Mibal's Call}
+* Mibal <Serraborg Barracks>
     Talk to Mibal
     (After suppressing Leatvar Den and returning to Serraborg, Mibal is calling again.)
 * Rewards
@@ -3423,6 +3860,7 @@ Alphez asks you to play rock, paper, scissors. If you win all rounds, he says he
     - 5x Teleportation Picture
 
 #432: {Mibal's Gift}
+* Vance <Wasteland>
 * (Pre-req: Quest 'Mibal's Call')
     Talk to Johnson
     (Mibal said he has a gift to give in return for helping with the suppression, and asked you to meet his soldier, Johnson, in the Wasteland.)
@@ -3432,6 +3870,7 @@ Alphez asks you to play rock, paper, scissors. If you win all rounds, he says he
     - 5x Teleportation Picture
 
 #433: {Whereabouts of the Gift}
+* Vance <Baran Ravine>
 * (Pre-req: Quest 'Mibal's Gift')
     Move to where Philip is
     (I went to the place Mibal said, but there was nothing there. Mibal's soldier, Johnson, said the gift had ran away and told you to go to Baran Ravine because Suppression Team Member Philip is chasing it.)
@@ -3440,6 +3879,7 @@ Alphez asks you to play rock, paper, scissors. If you win all rounds, he says he
     - 1000x Gold
 
 #434: {Mangy Foal}
+* Philip <Baran Ravine>
 * (Pre-req: Quest 'Whereabouts of the Gift')
     Defeat the Vermillion Spider
     (Mibal's gift was a mangy foal. You refused the gift, but Philip, who brought the foal, said it will not budge because of all the spiders around it and asked you to defeat them.)
@@ -3448,6 +3888,7 @@ Alphez asks you to play rock, paper, scissors. If you win all rounds, he says he
     - 1900x Gold
 
 #435: {What the Foal Hates}
+* Philip <Baran Ravine>
 * (Pre-req: Quest 'Mangy Foal')
     Report to Philip and check on the Foal
     (Defeat the Vermillion Spider and return to Philip and the foal to check on them.)
@@ -3456,6 +3897,7 @@ Alphez asks you to play rock, paper, scissors. If you win all rounds, he says he
     - 1000x Gold
 
 #436: {Hungry Foal}
+* Philip <Baran Ravine (Takes place in Serraborg Castle)>
 * (Pre-req: Quest 'What the Foal Hates')
     Buy Assorted Vegetables
     (The foal will still not move. Philip says the foal seems hungry and asks you to return to Serraborg and buy Assorted Vegetables.)
@@ -3464,6 +3906,7 @@ Alphez asks you to play rock, paper, scissors. If you win all rounds, he says he
     - 1000x Gold
 
 #437: {Foal Food}
+* Philip <Baran Ravine>
 * (Pre-req: Quest 'Hungry Foal')
     Deliver the 10 Assorted Vegetables to Philip
     (Buy Assorted Vegetables and return the Philip who has the foal.)
@@ -3472,6 +3915,7 @@ Alphez asks you to play rock, paper, scissors. If you win all rounds, he says he
     - 1000x Gold
 
 #438: {Foal's Tastes}
+* Weed <Leatvar Den>
 * (Pre-req: Quest 'Foal Food')
     Talk to Weed
     (Delivered the vegetables to the foal but it will not eat. Philip remembers Weed's cooking skills and asks you to visit Weed, who is still researching cooking at the Leatvar Den.)
@@ -3480,6 +3924,7 @@ Alphez asks you to play rock, paper, scissors. If you win all rounds, he says he
     - 1000x Gold
 
 #439: {Weed's Cooking Study 1}
+* Weed <Leatvar Den>
 * (Pre-req: Quest 'Foal's Tastes')
     Catch a Spider
     (After hearing the story of the mangy foal, Weed said he would make a Special Soup for the foal. In return, he asked you to catch a spider he needs for cooking research.)
@@ -3488,6 +3933,7 @@ Alphez asks you to play rock, paper, scissors. If you win all rounds, he says he
     - 1900x Gold
 
 #440: {Weed's Cooking Study 2}
+* Weed <Leatvar Den>
 * (Pre-req: Quest 'Weed's Cooking Study 1')
     Deliver the Spider to Weed
     (Deliver the spider to Weed.)
@@ -3496,6 +3942,7 @@ Alphez asks you to play rock, paper, scissors. If you win all rounds, he says he
     - 1000x Gold
 
 #441: {Weed's Cooking Study 3}
+* Weed <Leatvar Den>
 * (Pre-req: Quest 'Weed's Cooking Study 2')
     Defeat every monster at Leatvar Den
     (Weed is going to make a Special Soup, defeat any monsters that interfere with the cooking in the meantime.)
@@ -3504,6 +3951,7 @@ Alphez asks you to play rock, paper, scissors. If you win all rounds, he says he
     - 1900x Gold
 
 #442: {Weed's Cooking Study 4}
+* Weed <Leatvar Den>
 * (Pre-req: Quest 'Weed's Cooking Study 3')
     Go to Weed and check if the Special Soup has been made
     (Return to Weed and check if the Special Soup has been made.)
@@ -3512,6 +3960,7 @@ Alphez asks you to play rock, paper, scissors. If you win all rounds, he says he
     - 1000x Gold
 
 #443: {Special Soup for the Foal}
+* Philip <Baran Ravine>
 * (Pre-req: Quest 'Weed's Cooking Study 4')
     Deliver Weed's Special Soup to Philip
     (The Special Soup for the foal is ready. Deliver the Special Soup to Philip, who is looking after the foal.)
@@ -3521,6 +3970,7 @@ Alphez asks you to play rock, paper, scissors. If you win all rounds, he says he
     - 1000x Gold
 
 #444: {Special Soup Secret}
+* Weed <Leatvar Den>
 * (Pre-req: Quest 'Special Soup for the Foal')
     Go to Weed to ask about the Special Soup's Secret
     (The foal enjoyed Weed's Special Soup and moved from where it was stood. Philip asked you to go to Weed to ask for the soup's secret.)
@@ -3529,6 +3979,7 @@ Alphez asks you to play rock, paper, scissors. If you win all rounds, he says he
     - 1000x Gold
 
 #473: {Meat Needs to Be Grilled}
+* Sonia <Northern Varoc Mountains>
     Defeat the Yeti and collect Yeti Meat
     (Sonia of the Varoc Suppression Team, told you to defeat the Yeti and collect Yeti meat, saying she will tell you about the origin of grilled Yeti meat skewers.)
 * Rewards
@@ -3536,6 +3987,7 @@ Alphez asks you to play rock, paper, scissors. If you win all rounds, he says he
     - 32400x Gold
 
 #474: {Inventor of the Skewer}
+* Sonia <Northern Varoc Mountains (Takes place in Leatvar Den)>
 * (Pre-req: Quest 'Meat Needs to Be Grilled')
     Deliver the Yeti Meat to Weed
     (Following the delicious smell, it is said that the Orc was enjoying the grilled Yeti meat skewer. There were many rumors that the Orc was Weed, and in order to reveal the truth of the rumor, Sonia asked you to go to Weed with Yeti meat and find out the truth about the Orc.)
@@ -3544,6 +3996,7 @@ Alphez asks you to play rock, paper, scissors. If you win all rounds, he says he
     - 8100x Gold
 
 #475: {Weed's Tricks}
+* Weed <Leatvar Den>
 * (Pre-req: Quest 'Inventor of the Skewer')
     Buy Subjugation Scroll from Weed
     (Hearing the truth about the Orc and asking him to make Yeti meat skewers, Weed asked you to buy a Subjugation Scroll item for the price of making it.)
@@ -3552,6 +4005,7 @@ Alphez asks you to play rock, paper, scissors. If you win all rounds, he says he
     - 32400x Gold
 
 #476: {Delicious Smell}
+* Weed <Leatvar Den>
 * (Pre-req: Quest 'Weed's Tricks')
     Talk to Weed
     (Buy a Subjugation Scroll from Weed and talk to him again)
@@ -3561,6 +4015,7 @@ Alphez asks you to play rock, paper, scissors. If you win all rounds, he says he
     - 5x Yeti Meat Skewer
 
 #477: {Orc's Truth}
+* Weed <Leatvar Den (Takes place in Northern Varoc Mountains)>
 * (Pre-req: Quest 'Delicious Smell')
     Return to Sonia
     (Return to Sonia and tell her the truth about the Orc.)
@@ -3569,6 +4024,7 @@ Alphez asks you to play rock, paper, scissors. If you win all rounds, he says he
     - 8100x Gold
 
 #478: {Don't Catch a Cold}
+* Erun <Pilgrim's Path>
     Deliver 3 Ginger Tea to Erun
     (Deliver Ginger Tea to Erun, who is training at the waterfall on the Pilgrim's Path, so he does not catch a cold.)
 * Rewards
@@ -3577,6 +4033,7 @@ Alphez asks you to play rock, paper, scissors. If you win all rounds, he says he
     - 5x Grilled Eel
 
 #479: {Calming the Mind and Body}
+* Dianta <Freya's Road>
     Deliver 3 Lavender Trunks to Dianta
     (Freya's Road is a very difficult place to get flowers. After smelling the scent of lavender, florist Dianta asked you to get some of her favorite lavender.)
 * Rewards
@@ -3585,6 +4042,7 @@ Alphez asks you to play rock, paper, scissors. If you win all rounds, he says he
     - 5x Precious Lunarium Chest
 
 #480: {Squid Ink}
+* Alpheus <Eastern Somren>
     Deliver 3 Freshwater Squid to Alpheus
     (In order to extract squid in, which is popular as a natural dyeing material, the dye artisan Alpheus asked you for some freshwater squid.)
 * Rewards
@@ -3593,6 +4051,7 @@ Alphez asks you to play rock, paper, scissors. If you win all rounds, he says he
     - 1x Quality Silk Cloth
 
 #96: {Tourist Guide}
+* Leoreus <Somren Free City>
     Let Leoreus know about the location of the Bensa River
     (Tourist Leoreus wants to go to Bensa River for his next destination. But Leoreus says he has lost his map and cannot remember the way to Bensa River. I need to tell Leoreus the location of Bensa River.)
 * Rewards
@@ -3601,6 +4060,7 @@ Alphez asks you to play rock, paper, scissors. If you win all rounds, he says he
     - 8700x Gold
 
 #97: {Enthusiastic Audience}
+* Caterina <Somren Free City>
     Sit on the bench behind Caterina
     (After talking to Caterina, Caterina asked if I was waiting for her performance and was happy. However, she told me to wait because she cannot start the performance until her partner Domenico arrives.)
 * Rewards
@@ -3609,6 +4069,7 @@ Alphez asks you to play rock, paper, scissors. If you win all rounds, he says he
     - 8700x Gold
 
 #98: {Donation to the Order}
+* Cardna <Freya's Cathedral>
     Donate money to Cardna
     (It is said that if you donate money to Order of Freya through priest Cardna, you can receive the Goddess's Blessing.)
 * Rewards
@@ -3616,6 +4077,7 @@ Alphez asks you to play rock, paper, scissors. If you win all rounds, he says he
     - 8700x Gold
 
 #99: {Taste for Fishing}
+* Theophile <Bensa River>
     Deliver 20 Lettuce to Theophile
     (Legendary Fisherman Theophile said that fish that you catch tastes the best, and told me to get some lettuce for him to wrap the fish in.)
 * Rewards
@@ -3624,6 +4086,7 @@ Alphez asks you to play rock, paper, scissors. If you win all rounds, he says he
     - 5x Assorted Yellowfin Tuna Sashimi
 
 #54: {Chapman's Whereabouts 1}
+* Horis <Tamlin (Takes place in Varoc Mountains Entrance)>
     Head to the Varoc Mountains Entrance
     (When the adventurer talked to the merchant Horis and asked the price of the Amethyst, Horis said it would be better to try selling it in a big city. He sent his student Chapman on an errand to the large city of Serraborg, but it seems he got lost as he has not yet returned, so if you are going to Serraborg, try to keep an eye out for him at the Varoc Mountains Entrance.)
 * Rewards
@@ -3631,6 +4094,7 @@ Alphez asks you to play rock, paper, scissors. If you win all rounds, he says he
     - 7500x Gold
 
 #55: {Chapman's Whereabouts 2}
+* Horis <Varoc Mountains Entrance>
 * (Pre-req: Quest 'Chapman's Whereabouts 1')
     Find Chapman at the Varoc Mountains Entrance
     (You must look for Chapman at the Varoc Mountains Entrance.)
@@ -3639,6 +4103,7 @@ Alphez asks you to play rock, paper, scissors. If you win all rounds, he says he
     - 7500x Gold
 
 #56: {Chapman's Whereabouts 3}
+* Horis <Varoc Mountains Entrance>
 * (Pre-req: Quest 'Chapman's Whereabouts 2')
     Talk to Chapman
     (You found Chapman at the Varoc Mountains Entrance. Try talking to Chapman.)
@@ -3647,6 +4112,7 @@ Alphez asks you to play rock, paper, scissors. If you win all rounds, he says he
     - 7500x Gold
 
 #57: {A Heavy Load}
+* Chapman <Varoc Mountains Entrance>
 * (Pre-req: Quest 'Chapman's Whereabouts 3')
     Defeat the Monster at the Varoc Mountains Entrance
     (I told him met with Chapman in the Varoc Mountains and said that Horis was looking for him, but Chapman said his legs hurt because he had a lot of bags and asked me to catch some monsters while he rested for a while.)
@@ -3655,6 +4121,7 @@ Alphez asks you to play rock, paper, scissors. If you win all rounds, he says he
     - 7500x Gold
 
 #58: {Rest Time}
+* Chapman <Varoc Mountains Entrance>
 * (Pre-req: Quest 'A Heavy Load')
     Return to Chapman
     (Return to Chapman who's resting.)
@@ -3663,6 +4130,7 @@ Alphez asks you to play rock, paper, scissors. If you win all rounds, he says he
     - 7500x Gold
 
 #59: {Gourmet Chapman}
+* Chapman <Varoc Mountains Entrance>
 * (Pre-req: Quest 'Rest Time')
     Deliver 5 Cheesecakes to Chapman
     (Chapman said he was actually late because he had been going around Serraborg's restaurants and cafes. He said the cheesecake that he ate in Serraborg was so delicious that he still felt dizzy but that he has too many bags to go back, so he asked an adventurer to bring him back some cheesecake.)
@@ -3671,6 +4139,7 @@ Alphez asks you to play rock, paper, scissors. If you win all rounds, he says he
     - 7500x Gold
 
 #62: {Precious Food 1}
+* Chapman <Varoc Mountains Entrance (Takes place in Serraborg Castle)>
 * (Pre-req: Quest 'Gourmet Chapman')
     Buy 100 Cheese from the Serraborg Grocery Merchant
     (Chapman, who enjoyed the cheesecake, recalled that cheese is a difficult ingredient to get in Tamlin, and said it demands a high price in Tamlin. He said that he would tell Horis and told me to go to buy 100 cheese from the grocery store in Serraborg.)
@@ -3679,6 +4148,7 @@ Alphez asks you to play rock, paper, scissors. If you win all rounds, he says he
     - 7500x Gold
 
 #63: {Precious Food 2}
+* Chapman <Varoc Mountains Entrance (Takes place in Tamlin)>
 * (Pre-req: Quest 'Precious Food 1')
     Deliver 100 Cheese to Horis
     (Deliver 100 Cheese to Horis.)
@@ -3697,6 +4167,7 @@ Alphez asks you to play rock, paper, scissors. If you win all rounds, he says he
 * Rewards
 
 #8000: {Collect Suspicious Powder}
+* Serge <Freya's Road>
     Collect 30 Suspicious Powder
     (There is said to be a shiny powder that is a must-have item for gourmets, and it can be found in all regions, so go look for it.)
 * Rewards
@@ -3704,6 +4175,7 @@ Alphez asks you to play rock, paper, scissors. If you win all rounds, he says he
     - 32400x Gold
 
 #8001: {What Is This Powder?}
+* Serge <Freya's Road>
 * (Pre-req: Quest 'Collect Suspicious Powder')
     Return to Serge
     (This does not seem to be the powder that Serge thought. Return to Serge for now.)
@@ -3712,6 +4184,7 @@ Alphez asks you to play rock, paper, scissors. If you win all rounds, he says he
     - 8100x Gold
 
 #8002: {Meet Gourmet Elihu}
+* Serge <Freya's Road>
 * (Pre-req: Quest 'What Is This Powder?')
     Ask about the Suspicious Powder to Elihu
     (A sweet smell comes off the suspicious powder but something looks different about it. If you were gourmet Elihu, you might know what the suspicious powder really is.)
@@ -3720,6 +4193,7 @@ Alphez asks you to play rock, paper, scissors. If you win all rounds, he says he
     - 8100x Gold
 
 #8003: {Craft Radiant Powder}
+* Elihu <Freya's Road>
 * (Pre-req: Quest 'Meet Gourmet Elihu')
     Craft Radiant Powder through Elihu
     (Elihu says that a little work is required to make radiant powder. Refine the powder through Elihu.)
@@ -3728,6 +4202,7 @@ Alphez asks you to play rock, paper, scissors. If you win all rounds, he says he
     - 32400x Gold
 
 #8004: {The Value of Bread and Milk}
+* Ode <Baran>
     Buy Transmutation Agent
     (Alchemist Ode noticed the hungry adventurer and decided to offer you bread and milk. 
 In return, he asked you to get Transmutation Agents.)
@@ -3736,6 +4211,7 @@ In return, he asked you to get Transmutation Agents.)
     - 13400x Gold
 
 #8005: {Ordinary Transmutation Agent}
+* Ode <Baran>
 * (Pre-req: Quest 'The Value of Bread and Milk')
     Deliver Transmutation Agent
     (You bought a large quantity of Transmutation Agents. What could Ode want these for?)
@@ -3746,6 +4222,7 @@ In return, he asked you to get Transmutation Agents.)
     - 5x Milk
 
 #8006: {Ode's Stone Banana}
+* Ode <Baran (Takes place in Alchemist Society)>
 * (Pre-req: Quest 'Ordinary Transmutation Agent')
     Ask Isaac
     (Ode told you the reason why he wants the Transmutation Agents. He said he planted banana seeds from a banana he bought from a wandering merchant, but the bananas were too solid for him to eat. So he was going to use a Transmutation Agent to make them soft, but it did not go as planned. He asked you to show it to Alchemist Guild Master Isaac and ask about it on his behalf.)
@@ -3754,6 +4231,7 @@ In return, he asked you to get Transmutation Agents.)
     - 13400x Gold
 
 #8007: {Alchemists Who Only Reveal Money}
+* Isaac <Alchemist Society>
 * (Pre-req: Quest 'Ode's Stone Banana')
     Provide 1,000,000 Gold
     (Isaac became interested when he saw the banana. However, he said that the research had its price and asked you for 1,000,000 Gold.)
@@ -3762,6 +4240,7 @@ In return, he asked you to get Transmutation Agents.)
     - 13400x Gold
 
 #8008: {Genetic Engineering Crystallization}
+* Isaac <Alchemist Society (Takes place in Baran)>
 * (Pre-req: Quest 'Alchemists Who Only Reveal Money')
     Deliver the story to Ode
     (After doing an experiment, Isaac discovered that it is not a banana but an item with the durability of steel. In the past in the age of war, it is said that the common people suffered due to famine caused by plundering, and people who could not bear it made this so that their items would not be stolen. Tell Ode about this fact.)
@@ -3770,6 +4249,7 @@ In return, he asked you to get Transmutation Agents.)
     - 13400x Gold
 
 #8009: {Brilliant Idea}
+* Ode <Baran>
 * (Pre-req: Quest 'Genetic Engineering Crystallization')
     Talk to Ode
     (When I told Isaac's story, Ode looked disappointed. Soon after, he started doing research and said he was going to make a special weapon using bananas. Ode told you to wait for a while.)
@@ -3778,6 +4258,7 @@ In return, he asked you to get Transmutation Agents.)
     - 13400x Gold
 
 #8015: {Glorious Token}
+* Smaag <Baran>
     Deliver the Old Boots to Smaag
     (The old boots possessed by the user were a pair of boots that Smaag lost long ago when his feet slipped while catching a dragon. It is a token of pride for Smaag and he would like them to be returned.)
 * Rewards
@@ -3786,6 +4267,7 @@ In return, he asked you to get Transmutation Agents.)
     - 1x Serraborg Bluff Compilation (0/4)
 
 #8016: {Famous Fisherman of Serraborg Castle.}
+* Smaag <Baran (Takes place in Serraborg Castle)>
 * (Pre-req: Quest 'Glorious Token')
     Listen to the bluffs from Ddoongji
     (Listen to the bluff of Ddoongji, a famous fisherman at Serraborg castle.)
@@ -3794,6 +4276,7 @@ In return, he asked you to get Transmutation Agents.)
     - 900x Gold
 
 #8017: {Carp As Big As a Forearm}
+* Ddoongji <Serraborg Castle>
 * (Pre-req: Quest 'Famous Fisherman of Serraborg Castle.')
     Catch 1 Kohaku Koi
     (Ddoongji says he caught a carp the size of his forearm, but Neomint stole it. Catch a new carp to scold Neomint for stealing.)
@@ -3802,6 +4285,7 @@ In return, he asked you to get Transmutation Agents.)
     - 900x Gold
 
 #8018: {Here's the Carp You Ordered}
+* Ddoongji <Serraborg Castle>
 * (Pre-req: Quest 'Carp As Big As a Forearm')
     Deliver 1 Kohaku Koi to Ddoongji
     (You caught a huge carp to use as proof to scold Neomint. Deliver it to Ddoongji.)
@@ -3811,6 +4295,7 @@ In return, he asked you to get Transmutation Agents.)
     - 5x Assorted Grilled Skewers
 
 #8019: {Ddoongji's Bluff}
+* Ddoongji <Serraborg Castle>
 * (Pre-req: Quest 'Here's the Carp You Ordered')
     Use the Bluff Compilation to record Ddoongji's bluff
     (In fact, the carp had nothing to do with it. Ddoongji bragged and made delicious grilled carp.)
@@ -3820,6 +4305,7 @@ In return, he asked you to get Transmutation Agents.)
     - 1x Serraborg Bluff Compilation (1/4)
 
 #8020: {Famous Fisherman of the Fox Plains}
+* Smaag <Baran (Takes place in Fox Plains)>
 * (Pre-req: Quest 'Ddoongji's Bluff')
     Listen to the bluffs from the 3 Fishermen
     (Find the three fishermen who are always fighting at Fox Plains and listen to their bluffs.)
@@ -3828,6 +4314,7 @@ In return, he asked you to get Transmutation Agents.)
     - 900x Gold
 
 #8021: {The Name of the Thing You Caught 1}
+* ChungChoolUhLam <Fox Plains>
 * (Pre-req: Quest 'Famous Fisherman of the Fox Plains')
     Catch a Squirrel
     (Catch a squirrel to prove if the thing ChungSanYooSue caught was a Squirrel.)
@@ -3836,6 +4323,7 @@ In return, he asked you to get Transmutation Agents.)
     - 3400x Gold
 
 #8022: {Isn't It a Squirrel?}
+* ChungChoolUhLam <Fox Plains>
 * (Pre-req: Quest 'The Name of the Thing You Caught 1')
     Show the squirrel to ChungSanYooSue
     (You caught a squirrel. Deliver it to ChungSanYooSue.)
@@ -3844,6 +4332,7 @@ In return, he asked you to get Transmutation Agents.)
     - 900x Gold
 
 #8023: {The Name of the Thing You Caught 2}
+* ChungChoolUhLam <Fox Plains>
 * (Pre-req: Quest 'Isn't It a Squirrel?')
     Catch a Silver Fox
     (Catch a silver fox to prove if the thing ChungSanYooSue caught was a silver fox.)
@@ -3853,6 +4342,7 @@ In return, he asked you to get Transmutation Agents.)
     - 5x Teleportation Picture
 
 #8024: {Isn't It a Silver Fox?}
+* ChungChoolUhLam <Fox Plains>
 * (Pre-req: Quest 'The Name of the Thing You Caught 2')
     Show the silver fox to ChungSanYooSue
     (You caught a silver fox. Deliver it to ChungSanYooSue.)
@@ -3861,6 +4351,7 @@ In return, he asked you to get Transmutation Agents.)
     - 900x Gold
 
 #8025: {The Need for Glasses}
+* ChungChoolUhLam <Fox Plains>
 * (Pre-req: Quest 'Isn't It a Silver Fox?')
     Catch a Shattered Glass Bottle
     (It does not seem like ChungSanYooSue's eyes are very good. Catch a Shattered Glass Bottle to craft glasses to give to ChungSanYooSue.)
@@ -3869,6 +4360,7 @@ In return, he asked you to get Transmutation Agents.)
     - 900x Gold
 
 #8026: {Collected the Lenses}
+* ChungChoolUhLam <Fox Plains>
 * (Pre-req: Quest 'The Need for Glasses')
     Report to ChungChoolUhLam
     (Tell ChungChoolUhLam the materials are prepared.)
@@ -3877,6 +4369,7 @@ In return, he asked you to get Transmutation Agents.)
     - 900x Gold
 
 #8027: {Collect the Glasses Frame}
+* ChungChoolUhLam <Fox Plains>
 * (Pre-req: Quest 'Collected the Lenses')
     Deliver 50 Shattered Glass Bottles and Rusty Cans to ChungChoolUhLam
     (ChungChoolUhLam told you that you also need material for the glasses frames. Prepare and deliver rusty cans. Prepare and deliver 50 Shattered Glass Bottles and 50 rusty cans.)
@@ -3885,6 +4378,7 @@ In return, he asked you to get Transmutation Agents.)
     - 900x Gold
 
 #8028: {Low Cost Glasses}
+* ChungChoolUhLam <Fox Plains (Takes place in Serraborg Castle)>
 * (Pre-req: Quest 'Collect the Glasses Frame')
     Request Parme to craft glasses
     (Ask Parme to craft the glasses.)
@@ -3893,6 +4387,7 @@ In return, he asked you to get Transmutation Agents.)
     - 3400x Gold
 
 #8029: {Can You See?}
+* ChungChoolUhLam <Fox Plains>
 * (Pre-req: Quest 'Low Cost Glasses')
     Deliver the glasses to ChungSanYooSue
     (Since the glasses are made of poor materials, it is unclear if they will work. Deliver the glasses to ChungSanYooSue anyway.)
@@ -3902,6 +4397,7 @@ In return, he asked you to get Transmutation Agents.)
     - 5x Delicious Grilled Sweetfish
 
 #8030: {ChungSanYooSue's Bluff}
+* ChungSanYooSue <Fox Plains>
 * (Pre-req: Quest 'Can You See?')
     Use the Bluff Compilation to record ChungSanYooSue's bluff
     (After seeing a silver fox in detail, ChungSanYooSue was embarrassed. As the glasses may be wrong, record the bluff first.)
@@ -3911,6 +4407,7 @@ In return, he asked you to get Transmutation Agents.)
     - 1x Serraborg Bluff Compilation (2/4)
 
 #8031: {Famous Fisherman of the Southern Plains}
+* Smaag <Baran (Takes place in Southern Plains)>
 * (Pre-req: Quest 'ChungSanYooSue's Bluff')
     Listen to the bluffs from Paul
     (Find Paul, the best fisherman in the Rosheim Kingdom, and listen to his bluff.)
@@ -3919,6 +4416,7 @@ In return, he asked you to get Transmutation Agents.)
     - 900x Gold
 
 #8032: {Start Measuring Now}
+* Paul <Southern Plains>
 * (Pre-req: Quest 'Famous Fisherman of the Southern Plains')
     Go Fishing and prove Paul's bluff
     (It is doubtful that Paul really had the time to catch 100 million fish and whether he is really that good at fishing. Try fishing and check how long it takes.)
@@ -3927,6 +4425,7 @@ In return, he asked you to get Transmutation Agents.)
     - 1700x Gold
 
 #8033: {Stop Playing Tricks}
+* Paul <Southern Plains>
 * (Pre-req: Quest 'Start Measuring Now')
     Get angry with an emoticon near Paul
     (To catch 100 million fish would take about 15 years. Point it out to Paul, who brags with ridiculous numbers.)
@@ -3935,6 +4434,7 @@ In return, he asked you to get Transmutation Agents.)
     - 900x Gold
 
 #8034: {Where Sells Medicine?}
+* Paul <Southern Plains>
 * (Pre-req: Quest 'Stop Playing Tricks')
     Listen to Paul's excuse
     (Listen to Paul's excuses saying it is true.)
@@ -3944,6 +4444,7 @@ In return, he asked you to get Transmutation Agents.)
     - 10x Advanced Enrage Elixir
 
 #8035: {Fast Fishing Requires Doping}
+* Paul <Southern Plains>
 * (Pre-req: Quest 'Where Sells Medicine?')
     Eat an Advanced Enrage Elixir
     (Paul taught you the secret to quick fishing. He gave you an elixir and said that doping is required to reduce fishing time. Use the Advanced Enrage Elixir.)
@@ -3952,6 +4453,7 @@ In return, he asked you to get Transmutation Agents.)
     - 900x Gold
 
 #8036: {This Is Not Enough}
+* Paul <Southern Plains>
 * (Pre-req: Quest 'Fast Fishing Requires Doping')
     Interrogate Paul
     (It does not seem like this would be enough to save 15 years alone. Question Paul a little more.)
@@ -3960,6 +4462,7 @@ In return, he asked you to get Transmutation Agents.)
     - 3400x Gold
 
 #8037: {Paul's Special Tool}
+* Paul <Southern Plains>
 * (Pre-req: Quest 'This Is Not Enough')
     Deliver 10 Lesser Catalysts to Paul
     (Paul told you he has a special tool made with his own secret. Get materials to craft the bait.)
@@ -3970,6 +4473,7 @@ In return, he asked you to get Transmutation Agents.)
     - 5x Luminous Night Fishing Float
 
 #8038: {Paul's Bluff}
+* Paul <Southern Plains>
 * (Pre-req: Quest 'Paul's Special Tool')
     Use the Bluff Compilation to record Paul's bluff
     (It seemed like nonsense figures, but the explanation is becoming more and more plausible. Just in case Paul catching 100 million fish is a lie, record it in the Bluff Compilation.)
@@ -3979,6 +4483,7 @@ In return, he asked you to get Transmutation Agents.)
     - 1x Serraborg Bluff Compilation (3/4)
 
 #8039: {Ghost Fisherman of the Leatvar Den}
+* Smaag <Baran (Takes place in Leatvar Den BF3)>
 * (Pre-req: Quest 'Paul's Bluff')
     Listen to Billy's story about the Ghost Fisherman
     (It is said there is a ghost fisherman that appears at Leatvar Den. I wonder if the fisherman that is called a ghost is just bluffing. Go find Billy, the informant.)
@@ -3987,6 +4492,7 @@ In return, he asked you to get Transmutation Agents.)
     - 900x Gold
 
 #8040: {Caution! Nighttime Fisherman}
+* Billy <Leatvar Den BF2>
 * (Pre-req: Quest 'Ghost Fisherman of the Leatvar Den')
     Find the Area the Ghost Fisherman appears at night
     (Go to find the ghost fisherman who only appears at night. It is said to often appear at the lakeside in the alley going from B2 to F3 at Leatvar Den.)
@@ -3995,6 +4501,7 @@ In return, he asked you to get Transmutation Agents.)
     - 900x Gold
 
 #8041: {Sudden Cleaning}
+* Bravo <Leatvar Den BF2>
 * (Pre-req: Quest 'Caution! Nighttime Fisherman')
     Catch Trash and clean up the Fishery
     (Bravo suddenly yelled at you to clean up the fishery. The reason is unclear, but first help clean up the fishery.)
@@ -4003,6 +4510,7 @@ In return, he asked you to get Transmutation Agents.)
     - 3400x Gold
 
 #8042: {Suddenly Worked Hard}
+* Bravo <Leatvar Den BF2>
 * (Pre-req: Quest 'Sudden Cleaning')
     Report to Bravo at night
     (Even thought it was sudden, you did a good job. Go report to Bravo. You can only meet Bravo at night.)
@@ -4011,6 +4519,7 @@ In return, he asked you to get Transmutation Agents.)
     - 900x Gold
 
 #8043: {Billy, Do You Know How to Make Fishcakes?}
+* Bravo <Leatvar Den BF2 (Takes place in Leatvar Den BF3)>
 * (Pre-req: Quest 'Suddenly Worked Hard')
     Request Billy to craft Fishcakes
     (Bravo boasted that he was the only one who could cook delicious food using any fish from around the world. He said he can even use fish from tainted water, and if you just bring him some delicious handmade fishcakes, he will show you his skills. Go to Billy and ask him to craft fishcakes fried in Leatvar specialty oil.)
@@ -4019,6 +4528,7 @@ In return, he asked you to get Transmutation Agents.)
     - 3400x Gold
 
 #8044: {The Hardest Ingredient}
+* Bravo <Leatvar Den BF2 (Takes place in Leatvar Den BF3)>
 * (Pre-req: Quest 'Billy, Do You Know How to Make Fishcakes?')
     Make Delicious Handmade Fishcakes
     (Fishcakes can be made with 10 fishes and 2 flours. If you make fishcakes with Billy, there is a great rate of success to make delicious handmade fishcakes.)
@@ -4027,6 +4537,7 @@ In return, he asked you to get Transmutation Agents.)
     - 3400x Gold
 
 #8045: {Leatvar Specialty Fishcake Soup}
+* Bravo <Leatvar Den BF2>
 * (Pre-req: Quest 'The Hardest Ingredient')
     Deliver 10 Delicious Fishcakes to Bravo at night
     (Deliver the prepared ingredients to Bravo. You can only meet Bravo at night.)
@@ -4036,6 +4547,7 @@ In return, he asked you to get Transmutation Agents.)
     - 10x Leatvar Specialty Fishcake Soup
 
 #8046: {First Time Fishcake Soup}
+* Bravo <Leatvar Den BF2>
 * (Pre-req: Quest 'Leatvar Specialty Fishcake Soup')
     Eat the Leatvar Specialty Fishcake Soup
     (Try the Leatvar specialty fishcake soup Bravo made. Seeing Bravo laugh does not fill you with confidence.)
@@ -4044,6 +4556,7 @@ In return, he asked you to get Transmutation Agents.)
     - 3400x Gold
 
 #8047: {Bravo's Bluff}
+* Bravo <Leatvar Den BF2>
 * (Pre-req: Quest 'First Time Fishcake Soup')
     Use the Bluff Compilation to record Bravo's bluff
     (Seeing that he used inedible fish to cook with, it seems that Bravo was not lying. On the other hand, you did get food poisoning....)
@@ -4053,6 +4566,7 @@ In return, he asked you to get Transmutation Agents.)
     - 1x Serraborg Bluff Compilation (4/4)
 
 #8048: {Famous Fisherman of Baran}
+* Smaag <Baran>
 * (Pre-req: Quest 'Bravo's Bluff')
     Deliver the Serraborg Bluff Compilation to Smaag
     (Return to Smaag and tell him about the bluffs you heard.)
@@ -4061,6 +4575,7 @@ In return, he asked you to get Transmutation Agents.)
     - 900x Gold
 
 #8049: {Great Story Cost}
+* Smaag <Baran>
 * (Pre-req: Quest 'Famous Fisherman of Baran')
     Deliver 1 Legendary Fish to Smaag
     (Smaag laughed out loud, saying that the great legend of his fishing could not be missed. He said that his story is a legend, and you have to pay if you want to hear it. Pay with a delicious legendary fish.)
@@ -4069,6 +4584,7 @@ In return, he asked you to get Transmutation Agents.)
     - 3400x Gold
 
 #8050: {Dragon Summon Material 1}
+* Smaag <Baran>
 * (Pre-req: Quest 'Great Story Cost')
     Buy a Styptic
     (Smaag says that he caught a dragon once. Perhaps he liked your response, he said he will teach you how to summon dragons. You will need some ingredients to craft the special meal the dragon likes.)
@@ -4077,6 +4593,7 @@ In return, he asked you to get Transmutation Agents.)
     - 900x Gold
 
 #8051: {Dragon Summon Material 2}
+* Smaag <Baran>
 * (Pre-req: Quest 'Dragon Summon Material 1')
     Buy a Advanced HP Recovery Potion
     (Perhaps Smaag likes you, but he said he will teach you how to summon dragons. You will need some ingredients to craft the special meal the dragon likes.)
@@ -4085,6 +4602,7 @@ In return, he asked you to get Transmutation Agents.)
     - 900x Gold
 
 #8052: {Dragon's Special Meal}
+* Smaag <Baran>
 * (Pre-req: Quest 'Dragon Summon Material 2')
     Deliver the purchased materials to Smaag
     (Deliver the collected ingredients to Smaag.)
@@ -4093,6 +4611,7 @@ In return, he asked you to get Transmutation Agents.)
     - 3400x Gold
 
 #8053: {I'm the Dragon Slayer?!}
+* Smaag <Baran>
 * (Pre-req: Quest 'Dragon's Special Meal')
     Move to perform the Dragon Summoning Ritual
     (Smaag, who disappeared with the collected ingredients, prepared a special meal in no time. Go to the place Smaag mentioned and put down the special meal.)
@@ -4101,6 +4620,7 @@ In return, he asked you to get Transmutation Agents.)
     - 900x Gold
 
 #8054: {Where Is the Truth?}
+* Smaag <Baran>
 * (Pre-req: Quest 'I'm the Dragon Slayer?!')
     Return to Smaag
     (Instead of a dragon, you met a Lizardman. The Lizardman got angry and said there were no dragons here and sent you back.
@@ -4111,6 +4631,7 @@ Go and tell Smaag that he has not even seen a dragon in the bottom of a bottle, 
     - 1x Crafting Method - Dragon Fishing Rod
 
 #8055: {Poison Thorn Rose}
+* Viola <Serraborg Castle>
     Go to Depps
     (Viola recognized the poison thorn rose you have, and said that removing the thorns can create a special item. However, she said that you need to remove the thorns first, and to go see Depps, who has the skills to remove thorns.)
 * Rewards
@@ -4118,6 +4639,7 @@ Go and tell Smaag that he has not even seen a dragon in the bottom of a bottle, 
     - 900x Gold
 
 #8056: {Pure Flower}
+* Depps <Serraborg Castle>
 * (Pre-req: Quest 'Poison Thorn Rose')
     Pay Depps 15,000,000 Gold
     (Depps said he can remove the thorns, but there is a high price to remove them. He said he would get to work if you give him 15 million Gold.)
@@ -4126,6 +4648,7 @@ Go and tell Smaag that he has not even seen a dragon in the bottom of a bottle, 
     - 900x Gold
 
 #8057: {Beautiful Rose Weapon}
+* Viola <Serraborg Castle>
 * (Pre-req: Quest 'Pure Flower')
     Go to Viola
     (Depps has removed the thorns, deliver the rose to Viola.)
@@ -4134,6 +4657,7 @@ Go and tell Smaag that he has not even seen a dragon in the bottom of a bottle, 
     - 900x Gold
 
 #8058: {Talk to Elihu}
+* Elihu <Freya's Road>
 * (Pre-req: Quest 'Craft Radiant Powder')
     Talk to Elihu
     (Ask Elihu about radiant powder.)
@@ -4144,6 +4668,7 @@ Go and tell Smaag that he has not even seen a dragon in the bottom of a bottle, 
     - 1x Serge's Radiant Honey Tea
 
 #8059: {Taste the Radiant Honey Tea}
+* Elihu <Freya's Road>
 * (Pre-req: Quest 'Talk to Elihu')
     Taste the Radiant Honey Tea
     (Drink the radiant honey tea that Elihu made.)
@@ -4152,6 +4677,7 @@ Go and tell Smaag that he has not even seen a dragon in the bottom of a bottle, 
     - 32400x Gold
 
 #8060: {Send Honey Tea}
+* Elihu <Freya's Road>
 * (Pre-req: Quest 'Taste the Radiant Honey Tea')
     Deliver the Radiant Honey Tea to Serge
     (You drank the delicious honey tea, deliver radiant honey tea to Serge.)
