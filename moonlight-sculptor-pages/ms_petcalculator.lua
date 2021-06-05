@@ -24,11 +24,58 @@ petTypes = { [0] = "None", "Pet", "Skill", "Buddy", "Mercenary" }
 
 -- Archer's Enhanced Training
 archerPassive = {
-    0.010, 0.012, 0.014, 0.016, 0.018, 
-    0.020, 0.022, 0.024, 0.026, 0.034,
-    0.036, 0.038, 0.040, 0.042, 0.044,
-    0.046, 0.048, 0.05
+    { name = "Enhanced Training I (1)", power = 0.010 }, 
+    { name = "Enhanced Training I (2)", power = 0.012 }, 
+    { name = "Enhanced Training I (3)", power = 0.014 }, 
+    { name = "Enhanced Training I (4)", power = 0.016 }, 
+    { name = "Enhanced Training I (5)", power = 0.018 }, 
+    { name = "Enhanced Training I (6)", power = 0.020 }, 
+    { name = "Enhanced Training I (7)", power = 0.022 }, 
+    { name = "Enhanced Training I (8)", power = 0.024 }, 
+    { name = "Enhanced Training I (9)", power = 0.026 }, 
+    { name = "Enhanced Training II (1)", power = 0.034 }, 
+    { name = "Enhanced Training II (2)", power = 0.036 }, 
+    { name = "Enhanced Training II (3)", power = 0.038 }, 
+    { name = "Enhanced Training II (4)", power = 0.040 }, 
+    { name = "Enhanced Training II (5)", power = 0.042 }, 
+    { name = "Enhanced Training II (6)", power = 0.044 }, 
+    { name = "Enhanced Training II (7)", power = 0.046 }, 
+    { name = "Enhanced Training II (8)", power = 0.048 }, 
+    { name = "Enhanced Training II (9)", power = 0.050 }, 
 }
+-- Archer's Dynamic Duo
+archerActive = {
+    { name = "Dynamic Duo I (1)", power = 0.017, flat = 50 }, 
+    { name = "Dynamic Duo I (2)", power = 0.020, flat = 53 }, 
+    { name = "Dynamic Duo I (3)", power = 0.023, flat = 56 }, 
+    { name = "Dynamic Duo I (4)", power = 0.026, flat = 59 }, 
+    { name = "Dynamic Duo I (5)", power = 0.030, flat = 62 }, 
+    { name = "Dynamic Duo I (6)", power = 0.033, flat = 65 }, 
+    { name = "Dynamic Duo I (7)", power = 0.036, flat = 68 }, 
+    { name = "Dynamic Duo I (8)", power = 0.040, flat = 71 }, 
+    { name = "Dynamic Duo I (9)", power = 0.043, flat = 74 }, 
+    { name = "Dynamic Duo II (1)", power = 0.056, flat = 83, crit = 40, }, 
+    { name = "Dynamic Duo II (2)", power = 0.059, flat = 86, crit = 40, }, 
+    { name = "Dynamic Duo II (3)", power = 0.063, flat = 89, crit = 40, }, 
+    { name = "Dynamic Duo II (4)", power = 0.066, flat = 92, crit = 40, }, 
+    { name = "Dynamic Duo II (5)", power = 0.069, flat = 95, crit = 40, }, 
+    { name = "Dynamic Duo II (6)", power = 0.073, flat = 98, crit = 40, }, 
+    { name = "Dynamic Duo II (7)", power = 0.076, flat = 101, crit = 40, }, 
+    { name = "Dynamic Duo II (8)", power = 0.079, flat = 104, crit = 40, }, 
+    { name = "Dynamic Duo II (9)", power = 0.083, flat = 107, crit = 40, }, 
+    { name = "Dynamic Duo III (1)", power = 0.090, flat = 240, crit = 80, }, 
+    { name = "Dynamic Duo III (2)", power = 0.093, flat = 250, crit = 80, }, 
+    { name = "Dynamic Duo III (3)", power = 0.099, flat = 270, crit = 80, }, 
+    { name = "Dynamic Duo III (4)", power = 0.102, flat = 280, crit = 80, }, 
+    { name = "Dynamic Duo III (5)", power = 0.105, flat = 290, crit = 80, }, 
+    { name = "Dynamic Duo III (6)", power = 0.111, flat = 310, crit = 80, }, 
+    { name = "Dynamic Duo III (7)", power = 0.114, flat = 320, crit = 80, }, 
+    { name = "Dynamic Duo III (8)", power = 0.117, flat = 330, crit = 80, }, 
+    { name = "Dynamic Duo III (9)", power = 0.123, flat = 350, crit = 80, }, 
+    
+}
+
+
 table.sort(pet_keys, function(a,b)
     local ma = pets[a]
     local mb = pets[b]
@@ -68,6 +115,7 @@ function updateStats()
     local charisma = tonumber(document:getElementById("charisma_slider").value)
     local archer_any = document:getElementById("archerCheck").checked
     local archer_rank = tonumber(document:getElementById("archerPassive").value)
+    local archer_active_rank = tonumber(document:getElementById("archerActive").value)
     local valid = true
     if (not choice or choice == "") then
         valid = false
@@ -103,9 +151,29 @@ function updateStats()
         if (d._petType == 1) then totalStats[j] = totalStats[j] + st_cha[j] end
         totalStats[j] = math.floor(totalStats[j] * petDispositions[disp][j])
         totalStats[j] = math.floor(totalStats[j] * petTiers[tier][j])
-        if (archer_any and archer_rank) then -- not sure how affects mercenaries...
-            if ((j == 1 or j == 2) and d._petType == 1) then  -- atkMin/atkMax
-                totalStats[j] = math.floor(totalStats[j] + (totalStats[j] * (charisma * archerPassive[archer_rank])))
+        local atkMult = nil
+        local atkFlat = nil
+        if (archer_any and d._petType == 1) then
+            if (archer_rank) then
+                if ((j == 1 or j == 2)) then  -- atkMin/atkMax
+                    atkMult = (atkMult or 0) + archerPassive[archer_rank].power
+                end
+            end
+            if (archer_active_rank) then
+                if (j == 1 or j == 2) then -- 
+                    atkFlat = (atkFlat or 0) + (archerActive[archer_active_rank].flat or 0)
+                    atkMult = (atkMult or 0) + (archerActive[archer_active_rank].power)
+                elseif (j == 4) then -- critical
+                    totalStats[j] = totalStats[j] + (archerActive[archer_active_rank].crit or 0)
+                end
+            end
+        end
+        if (j == 1 or j == 2) then -- atk buffs hoooo
+            if (atkFlat and atkFlat > 0) then
+                totalStats[j] = math.floor(totalStats[j] + atkFlat)
+            end
+            if (atkMult and atkMult > 0) then
+                totalStats[j] = math.floor(totalStats[j] + (totalStats[j] * (charisma * atkMult)))
             end
         end
         if (j == 4) then
@@ -164,10 +232,34 @@ for i=1,#archerPassive do
     local archerList = document:getElementById("archerPassive")
     local option = document:createElement("option")
     local mult = archerPassive[i]
-    option.text = i .. " (+"..(mult*100).."% ATK/CHA)"
+    local name = mult.name
+    local power = mult.power
+    option.text = name .. " (+"..(power*100).."% ATK/CHA)"
     option.value = i
     archerList:add(option)
 end
+
+document:getElementById("archerActive").onchange = updateStats
+
+for i=1,#archerActive do
+    local archerList = document:getElementById("archerActive")
+    local option = document:createElement("option")
+    local mult = archerActive[i]
+    local name = mult.name
+    local power = mult.power
+    local flat = mult.flat
+    local crit = mult.crit
+    local tx = ("%s (+%.01f%% ATK/CHA, +%s ATK")
+    if (crit and crit > 0) then
+        tx = tx .. ", %s%% Crit"
+    end
+    tx = tx .. ")"
+    option.text = tx:format(name,power*100,flat,(crit and crit/10) or 0)
+    option.value = i
+    archerList:add(option)
+end
+
+
 document:getElementById("archerCheck").onchange = function ()
     local this = document:getElementById("archerCheck")
     local div = document:getElementById("archerPassiveDiv")
