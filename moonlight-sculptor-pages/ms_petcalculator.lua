@@ -129,7 +129,22 @@ function updateStats()
         return
     end
     local d = pets[choice]
-    endtext = endtext .. ("* {"..d._name .. "} #"..choice.." (Tier "..d._petTier.." "..petTypes[d._petType].." style "..d._petDisposition..") at Lv."..level.." with "..charisma.." charisma:")
+    endtext = endtext .. ("* {"..d._name .. "} #"..choice.." (Tier "..d._petTier.." "..petTypes[d._petType].." style "..d._petDisposition..") at Lv."..level.." with "..charisma.." charisma")
+    if (archer_any) then
+        local archers = { endtext }
+        if (archer_rank) then archers[#archers + 1] = archerPassive[archer_rank].name end
+        if (archer_active_rank) then archers[#archers + 1] = archerActive[archer_active_rank].name end
+        if (#archers > 1) then
+            archers[#archers] = "and "..archers[#archers]
+        end
+        if (#archers > 2) then
+            endtext = table.concat(archers,", ")
+        else
+            endtext = table.concat(archers," ")
+        end
+    end
+    endtext = endtext .. ":"
+    
     if (charisma < d._petRequiredCha and d._petType == 1) then
         endtext = endtext .. [[<br><font color="#FF0000">WARNING: Can't summon with this charisma</font>]]
     elseif (d._petType == 4) then
