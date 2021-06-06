@@ -1,3 +1,8 @@
+
+[ Note that all information is subject to change as this is an unreleased feature. ]
+
+
+
 * Mirkhan Tower 1F (zone 198)
     * Catch 15 monsters within 300s!
     * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
