@@ -1,0 +1,1675 @@
+* Mirkhan Tower 1F (zone 198)
+    * Catch 15 monsters within 300s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Wolf (Lv.80)
+        - Moonlight Wolf (Lv.80)
+        - Hound (Lv.80)
+        - Fox (Lv.80)
+        - Silver Fox (Lv.80)
+    * Rewards:
+        - 100000x {Gold}
+
+* Mirkhan Tower 2F (zone 198)
+    * Catch 15 monsters within 300s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Wolf (Lv.80)
+        - Moonlight Wolf (Lv.80)
+        - Hound (Lv.80)
+        - Fox (Lv.80)
+        - Silver Fox (Lv.80)
+    * Rewards:
+        - 100000x {Gold}
+
+* Mirkhan Tower 3F (zone 198)
+    * Catch 15 monsters within 300s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Wolf (Lv.80)
+        - Moonlight Wolf (Lv.80)
+        - Hound (Lv.80)
+        - Fox (Lv.80)
+        - Silver Fox (Lv.80)
+    * Rewards:
+        - 100000x {Gold}
+
+* Mirkhan Tower 4F (zone 198)
+    * Catch 15 monsters within 300s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Wolf (Lv.80)
+        - Moonlight Wolf (Lv.80)
+        - Hound (Lv.80)
+        - Fox (Lv.80)
+        - Silver Fox (Lv.80)
+    * Rewards:
+        - 100000x {Gold}
+
+* Mirkhan Tower 5F (zone 201) [Req. Level: 85]
+    * Defeat the Yivee ruler of Mirkhan Tower F5 within 180s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Yivee (Lv.80)
+    * Rewards:
+        - 30x {Advanced Enrage Elixir}
+
+* Mirkhan Tower 6F (zone 198) [Req. Level: 85]
+    * Catch 15 monsters within 300s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Wolf (Lv.80)
+        - Moonlight Wolf (Lv.80)
+        - Hound (Lv.80)
+        - Fox (Lv.80)
+        - Silver Fox (Lv.80)
+    * Rewards:
+        - 100000x {Gold}
+
+* Mirkhan Tower 7F (zone 198) [Req. Level: 85]
+    * Catch 15 monsters within 300s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Wolf (Lv.80)
+        - Moonlight Wolf (Lv.80)
+        - Hound (Lv.80)
+        - Fox (Lv.80)
+        - Silver Fox (Lv.80)
+    * Rewards:
+        - 100000x {Gold}
+
+* Mirkhan Tower 8F (zone 198) [Req. Level: 85]
+    * Catch 15 monsters within 300s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Wolf (Lv.80)
+        - Moonlight Wolf (Lv.80)
+        - Hound (Lv.80)
+        - Fox (Lv.80)
+        - Silver Fox (Lv.80)
+    * Rewards:
+        - 100000x {Gold}
+
+* Mirkhan Tower 9F (zone 198) [Req. Level: 85]
+    * Catch 15 monsters within 300s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Wolf (Lv.80)
+        - Moonlight Wolf (Lv.80)
+        - Hound (Lv.80)
+        - Fox (Lv.80)
+        - Silver Fox (Lv.80)
+    * Rewards:
+        - 100000x {Gold}
+
+* Mirkhan Tower 10F (zone 199) [Req. Level: 90]
+    * Catch 20 monsters within 300s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Ravine Vampire Bat (Lv.80)
+        - Ravine Golden Bat (Lv.80)
+        - Tomb Bat (Lv.80)
+        - Huge Tomb Bat (Lv.80)
+    * Rewards:
+        - 10x {Equipment Specialization Pack}
+
+* Mirkhan Tower 11F (zone 198) [Req. Level: 90]
+    * Catch 15 monsters within 300s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Wolf (Lv.80)
+        - Moonlight Wolf (Lv.80)
+        - Hound (Lv.80)
+        - Fox (Lv.80)
+        - Silver Fox (Lv.80)
+    * Rewards:
+        - 200000x {Gold}
+
+* Mirkhan Tower 12F (zone 198) [Req. Level: 90]
+    * Catch 15 monsters within 300s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Wolf (Lv.80)
+        - Moonlight Wolf (Lv.80)
+        - Hound (Lv.80)
+        - Fox (Lv.80)
+        - Silver Fox (Lv.80)
+    * Rewards:
+        - 200000x {Gold}
+
+* Mirkhan Tower 13F (zone 198) [Req. Level: 90]
+    * Catch 15 monsters within 300s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Wolf (Lv.80)
+        - Moonlight Wolf (Lv.80)
+        - Hound (Lv.80)
+        - Fox (Lv.80)
+        - Silver Fox (Lv.80)
+    * Rewards:
+        - 200000x {Gold}
+
+* Mirkhan Tower 14F (zone 198) [Req. Level: 90]
+    * Catch 15 monsters within 300s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Wolf (Lv.80)
+        - Moonlight Wolf (Lv.80)
+        - Hound (Lv.80)
+        - Fox (Lv.80)
+        - Silver Fox (Lv.80)
+    * Rewards:
+        - 200000x {Gold}
+
+* Mirkhan Tower 15F (zone 201) [Req. Level: 100]
+    * Defeat the Von Hawk ruler of Mirkhan Tower F15 within 180s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Von Hawk (Lv.80)
+    * Rewards:
+        - 20x {Orange Lunarium}
+
+* Mirkhan Tower 16F (zone 198) [Req. Level: 100]
+    * Catch 15 monsters within 300s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Male Ant (Lv.80)
+        - Worker Ant (Lv.80)
+        - Orc Archer (Lv.80)
+        - Orc Shaman (Lv.80)
+        - Weary Coyote (Lv.80)
+    * Rewards:
+        - 200000x {Gold}
+
+* Mirkhan Tower 17F (zone 198) [Req. Level: 100]
+    * Catch 15 monsters within 300s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Male Ant (Lv.80)
+        - Worker Ant (Lv.80)
+        - Orc Archer (Lv.80)
+        - Orc Shaman (Lv.80)
+        - Weary Coyote (Lv.80)
+    * Rewards:
+        - 200000x {Gold}
+
+* Mirkhan Tower 18F (zone 198) [Req. Level: 100]
+    * Catch 15 monsters within 300s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Male Ant (Lv.80)
+        - Worker Ant (Lv.80)
+        - Orc Archer (Lv.80)
+        - Orc Shaman (Lv.80)
+        - Weary Coyote (Lv.80)
+    * Rewards:
+        - 200000x {Gold}
+
+* Mirkhan Tower 19F (zone 198) [Req. Level: 100]
+    * Catch 15 monsters within 300s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Male Ant (Lv.80)
+        - Worker Ant (Lv.80)
+        - Orc Archer (Lv.80)
+        - Orc Shaman (Lv.80)
+        - Weary Coyote (Lv.80)
+    * Rewards:
+        - 200000x {Gold}
+
+* Mirkhan Tower 20F (zone 201) [Req. Level: 110]
+    * Defeat the Mogsy ruler of Mirkhan Tower F20 within 180s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Mogsy (Lv.80)
+    * Rewards:
+        - 20x {Versa's Grace (20 Min)}
+
+* Mirkhan Tower 21F (zone 198) [Req. Level: 110]
+    * Catch 15 monsters within 300s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Male Ant (Lv.80)
+        - Worker Ant (Lv.80)
+        - Orc Archer (Lv.80)
+        - Orc Shaman (Lv.80)
+        - Weary Coyote (Lv.80)
+    * Rewards:
+        - 300000x {Gold}
+
+* Mirkhan Tower 22F (zone 198) [Req. Level: 110]
+    * Catch 15 monsters within 300s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Male Ant (Lv.80)
+        - Worker Ant (Lv.80)
+        - Orc Archer (Lv.80)
+        - Orc Shaman (Lv.80)
+        - Weary Coyote (Lv.80)
+    * Rewards:
+        - 300000x {Gold}
+
+* Mirkhan Tower 23F (zone 198) [Req. Level: 110]
+    * Catch 15 monsters within 300s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Male Ant (Lv.80)
+        - Worker Ant (Lv.80)
+        - Orc Archer (Lv.80)
+        - Orc Shaman (Lv.80)
+        - Weary Coyote (Lv.80)
+    * Rewards:
+        - 300000x {Gold}
+
+* Mirkhan Tower 24F (zone 198) [Req. Level: 110]
+    * Catch 15 monsters within 300s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Male Ant (Lv.80)
+        - Worker Ant (Lv.80)
+        - Orc Archer (Lv.80)
+        - Orc Shaman (Lv.80)
+        - Weary Coyote (Lv.80)
+    * Rewards:
+        - 300000x {Gold}
+
+* Mirkhan Tower 25F (zone 199) [Req. Level: 120]
+    * Catch 20 monsters within 300s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Ravine Vampire Bat (Lv.80)
+        - Ravine Golden Bat (Lv.80)
+        - Tomb Bat (Lv.80)
+        - Huge Tomb Bat (Lv.80)
+    * Rewards:
+        - 10x {Accessory Specialization Pack}
+
+* Mirkhan Tower 26F (zone 198) [Req. Level: 120]
+    * Catch 15 monsters within 300s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Male Ant (Lv.80)
+        - Worker Ant (Lv.80)
+        - Orc Archer (Lv.80)
+        - Orc Shaman (Lv.80)
+        - Weary Coyote (Lv.80)
+    * Rewards:
+        - 300000x {Gold}
+
+* Mirkhan Tower 27F (zone 198) [Req. Level: 120]
+    * Catch 15 monsters within 300s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Male Ant (Lv.80)
+        - Worker Ant (Lv.80)
+        - Orc Archer (Lv.80)
+        - Orc Shaman (Lv.80)
+        - Weary Coyote (Lv.80)
+    * Rewards:
+        - 300000x {Gold}
+
+* Mirkhan Tower 28F (zone 198) [Req. Level: 120]
+    * Catch 15 monsters within 300s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Male Ant (Lv.80)
+        - Worker Ant (Lv.80)
+        - Orc Archer (Lv.80)
+        - Orc Shaman (Lv.80)
+        - Weary Coyote (Lv.80)
+    * Rewards:
+        - 300000x {Gold}
+
+* Mirkhan Tower 29F (zone 198) [Req. Level: 120]
+    * Catch 15 monsters within 300s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Male Ant (Lv.80)
+        - Worker Ant (Lv.80)
+        - Orc Archer (Lv.80)
+        - Orc Shaman (Lv.80)
+        - Weary Coyote (Lv.80)
+    * Rewards:
+        - 300000x {Gold}
+
+* Mirkhan Tower 30F (zone 201) [Req. Level: 130]
+    * Defeat the Lesser Brawler Dummy ruler of Mirkhan Tower F30 within 180s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Lesser Brawler Dummy (Lv.80)
+    * Rewards:
+        - 15x {Rare Moonlight Sculpture Pot}
+
+* Mirkhan Tower 31F (zone 198) [Req. Level: 130]
+    * Catch 15 monsters within 300s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Giant Bee (Lv.80)
+        - Azure Wormie (Lv.80)
+        - Harpy Qi Master (Lv.80)
+        - Carpenter Bee (Lv.80)
+        - Azure Bee (Lv.80)
+    * Rewards:
+        - 400000x {Gold}
+
+* Mirkhan Tower 32F (zone 198) [Req. Level: 130]
+    * Catch 15 monsters within 300s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Giant Bee (Lv.80)
+        - Azure Wormie (Lv.80)
+        - Harpy Qi Master (Lv.80)
+        - Carpenter Bee (Lv.80)
+        - Azure Bee (Lv.80)
+    * Rewards:
+        - 400000x {Gold}
+
+* Mirkhan Tower 33F (zone 198) [Req. Level: 130]
+    * Catch 15 monsters within 300s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Giant Bee (Lv.80)
+        - Azure Wormie (Lv.80)
+        - Harpy Qi Master (Lv.80)
+        - Carpenter Bee (Lv.80)
+        - Azure Bee (Lv.80)
+    * Rewards:
+        - 400000x {Gold}
+
+* Mirkhan Tower 34F (zone 198) [Req. Level: 130]
+    * Catch 15 monsters within 300s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Giant Bee (Lv.80)
+        - Azure Wormie (Lv.80)
+        - Harpy Qi Master (Lv.80)
+        - Carpenter Bee (Lv.80)
+        - Azure Bee (Lv.80)
+    * Rewards:
+        - 400000x {Gold}
+
+* Mirkhan Tower 35F (zone 199) [Req. Level: 140]
+    * Catch 20 monsters within 300s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Lesser Axe Dummy (Lv.80)
+        - Lesser Blunt Weapon Dummy (Lv.80)
+        - Lesser Archery Dummy (Lv.80)
+        - Cursed Eye Buoy (Lv.80)
+        - Blueish Eye Buoy (Lv.80)
+    * Rewards:
+        - 30x {Quality Blue Star Piece Pot}
+
+* Mirkhan Tower 36F (zone 198) [Req. Level: 140]
+    * Catch 15 monsters within 300s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Giant Bee (Lv.80)
+        - Azure Wormie (Lv.80)
+        - Harpy Qi Master (Lv.80)
+        - Carpenter Bee (Lv.80)
+        - Azure Bee (Lv.80)
+    * Rewards:
+        - 400000x {Gold}
+
+* Mirkhan Tower 37F (zone 198) [Req. Level: 140]
+    * Catch 15 monsters within 300s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Giant Bee (Lv.80)
+        - Azure Wormie (Lv.80)
+        - Harpy Qi Master (Lv.80)
+        - Carpenter Bee (Lv.80)
+        - Azure Bee (Lv.80)
+    * Rewards:
+        - 400000x {Gold}
+
+* Mirkhan Tower 38F (zone 198) [Req. Level: 140]
+    * Catch 15 monsters within 300s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Giant Bee (Lv.80)
+        - Azure Wormie (Lv.80)
+        - Harpy Qi Master (Lv.80)
+        - Carpenter Bee (Lv.80)
+        - Azure Bee (Lv.80)
+    * Rewards:
+        - 400000x {Gold}
+
+* Mirkhan Tower 39F (zone 198) [Req. Level: 140]
+    * Catch 15 monsters within 300s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Giant Bee (Lv.80)
+        - Azure Wormie (Lv.80)
+        - Harpy Qi Master (Lv.80)
+        - Carpenter Bee (Lv.80)
+        - Azure Bee (Lv.80)
+    * Rewards:
+        - 400000x {Gold}
+
+* Mirkhan Tower 40F (zone 199) [Req. Level: 150]
+    * Catch 30 monsters within 300s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Ravine Vampire Bat (Lv.80)
+        - Ravine Golden Bat (Lv.80)
+        - Tomb Bat (Lv.80)
+        - Huge Tomb Bat (Lv.80)
+    * Rewards:
+        - 10x {Superior Option Stone Chest}
+
+* Mirkhan Tower 41F (zone 198) [Req. Level: 150]
+    * Catch 15 monsters within 300s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Giant Bee (Lv.80)
+        - Azure Wormie (Lv.80)
+        - Harpy Qi Master (Lv.80)
+        - Carpenter Bee (Lv.80)
+        - Azure Bee (Lv.80)
+    * Rewards:
+        - 500000x {Gold}
+
+* Mirkhan Tower 42F (zone 198) [Req. Level: 150]
+    * Catch 15 monsters within 300s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Giant Bee (Lv.80)
+        - Azure Wormie (Lv.80)
+        - Harpy Qi Master (Lv.80)
+        - Carpenter Bee (Lv.80)
+        - Azure Bee (Lv.80)
+    * Rewards:
+        - 500000x {Gold}
+
+* Mirkhan Tower 43F (zone 198) [Req. Level: 150]
+    * Catch 15 monsters within 300s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Giant Bee (Lv.80)
+        - Azure Wormie (Lv.80)
+        - Harpy Qi Master (Lv.80)
+        - Carpenter Bee (Lv.80)
+        - Azure Bee (Lv.80)
+    * Rewards:
+        - 500000x {Gold}
+
+* Mirkhan Tower 44F (zone 198) [Req. Level: 150]
+    * Catch 15 monsters within 300s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Giant Bee (Lv.80)
+        - Azure Wormie (Lv.80)
+        - Harpy Qi Master (Lv.80)
+        - Carpenter Bee (Lv.80)
+        - Azure Bee (Lv.80)
+    * Rewards:
+        - 500000x {Gold}
+
+* Mirkhan Tower 45F (zone 199) [Req. Level: 160]
+    * Catch 30 monsters within 300s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Valley Lizardman Mage (Lv.80)
+        - Naga Mage (Lv.80)
+        - Gravekeeper Goblin Bombardier (Lv.80)
+        - Naga Archer (Lv.80)
+        - Lizardman Archer (Lv.80)
+    * Rewards:
+        - 15x {Rare Sunlight Sculpture Pot}
+
+* Mirkhan Tower 46F (zone 198) [Req. Level: 160]
+    * Catch 15 monsters within 300s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Sahuagin Archer (Lv.80)
+        - Troll (Lv.80)
+        - Bugbear Archer (Lv.80)
+        - Bugbear Thief (Lv.80)
+        - Bugbear Warrior (Lv.80)
+    * Rewards:
+        - 500000x {Gold}
+
+* Mirkhan Tower 47F (zone 198) [Req. Level: 160]
+    * Catch 15 monsters within 300s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Sahuagin Archer (Lv.80)
+        - Troll (Lv.80)
+        - Bugbear Archer (Lv.80)
+        - Bugbear Thief (Lv.80)
+        - Bugbear Warrior (Lv.80)
+    * Rewards:
+        - 500000x {Gold}
+
+* Mirkhan Tower 48F (zone 198) [Req. Level: 160]
+    * Catch 15 monsters within 300s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Sahuagin Archer (Lv.80)
+        - Troll (Lv.80)
+        - Bugbear Archer (Lv.80)
+        - Bugbear Thief (Lv.80)
+        - Bugbear Warrior (Lv.80)
+    * Rewards:
+        - 500000x {Gold}
+
+* Mirkhan Tower 49F (zone 198) [Req. Level: 160]
+    * Catch 15 monsters within 300s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Sahuagin Archer (Lv.80)
+        - Troll (Lv.80)
+        - Bugbear Archer (Lv.80)
+        - Bugbear Thief (Lv.80)
+        - Bugbear Warrior (Lv.80)
+    * Rewards:
+        - 500000x {Gold}
+
+* Mirkhan Tower 50F (zone 201) [Req. Level: 165]
+    * Defeat the Harvy ruler of Mirkhan Tower F50 within 180s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Harvy (Lv.80)
+    * Rewards:
+        - 30x {Quality Blue Star Piece Pot}
+
+* Mirkhan Tower 51F (zone 198) [Req. Level: 165]
+    * Catch 15 monsters within 300s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Sahuagin Archer (Lv.80)
+        - Troll (Lv.80)
+        - Bugbear Archer (Lv.80)
+        - Bugbear Thief (Lv.80)
+        - Bugbear Warrior (Lv.80)
+    * Rewards:
+        - 500000x {Gold}
+
+* Mirkhan Tower 52F (zone 198) [Req. Level: 165]
+    * Catch 15 monsters within 300s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Sahuagin Archer (Lv.80)
+        - Troll (Lv.80)
+        - Bugbear Archer (Lv.80)
+        - Bugbear Thief (Lv.80)
+        - Bugbear Warrior (Lv.80)
+    * Rewards:
+        - 500000x {Gold}
+
+* Mirkhan Tower 53F (zone 198) [Req. Level: 165]
+    * Catch 15 monsters within 300s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Sahuagin Archer (Lv.80)
+        - Troll (Lv.80)
+        - Bugbear Archer (Lv.80)
+        - Bugbear Thief (Lv.80)
+        - Bugbear Warrior (Lv.80)
+    * Rewards:
+        - 500000x {Gold}
+
+* Mirkhan Tower 54F (zone 198) [Req. Level: 165]
+    * Catch 15 monsters within 300s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Sahuagin Archer (Lv.80)
+        - Troll (Lv.80)
+        - Bugbear Archer (Lv.80)
+        - Bugbear Thief (Lv.80)
+        - Bugbear Warrior (Lv.80)
+    * Rewards:
+        - 500000x {Gold}
+
+* Mirkhan Tower 55F (zone 199) [Req. Level: 170]
+    * Catch 30 monsters within 300s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Wandering Grudge (Lv.80)
+        - Specter (Lv.80)
+        - Dark Priest (Lv.80)
+        - Dark Summoner (Lv.80)
+        - Black Knight (Lv.80)
+    * Rewards:
+        - 30x {Orange Lunarium}
+
+* Mirkhan Tower 56F (zone 198) [Req. Level: 170]
+    * Catch 15 monsters within 300s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Poacher Archer (Lv.80)
+        - Poacher Mage (Lv.80)
+        - Poacher Warrior (Lv.80)
+        - Barghest (Lv.80)
+        - Rafflesia (Lv.80)
+    * Rewards:
+        - 500000x {Gold}
+
+* Mirkhan Tower 57F (zone 198) [Req. Level: 170]
+    * Catch 15 monsters within 300s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Poacher Archer (Lv.80)
+        - Poacher Mage (Lv.80)
+        - Poacher Warrior (Lv.80)
+        - Barghest (Lv.80)
+        - Rafflesia (Lv.80)
+    * Rewards:
+        - 500000x {Gold}
+
+* Mirkhan Tower 58F (zone 198) [Req. Level: 170]
+    * Catch 15 monsters within 300s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Poacher Archer (Lv.80)
+        - Poacher Mage (Lv.80)
+        - Poacher Warrior (Lv.80)
+        - Barghest (Lv.80)
+        - Rafflesia (Lv.80)
+    * Rewards:
+        - 500000x {Gold}
+
+* Mirkhan Tower 59F (zone 198) [Req. Level: 170]
+    * Catch 15 monsters within 300s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Poacher Archer (Lv.80)
+        - Poacher Mage (Lv.80)
+        - Poacher Warrior (Lv.80)
+        - Barghest (Lv.80)
+        - Rafflesia (Lv.80)
+    * Rewards:
+        - 500000x {Gold}
+
+* Mirkhan Tower 60F (zone 201) [Req. Level: 175]
+    * Defeat the Thorciasid ruler of Mirkhan Tower F60 within 180s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Thorciasid (Lv.80)
+    * Rewards:
+        - 30x {Versa's Grace (20 Min)}
+
+* Mirkhan Tower 61F (zone 198) [Req. Level: 175]
+    * Catch 15 monsters within 300s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Poacher Archer (Lv.80)
+        - Poacher Mage (Lv.80)
+        - Poacher Warrior (Lv.80)
+        - Barghest (Lv.80)
+        - Rafflesia (Lv.80)
+    * Rewards:
+        - 500000x {Gold}
+
+* Mirkhan Tower 62F (zone 198) [Req. Level: 175]
+    * Catch 20 monsters within 300s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Poacher Archer (Lv.80)
+        - Poacher Mage (Lv.80)
+        - Poacher Warrior (Lv.80)
+        - Barghest (Lv.80)
+        - Rafflesia (Lv.80)
+    * Rewards:
+        - 500000x {Gold}
+
+* Mirkhan Tower 63F (zone 198) [Req. Level: 175]
+    * Catch 20 monsters within 300s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Poacher Archer (Lv.80)
+        - Poacher Mage (Lv.80)
+        - Poacher Warrior (Lv.80)
+        - Barghest (Lv.80)
+        - Rafflesia (Lv.80)
+    * Rewards:
+        - 500000x {Gold}
+
+* Mirkhan Tower 64F (zone 198) [Req. Level: 175]
+    * Catch 20 monsters within 300s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Poacher Archer (Lv.80)
+        - Poacher Mage (Lv.80)
+        - Poacher Warrior (Lv.80)
+        - Barghest (Lv.80)
+        - Rafflesia (Lv.80)
+    * Rewards:
+        - 500000x {Gold}
+
+* Mirkhan Tower 65F (zone 199) [Req. Level: 180]
+    * Catch 30 monsters within 300s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Lesser Axe Dummy (Lv.80)
+        - Lesser Blunt Weapon Dummy (Lv.80)
+        - Lesser Archery Dummy (Lv.80)
+        - Cursed Eye Buoy (Lv.80)
+        - Blueish Eye Buoy (Lv.80)
+    * Rewards:
+        - {Legendary Weapon Chest}
+
+* Mirkhan Tower 66F (zone 198) [Req. Level: 180]
+    * Catch 20 monsters within 300s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Ogre Shaman (Lv.80)
+        - Golem (Lv.80)
+        - Minotaur (Lv.80)
+        - Minotaur Warrior (Lv.80)
+        - Minotaur Shaman (Lv.80)
+    * Rewards:
+        - 500000x {Gold}
+
+* Mirkhan Tower 67F (zone 198) [Req. Level: 180]
+    * Catch 20 monsters within 300s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Ogre Shaman (Lv.80)
+        - Golem (Lv.80)
+        - Minotaur (Lv.80)
+        - Minotaur Warrior (Lv.80)
+        - Minotaur Shaman (Lv.80)
+    * Rewards:
+        - 500000x {Gold}
+
+* Mirkhan Tower 68F (zone 198) [Req. Level: 180]
+    * Catch 20 monsters within 300s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Ogre Shaman (Lv.80)
+        - Golem (Lv.80)
+        - Minotaur (Lv.80)
+        - Minotaur Warrior (Lv.80)
+        - Minotaur Shaman (Lv.80)
+    * Rewards:
+        - 500000x {Gold}
+
+* Mirkhan Tower 69F (zone 198) [Req. Level: 180]
+    * Catch 20 monsters within 300s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Ogre Shaman (Lv.80)
+        - Golem (Lv.80)
+        - Minotaur (Lv.80)
+        - Minotaur Warrior (Lv.80)
+        - Minotaur Shaman (Lv.80)
+    * Rewards:
+        - 500000x {Gold}
+
+* Mirkhan Tower 70F (zone 199) [Req. Level: 185]
+    * Catch 30 monsters within 300s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Valley Lizardman Archer (Lv.80)
+        - Naga Archer (Lv.80)
+        - Lizardman Archer (Lv.80)
+        - Sahuagin Archer (Lv.80)
+    * Rewards:
+        - 30x {Rare Blue Star Piece Pot}
+
+* Mirkhan Tower 71F (zone 198) [Req. Level: 185]
+    * Catch 20 monsters within 300s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Ogre Shaman (Lv.80)
+        - Golem (Lv.80)
+        - Minotaur (Lv.80)
+        - Minotaur Warrior (Lv.80)
+        - Minotaur Shaman (Lv.80)
+    * Rewards:
+        - 500000x {Gold}
+
+* Mirkhan Tower 72F (zone 198) [Req. Level: 185]
+    * Catch 20 monsters within 300s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Ogre Shaman (Lv.80)
+        - Golem (Lv.80)
+        - Minotaur (Lv.80)
+        - Minotaur Warrior (Lv.80)
+        - Minotaur Shaman (Lv.80)
+    * Rewards:
+        - 500000x {Gold}
+
+* Mirkhan Tower 73F (zone 198) [Req. Level: 185]
+    * Catch 20 monsters within 300s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Ogre Shaman (Lv.80)
+        - Golem (Lv.80)
+        - Minotaur (Lv.80)
+        - Minotaur Warrior (Lv.80)
+        - Minotaur Shaman (Lv.80)
+    * Rewards:
+        - 500000x {Gold}
+
+* Mirkhan Tower 74F (zone 198) [Req. Level: 185]
+    * Catch 20 monsters within 300s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Ogre Shaman (Lv.80)
+        - Golem (Lv.80)
+        - Minotaur (Lv.80)
+        - Minotaur Warrior (Lv.80)
+        - Minotaur Shaman (Lv.80)
+    * Rewards:
+        - 500000x {Gold}
+
+* Mirkhan Tower 75F (zone 201) [Req. Level: 190]
+    * Defeat the Hippogriff ruler of Mirkhan Tower F75 within 180s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Hippogriff (Lv.80)
+    * Rewards:
+        - 5x {Poison Mist Magic Quartz}
+
+* Mirkhan Tower 76F (zone 198) [Req. Level: 190]
+    * Catch 20 monsters within 300s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Anthro Thief (Lv.80)
+        - Anthro Mage (Lv.80)
+        - Naga Archer (Lv.80)
+        - Naga Royal Guard (Lv.80)
+        - Naga Mage (Lv.80)
+    * Rewards:
+        - 1000000x {Gold}
+
+* Mirkhan Tower 77F (zone 198) [Req. Level: 190]
+    * Catch 20 monsters within 300s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Anthro Thief (Lv.80)
+        - Anthro Mage (Lv.80)
+        - Naga Archer (Lv.80)
+        - Naga Royal Guard (Lv.80)
+        - Naga Mage (Lv.80)
+    * Rewards:
+        - 1000000x {Gold}
+
+* Mirkhan Tower 78F (zone 198) [Req. Level: 190]
+    * Catch 20 monsters within 300s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Anthro Thief (Lv.80)
+        - Anthro Mage (Lv.80)
+        - Naga Archer (Lv.80)
+        - Naga Royal Guard (Lv.80)
+        - Naga Mage (Lv.80)
+    * Rewards:
+        - 1000000x {Gold}
+
+* Mirkhan Tower 79F (zone 198) [Req. Level: 190]
+    * Catch 20 monsters within 300s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Anthro Thief (Lv.80)
+        - Anthro Mage (Lv.80)
+        - Naga Archer (Lv.80)
+        - Naga Royal Guard (Lv.80)
+        - Naga Mage (Lv.80)
+    * Rewards:
+        - 1000000x {Gold}
+
+* Mirkhan Tower 80F (zone 199) [Req. Level: 190]
+    * Catch 30 monsters within 300s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Orc Archer (Lv.80)
+        - Orc Sentry (Lv.80)
+        - Orc Warrior (Lv.80)
+        - Orc Shaman (Lv.80)
+        - Orc Brawler (Lv.80)
+    * Rewards:
+        - {Masterpiece Attack-Type Sculpture Chest}
+
+* Mirkhan Tower 81F (zone 198) [Req. Level: 190]
+    * Catch 20 monsters within 300s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Anthro Thief (Lv.80)
+        - Anthro Mage (Lv.80)
+        - Naga Archer (Lv.80)
+        - Naga Royal Guard (Lv.80)
+        - Naga Mage (Lv.80)
+    * Rewards:
+        - 1000000x {Gold}
+
+* Mirkhan Tower 82F (zone 198) [Req. Level: 190]
+    * Catch 20 monsters within 300s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Anthro Thief (Lv.80)
+        - Anthro Mage (Lv.80)
+        - Naga Archer (Lv.80)
+        - Naga Royal Guard (Lv.80)
+        - Naga Mage (Lv.80)
+    * Rewards:
+        - 1000000x {Gold}
+
+* Mirkhan Tower 83F (zone 198) [Req. Level: 190]
+    * Catch 20 monsters within 300s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Anthro Thief (Lv.80)
+        - Anthro Mage (Lv.80)
+        - Naga Archer (Lv.80)
+        - Naga Royal Guard (Lv.80)
+        - Naga Mage (Lv.80)
+    * Rewards:
+        - 1000000x {Gold}
+
+* Mirkhan Tower 84F (zone 198) [Req. Level: 190]
+    * Catch 20 monsters within 300s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Anthro Thief (Lv.80)
+        - Anthro Mage (Lv.80)
+        - Naga Archer (Lv.80)
+        - Naga Royal Guard (Lv.80)
+        - Naga Mage (Lv.80)
+    * Rewards:
+        - 1000000x {Gold}
+
+* Mirkhan Tower 85F (zone 199) [Req. Level: 190]
+    * Catch 30 monsters within 300s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Lesser Axe Dummy (Lv.80)
+        - Lesser Blunt Weapon Dummy (Lv.80)
+        - Lesser Archery Dummy (Lv.80)
+        - Cursed Eye Buoy (Lv.80)
+        - Blueish Eye Buoy (Lv.80)
+    * Rewards:
+        - {Masterpiece Defense-Type Sculpture Chest}
+
+* Mirkhan Tower 86F (zone 198) [Req. Level: 190]
+    * Catch 20 monsters within 300s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Anthro Thief (Lv.80)
+        - Anthro Mage (Lv.80)
+        - Naga Archer (Lv.80)
+        - Naga Royal Guard (Lv.80)
+        - Naga Mage (Lv.80)
+    * Rewards:
+        - 1000000x {Gold}
+
+* Mirkhan Tower 87F (zone 198) [Req. Level: 190]
+    * Catch 20 monsters within 300s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Anthro Thief (Lv.80)
+        - Anthro Mage (Lv.80)
+        - Naga Archer (Lv.80)
+        - Naga Royal Guard (Lv.80)
+        - Naga Mage (Lv.80)
+    * Rewards:
+        - 1000000x {Gold}
+
+* Mirkhan Tower 88F (zone 198) [Req. Level: 190]
+    * Catch 20 monsters within 300s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Anthro Thief (Lv.80)
+        - Anthro Mage (Lv.80)
+        - Naga Archer (Lv.80)
+        - Naga Royal Guard (Lv.80)
+        - Naga Mage (Lv.80)
+    * Rewards:
+        - 1000000x {Gold}
+
+* Mirkhan Tower 89F (zone 198) [Req. Level: 190]
+    * Catch 20 monsters within 300s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Anthro Thief (Lv.80)
+        - Anthro Mage (Lv.80)
+        - Naga Archer (Lv.80)
+        - Naga Royal Guard (Lv.80)
+        - Naga Mage (Lv.80)
+    * Rewards:
+        - 1000000x {Gold}
+
+* Mirkhan Tower 90F (zone 201) [Req. Level: 195]
+    * Defeat the Ettin ruler of Mirkhan Tower F90 within 180s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Ettin (Lv.80)
+    * Rewards:
+        - 10x {Poison Mist Magic Quartz}
+
+* Mirkhan Tower 91F (zone 198) [Req. Level: 195]
+    * Catch 20 monsters within 300s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Anthro Thief (Lv.80)
+        - Anthro Mage (Lv.80)
+        - Naga Archer (Lv.80)
+        - Naga Royal Guard (Lv.80)
+        - Naga Mage (Lv.80)
+    * Rewards:
+        - 1000000x {Gold}
+
+* Mirkhan Tower 92F (zone 198) [Req. Level: 195]
+    * Catch 20 monsters within 300s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Anthro Thief (Lv.80)
+        - Anthro Mage (Lv.80)
+        - Naga Archer (Lv.80)
+        - Naga Royal Guard (Lv.80)
+        - Naga Mage (Lv.80)
+    * Rewards:
+        - 1000000x {Gold}
+
+* Mirkhan Tower 93F (zone 198) [Req. Level: 195]
+    * Catch 20 monsters within 300s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Anthro Thief (Lv.80)
+        - Anthro Mage (Lv.80)
+        - Naga Archer (Lv.80)
+        - Naga Royal Guard (Lv.80)
+        - Naga Mage (Lv.80)
+    * Rewards:
+        - 1000000x {Gold}
+
+* Mirkhan Tower 94F (zone 198) [Req. Level: 195]
+    * Catch 20 monsters within 300s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Anthro Thief (Lv.80)
+        - Anthro Mage (Lv.80)
+        - Naga Archer (Lv.80)
+        - Naga Royal Guard (Lv.80)
+        - Naga Mage (Lv.80)
+    * Rewards:
+        - 1000000x {Gold}
+
+* Mirkhan Tower 95F (zone 199) [Req. Level: 200]
+    * Catch 30 monsters within 300s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Valley Lizardman Mage (Lv.80)
+        - Naga Mage (Lv.80)
+        - Gravekeeper Goblin Bombardier (Lv.80)
+        - Naga Archer (Lv.80)
+        - Lizardman Archer (Lv.80)
+    * Rewards:
+        - {Crystal Choice Chest}
+
+* Mirkhan Tower 96F (zone 198) [Req. Level: 200]
+    * Catch 20 monsters within 300s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Anthro Thief (Lv.80)
+        - Anthro Mage (Lv.80)
+        - Naga Archer (Lv.80)
+        - Naga Royal Guard (Lv.80)
+        - Naga Mage (Lv.80)
+    * Rewards:
+        - 1500000x {Gold}
+
+* Mirkhan Tower 97F (zone 198) [Req. Level: 200]
+    * Catch 20 monsters within 300s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Anthro Thief (Lv.80)
+        - Anthro Mage (Lv.80)
+        - Naga Archer (Lv.80)
+        - Naga Royal Guard (Lv.80)
+        - Naga Mage (Lv.80)
+    * Rewards:
+        - 1500000x {Gold}
+
+* Mirkhan Tower 98F (zone 198) [Req. Level: 200]
+    * Catch 20 monsters within 300s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Anthro Thief (Lv.80)
+        - Anthro Mage (Lv.80)
+        - Naga Archer (Lv.80)
+        - Naga Royal Guard (Lv.80)
+        - Naga Mage (Lv.80)
+    * Rewards:
+        - 1500000x {Gold}
+
+* Mirkhan Tower 99F (zone 198) [Req. Level: 200]
+    * Catch 20 monsters within 300s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Anthro Thief (Lv.80)
+        - Anthro Mage (Lv.80)
+        - Naga Archer (Lv.80)
+        - Naga Royal Guard (Lv.80)
+        - Naga Mage (Lv.80)
+    * Rewards:
+        - 1500000x {Gold}
+
+* Mirkhan Tower 100F (zone 201) [Req. Level: 200]
+    * Defeat the Meliae ruler of Mirkhan Tower F100 within 240s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%, All Element RES -130)
+    * Monsters:
+        - Meliae (Lv.80)
+    * Rewards:
+        - 1500000x {Gold}
+
+* Mirkhan Tower 101F (zone 201) [Req. Level: 200]
+    * Defeat the Meliae ruler of Mirkhan Tower F101 within 240s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%, All Element RES -130)
+    * Monsters:
+        - Meliae (Lv.80)
+    * Rewards:
+        - 1500000x {Gold}
+
+* Mirkhan Tower 102F (zone 201) [Req. Level: 200]
+    * Defeat the Meliae ruler of Mirkhan Tower F102 within 240s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%, All Element RES -313)
+    * Monsters:
+        - Meliae (Lv.80)
+    * Rewards:
+        - 1500000x {Gold}
+
+* Mirkhan Tower 103F (zone 201) [Req. Level: 200]
+    * Defeat the Meliae ruler of Mirkhan Tower F103 within 240s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%, All Element RES -313)
+    * Monsters:
+        - Meliae (Lv.80)
+    * Rewards:
+        - 10x {Legendary Option Stone Chest}
+
+* Mirkhan Tower 104F (zone 201) [Req. Level: 205]
+    * Defeat the Meliae ruler of Mirkhan Tower F104 within 240s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%, All Element RES -517)
+    * Monsters:
+        - Meliae (Lv.80)
+    * Rewards:
+        - 15x {Poison Mist Magic Quartz}
+
+* Mirkhan Tower 105F (zone 201) [Req. Level: 205]
+    * Defeat the Frost Goblin ruler of Mirkhan Tower F105 within 240s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%, All Element RES -130)
+    * Monsters:
+        - Frost Goblin (Lv.80)
+    * Rewards:
+        - 1500000x {Gold}
+
+* Mirkhan Tower 106F (zone 201) [Req. Level: 205]
+    * Defeat the Frost Goblin ruler of Mirkhan Tower F106 within 240s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%, All Element RES -130)
+    * Monsters:
+        - Frost Goblin (Lv.80)
+    * Rewards:
+        - 1500000x {Gold}
+
+* Mirkhan Tower 107F (zone 201) [Req. Level: 205]
+    * Defeat the Frost Goblin ruler of Mirkhan Tower F107 within 240s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%, All Element RES -313)
+    * Monsters:
+        - Frost Goblin (Lv.80)
+    * Rewards:
+        - 1500000x {Gold}
+
+* Mirkhan Tower 108F (zone 201) [Req. Level: 205]
+    * Defeat the Frost Goblin ruler of Mirkhan Tower F108 within 240s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%, All Element RES -313)
+    * Monsters:
+        - Frost Goblin (Lv.80)
+    * Rewards:
+        - 10x {Advanced Equipment Specialization Pack}
+
+* Mirkhan Tower 109F (zone 201) [Req. Level: 210]
+    * Defeat the Frost Goblin ruler of Mirkhan Tower F109 within 240s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%, All Element RES -517)
+    * Monsters:
+        - Frost Goblin (Lv.80)
+    * Rewards:
+        - 20x {Poison Mist Magic Quartz}
+
+* Mirkhan Tower 110F (zone 201) [Req. Level: 210]
+    * Defeat the Cerberus ruler of Mirkhan Tower F110 within 240s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%, All Element RES -130)
+    * Monsters:
+        - Cerberus (Lv.80)
+    * Rewards:
+        - 1500000x {Gold}
+
+* Mirkhan Tower 111F (zone 201) [Req. Level: 210]
+    * Defeat the Cerberus ruler of Mirkhan Tower F111 within 240s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%, All Element RES -130)
+    * Monsters:
+        - Cerberus (Lv.80)
+    * Rewards:
+        - 1500000x {Gold}
+
+* Mirkhan Tower 112F (zone 201) [Req. Level: 210]
+    * Defeat the Cerberus ruler of Mirkhan Tower F112 within 240s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%, All Element RES -313)
+    * Monsters:
+        - Cerberus (Lv.80)
+    * Rewards:
+        - 1500000x {Gold}
+
+* Mirkhan Tower 113F (zone 201) [Req. Level: 210]
+    * Defeat the Cerberus ruler of Mirkhan Tower F113 within 240s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%, All Element RES -313)
+    * Monsters:
+        - Cerberus (Lv.80)
+    * Rewards:
+        - 10x {Advanced Accessory Specialization Pack}
+
+* Mirkhan Tower 114F (zone 201) [Req. Level: 210]
+    * Defeat the Cerberus ruler of Mirkhan Tower F114 within 240s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%, All Element RES -517)
+    * Monsters:
+        - Cerberus (Lv.80)
+    * Rewards:
+        - {Masterpiece Elemental Sculpture Choice Chest}
+
+* Mirkhan Tower 115F (zone 201) [Req. Level: 210]
+    * Defeat the Chalciope ruler of Mirkhan Tower F115 within 240s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%, All Element RES -130)
+    * Monsters:
+        - Chalciope (Lv.80)
+    * Rewards:
+        - 2000000x {Gold}
+
+* Mirkhan Tower 116F (zone 201) [Req. Level: 210]
+    * Defeat the Chalciope ruler of Mirkhan Tower F116 within 240s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%, All Element RES -130)
+    * Monsters:
+        - Chalciope (Lv.80)
+    * Rewards:
+        - 2000000x {Gold}
+
+* Mirkhan Tower 117F (zone 201) [Req. Level: 210]
+    * Defeat the Chalciope ruler of Mirkhan Tower F117 within 240s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%, All Element RES -313)
+    * Monsters:
+        - Chalciope (Lv.80)
+    * Rewards:
+        - 2000000x {Gold}
+
+* Mirkhan Tower 118F (zone 201) [Req. Level: 215]
+    * Defeat the Chalciope ruler of Mirkhan Tower F118 within 240s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%, All Element RES -313)
+    * Monsters:
+        - Chalciope (Lv.80)
+    * Rewards:
+        - 30x {Black Fragment}
+
+* Mirkhan Tower 119F (zone 201) [Req. Level: 215]
+    * Defeat the Chalciope ruler of Mirkhan Tower F119 within 240s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%, All Element RES -517)
+    * Monsters:
+        - Chalciope (Lv.80)
+    * Rewards:
+        - 5x {Twilight Magic Quartz}
+
+* Mirkhan Tower 120F (zone 199) [Req. Level: 215]
+    * Catch 40 monsters within 240s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Wandering Grudge (Lv.80)
+        - Specter (Lv.80)
+        - Dark Priest (Lv.80)
+        - Dark Summoner (Lv.80)
+        - Black Knight (Lv.80)
+    * Rewards:
+        - 100x {Orange Lunarium}
+
+* Mirkhan Tower 121F (zone 198) [Req. Level: 215]
+    * Catch 25 monsters within 240s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Satyr Mage (Lv.80)
+        - Satyr Warrior (Lv.80)
+        - Centaur Archer (Lv.80)
+        - Centaur Axeman (Lv.80)
+        - Centaur Spearman (Lv.80)
+    * Rewards:
+        - 2000000x {Gold}
+
+* Mirkhan Tower 122F (zone 198) [Req. Level: 215]
+    * Catch 25 monsters within 240s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Satyr Mage (Lv.80)
+        - Satyr Warrior (Lv.80)
+        - Centaur Archer (Lv.80)
+        - Centaur Axeman (Lv.80)
+        - Centaur Spearman (Lv.80)
+    * Rewards:
+        - 2000000x {Gold}
+
+* Mirkhan Tower 123F (zone 198) [Req. Level: 215]
+    * Catch 25 monsters within 240s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Satyr Mage (Lv.80)
+        - Satyr Warrior (Lv.80)
+        - Centaur Archer (Lv.80)
+        - Centaur Axeman (Lv.80)
+        - Centaur Spearman (Lv.80)
+    * Rewards:
+        - 2000000x {Gold}
+
+* Mirkhan Tower 124F (zone 198) [Req. Level: 215]
+    * Catch 25 monsters within 240s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Satyr Mage (Lv.80)
+        - Satyr Warrior (Lv.80)
+        - Centaur Archer (Lv.80)
+        - Centaur Axeman (Lv.80)
+        - Centaur Spearman (Lv.80)
+    * Rewards:
+        - 2000000x {Gold}
+
+* Mirkhan Tower 125F (zone 199) [Req. Level: 220]
+    * Catch 40 monsters within 240s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Valley Lizardman Mage (Lv.80)
+        - Naga Mage (Lv.80)
+        - Gravekeeper Goblin Bombardier (Lv.80)
+        - Naga Archer (Lv.80)
+        - Lizardman Archer (Lv.80)
+    * Rewards:
+        - 5x {Twilight Magic Quartz}
+
+* Mirkhan Tower 126F (zone 198) [Req. Level: 220]
+    * Catch 25 monsters within 240s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Satyr Mage (Lv.80)
+        - Satyr Warrior (Lv.80)
+        - Centaur Archer (Lv.80)
+        - Centaur Axeman (Lv.80)
+        - Centaur Spearman (Lv.80)
+    * Rewards:
+        - 2000000x {Gold}
+
+* Mirkhan Tower 127F (zone 198) [Req. Level: 220]
+    * Catch 25 monsters within 240s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Satyr Mage (Lv.80)
+        - Satyr Warrior (Lv.80)
+        - Centaur Archer (Lv.80)
+        - Centaur Axeman (Lv.80)
+        - Centaur Spearman (Lv.80)
+    * Rewards:
+        - 2000000x {Gold}
+
+* Mirkhan Tower 128F (zone 198) [Req. Level: 220]
+    * Catch 25 monsters within 240s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Satyr Mage (Lv.80)
+        - Satyr Warrior (Lv.80)
+        - Centaur Archer (Lv.80)
+        - Centaur Axeman (Lv.80)
+        - Centaur Spearman (Lv.80)
+    * Rewards:
+        - 2000000x {Gold}
+
+* Mirkhan Tower 129F (zone 198) [Req. Level: 220]
+    * Catch 25 monsters within 240s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Satyr Mage (Lv.80)
+        - Satyr Warrior (Lv.80)
+        - Centaur Archer (Lv.80)
+        - Centaur Axeman (Lv.80)
+        - Centaur Spearman (Lv.80)
+    * Rewards:
+        - 2000000x {Gold}
+
+* Mirkhan Tower 130F (zone 199) [Req. Level: 225]
+    * Catch 40 monsters within 240s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Lesser Axe Dummy (Lv.80)
+        - Lesser Blunt Weapon Dummy (Lv.80)
+        - Lesser Archery Dummy (Lv.80)
+        - Cursed Eye Buoy (Lv.80)
+        - Blueish Eye Buoy (Lv.80)
+    * Rewards:
+        - 30x {Black Fragment}
+
+* Mirkhan Tower 131F (zone 198) [Req. Level: 225]
+    * Catch 25 monsters within 240s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Satyr Mage (Lv.80)
+        - Satyr Warrior (Lv.80)
+        - Centaur Archer (Lv.80)
+        - Centaur Axeman (Lv.80)
+        - Centaur Spearman (Lv.80)
+    * Rewards:
+        - 2500000x {Gold}
+
+* Mirkhan Tower 132F (zone 198) [Req. Level: 225]
+    * Catch 25 monsters within 240s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Satyr Mage (Lv.80)
+        - Satyr Warrior (Lv.80)
+        - Centaur Archer (Lv.80)
+        - Centaur Axeman (Lv.80)
+        - Centaur Spearman (Lv.80)
+    * Rewards:
+        - 2500000x {Gold}
+
+* Mirkhan Tower 133F (zone 198) [Req. Level: 225]
+    * Catch 25 monsters within 240s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Satyr Mage (Lv.80)
+        - Satyr Warrior (Lv.80)
+        - Centaur Archer (Lv.80)
+        - Centaur Axeman (Lv.80)
+        - Centaur Spearman (Lv.80)
+    * Rewards:
+        - 2500000x {Gold}
+
+* Mirkhan Tower 134F (zone 198) [Req. Level: 225]
+    * Catch 25 monsters within 240s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Satyr Mage (Lv.80)
+        - Satyr Warrior (Lv.80)
+        - Centaur Archer (Lv.80)
+        - Centaur Axeman (Lv.80)
+        - Centaur Spearman (Lv.80)
+    * Rewards:
+        - 2500000x {Gold}
+
+* Mirkhan Tower 135F (zone 201) [Req. Level: 230]
+    * Defeat the Baphomet ruler of Mirkhan Tower F135 within 180s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Baphomet (Lv.80)
+    * Rewards:
+        - 10x {Twilight Magic Quartz}
+
+* Mirkhan Tower 136F (zone 198) [Req. Level: 230]
+    * Catch 25 monsters within 240s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Satyr Mage (Lv.80)
+        - Satyr Warrior (Lv.80)
+        - Centaur Archer (Lv.80)
+        - Centaur Axeman (Lv.80)
+        - Centaur Spearman (Lv.80)
+    * Rewards:
+        - 2500000x {Gold}
+
+* Mirkhan Tower 137F (zone 198) [Req. Level: 230]
+    * Catch 25 monsters within 240s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Satyr Mage (Lv.80)
+        - Satyr Warrior (Lv.80)
+        - Centaur Archer (Lv.80)
+        - Centaur Axeman (Lv.80)
+        - Centaur Spearman (Lv.80)
+    * Rewards:
+        - 2500000x {Gold}
+
+* Mirkhan Tower 138F (zone 198) [Req. Level: 230]
+    * Catch 25 monsters within 240s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Satyr Mage (Lv.80)
+        - Satyr Warrior (Lv.80)
+        - Centaur Archer (Lv.80)
+        - Centaur Axeman (Lv.80)
+        - Centaur Spearman (Lv.80)
+    * Rewards:
+        - 2500000x {Gold}
+
+* Mirkhan Tower 139F (zone 198) [Req. Level: 230]
+    * Catch 25 monsters within 240s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Satyr Mage (Lv.80)
+        - Satyr Warrior (Lv.80)
+        - Centaur Archer (Lv.80)
+        - Centaur Axeman (Lv.80)
+        - Centaur Spearman (Lv.80)
+    * Rewards:
+        - 2500000x {Gold}
+
+* Mirkhan Tower 140F (zone 199) [Req. Level: 230]
+    * Catch 40 monsters within 300s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Orc Archer (Lv.80)
+        - Orc Sentry (Lv.80)
+        - Orc Warrior (Lv.80)
+        - Orc Shaman (Lv.80)
+        - Orc Brawler (Lv.80)
+    * Rewards:
+        - 10x {Legendary Equipment Specialization Pack}
+
+* Mirkhan Tower 141F (zone 198) [Req. Level: 230]
+    * Catch 25 monsters within 240s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Satyr Mage (Lv.80)
+        - Satyr Warrior (Lv.80)
+        - Centaur Archer (Lv.80)
+        - Centaur Axeman (Lv.80)
+        - Centaur Spearman (Lv.80)
+    * Rewards:
+        - 3000000x {Gold}
+
+* Mirkhan Tower 142F (zone 198) [Req. Level: 230]
+    * Catch 25 monsters within 240s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Satyr Mage (Lv.80)
+        - Satyr Warrior (Lv.80)
+        - Centaur Archer (Lv.80)
+        - Centaur Axeman (Lv.80)
+        - Centaur Spearman (Lv.80)
+    * Rewards:
+        - 3000000x {Gold}
+
+* Mirkhan Tower 143F (zone 198) [Req. Level: 230]
+    * Catch 25 monsters within 240s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Satyr Mage (Lv.80)
+        - Satyr Warrior (Lv.80)
+        - Centaur Archer (Lv.80)
+        - Centaur Axeman (Lv.80)
+        - Centaur Spearman (Lv.80)
+    * Rewards:
+        - 3000000x {Gold}
+
+* Mirkhan Tower 144F (zone 198) [Req. Level: 230]
+    * Catch 25 monsters within 240s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Satyr Mage (Lv.80)
+        - Satyr Warrior (Lv.80)
+        - Centaur Archer (Lv.80)
+        - Centaur Axeman (Lv.80)
+        - Centaur Spearman (Lv.80)
+    * Rewards:
+        - 3000000x {Gold}
+
+* Mirkhan Tower 145F (zone 199) [Req. Level: 235]
+    * Catch 40 monsters within 300s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Lesser Axe Dummy (Lv.80)
+        - Lesser Blunt Weapon Dummy (Lv.80)
+        - Lesser Archery Dummy (Lv.80)
+        - Cursed Eye Buoy (Lv.80)
+        - Blueish Eye Buoy (Lv.80)
+    * Rewards:
+        - 10x {Legendary Accessory Specialization Pack}
+
+* Mirkhan Tower 146F (zone 198) [Req. Level: 235]
+    * Catch 25 monsters within 240s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Satyr Mage (Lv.80)
+        - Satyr Warrior (Lv.80)
+        - Centaur Archer (Lv.80)
+        - Centaur Axeman (Lv.80)
+        - Centaur Spearman (Lv.80)
+    * Rewards:
+        - 3000000x {Gold}
+
+* Mirkhan Tower 147F (zone 198) [Req. Level: 235]
+    * Catch 25 monsters within 240s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Satyr Mage (Lv.80)
+        - Satyr Warrior (Lv.80)
+        - Centaur Archer (Lv.80)
+        - Centaur Axeman (Lv.80)
+        - Centaur Spearman (Lv.80)
+    * Rewards:
+        - 3000000x {Gold}
+
+* Mirkhan Tower 148F (zone 198) [Req. Level: 235]
+    * Catch 25 monsters within 240s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Satyr Mage (Lv.80)
+        - Satyr Warrior (Lv.80)
+        - Centaur Archer (Lv.80)
+        - Centaur Axeman (Lv.80)
+        - Centaur Spearman (Lv.80)
+    * Rewards:
+        - 3000000x {Gold}
+
+* Mirkhan Tower 149F (zone 198) [Req. Level: 235]
+    * Catch 25 monsters within 240s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Satyr Mage (Lv.80)
+        - Satyr Warrior (Lv.80)
+        - Centaur Archer (Lv.80)
+        - Centaur Axeman (Lv.80)
+        - Centaur Spearman (Lv.80)
+    * Rewards:
+        - 3000000x {Gold}
+
+* Mirkhan Tower 150F (zone 201) [Req. Level: 240]
+    * Defeat the Drake ruler of Mirkhan Tower F150 within 180s!
+    * Floor Effect: The Dead's Mark (HP Drain RES +100%, MP Drain RES +100%)
+    * Monsters:
+        - Drake (Lv.80)
+    * Rewards:
+        - 10x {Twilight Magic Quartz}
