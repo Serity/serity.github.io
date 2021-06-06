@@ -13,7 +13,7 @@
         - Fox
         - Silver Fox
     * Rewards:
-        - 100000x {Gold}
+        - 100000x Gold
 
 * Mirkhan Tower 2F
     * Catch 15 monsters within 300s!
@@ -25,7 +25,7 @@
         - Fox
         - Silver Fox
     * Rewards:
-        - 100000x {Gold}
+        - 100000x Gold
 
 * Mirkhan Tower 3F
     * Catch 15 monsters within 300s!
@@ -37,7 +37,7 @@
         - Fox
         - Silver Fox
     * Rewards:
-        - 100000x {Gold}
+        - 100000x Gold
 
 * Mirkhan Tower 4F
     * Catch 15 monsters within 300s!
@@ -49,7 +49,7 @@
         - Fox
         - Silver Fox
     * Rewards:
-        - 100000x {Gold}
+        - 100000x Gold
 
 * Mirkhan Tower 5F [Req. Level: 85]
     * Defeat the Yivee ruler of Mirkhan Tower F5 within 180s!
@@ -69,7 +69,7 @@
         - Fox
         - Silver Fox
     * Rewards:
-        - 100000x {Gold}
+        - 100000x Gold
 
 * Mirkhan Tower 7F [Req. Level: 85]
     * Catch 15 monsters within 300s!
@@ -81,7 +81,7 @@
         - Fox
         - Silver Fox
     * Rewards:
-        - 100000x {Gold}
+        - 100000x Gold
 
 * Mirkhan Tower 8F [Req. Level: 85]
     * Catch 15 monsters within 300s!
@@ -93,7 +93,7 @@
         - Fox
         - Silver Fox
     * Rewards:
-        - 100000x {Gold}
+        - 100000x Gold
 
 * Mirkhan Tower 9F [Req. Level: 85]
     * Catch 15 monsters within 300s!
@@ -105,7 +105,7 @@
         - Fox
         - Silver Fox
     * Rewards:
-        - 100000x {Gold}
+        - 100000x Gold
 
 * Mirkhan Tower 10F [Req. Level: 90]
     * Catch 20 monsters within 300s!
@@ -128,7 +128,7 @@
         - Fox
         - Silver Fox
     * Rewards:
-        - 200000x {Gold}
+        - 200000x Gold
 
 * Mirkhan Tower 12F [Req. Level: 90]
     * Catch 15 monsters within 300s!
@@ -140,7 +140,7 @@
         - Fox
         - Silver Fox
     * Rewards:
-        - 200000x {Gold}
+        - 200000x Gold
 
 * Mirkhan Tower 13F [Req. Level: 90]
     * Catch 15 monsters within 300s!
@@ -152,7 +152,7 @@
         - Fox
         - Silver Fox
     * Rewards:
-        - 200000x {Gold}
+        - 200000x Gold
 
 * Mirkhan Tower 14F [Req. Level: 90]
     * Catch 15 monsters within 300s!
@@ -164,7 +164,7 @@
         - Fox
         - Silver Fox
     * Rewards:
-        - 200000x {Gold}
+        - 200000x Gold
 
 * Mirkhan Tower 15F [Req. Level: 100]
     * Defeat the Von Hawk ruler of Mirkhan Tower F15 within 180s!
@@ -184,7 +184,7 @@
         - Orc Shaman
         - Weary Coyote
     * Rewards:
-        - 200000x {Gold}
+        - 200000x Gold
 
 * Mirkhan Tower 17F [Req. Level: 100]
     * Catch 15 monsters within 300s!
@@ -196,7 +196,7 @@
         - Orc Shaman
         - Weary Coyote
     * Rewards:
-        - 200000x {Gold}
+        - 200000x Gold
 
 * Mirkhan Tower 18F [Req. Level: 100]
     * Catch 15 monsters within 300s!
@@ -208,7 +208,7 @@
         - Orc Shaman
         - Weary Coyote
     * Rewards:
-        - 200000x {Gold}
+        - 200000x Gold
 
 * Mirkhan Tower 19F [Req. Level: 100]
     * Catch 15 monsters within 300s!
@@ -220,7 +220,7 @@
         - Orc Shaman
         - Weary Coyote
     * Rewards:
-        - 200000x {Gold}
+        - 200000x Gold
 
 * Mirkhan Tower 20F [Req. Level: 110]
     * Defeat the Mogsy ruler of Mirkhan Tower F20 within 180s!
@@ -240,7 +240,7 @@
         - Orc Shaman
         - Weary Coyote
     * Rewards:
-        - 300000x {Gold}
+        - 300000x Gold
 
 * Mirkhan Tower 22F [Req. Level: 110]
     * Catch 15 monsters within 300s!
@@ -252,7 +252,7 @@
         - Orc Shaman
         - Weary Coyote
     * Rewards:
-        - 300000x {Gold}
+        - 300000x Gold
 
 * Mirkhan Tower 23F [Req. Level: 110]
     * Catch 15 monsters within 300s!
@@ -264,7 +264,7 @@
         - Orc Shaman
         - Weary Coyote
     * Rewards:
-        - 300000x {Gold}
+        - 300000x Gold
 
 * Mirkhan Tower 24F [Req. Level: 110]
     * Catch 15 monsters within 300s!
@@ -276,7 +276,7 @@
         - Orc Shaman
         - Weary Coyote
     * Rewards:
-        - 300000x {Gold}
+        - 300000x Gold
 
 * Mirkhan Tower 25F [Req. Level: 120]
     * Catch 20 monsters within 300s!
@@ -299,7 +299,7 @@
         - Orc Shaman
         - Weary Coyote
     * Rewards:
-        - 300000x {Gold}
+        - 300000x Gold
 
 * Mirkhan Tower 27F [Req. Level: 120]
     * Catch 15 monsters within 300s!
@@ -311,7 +311,7 @@
         - Orc Shaman
         - Weary Coyote
     * Rewards:
-        - 300000x {Gold}
+        - 300000x Gold
 
 * Mirkhan Tower 28F [Req. Level: 120]
     * Catch 15 monsters within 300s!
@@ -323,7 +323,7 @@
         - Orc Shaman
         - Weary Coyote
     * Rewards:
-        - 300000x {Gold}
+        - 300000x Gold
 
 * Mirkhan Tower 29F [Req. Level: 120]
     * Catch 15 monsters within 300s!
@@ -335,7 +335,7 @@
         - Orc Shaman
         - Weary Coyote
     * Rewards:
-        - 300000x {Gold}
+        - 300000x Gold
 
 * Mirkhan Tower 30F [Req. Level: 130]
     * Defeat the Lesser Brawler Dummy ruler of Mirkhan Tower F30 within 180s!
@@ -355,7 +355,7 @@
         - Carpenter Bee
         - Azure Bee
     * Rewards:
-        - 400000x {Gold}
+        - 400000x Gold
 
 * Mirkhan Tower 32F [Req. Level: 130]
     * Catch 15 monsters within 300s!
@@ -367,7 +367,7 @@
         - Carpenter Bee
         - Azure Bee
     * Rewards:
-        - 400000x {Gold}
+        - 400000x Gold
 
 * Mirkhan Tower 33F [Req. Level: 130]
     * Catch 15 monsters within 300s!
@@ -379,7 +379,7 @@
         - Carpenter Bee
         - Azure Bee
     * Rewards:
-        - 400000x {Gold}
+        - 400000x Gold
 
 * Mirkhan Tower 34F [Req. Level: 130]
     * Catch 15 monsters within 300s!
@@ -391,7 +391,7 @@
         - Carpenter Bee
         - Azure Bee
     * Rewards:
-        - 400000x {Gold}
+        - 400000x Gold
 
 * Mirkhan Tower 35F [Req. Level: 140]
     * Catch 20 monsters within 300s!
@@ -415,7 +415,7 @@
         - Carpenter Bee
         - Azure Bee
     * Rewards:
-        - 400000x {Gold}
+        - 400000x Gold
 
 * Mirkhan Tower 37F [Req. Level: 140]
     * Catch 15 monsters within 300s!
@@ -427,7 +427,7 @@
         - Carpenter Bee
         - Azure Bee
     * Rewards:
-        - 400000x {Gold}
+        - 400000x Gold
 
 * Mirkhan Tower 38F [Req. Level: 140]
     * Catch 15 monsters within 300s!
@@ -439,7 +439,7 @@
         - Carpenter Bee
         - Azure Bee
     * Rewards:
-        - 400000x {Gold}
+        - 400000x Gold
 
 * Mirkhan Tower 39F [Req. Level: 140]
     * Catch 15 monsters within 300s!
@@ -451,7 +451,7 @@
         - Carpenter Bee
         - Azure Bee
     * Rewards:
-        - 400000x {Gold}
+        - 400000x Gold
 
 * Mirkhan Tower 40F [Req. Level: 150]
     * Catch 30 monsters within 300s!
@@ -474,7 +474,7 @@
         - Carpenter Bee
         - Azure Bee
     * Rewards:
-        - 500000x {Gold}
+        - 500000x Gold
 
 * Mirkhan Tower 42F [Req. Level: 150]
     * Catch 15 monsters within 300s!
@@ -486,7 +486,7 @@
         - Carpenter Bee
         - Azure Bee
     * Rewards:
-        - 500000x {Gold}
+        - 500000x Gold
 
 * Mirkhan Tower 43F [Req. Level: 150]
     * Catch 15 monsters within 300s!
@@ -498,7 +498,7 @@
         - Carpenter Bee
         - Azure Bee
     * Rewards:
-        - 500000x {Gold}
+        - 500000x Gold
 
 * Mirkhan Tower 44F [Req. Level: 150]
     * Catch 15 monsters within 300s!
@@ -510,7 +510,7 @@
         - Carpenter Bee
         - Azure Bee
     * Rewards:
-        - 500000x {Gold}
+        - 500000x Gold
 
 * Mirkhan Tower 45F [Req. Level: 160]
     * Catch 30 monsters within 300s!
@@ -534,7 +534,7 @@
         - Bugbear Thief
         - Bugbear Warrior
     * Rewards:
-        - 500000x {Gold}
+        - 500000x Gold
 
 * Mirkhan Tower 47F [Req. Level: 160]
     * Catch 15 monsters within 300s!
@@ -546,7 +546,7 @@
         - Bugbear Thief
         - Bugbear Warrior
     * Rewards:
-        - 500000x {Gold}
+        - 500000x Gold
 
 * Mirkhan Tower 48F [Req. Level: 160]
     * Catch 15 monsters within 300s!
@@ -558,7 +558,7 @@
         - Bugbear Thief
         - Bugbear Warrior
     * Rewards:
-        - 500000x {Gold}
+        - 500000x Gold
 
 * Mirkhan Tower 49F [Req. Level: 160]
     * Catch 15 monsters within 300s!
@@ -570,7 +570,7 @@
         - Bugbear Thief
         - Bugbear Warrior
     * Rewards:
-        - 500000x {Gold}
+        - 500000x Gold
 
 * Mirkhan Tower 50F [Req. Level: 165]
     * Defeat the Harvy ruler of Mirkhan Tower F50 within 180s!
@@ -590,7 +590,7 @@
         - Bugbear Thief
         - Bugbear Warrior
     * Rewards:
-        - 500000x {Gold}
+        - 500000x Gold
 
 * Mirkhan Tower 52F [Req. Level: 165]
     * Catch 15 monsters within 300s!
@@ -602,7 +602,7 @@
         - Bugbear Thief
         - Bugbear Warrior
     * Rewards:
-        - 500000x {Gold}
+        - 500000x Gold
 
 * Mirkhan Tower 53F [Req. Level: 165]
     * Catch 15 monsters within 300s!
@@ -614,7 +614,7 @@
         - Bugbear Thief
         - Bugbear Warrior
     * Rewards:
-        - 500000x {Gold}
+        - 500000x Gold
 
 * Mirkhan Tower 54F [Req. Level: 165]
     * Catch 15 monsters within 300s!
@@ -626,7 +626,7 @@
         - Bugbear Thief
         - Bugbear Warrior
     * Rewards:
-        - 500000x {Gold}
+        - 500000x Gold
 
 * Mirkhan Tower 55F [Req. Level: 170]
     * Catch 30 monsters within 300s!
@@ -650,7 +650,7 @@
         - Barghest
         - Rafflesia
     * Rewards:
-        - 500000x {Gold}
+        - 500000x Gold
 
 * Mirkhan Tower 57F [Req. Level: 170]
     * Catch 15 monsters within 300s!
@@ -662,7 +662,7 @@
         - Barghest
         - Rafflesia
     * Rewards:
-        - 500000x {Gold}
+        - 500000x Gold
 
 * Mirkhan Tower 58F [Req. Level: 170]
     * Catch 15 monsters within 300s!
@@ -674,7 +674,7 @@
         - Barghest
         - Rafflesia
     * Rewards:
-        - 500000x {Gold}
+        - 500000x Gold
 
 * Mirkhan Tower 59F [Req. Level: 170]
     * Catch 15 monsters within 300s!
@@ -686,7 +686,7 @@
         - Barghest
         - Rafflesia
     * Rewards:
-        - 500000x {Gold}
+        - 500000x Gold
 
 * Mirkhan Tower 60F [Req. Level: 175]
     * Defeat the Thorciasid ruler of Mirkhan Tower F60 within 180s!
@@ -706,7 +706,7 @@
         - Barghest
         - Rafflesia
     * Rewards:
-        - 500000x {Gold}
+        - 500000x Gold
 
 * Mirkhan Tower 62F [Req. Level: 175]
     * Catch 20 monsters within 300s!
@@ -718,7 +718,7 @@
         - Barghest
         - Rafflesia
     * Rewards:
-        - 500000x {Gold}
+        - 500000x Gold
 
 * Mirkhan Tower 63F [Req. Level: 175]
     * Catch 20 monsters within 300s!
@@ -730,7 +730,7 @@
         - Barghest
         - Rafflesia
     * Rewards:
-        - 500000x {Gold}
+        - 500000x Gold
 
 * Mirkhan Tower 64F [Req. Level: 175]
     * Catch 20 monsters within 300s!
@@ -742,7 +742,7 @@
         - Barghest
         - Rafflesia
     * Rewards:
-        - 500000x {Gold}
+        - 500000x Gold
 
 * Mirkhan Tower 65F [Req. Level: 180]
     * Catch 30 monsters within 300s!
@@ -766,7 +766,7 @@
         - Minotaur Warrior
         - Minotaur Shaman
     * Rewards:
-        - 500000x {Gold}
+        - 500000x Gold
 
 * Mirkhan Tower 67F [Req. Level: 180]
     * Catch 20 monsters within 300s!
@@ -778,7 +778,7 @@
         - Minotaur Warrior
         - Minotaur Shaman
     * Rewards:
-        - 500000x {Gold}
+        - 500000x Gold
 
 * Mirkhan Tower 68F [Req. Level: 180]
     * Catch 20 monsters within 300s!
@@ -790,7 +790,7 @@
         - Minotaur Warrior
         - Minotaur Shaman
     * Rewards:
-        - 500000x {Gold}
+        - 500000x Gold
 
 * Mirkhan Tower 69F [Req. Level: 180]
     * Catch 20 monsters within 300s!
@@ -802,7 +802,7 @@
         - Minotaur Warrior
         - Minotaur Shaman
     * Rewards:
-        - 500000x {Gold}
+        - 500000x Gold
 
 * Mirkhan Tower 70F [Req. Level: 185]
     * Catch 30 monsters within 300s!
@@ -825,7 +825,7 @@
         - Minotaur Warrior
         - Minotaur Shaman
     * Rewards:
-        - 500000x {Gold}
+        - 500000x Gold
 
 * Mirkhan Tower 72F [Req. Level: 185]
     * Catch 20 monsters within 300s!
@@ -837,7 +837,7 @@
         - Minotaur Warrior
         - Minotaur Shaman
     * Rewards:
-        - 500000x {Gold}
+        - 500000x Gold
 
 * Mirkhan Tower 73F [Req. Level: 185]
     * Catch 20 monsters within 300s!
@@ -849,7 +849,7 @@
         - Minotaur Warrior
         - Minotaur Shaman
     * Rewards:
-        - 500000x {Gold}
+        - 500000x Gold
 
 * Mirkhan Tower 74F [Req. Level: 185]
     * Catch 20 monsters within 300s!
@@ -861,7 +861,7 @@
         - Minotaur Warrior
         - Minotaur Shaman
     * Rewards:
-        - 500000x {Gold}
+        - 500000x Gold
 
 * Mirkhan Tower 75F [Req. Level: 190]
     * Defeat the Hippogriff ruler of Mirkhan Tower F75 within 180s!
@@ -881,7 +881,7 @@
         - Naga Royal Guard
         - Naga Mage
     * Rewards:
-        - 1000000x {Gold}
+        - 1000000x Gold
 
 * Mirkhan Tower 77F [Req. Level: 190]
     * Catch 20 monsters within 300s!
@@ -893,7 +893,7 @@
         - Naga Royal Guard
         - Naga Mage
     * Rewards:
-        - 1000000x {Gold}
+        - 1000000x Gold
 
 * Mirkhan Tower 78F [Req. Level: 190]
     * Catch 20 monsters within 300s!
@@ -905,7 +905,7 @@
         - Naga Royal Guard
         - Naga Mage
     * Rewards:
-        - 1000000x {Gold}
+        - 1000000x Gold
 
 * Mirkhan Tower 79F [Req. Level: 190]
     * Catch 20 monsters within 300s!
@@ -917,7 +917,7 @@
         - Naga Royal Guard
         - Naga Mage
     * Rewards:
-        - 1000000x {Gold}
+        - 1000000x Gold
 
 * Mirkhan Tower 80F [Req. Level: 190]
     * Catch 30 monsters within 300s!
@@ -941,7 +941,7 @@
         - Naga Royal Guard
         - Naga Mage
     * Rewards:
-        - 1000000x {Gold}
+        - 1000000x Gold
 
 * Mirkhan Tower 82F [Req. Level: 190]
     * Catch 20 monsters within 300s!
@@ -953,7 +953,7 @@
         - Naga Royal Guard
         - Naga Mage
     * Rewards:
-        - 1000000x {Gold}
+        - 1000000x Gold
 
 * Mirkhan Tower 83F [Req. Level: 190]
     * Catch 20 monsters within 300s!
@@ -965,7 +965,7 @@
         - Naga Royal Guard
         - Naga Mage
     * Rewards:
-        - 1000000x {Gold}
+        - 1000000x Gold
 
 * Mirkhan Tower 84F [Req. Level: 190]
     * Catch 20 monsters within 300s!
@@ -977,7 +977,7 @@
         - Naga Royal Guard
         - Naga Mage
     * Rewards:
-        - 1000000x {Gold}
+        - 1000000x Gold
 
 * Mirkhan Tower 85F [Req. Level: 190]
     * Catch 30 monsters within 300s!
@@ -1001,7 +1001,7 @@
         - Naga Royal Guard
         - Naga Mage
     * Rewards:
-        - 1000000x {Gold}
+        - 1000000x Gold
 
 * Mirkhan Tower 87F [Req. Level: 190]
     * Catch 20 monsters within 300s!
@@ -1013,7 +1013,7 @@
         - Naga Royal Guard
         - Naga Mage
     * Rewards:
-        - 1000000x {Gold}
+        - 1000000x Gold
 
 * Mirkhan Tower 88F [Req. Level: 190]
     * Catch 20 monsters within 300s!
@@ -1025,7 +1025,7 @@
         - Naga Royal Guard
         - Naga Mage
     * Rewards:
-        - 1000000x {Gold}
+        - 1000000x Gold
 
 * Mirkhan Tower 89F [Req. Level: 190]
     * Catch 20 monsters within 300s!
@@ -1037,7 +1037,7 @@
         - Naga Royal Guard
         - Naga Mage
     * Rewards:
-        - 1000000x {Gold}
+        - 1000000x Gold
 
 * Mirkhan Tower 90F [Req. Level: 195]
     * Defeat the Ettin ruler of Mirkhan Tower F90 within 180s!
@@ -1057,7 +1057,7 @@
         - Naga Royal Guard
         - Naga Mage
     * Rewards:
-        - 1000000x {Gold}
+        - 1000000x Gold
 
 * Mirkhan Tower 92F [Req. Level: 195]
     * Catch 20 monsters within 300s!
@@ -1069,7 +1069,7 @@
         - Naga Royal Guard
         - Naga Mage
     * Rewards:
-        - 1000000x {Gold}
+        - 1000000x Gold
 
 * Mirkhan Tower 93F [Req. Level: 195]
     * Catch 20 monsters within 300s!
@@ -1081,7 +1081,7 @@
         - Naga Royal Guard
         - Naga Mage
     * Rewards:
-        - 1000000x {Gold}
+        - 1000000x Gold
 
 * Mirkhan Tower 94F [Req. Level: 195]
     * Catch 20 monsters within 300s!
@@ -1093,7 +1093,7 @@
         - Naga Royal Guard
         - Naga Mage
     * Rewards:
-        - 1000000x {Gold}
+        - 1000000x Gold
 
 * Mirkhan Tower 95F [Req. Level: 200]
     * Catch 30 monsters within 300s!
@@ -1117,7 +1117,7 @@
         - Naga Royal Guard
         - Naga Mage
     * Rewards:
-        - 1500000x {Gold}
+        - 1500000x Gold
 
 * Mirkhan Tower 97F [Req. Level: 200]
     * Catch 20 monsters within 300s!
@@ -1129,7 +1129,7 @@
         - Naga Royal Guard
         - Naga Mage
     * Rewards:
-        - 1500000x {Gold}
+        - 1500000x Gold
 
 * Mirkhan Tower 98F [Req. Level: 200]
     * Catch 20 monsters within 300s!
@@ -1141,7 +1141,7 @@
         - Naga Royal Guard
         - Naga Mage
     * Rewards:
-        - 1500000x {Gold}
+        - 1500000x Gold
 
 * Mirkhan Tower 99F [Req. Level: 200]
     * Catch 20 monsters within 300s!
@@ -1153,7 +1153,7 @@
         - Naga Royal Guard
         - Naga Mage
     * Rewards:
-        - 1500000x {Gold}
+        - 1500000x Gold
 
 * Mirkhan Tower 100F [Req. Level: 200]
     * Defeat the Meliae ruler of Mirkhan Tower F100 within 240s!
@@ -1161,7 +1161,7 @@
     * Monsters:
         - Meliae
     * Rewards:
-        - 1500000x {Gold}
+        - 1500000x Gold
 
 * Mirkhan Tower 101F [Req. Level: 200]
     * Defeat the Meliae ruler of Mirkhan Tower F101 within 240s!
@@ -1169,7 +1169,7 @@
     * Monsters:
         - Meliae
     * Rewards:
-        - 1500000x {Gold}
+        - 1500000x Gold
 
 * Mirkhan Tower 102F [Req. Level: 200]
     * Defeat the Meliae ruler of Mirkhan Tower F102 within 240s!
@@ -1177,7 +1177,7 @@
     * Monsters:
         - Meliae
     * Rewards:
-        - 1500000x {Gold}
+        - 1500000x Gold
 
 * Mirkhan Tower 103F [Req. Level: 200]
     * Defeat the Meliae ruler of Mirkhan Tower F103 within 240s!
@@ -1201,7 +1201,7 @@
     * Monsters:
         - Frost Goblin
     * Rewards:
-        - 1500000x {Gold}
+        - 1500000x Gold
 
 * Mirkhan Tower 106F [Req. Level: 205]
     * Defeat the Frost Goblin ruler of Mirkhan Tower F106 within 240s!
@@ -1209,7 +1209,7 @@
     * Monsters:
         - Frost Goblin
     * Rewards:
-        - 1500000x {Gold}
+        - 1500000x Gold
 
 * Mirkhan Tower 107F [Req. Level: 205]
     * Defeat the Frost Goblin ruler of Mirkhan Tower F107 within 240s!
@@ -1217,7 +1217,7 @@
     * Monsters:
         - Frost Goblin
     * Rewards:
-        - 1500000x {Gold}
+        - 1500000x Gold
 
 * Mirkhan Tower 108F [Req. Level: 205]
     * Defeat the Frost Goblin ruler of Mirkhan Tower F108 within 240s!
@@ -1241,7 +1241,7 @@
     * Monsters:
         - Cerberus
     * Rewards:
-        - 1500000x {Gold}
+        - 1500000x Gold
 
 * Mirkhan Tower 111F [Req. Level: 210]
     * Defeat the Cerberus ruler of Mirkhan Tower F111 within 240s!
@@ -1249,7 +1249,7 @@
     * Monsters:
         - Cerberus
     * Rewards:
-        - 1500000x {Gold}
+        - 1500000x Gold
 
 * Mirkhan Tower 112F [Req. Level: 210]
     * Defeat the Cerberus ruler of Mirkhan Tower F112 within 240s!
@@ -1257,7 +1257,7 @@
     * Monsters:
         - Cerberus
     * Rewards:
-        - 1500000x {Gold}
+        - 1500000x Gold
 
 * Mirkhan Tower 113F [Req. Level: 210]
     * Defeat the Cerberus ruler of Mirkhan Tower F113 within 240s!
@@ -1281,7 +1281,7 @@
     * Monsters:
         - Chalciope
     * Rewards:
-        - 2000000x {Gold}
+        - 2000000x Gold
 
 * Mirkhan Tower 116F [Req. Level: 210]
     * Defeat the Chalciope ruler of Mirkhan Tower F116 within 240s!
@@ -1289,7 +1289,7 @@
     * Monsters:
         - Chalciope
     * Rewards:
-        - 2000000x {Gold}
+        - 2000000x Gold
 
 * Mirkhan Tower 117F [Req. Level: 210]
     * Defeat the Chalciope ruler of Mirkhan Tower F117 within 240s!
@@ -1297,7 +1297,7 @@
     * Monsters:
         - Chalciope
     * Rewards:
-        - 2000000x {Gold}
+        - 2000000x Gold
 
 * Mirkhan Tower 118F [Req. Level: 215]
     * Defeat the Chalciope ruler of Mirkhan Tower F118 within 240s!
@@ -1337,7 +1337,7 @@
         - Centaur Axeman
         - Centaur Spearman
     * Rewards:
-        - 2000000x {Gold}
+        - 2000000x Gold
 
 * Mirkhan Tower 122F [Req. Level: 215]
     * Catch 25 monsters within 240s!
@@ -1349,7 +1349,7 @@
         - Centaur Axeman
         - Centaur Spearman
     * Rewards:
-        - 2000000x {Gold}
+        - 2000000x Gold
 
 * Mirkhan Tower 123F [Req. Level: 215]
     * Catch 25 monsters within 240s!
@@ -1361,7 +1361,7 @@
         - Centaur Axeman
         - Centaur Spearman
     * Rewards:
-        - 2000000x {Gold}
+        - 2000000x Gold
 
 * Mirkhan Tower 124F [Req. Level: 215]
     * Catch 25 monsters within 240s!
@@ -1373,7 +1373,7 @@
         - Centaur Axeman
         - Centaur Spearman
     * Rewards:
-        - 2000000x {Gold}
+        - 2000000x Gold
 
 * Mirkhan Tower 125F [Req. Level: 220]
     * Catch 40 monsters within 240s!
@@ -1397,7 +1397,7 @@
         - Centaur Axeman
         - Centaur Spearman
     * Rewards:
-        - 2000000x {Gold}
+        - 2000000x Gold
 
 * Mirkhan Tower 127F [Req. Level: 220]
     * Catch 25 monsters within 240s!
@@ -1409,7 +1409,7 @@
         - Centaur Axeman
         - Centaur Spearman
     * Rewards:
-        - 2000000x {Gold}
+        - 2000000x Gold
 
 * Mirkhan Tower 128F [Req. Level: 220]
     * Catch 25 monsters within 240s!
@@ -1421,7 +1421,7 @@
         - Centaur Axeman
         - Centaur Spearman
     * Rewards:
-        - 2000000x {Gold}
+        - 2000000x Gold
 
 * Mirkhan Tower 129F [Req. Level: 220]
     * Catch 25 monsters within 240s!
@@ -1433,7 +1433,7 @@
         - Centaur Axeman
         - Centaur Spearman
     * Rewards:
-        - 2000000x {Gold}
+        - 2000000x Gold
 
 * Mirkhan Tower 130F [Req. Level: 225]
     * Catch 40 monsters within 240s!
@@ -1457,7 +1457,7 @@
         - Centaur Axeman
         - Centaur Spearman
     * Rewards:
-        - 2500000x {Gold}
+        - 2500000x Gold
 
 * Mirkhan Tower 132F [Req. Level: 225]
     * Catch 25 monsters within 240s!
@@ -1469,7 +1469,7 @@
         - Centaur Axeman
         - Centaur Spearman
     * Rewards:
-        - 2500000x {Gold}
+        - 2500000x Gold
 
 * Mirkhan Tower 133F [Req. Level: 225]
     * Catch 25 monsters within 240s!
@@ -1481,7 +1481,7 @@
         - Centaur Axeman
         - Centaur Spearman
     * Rewards:
-        - 2500000x {Gold}
+        - 2500000x Gold
 
 * Mirkhan Tower 134F [Req. Level: 225]
     * Catch 25 monsters within 240s!
@@ -1493,7 +1493,7 @@
         - Centaur Axeman
         - Centaur Spearman
     * Rewards:
-        - 2500000x {Gold}
+        - 2500000x Gold
 
 * Mirkhan Tower 135F [Req. Level: 230]
     * Defeat the Baphomet ruler of Mirkhan Tower F135 within 180s!
@@ -1513,7 +1513,7 @@
         - Centaur Axeman
         - Centaur Spearman
     * Rewards:
-        - 2500000x {Gold}
+        - 2500000x Gold
 
 * Mirkhan Tower 137F [Req. Level: 230]
     * Catch 25 monsters within 240s!
@@ -1525,7 +1525,7 @@
         - Centaur Axeman
         - Centaur Spearman
     * Rewards:
-        - 2500000x {Gold}
+        - 2500000x Gold
 
 * Mirkhan Tower 138F [Req. Level: 230]
     * Catch 25 monsters within 240s!
@@ -1537,7 +1537,7 @@
         - Centaur Axeman
         - Centaur Spearman
     * Rewards:
-        - 2500000x {Gold}
+        - 2500000x Gold
 
 * Mirkhan Tower 139F [Req. Level: 230]
     * Catch 25 monsters within 240s!
@@ -1549,7 +1549,7 @@
         - Centaur Axeman
         - Centaur Spearman
     * Rewards:
-        - 2500000x {Gold}
+        - 2500000x Gold
 
 * Mirkhan Tower 140F [Req. Level: 230]
     * Catch 40 monsters within 300s!
@@ -1573,7 +1573,7 @@
         - Centaur Axeman
         - Centaur Spearman
     * Rewards:
-        - 3000000x {Gold}
+        - 3000000x Gold
 
 * Mirkhan Tower 142F [Req. Level: 230]
     * Catch 25 monsters within 240s!
@@ -1585,7 +1585,7 @@
         - Centaur Axeman
         - Centaur Spearman
     * Rewards:
-        - 3000000x {Gold}
+        - 3000000x Gold
 
 * Mirkhan Tower 143F [Req. Level: 230]
     * Catch 25 monsters within 240s!
@@ -1597,7 +1597,7 @@
         - Centaur Axeman
         - Centaur Spearman
     * Rewards:
-        - 3000000x {Gold}
+        - 3000000x Gold
 
 * Mirkhan Tower 144F [Req. Level: 230]
     * Catch 25 monsters within 240s!
@@ -1609,7 +1609,7 @@
         - Centaur Axeman
         - Centaur Spearman
     * Rewards:
-        - 3000000x {Gold}
+        - 3000000x Gold
 
 * Mirkhan Tower 145F [Req. Level: 235]
     * Catch 40 monsters within 300s!
@@ -1633,7 +1633,7 @@
         - Centaur Axeman
         - Centaur Spearman
     * Rewards:
-        - 3000000x {Gold}
+        - 3000000x Gold
 
 * Mirkhan Tower 147F [Req. Level: 235]
     * Catch 25 monsters within 240s!
@@ -1645,7 +1645,7 @@
         - Centaur Axeman
         - Centaur Spearman
     * Rewards:
-        - 3000000x {Gold}
+        - 3000000x Gold
 
 * Mirkhan Tower 148F [Req. Level: 235]
     * Catch 25 monsters within 240s!
@@ -1657,7 +1657,7 @@
         - Centaur Axeman
         - Centaur Spearman
     * Rewards:
-        - 3000000x {Gold}
+        - 3000000x Gold
 
 * Mirkhan Tower 149F [Req. Level: 235]
     * Catch 25 monsters within 240s!
@@ -1669,7 +1669,7 @@
         - Centaur Axeman
         - Centaur Spearman
     * Rewards:
-        - 3000000x {Gold}
+        - 3000000x Gold
 
 * Mirkhan Tower 150F [Req. Level: 240]
     * Defeat the Drake ruler of Mirkhan Tower F150 within 180s!
