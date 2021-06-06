@@ -1,0 +1,361 @@
+* Drop table #213 (method: random one of list)
+[Fishing in Guild Hideout (0 Upgrades, #5000)]
+(1) 3.37% - {Minnow}
+(1) 3.70% - {Three-Stripe Damselfish}
+(1) 3.78% - {Barbel Steed}
+(1) 3.78% - {Albacore}
+(1) 3.78% - {Bluegill}
+(1) 3.78% - {Humphead Wrasse}
+(1) 3.78% - {Clown Triggerfish}
+(1) 3.78% - {Crucian Carp}
+(1) 3.78% - {Whitespotted Puffer}
+(1) 3.78% - {Fire Goby}
+(1) 3.78% - {Flying Fish}
+(1) 3.78% - {Gobiidae}
+(1) 3.78% - {Mackerel}
+(1) 3.78% - {Moorish Idol}
+(1) 3.78% - {Octopus}
+(1) 3.78% - {Sea Bass}
+(1) 3.78% - {Piranha}
+(1) 3.78% - {Blackspotted Puffer}
+(1) 3.78% - {Rockfish}
+(1) 3.78% - {Pacific Saury}
+(1) 3.78% - {Amberjack}
+(1) 3.78% - {Freshwater Shrimp}
+(1) 3.78% - {Smelt}
+(1) 3.78% - {Freshwater Squid}
+(1) 3.78% - {Zebrafish}
+(1) 3.78% - {Clam}
+(1) 0.04% - {Green Toy Egg}
+(1) 0.02% - {Blue Toy Egg}
+(1) 0.01% - {Purple Toy Egg}
+(1) 0.01% - {Orange Toy Egg}
+(1) 0.34% - {Zepie Material Chest}
+(1) 0.06% - {Naiad's Blessing}
+(1) 0.26% - {Shabby Dagger}
+(1) 0.26% - {Shabby Quiver}
+(1) 0.26% - {Shabby Iron Arrow}
+(1) 0.19% - {Old Boots}
+(1) 0.19% - {Rusty Can}
+(1) 0.19% - {Shattered Glass Bottle}
+(1) 0.08% - {Pearl}
+(1) 0.38% - {Advanced HP Recovery Potion}
+(1) 0.001133% - {Goblin Tunnel Dowsing Rod}
+(1) 0.001133% - {Chaotic Entrance Ticket}
+(1) 0.000755% - {Sparkling Tears}
+(1) 0.001133% - {Obsidian Piece}
+(1) 0.001133% - {Mackerel Decorative Weapon Pouch}
+
+* Drop table #214 (method: random one of list)
+[Fishing in Guild Hideout (1 Upgrade, #5000)]
+(1) 1.64% - {Minnow}
+(1) 1.97% - {Three-Stripe Damselfish}
+(1) 2.04% - {Barbel Steed}
+(1) 2.04% - {Albacore}
+(1) 2.04% - {Bluegill}
+(1) 2.04% - {Humphead Wrasse}
+(1) 2.04% - {Clown Triggerfish}
+(1) 2.04% - {Crucian Carp}
+(1) 2.04% - {Whitespotted Puffer}
+(1) 2.04% - {Fire Goby}
+(1) 2.04% - {Flying Fish}
+(1) 2.04% - {Gobiidae}
+(1) 2.04% - {Mackerel}
+(1) 2.04% - {Moorish Idol}
+(1) 2.04% - {Octopus}
+(1) 2.04% - {Sea Bass}
+(1) 2.04% - {Piranha}
+(1) 2.04% - {Blackspotted Puffer}
+(1) 2.04% - {Rockfish}
+(1) 2.04% - {Pacific Saury}
+(1) 2.04% - {Amberjack}
+(1) 2.04% - {Freshwater Shrimp}
+(1) 2.04% - {Smelt}
+(1) 2.04% - {Freshwater Squid}
+(1) 2.04% - {Zebrafish}
+(1) 2.04% - {Clam}
+(1) 0.04% - {Green Toy Egg}
+(1) 0.02% - {Blue Toy Egg}
+(1) 0.01% - {Purple Toy Egg}
+(1) 0.01% - {Orange Toy Egg}
+(1) 0.34% - {Zepie Material Chest}
+(1) 0.06% - {Naiad's Blessing}
+(1) 0.29% - {Shabby Dagger}
+(1) 0.29% - {Shabby Quiver}
+(1) 0.29% - {Shabby Iron Arrow}
+(1) 0.20% - {Old Boots}
+(1) 0.20% - {Rusty Can}
+(1) 0.20% - {Shattered Glass Bottle}
+(1) 0.08% - {Pearl}
+(1) 0.41% - {Advanced HP Recovery Potion}
+(1) 0.001225% - {Goblin Tunnel Dowsing Rod}
+(1) 0.001225% - {Chaotic Entrance Ticket}
+(1) 0.000817% - {Sparkling Tears}
+(1) 0.001225% - {Obsidian Piece}
+(1) 0.001225% - {Mackerel Decorative Weapon Pouch}
+(1) 4.08% - {Bass}
+(1) 4.08% - {Carp}
+(1) 4.08% - {Leather Carp}
+(1) 4.08% - {Plaice}
+(1) 4.08% - {Lionfish}
+(1) 4.08% - {Loach}
+(1) 4.08% - {Halibut}
+(1) 4.08% - {Long-Spine Porcupinefish}
+(1) 4.08% - {Snakehead}
+(1) 4.08% - {Sweetfish}
+(1) 4.08% - {Crawfish}
+
+* Drop table #215 (method: random one of list)
+[Fishing in Guild Hideout (2 Upgrades, #5000)]
+(1) 1.71% - {Minnow}
+(1) 2.03% - {Three-Stripe Damselfish}
+(1) 2.11% - {Barbel Steed}
+(1) 2.11% - {Albacore}
+(1) 2.11% - {Bluegill}
+(1) 2.11% - {Humphead Wrasse}
+(1) 2.11% - {Clown Triggerfish}
+(1) 2.11% - {Crucian Carp}
+(1) 2.11% - {Whitespotted Puffer}
+(1) 2.11% - {Fire Goby}
+(1) 2.11% - {Flying Fish}
+(1) 2.11% - {Gobiidae}
+(1) 2.11% - {Mackerel}
+(1) 2.11% - {Moorish Idol}
+(1) 2.11% - {Octopus}
+(1) 2.11% - {Sea Bass}
+(1) 2.11% - {Piranha}
+(1) 2.11% - {Blackspotted Puffer}
+(1) 2.11% - {Rockfish}
+(1) 2.11% - {Pacific Saury}
+(1) 2.11% - {Amberjack}
+(1) 2.11% - {Freshwater Shrimp}
+(1) 2.11% - {Smelt}
+(1) 2.11% - {Freshwater Squid}
+(1) 2.11% - {Zebrafish}
+(1) 2.11% - {Clam}
+(1) 0.04% - {Green Toy Egg}
+(1) 0.02% - {Blue Toy Egg}
+(1) 0.01% - {Purple Toy Egg}
+(1) 0.01% - {Orange Toy Egg}
+(1) 0.34% - {Zepie Material Chest}
+(1) 0.06% - {Naiad's Blessing}
+(1) 0.22% - {Shabby Dagger}
+(1) 0.22% - {Shabby Quiver}
+(1) 0.22% - {Shabby Iron Arrow}
+(1) 0.16% - {Old Boots}
+(1) 0.16% - {Rusty Can}
+(1) 0.16% - {Shattered Glass Bottle}
+(1) 0.06% - {Pearl}
+(1) 0.32% - {Advanced HP Recovery Potion}
+(1) 0.001054% - {Goblin Tunnel Dowsing Rod}
+(1) 0.001054% - {Chaotic Entrance Ticket}
+(1) 0.000633% - {Sparkling Tears}
+(1) 0.001054% - {Obsidian Piece}
+(1) 0.001265% - {Mackerel Decorative Weapon Pouch}
+(1) 1.48% - {Bass}
+(1) 1.48% - {Carp}
+(1) 1.48% - {Leather Carp}
+(1) 1.48% - {Plaice}
+(1) 1.48% - {Lionfish}
+(1) 1.48% - {Loach}
+(1) 1.48% - {Halibut}
+(1) 1.48% - {Long-Spine Porcupinefish}
+(1) 1.48% - {Snakehead}
+(1) 1.48% - {Sweetfish}
+(1) 1.48% - {Crawfish}
+(1) 2.11% - {Angelfish}
+(1) 2.11% - {Catfish}
+(1) 2.11% - {Yellowtail Clownfish}
+(1) 2.11% - {Atlantic Footballfish}
+(1) 2.11% - {Goldfish}
+(1) 2.11% - {Longnose Butterflyfish}
+(1) 2.11% - {Striped Beakfish}
+(1) 2.11% - {Rainbow Trout}
+(1) 2.11% - {Snapper}
+(1) 2.11% - {Trout}
+(1) 2.11% - {Bitterling}
+(1) 2.11% - {Versa King Crab}
+(1) 2.11% - {Marsh Snail}
+
+* Drop table #216 (method: random one of list)
+[Fishing in Guild Hideout (3 Upgrades, #5000)]
+(1) 1.66% - {Minnow}
+(1) 1.99% - {Three-Stripe Damselfish}
+(1) 2.07% - {Barbel Steed}
+(1) 2.07% - {Albacore}
+(1) 2.07% - {Bluegill}
+(1) 2.07% - {Humphead Wrasse}
+(1) 2.07% - {Clown Triggerfish}
+(1) 2.07% - {Crucian Carp}
+(1) 2.07% - {Whitespotted Puffer}
+(1) 2.07% - {Fire Goby}
+(1) 2.07% - {Flying Fish}
+(1) 2.07% - {Gobiidae}
+(1) 2.07% - {Mackerel}
+(1) 2.07% - {Moorish Idol}
+(1) 2.07% - {Octopus}
+(1) 2.07% - {Sea Bass}
+(1) 2.07% - {Piranha}
+(1) 2.07% - {Blackspotted Puffer}
+(1) 2.07% - {Rockfish}
+(1) 2.07% - {Pacific Saury}
+(1) 2.07% - {Amberjack}
+(1) 2.07% - {Freshwater Shrimp}
+(1) 2.07% - {Smelt}
+(1) 2.07% - {Freshwater Squid}
+(1) 2.07% - {Zebrafish}
+(1) 2.07% - {Clam}
+(1) 0.04% - {Green Toy Egg}
+(1) 0.02% - {Blue Toy Egg}
+(1) 0.01% - {Purple Toy Egg}
+(1) 0.01% - {Orange Toy Egg}
+(1) 0.35% - {Zepie Material Chest}
+(1) 0.06% - {Naiad's Blessing}
+(1) 0.22% - {Shabby Dagger}
+(1) 0.22% - {Shabby Quiver}
+(1) 0.22% - {Shabby Iron Arrow}
+(1) 0.16% - {Old Boots}
+(1) 0.16% - {Rusty Can}
+(1) 0.16% - {Shattered Glass Bottle}
+(1) 0.06% - {Pearl}
+(1) 0.31% - {Advanced HP Recovery Potion}
+(1) 0.001035% - {Goblin Tunnel Dowsing Rod}
+(1) 0.001035% - {Chaotic Entrance Ticket}
+(1) 0.000621% - {Sparkling Tears}
+(1) 0.001035% - {Obsidian Piece}
+(1) 0.001242% - {Mackerel Decorative Weapon Pouch}
+(1) 1.45% - {Bass}
+(1) 1.45% - {Carp}
+(1) 1.45% - {Leather Carp}
+(1) 1.45% - {Plaice}
+(1) 1.45% - {Lionfish}
+(1) 1.45% - {Loach}
+(1) 1.45% - {Halibut}
+(1) 1.45% - {Long-Spine Porcupinefish}
+(1) 1.45% - {Snakehead}
+(1) 1.45% - {Sweetfish}
+(1) 1.45% - {Crawfish}
+(1) 1.45% - {Angelfish}
+(1) 1.45% - {Catfish}
+(1) 1.45% - {Yellowtail Clownfish}
+(1) 1.45% - {Atlantic Footballfish}
+(1) 1.45% - {Goldfish}
+(1) 1.45% - {Longnose Butterflyfish}
+(1) 1.45% - {Striped Beakfish}
+(1) 1.45% - {Rainbow Trout}
+(1) 1.45% - {Snapper}
+(1) 1.45% - {Trout}
+(1) 1.45% - {Bitterling}
+(1) 1.45% - {Versa King Crab}
+(1) 1.45% - {Marsh Snail}
+(1) 0.62% - {Golden Arowana}
+(1) 0.62% - {Red Arowana}
+(1) 0.62% - {Silver Arowana}
+(1) 0.62% - {Blue Tang}
+(1) 0.62% - {Cutlassfish}
+(1) 0.62% - {Green Frog}
+(1) 0.62% - {Fresh Water Jellyfish}
+(1) 0.62% - {Kohaku Koi}
+(1) 0.62% - {Lenok}
+(1) 0.62% - {Polypterus}
+(1) 0.62% - {Rainbow Runner}
+(1) 0.62% - {Salmon}
+(1) 0.62% - {Moray Eel}
+(1) 0.62% - {Eel}
+(1) 0.62% - {Saw-Edged Perch}
+(1) 0.62% - {Yellowfin Tuna}
+
+* Drop table #217 (method: random one of list)
+[Fishing in Guild Hideout (4 Upgrades, #5000)]
+(1) 1.52% - {Minnow}
+(1) 1.85% - {Three-Stripe Damselfish}
+(1) 1.92% - {Barbel Steed}
+(1) 1.92% - {Albacore}
+(1) 1.92% - {Bluegill}
+(1) 1.92% - {Humphead Wrasse}
+(1) 1.92% - {Clown Triggerfish}
+(1) 1.92% - {Crucian Carp}
+(1) 1.92% - {Whitespotted Puffer}
+(1) 1.92% - {Fire Goby}
+(1) 1.92% - {Flying Fish}
+(1) 1.92% - {Gobiidae}
+(1) 1.92% - {Mackerel}
+(1) 1.92% - {Moorish Idol}
+(1) 1.92% - {Octopus}
+(1) 1.92% - {Sea Bass}
+(1) 1.92% - {Piranha}
+(1) 1.92% - {Blackspotted Puffer}
+(1) 1.92% - {Rockfish}
+(1) 1.92% - {Pacific Saury}
+(1) 1.92% - {Amberjack}
+(1) 1.92% - {Freshwater Shrimp}
+(1) 1.92% - {Smelt}
+(1) 1.92% - {Freshwater Squid}
+(1) 1.92% - {Zebrafish}
+(1) 1.92% - {Clam}
+(1) 0.04% - {Green Toy Egg}
+(1) 0.02% - {Blue Toy Egg}
+(1) 0.01% - {Purple Toy Egg}
+(1) 0.004998% - {Orange Toy Egg}
+(1) 0.34% - {Zepie Material Chest}
+(1) 0.06% - {Naiad's Blessing}
+(1) 0.20% - {Shabby Dagger}
+(1) 0.20% - {Shabby Quiver}
+(1) 0.20% - {Shabby Iron Arrow}
+(1) 0.14% - {Old Boots}
+(1) 0.14% - {Rusty Can}
+(1) 0.14% - {Shattered Glass Bottle}
+(1) 0.06% - {Pearl}
+(1) 0.29% - {Advanced HP Recovery Potion}
+(1) 0.000961% - {Goblin Tunnel Dowsing Rod}
+(1) 0.000961% - {Chaotic Entrance Ticket}
+(1) 0.000577% - {Sparkling Tears}
+(1) 0.000961% - {Obsidian Piece}
+(1) 0.001538% - {Mackerel Decorative Weapon Pouch}
+(1) 1.92% - {Bass}
+(1) 1.92% - {Carp}
+(1) 1.92% - {Leather Carp}
+(1) 1.92% - {Plaice}
+(1) 1.92% - {Lionfish}
+(1) 1.92% - {Loach}
+(1) 1.92% - {Halibut}
+(1) 1.92% - {Long-Spine Porcupinefish}
+(1) 1.92% - {Snakehead}
+(1) 1.92% - {Sweetfish}
+(1) 1.92% - {Crawfish}
+(1) 0.96% - {Angelfish}
+(1) 0.96% - {Catfish}
+(1) 0.96% - {Yellowtail Clownfish}
+(1) 0.96% - {Atlantic Footballfish}
+(1) 0.96% - {Goldfish}
+(1) 0.96% - {Longnose Butterflyfish}
+(1) 0.96% - {Striped Beakfish}
+(1) 0.96% - {Rainbow Trout}
+(1) 0.96% - {Snapper}
+(1) 0.96% - {Trout}
+(1) 0.96% - {Bitterling}
+(1) 0.96% - {Versa King Crab}
+(1) 0.96% - {Marsh Snail}
+(1) 0.77% - {Golden Arowana}
+(1) 0.77% - {Red Arowana}
+(1) 0.77% - {Silver Arowana}
+(1) 0.77% - {Blue Tang}
+(1) 0.77% - {Cutlassfish}
+(1) 0.77% - {Green Frog}
+(1) 0.77% - {Fresh Water Jellyfish}
+(1) 0.77% - {Kohaku Koi}
+(1) 0.77% - {Lenok}
+(1) 0.77% - {Polypterus}
+(1) 0.77% - {Rainbow Runner}
+(1) 0.77% - {Salmon}
+(1) 0.77% - {Moray Eel}
+(1) 0.77% - {Eel}
+(1) 0.77% - {Saw-Edged Perch}
+(1) 0.77% - {Yellowfin Tuna}
+(1) 0.38% - {Sea Angel}
+(1) 0.38% - {Coelacanth}
+(1) 0.38% - {Sanke Koi}
+(1) 0.38% - {Telescope Goldfish}
+(1) 0.38% - {Goliath Grouper}
+(1) 0.38% - {Sturgeon}
+(1) 0.38% - {Marlin}
