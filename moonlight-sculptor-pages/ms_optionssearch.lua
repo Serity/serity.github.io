@@ -56,7 +56,7 @@ function updateStats()
             end
             local vala = tonumber((ma:match("/?([-%d]+)%%?$")) or ma) or ma
             local valb = tonumber((mb:match("/?([-%d]+)%%?$")) or mb) or mb
-            if (vala < 0 and valb < 0) then
+            if (type(vala) == "number" and type(valb) == "number" and vala < 0 and valb < 0) then
                 return valb > vala -- smaller first
             end
             return vala > valb -- larger first
