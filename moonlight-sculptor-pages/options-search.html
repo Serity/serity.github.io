@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Moonlight Sculptor Options Search</title>
+  </head>
+  <body>
+    <div id="nowLoading" style="display:inline">Loading ~900KB... (Requires Javascript)</div>
+    <div id="wrapper" style="display:none">
+        <div>
+            <div id="bandNotice" style="display:inline">
+                Note that this page is ~900KB so reloading may result in a lot of data usage. Please use WiFi.<br>
+            </div><br>
+            <label for="modifierChoice">Modifier Name</label>
+            <select id="modifierChoice" autocomplete="off">
+                <option value="">{Modifier}</option>
+            </select>
+            <br>
+            Sort By...
+            <input type="radio" id="item_name_rb" name="sortby" value="item_name" checked> <label for="item_name_rb">Item Name</label>
+            <input type="radio" id="item_value_rb" name="sortby" value="item_value"> <label for="item_value_rb">Largest Modifier Value</label>
+            
+        </div>  
+        <br><br>
+        <div id="stats_div" style="font-family:'Courier New', Courier, monospace">
+        
+        </div>        
+    </div>
+
+        <script src="fengari-web.js" type="text/javascript"></script>
+        <script src="ms_optionssearch.lua" type="application/lua" async></script>
+  </body>
+
+</html>
