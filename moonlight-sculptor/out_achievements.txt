@@ -8669,7 +8669,7 @@ Achievement #25406 (Collect)
       * Item Reward: 10x Intermediate Enrage Elixir
 
 Achievement #25410 (Collect) - Objective type: Get
-    Purchase HP Potion From a Potion Merchant in Serraborg 1 Time: Purchase 1 HP Potions from a potion merchant in Serraborg.
+    Buy HP Potion in Serraborg: Purchase 1 HP Potions from a potion merchant in Serraborg.
       * Item Reward: 20x Teleportation Picture
 
 Achievement #25411 (Collect)
@@ -8693,7 +8693,7 @@ Achievement #25415 (Collect)
       * Item Reward: 5x Armor Enchant Scroll
 
 Achievement #25416 (Collect)
-    Consume 100 Equipment through Specialization: Specialize equipment 100 time(s).
+    Specialize equipment 100 times: Specialize equipment 100 time(s).
       * Item Reward: 20x Accessory Enchant Scroll
 
 Achievement #25417 (Collect)
@@ -8705,7 +8705,7 @@ Achievement #25418 (Collect)
       * Item Reward: 5x Versa's Grace
 
 Achievement #25419 (Collect) - Objective type: Have
-    Obtain Silver Treasure Chest 50 Times: Obtain Silver Treasure Chest 50 time(s).
+    Obtain Silver Treasure Chest 3 Times: Obtain Silver Treasure Chest 3 time(s).
       * Item Reward: Premium Buddy Feed (3 Days)
 
 Achievement #25420 (Collect)
