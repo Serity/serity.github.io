@@ -20270,13 +20270,14 @@ A: Congratulations! Right now, I suspect that the server has special drop rates 
     200.00% - [Sculptor] 2~1x {Trochet's Dagger}
     200.00% - [Warrior] 2~1x {Trochet's Plated Armor}
     300.00% - [Archer] 3~1x {Trochet's Leather Armor}
-    100.00% - [Mage] {Trochet's Robe}
+    200.00% - [Mage] 2~1x {Trochet's Robe}
     200.00% - [Warrior] 2~1x {Trochet's Plated Helmet}
     300.00% - [Archer] 3~1x {Trochet's Leather Helmet}
-    100.00% - [Mage] {Trochet's Magic Hat}
+    200.00% - [Mage] 2~1x {Trochet's Magic Hat}
     200.00% - [Warrior] 2~1x {Trochet's Plated Gloves}
     300.00% - [Archer] 3~1x {Trochet's Leather Gloves}
-    100.00% - [Mage] {Trochet's Magic Gloves}
+    200.00% - [Mage] 2~1x {Trochet's Magic Gloves}
+    100.00% - [Alchemist] {Trochet's Spell Dagger}
 
 * Drop table #44056 (method: independent drop chance)
 [Item: Equipment Growth Chest (#48863)]
@@ -20289,7 +20290,7 @@ A: Congratulations! Right now, I suspect that the server has special drop rates 
 [Item: Heroic Armor Chest (#48864)]
     200.00% - [Warrior] 2~1x {Bestowed Silver Knight's Plated Armor}
     300.00% - [Archer] 3~1x {Bestowed Silver Hunter's Leather Armor}
-    100.00% - [Mage] {Bestowed Silver Priest's Robe}
+    200.00% - [Mage] 2~1x {Bestowed Silver Priest's Robe}
 
 * Drop table #44058 (method: independent drop chance)
 [Item: Superspeed Growth Support Package (#48865)]
@@ -20355,12 +20356,13 @@ A: Congratulations! Right now, I suspect that the server has special drop rates 
     300.00% - [Archer] 3~1x {Hogan's Leather Helmet}
     300.00% - [Archer] 3~1x {Hogan's Leather Gloves}
     100.00% - [Archer] {Hogan's Bow}
-    100.00% - [Mage] {Hogan's Robe}
-    100.00% - [Mage] {Hogan's Magic Hat}
-    100.00% - [Mage] {Hogan's Magic Gloves}
+    200.00% - [Mage] 2~1x {Hogan's Robe}
+    200.00% - [Mage] 2~1x {Hogan's Magic Hat}
+    200.00% - [Mage] 2~1x {Hogan's Magic Gloves}
     100.00% - [Mage] {Hogan's Staff}
     100.00% - [Paladin] {Hogan's Mace}
     200.00% - [Sculptor] 2~1x {Hogan's Dagger}
+    100.00% - [Alchemist] {Hogan's Spell Dagger}
 
 * Drop table #44067 (method: independent drop chance)
 [Item: Mapan's Store Treasure Chest II (#48885)]
@@ -20393,6 +20395,7 @@ A: Congratulations! Right now, I suspect that the server has special drop rates 
     100.00% - [Mage] {Shadow Priest's Staff (Event)}
     100.00% - [Paladin] {Shadow Knight's Mace (Event)}
     200.00% - [Sculptor] 2~1x {Shadow Hunter's Dagger (Event)}
+    100.00% - [Alchemist] {Shadow Scholar's Spell Dagger (Event)}
 
 * Drop table #44071 (method: independent drop chance)
 [Item: Shadow Armor Chest (Event) (#48895)]
@@ -20402,9 +20405,9 @@ A: Congratulations! Right now, I suspect that the server has special drop rates 
     300.00% - [Archer] 3~1x {Shadow Hunter's Leather Armor (Event)}
     300.00% - [Archer] 3~1x {Shadow Hunter's Leather Helmet (Event)}
     300.00% - [Archer] 3~1x {Shadow Hunter's Leather Gloves (Event)}
-    100.00% - [Mage] {Shadow Priest's Robe (Event)}
-    100.00% - [Mage] {Shadow Priest's Magic Hat (Event)}
-    100.00% - [Mage] {Shadow Priest's Magic Gloves (Event)}
+    200.00% - [Mage] 2~1x {Shadow Priest's Robe (Event)}
+    200.00% - [Mage] 2~1x {Shadow Priest's Magic Hat (Event)}
+    200.00% - [Mage] 2~1x {Shadow Priest's Magic Gloves (Event)}
 
 * Drop table #44072 (method: independent drop chance)
 [Item: Accessory Enchant Package (#48896)]
@@ -23541,6 +23544,7 @@ A: Congratulations! Right now, I suspect that the server has special drop rates 
     100.00% - [Mage] {Leatvar Staff}
     100.00% - [Paladin] {Leatvar Mace}
     200.00% - [Sculptor] 2~1x {Leatvar Dagger}
+    100.00% - [Alchemist] {Leatvar Spell Dagger}
 
 * Drop table #49454 (method: independent drop chance)
 [Item: Mercenary Attendance Chest (#48504)]
@@ -34151,6 +34155,7 @@ A: Congratulations! Right now, I suspect that the server has special drop rates 
 * Drop table #60057 (method: independent drop chance)
 [Zone: Any Kill in Twisted Sewer Maze (3.00% Chance)]
 [Zone: Any Kill in Twisted Hanging Gardens (3.00% Chance)]
+[Zone: Any Kill in Twisted Seth's Labyrinth (3.00% Chance)]
 [Zone: Any Kill in Heart of the Lake (3.00% Chance)]
 [Zone: Any Kill in Abandoned Outpost (3.00% Chance)]
 [Zone: Any Kill in Closed Mine (3.00% Chance)]
