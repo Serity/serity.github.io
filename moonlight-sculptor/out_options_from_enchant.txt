@@ -2,6 +2,8 @@ When your {item} reaches level [quality, +enchant], it will get one of the below
 I've never enchanted one of these items so I'm unsure if these variables *always* take the first value,
 or if it picks one of them at random, or if it does the first value and then you can reroll it somehow
 for the others?
+"$" is the charged version, which for normal option rerolls, means "if you use quality option reroll
+(for butterflies), you will only get these ones". 
 
 * {Clover Necklace} [Rare, +5] (#14015)
     All Abnormal Status RES Rate %: +1%
