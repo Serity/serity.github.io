@@ -1,0 +1,1824 @@
+When your {item] reaches level [quality, +enchant], it will get one of the below bonus modifiers.
+I've never enchanted one of these items so I'm unsure if these variables *always* take the first value,
+or if it picks one of them at random, or if it does the first value and then you can reroll it somehow
+for the others?
+
+* {Clover Necklace} [Rare, +5] (#14015)
+    All Abnormal Status RES Rate %: +1%
+  $ All Abnormal Status RES Rate %: +3/5%
+
+* {Clover Necklace} [Heroic, +5] (#14015)
+    All Abnormal Status RES Rate %: +3%
+  $ All Abnormal Status RES Rate %: +5/7%
+
+* {Clover Necklace} [Legendary, +5] (#14015)
+    All Abnormal Status RES Rate %: +5%
+  $ All Abnormal Status RES Rate %: +7/10%
+
+* {Royal Family's Brilliant Necklace} [Legendary, +5] (#14017)
+    All Abnormal Status RES Rate %: +5%
+  $ All Abnormal Status RES Rate %: +7/10%
+
+* {Prayer of Permafrost} [Rare, +5] (#14018)
+    All Abnormal Status RES Rate %: +1%
+  $ All Abnormal Status RES Rate %: +3/5%
+
+* {Prayer of Permafrost} [Heroic, +5] (#14018)
+    All Abnormal Status RES Rate %: +3%
+  $ All Abnormal Status RES Rate %: +5/7%
+
+* {Prayer of Permafrost} [Legendary, +5] (#14018)
+    All Abnormal Status RES Rate %: +5%
+  $ All Abnormal Status RES Rate %: +7/10%
+
+* {Covenant Brooch} [Rare, +5] (#14019)
+    All Abnormal Status RES Rate %: +1%
+  $ All Abnormal Status RES Rate %: +3/5%
+
+* {Covenant Brooch} [Heroic, +5] (#14019)
+    All Abnormal Status RES Rate %: +3%
+  $ All Abnormal Status RES Rate %: +5/7%
+
+* {Covenant Brooch} [Legendary, +5] (#14019)
+    All Abnormal Status RES Rate %: +5%
+  $ All Abnormal Status RES Rate %: +7/10%
+
+* {Scales of Judgment} [Rare, +5] (#14020)
+    All Abnormal Status RES Rate %: +1%
+  $ All Abnormal Status RES Rate %: +3/5%
+
+* {Scales of Judgment} [Heroic, +5] (#14020)
+    All Abnormal Status RES Rate %: +3%
+  $ All Abnormal Status RES Rate %: +5/7%
+
+* {Scales of Judgment} [Legendary, +5] (#14020)
+    All Abnormal Status RES Rate %: +5%
+  $ All Abnormal Status RES Rate %: +7/10%
+
+* {Explorer's Token} [Rare, +5] (#14021)
+    All Abnormal Status RES Rate %: +1%
+  $ All Abnormal Status RES Rate %: +3/5%
+
+* {Explorer's Token} [Heroic, +5] (#14021)
+    All Abnormal Status RES Rate %: +3%
+  $ All Abnormal Status RES Rate %: +5/7%
+
+* {Explorer's Token} [Legendary, +5] (#14021)
+    All Abnormal Status RES Rate %: +5%
+  $ All Abnormal Status RES Rate %: +7/10%
+
+* {Sly Oath} [Rare, +5] (#14022)
+    All Abnormal Status RES Rate %: +1%
+  $ All Abnormal Status RES Rate %: +3/5%
+
+* {Sly Oath} [Heroic, +5] (#14022)
+    All Abnormal Status RES Rate %: +3%
+  $ All Abnormal Status RES Rate %: +5/7%
+
+* {Sly Oath} [Legendary, +5] (#14022)
+    All Abnormal Status RES Rate %: +5%
+  $ All Abnormal Status RES Rate %: +7/10%
+
+* {Black Ram's Song} [Rare, +5] (#14023)
+    All Abnormal Status RES Rate %: +1%
+  $ All Abnormal Status RES Rate %: +3/5%
+
+* {Black Ram's Song} [Heroic, +5] (#14023)
+    All Abnormal Status RES Rate %: +3%
+  $ All Abnormal Status RES Rate %: +5/7%
+
+* {Black Ram's Song} [Legendary, +5] (#14023)
+    All Abnormal Status RES Rate %: +5%
+  $ All Abnormal Status RES Rate %: +7/10%
+
+* {Red Night's Oath} [Rare, +5] (#14024)
+    All Abnormal Status RES Rate %: +1%
+  $ All Abnormal Status RES Rate %: +3/5%
+
+* {Red Night's Oath} [Heroic, +5] (#14024)
+    All Abnormal Status RES Rate %: +3%
+  $ All Abnormal Status RES Rate %: +5/7%
+
+* {Red Night's Oath} [Legendary, +5] (#14024)
+    All Abnormal Status RES Rate %: +5%
+  $ All Abnormal Status RES Rate %: +7/10%
+
+* {Worked Copper Necklace} [Rare, +5] (#14501)
+    All Abnormal Status RES Rate %: +1%
+  $ All Abnormal Status RES Rate %: +3/5%
+
+* {Worked Copper Necklace} [Heroic, +5] (#14501)
+    All Abnormal Status RES Rate %: +3%
+  $ All Abnormal Status RES Rate %: +5/7%
+
+* {Worked Copper Necklace} [Legendary, +5] (#14501)
+    All Abnormal Status RES Rate %: +5%
+  $ All Abnormal Status RES Rate %: +7/10%
+
+* {Silver Necklace} [Rare, +5] (#14502)
+    All Abnormal Status RES Rate %: +1%
+  $ All Abnormal Status RES Rate %: +3/5%
+
+* {Silver Necklace} [Heroic, +5] (#14502)
+    All Abnormal Status RES Rate %: +3%
+  $ All Abnormal Status RES Rate %: +5/7%
+
+* {Silver Necklace} [Legendary, +5] (#14502)
+    All Abnormal Status RES Rate %: +5%
+  $ All Abnormal Status RES Rate %: +7/10%
+
+* {Murky Green Quartz Necklace} [Rare, +5] (#14503)
+    All Abnormal Status RES Rate %: +1%
+  $ All Abnormal Status RES Rate %: +3/5%
+
+* {Murky Green Quartz Necklace} [Heroic, +5] (#14503)
+    All Abnormal Status RES Rate %: +3%
+  $ All Abnormal Status RES Rate %: +5/7%
+
+* {Murky Green Quartz Necklace} [Legendary, +5] (#14503)
+    All Abnormal Status RES Rate %: +5%
+  $ All Abnormal Status RES Rate %: +7/10%
+
+* {Serraborg Necklace} [Rare, +5] (#14504)
+    All Abnormal Status RES Rate %: +1%
+  $ All Abnormal Status RES Rate %: +3/5%
+
+* {Serraborg Necklace} [Heroic, +5] (#14504)
+    All Abnormal Status RES Rate %: +3%
+  $ All Abnormal Status RES Rate %: +5/7%
+
+* {Serraborg Necklace} [Legendary, +5] (#14504)
+    All Abnormal Status RES Rate %: +5%
+  $ All Abnormal Status RES Rate %: +7/10%
+
+* {Radiant Serraborg Necklace} [Rare, +5] (#14505)
+    All Abnormal Status RES Rate %: +1%
+  $ All Abnormal Status RES Rate %: +3/5%
+
+* {Radiant Serraborg Necklace} [Heroic, +5] (#14505)
+    All Abnormal Status RES Rate %: +3%
+  $ All Abnormal Status RES Rate %: +5/7%
+
+* {Radiant Serraborg Necklace} [Legendary, +5] (#14505)
+    All Abnormal Status RES Rate %: +5%
+  $ All Abnormal Status RES Rate %: +7/10%
+
+* {Radiant Silver Necklace} [Rare, +5] (#14507)
+    All Abnormal Status RES Rate %: +1%
+  $ All Abnormal Status RES Rate %: +3/5%
+
+* {Radiant Silver Necklace} [Heroic, +5] (#14507)
+    All Abnormal Status RES Rate %: +3%
+  $ All Abnormal Status RES Rate %: +5/7%
+
+* {Radiant Silver Necklace} [Legendary, +5] (#14507)
+    All Abnormal Status RES Rate %: +5%
+  $ All Abnormal Status RES Rate %: +7/10%
+
+* {Shabby Copper Necklace} [Rare, +5] (#14511)
+    All Abnormal Status RES Rate %: +1%
+  $ All Abnormal Status RES Rate %: +3/5%
+
+* {Shabby Copper Necklace} [Heroic, +5] (#14511)
+    All Abnormal Status RES Rate %: +3%
+  $ All Abnormal Status RES Rate %: +5/7%
+
+* {Shabby Copper Necklace} [Legendary, +5] (#14511)
+    All Abnormal Status RES Rate %: +5%
+  $ All Abnormal Status RES Rate %: +7/10%
+
+* {Shabby Sapphire Necklace} [Rare, +5] (#14512)
+    All Abnormal Status RES Rate %: +1%
+  $ All Abnormal Status RES Rate %: +3/5%
+
+* {Shabby Sapphire Necklace} [Heroic, +5] (#14512)
+    All Abnormal Status RES Rate %: +3%
+  $ All Abnormal Status RES Rate %: +5/7%
+
+* {Shabby Sapphire Necklace} [Legendary, +5] (#14512)
+    All Abnormal Status RES Rate %: +5%
+  $ All Abnormal Status RES Rate %: +7/10%
+
+* {Anubis's Necklace} [Rare, +5] (#14513)
+    All Abnormal Status RES Rate %: +1%
+  $ All Abnormal Status RES Rate %: +3/5%
+
+* {Anubis's Necklace} [Heroic, +5] (#14513)
+    All Abnormal Status RES Rate %: +3%
+  $ All Abnormal Status RES Rate %: +5/7%
+
+* {Anubis's Necklace} [Legendary, +5] (#14513)
+    All Abnormal Status RES Rate %: +5%
+  $ All Abnormal Status RES Rate %: +7/10%
+
+* {Metal Alloy Necklace} [Rare, +5] (#14514)
+    All Abnormal Status RES Rate %: +1%
+  $ All Abnormal Status RES Rate %: +3/5%
+
+* {Metal Alloy Necklace} [Heroic, +5] (#14514)
+    All Abnormal Status RES Rate %: +3%
+  $ All Abnormal Status RES Rate %: +5/7%
+
+* {Metal Alloy Necklace} [Legendary, +5] (#14514)
+    All Abnormal Status RES Rate %: +5%
+  $ All Abnormal Status RES Rate %: +7/10%
+
+* {Hogan's Necklace} [Rare, +5] (#14515)
+    All Abnormal Status RES Rate %: +1%
+  $ All Abnormal Status RES Rate %: +3/5%
+
+* {Hogan's Necklace} [Heroic, +5] (#14515)
+    All Abnormal Status RES Rate %: +3%
+  $ All Abnormal Status RES Rate %: +5/7%
+
+* {Hogan's Necklace} [Legendary, +5] (#14515)
+    All Abnormal Status RES Rate %: +5%
+  $ All Abnormal Status RES Rate %: +7/10%
+
+* {Leatvar Necklace} [Rare, +5] (#14516)
+    All Abnormal Status RES Rate %: +1%
+  $ All Abnormal Status RES Rate %: +3/5%
+
+* {Leatvar Necklace} [Heroic, +5] (#14516)
+    All Abnormal Status RES Rate %: +3%
+  $ All Abnormal Status RES Rate %: +5/7%
+
+* {Leatvar Necklace} [Legendary, +5] (#14516)
+    All Abnormal Status RES Rate %: +5%
+  $ All Abnormal Status RES Rate %: +7/10%
+
+* {Shadow Necklace} [Rare, +5] (#14519)
+    All Abnormal Status RES Rate %: +1%
+  $ All Abnormal Status RES Rate %: +3/5%
+
+* {Shadow Necklace} [Heroic, +5] (#14519)
+    All Abnormal Status RES Rate %: +3%
+  $ All Abnormal Status RES Rate %: +5/7%
+
+* {Shadow Necklace} [Legendary, +5] (#14519)
+    All Abnormal Status RES Rate %: +5%
+  $ All Abnormal Status RES Rate %: +7/10%
+
+* {Purified Green Quartz Necklace} [Rare, +5] (#14523)
+    All Abnormal Status RES Rate %: +1%
+  $ All Abnormal Status RES Rate %: +3/5%
+
+* {Purified Green Quartz Necklace} [Heroic, +5] (#14523)
+    All Abnormal Status RES Rate %: +3%
+  $ All Abnormal Status RES Rate %: +5/7%
+
+* {Purified Green Quartz Necklace} [Legendary, +5] (#14523)
+    All Abnormal Status RES Rate %: +5%
+  $ All Abnormal Status RES Rate %: +7/10%
+
+* {Bestowed Leatvar Necklace} [Rare, +5] (#14524)
+    All Abnormal Status RES Rate %: +1%
+  $ All Abnormal Status RES Rate %: +3/5%
+
+* {Bestowed Leatvar Necklace} [Heroic, +5] (#14524)
+    All Abnormal Status RES Rate %: +3%
+  $ All Abnormal Status RES Rate %: +5/7%
+
+* {Bestowed Leatvar Necklace} [Legendary, +5] (#14524)
+    All Abnormal Status RES Rate %: +5%
+  $ All Abnormal Status RES Rate %: +7/10%
+
+* {Ezla Gorget} [Rare, +5] (#14525)
+    All Abnormal Status RES Rate %: +1%
+  $ All Abnormal Status RES Rate %: +3/5%
+
+* {Ezla Gorget} [Heroic, +5] (#14525)
+    All Abnormal Status RES Rate %: +3%
+  $ All Abnormal Status RES Rate %: +5/7%
+
+* {Ezla Gorget} [Legendary, +5] (#14525)
+    All Abnormal Status RES Rate %: +5%
+  $ All Abnormal Status RES Rate %: +7/10%
+
+* {Clover Earrings} [Rare, +5] (#15015)
+    XP acquired after enemy elimination %: +1%
+  $ XP acquired after enemy elimination %: +3/5%
+
+* {Clover Earrings} [Heroic, +5] (#15015)
+    XP acquired after enemy elimination %: +3%
+  $ XP acquired after enemy elimination %: +5/7%
+
+* {Clover Earrings} [Legendary, +5] (#15015)
+    XP acquired after enemy elimination %: +5%
+  $ XP acquired after enemy elimination %: +7/10%
+
+* {Royal Family's Brilliant Earrings} [Legendary, +5] (#15017)
+    XP acquired after enemy elimination %: +5%
+  $ XP acquired after enemy elimination %: +7/10%
+
+* {Sparkling Greed} [Rare, +5] (#15018)
+    XP acquired after enemy elimination %: +1%
+  $ XP acquired after enemy elimination %: +3/5%
+
+* {Sparkling Greed} [Heroic, +5] (#15018)
+    XP acquired after enemy elimination %: +3%
+  $ XP acquired after enemy elimination %: +5/7%
+
+* {Sparkling Greed} [Legendary, +5] (#15018)
+    XP acquired after enemy elimination %: +5%
+  $ XP acquired after enemy elimination %: +7/10%
+
+* {Lightning Petal's Grace} [Rare, +5] (#15019)
+    XP acquired after enemy elimination %: +1%
+  $ XP acquired after enemy elimination %: +3/5%
+
+* {Lightning Petal's Grace} [Heroic, +5] (#15019)
+    XP acquired after enemy elimination %: +3%
+  $ XP acquired after enemy elimination %: +5/7%
+
+* {Lightning Petal's Grace} [Legendary, +5] (#15019)
+    XP acquired after enemy elimination %: +5%
+  $ XP acquired after enemy elimination %: +7/10%
+
+* {Sparkling Tears} [Rare, +5] (#15020)
+    XP acquired after enemy elimination %: +1%
+  $ XP acquired after enemy elimination %: +3/5%
+
+* {Sparkling Tears} [Heroic, +5] (#15020)
+    XP acquired after enemy elimination %: +3%
+  $ XP acquired after enemy elimination %: +5/7%
+
+* {Sparkling Tears} [Legendary, +5] (#15020)
+    XP acquired after enemy elimination %: +5%
+  $ XP acquired after enemy elimination %: +7/10%
+
+* {Eternal Rest Earrings} [Rare, +5] (#15021)
+    XP acquired after enemy elimination %: +1%
+  $ XP acquired after enemy elimination %: +3/5%
+
+* {Eternal Rest Earrings} [Heroic, +5] (#15021)
+    XP acquired after enemy elimination %: +3%
+  $ XP acquired after enemy elimination %: +5/7%
+
+* {Eternal Rest Earrings} [Legendary, +5] (#15021)
+    XP acquired after enemy elimination %: +5%
+  $ XP acquired after enemy elimination %: +7/10%
+
+* {Moros's Destruction} [Rare, +5] (#15022)
+    XP acquired after enemy elimination %: +1%
+  $ XP acquired after enemy elimination %: +3/5%
+
+* {Moros's Destruction} [Heroic, +5] (#15022)
+    XP acquired after enemy elimination %: +3%
+  $ XP acquired after enemy elimination %: +5/7%
+
+* {Moros's Destruction} [Legendary, +5] (#15022)
+    XP acquired after enemy elimination %: +5%
+  $ XP acquired after enemy elimination %: +7/10%
+
+* {Worked Copper Earrings} [Rare, +5] (#15501)
+    XP acquired after enemy elimination %: +1%
+  $ XP acquired after enemy elimination %: +3/5%
+
+* {Worked Copper Earrings} [Heroic, +5] (#15501)
+    XP acquired after enemy elimination %: +3%
+  $ XP acquired after enemy elimination %: +5/7%
+
+* {Worked Copper Earrings} [Legendary, +5] (#15501)
+    XP acquired after enemy elimination %: +5%
+  $ XP acquired after enemy elimination %: +7/10%
+
+* {Serraborg Earrings} [Rare, +5] (#15502)
+    XP acquired after enemy elimination %: +1%
+  $ XP acquired after enemy elimination %: +3/5%
+
+* {Serraborg Earrings} [Heroic, +5] (#15502)
+    XP acquired after enemy elimination %: +3%
+  $ XP acquired after enemy elimination %: +5/7%
+
+* {Serraborg Earrings} [Legendary, +5] (#15502)
+    XP acquired after enemy elimination %: +5%
+  $ XP acquired after enemy elimination %: +7/10%
+
+* {Murky Green Quartz Earrings} [Rare, +5] (#15503)
+    XP acquired after enemy elimination %: +1%
+  $ XP acquired after enemy elimination %: +3/5%
+
+* {Murky Green Quartz Earrings} [Heroic, +5] (#15503)
+    XP acquired after enemy elimination %: +3%
+  $ XP acquired after enemy elimination %: +5/7%
+
+* {Murky Green Quartz Earrings} [Legendary, +5] (#15503)
+    XP acquired after enemy elimination %: +5%
+  $ XP acquired after enemy elimination %: +7/10%
+
+* {Silver Earrings} [Rare, +5] (#15504)
+    XP acquired after enemy elimination %: +1%
+  $ XP acquired after enemy elimination %: +3/5%
+
+* {Silver Earrings} [Heroic, +5] (#15504)
+    XP acquired after enemy elimination %: +3%
+  $ XP acquired after enemy elimination %: +5/7%
+
+* {Silver Earrings} [Legendary, +5] (#15504)
+    XP acquired after enemy elimination %: +5%
+  $ XP acquired after enemy elimination %: +7/10%
+
+* {Radiant Silver Earrings} [Rare, +5] (#15505)
+    XP acquired after enemy elimination %: +1%
+  $ XP acquired after enemy elimination %: +3/5%
+
+* {Radiant Silver Earrings} [Heroic, +5] (#15505)
+    XP acquired after enemy elimination %: +3%
+  $ XP acquired after enemy elimination %: +5/7%
+
+* {Radiant Silver Earrings} [Legendary, +5] (#15505)
+    XP acquired after enemy elimination %: +5%
+  $ XP acquired after enemy elimination %: +7/10%
+
+* {Radiant Serraborg Earrings} [Rare, +5] (#15507)
+    XP acquired after enemy elimination %: +1%
+  $ XP acquired after enemy elimination %: +3/5%
+
+* {Radiant Serraborg Earrings} [Heroic, +5] (#15507)
+    XP acquired after enemy elimination %: +3%
+  $ XP acquired after enemy elimination %: +5/7%
+
+* {Radiant Serraborg Earrings} [Legendary, +5] (#15507)
+    XP acquired after enemy elimination %: +5%
+  $ XP acquired after enemy elimination %: +7/10%
+
+* {Shabby Copper Earrings} [Rare, +5] (#15511)
+    XP acquired after enemy elimination %: +1%
+  $ XP acquired after enemy elimination %: +3/5%
+
+* {Shabby Copper Earrings} [Heroic, +5] (#15511)
+    XP acquired after enemy elimination %: +3%
+  $ XP acquired after enemy elimination %: +5/7%
+
+* {Shabby Copper Earrings} [Legendary, +5] (#15511)
+    XP acquired after enemy elimination %: +5%
+  $ XP acquired after enemy elimination %: +7/10%
+
+* {Shabby Sapphire Earrings} [Rare, +5] (#15512)
+    XP acquired after enemy elimination %: +1%
+  $ XP acquired after enemy elimination %: +3/5%
+
+* {Shabby Sapphire Earrings} [Heroic, +5] (#15512)
+    XP acquired after enemy elimination %: +3%
+  $ XP acquired after enemy elimination %: +5/7%
+
+* {Shabby Sapphire Earrings} [Legendary, +5] (#15512)
+    XP acquired after enemy elimination %: +5%
+  $ XP acquired after enemy elimination %: +7/10%
+
+* {Anubis's Earrings} [Rare, +5] (#15513)
+    XP acquired after enemy elimination %: +1%
+  $ XP acquired after enemy elimination %: +3/5%
+
+* {Anubis's Earrings} [Heroic, +5] (#15513)
+    XP acquired after enemy elimination %: +3%
+  $ XP acquired after enemy elimination %: +5/7%
+
+* {Anubis's Earrings} [Legendary, +5] (#15513)
+    XP acquired after enemy elimination %: +5%
+  $ XP acquired after enemy elimination %: +7/10%
+
+* {Metal Alloy Earrings} [Rare, +5] (#15514)
+    XP acquired after enemy elimination %: +1%
+  $ XP acquired after enemy elimination %: +3/5%
+
+* {Metal Alloy Earrings} [Heroic, +5] (#15514)
+    XP acquired after enemy elimination %: +3%
+  $ XP acquired after enemy elimination %: +5/7%
+
+* {Metal Alloy Earrings} [Legendary, +5] (#15514)
+    XP acquired after enemy elimination %: +5%
+  $ XP acquired after enemy elimination %: +7/10%
+
+* {Hogan's Earrings} [Rare, +5] (#15515)
+    XP acquired after enemy elimination %: +1%
+  $ XP acquired after enemy elimination %: +3/5%
+
+* {Hogan's Earrings} [Heroic, +5] (#15515)
+    XP acquired after enemy elimination %: +3%
+  $ XP acquired after enemy elimination %: +5/7%
+
+* {Hogan's Earrings} [Legendary, +5] (#15515)
+    XP acquired after enemy elimination %: +5%
+  $ XP acquired after enemy elimination %: +7/10%
+
+* {Leatvar Earrings} [Rare, +5] (#15516)
+    XP acquired after enemy elimination %: +1%
+  $ XP acquired after enemy elimination %: +3/5%
+
+* {Leatvar Earrings} [Heroic, +5] (#15516)
+    XP acquired after enemy elimination %: +3%
+  $ XP acquired after enemy elimination %: +5/7%
+
+* {Leatvar Earrings} [Legendary, +5] (#15516)
+    XP acquired after enemy elimination %: +5%
+  $ XP acquired after enemy elimination %: +7/10%
+
+* {Shadow Earrings} [Rare, +5] (#15519)
+    XP acquired after enemy elimination %: +1%
+  $ XP acquired after enemy elimination %: +3/5%
+
+* {Shadow Earrings} [Heroic, +5] (#15519)
+    XP acquired after enemy elimination %: +3%
+  $ XP acquired after enemy elimination %: +5/7%
+
+* {Shadow Earrings} [Legendary, +5] (#15519)
+    XP acquired after enemy elimination %: +5%
+  $ XP acquired after enemy elimination %: +7/10%
+
+* {Purified Green Quartz Earrings} [Rare, +5] (#15523)
+    XP acquired after enemy elimination %: +1%
+  $ XP acquired after enemy elimination %: +3/5%
+
+* {Purified Green Quartz Earrings} [Heroic, +5] (#15523)
+    XP acquired after enemy elimination %: +3%
+  $ XP acquired after enemy elimination %: +5/7%
+
+* {Purified Green Quartz Earrings} [Legendary, +5] (#15523)
+    XP acquired after enemy elimination %: +5%
+  $ XP acquired after enemy elimination %: +7/10%
+
+* {Sprouting Hope} [Rare, +5] (#15524)
+    XP acquired after enemy elimination %: +1%
+  $ XP acquired after enemy elimination %: +3/5%
+
+* {Sprouting Hope} [Heroic, +5] (#15524)
+    XP acquired after enemy elimination %: +3%
+  $ XP acquired after enemy elimination %: +5/7%
+
+* {Sprouting Hope} [Legendary, +5] (#15524)
+    XP acquired after enemy elimination %: +5%
+  $ XP acquired after enemy elimination %: +7/10%
+
+* {Clover Ring} [Rare, +5] (#16013)
+    ATK: +50
+  $ ATK: +75/100
+
+* {Clover Ring} [Heroic, +5] (#16013)
+    ATK: +75
+  $ ATK: +100/125
+
+* {Clover Ring} [Legendary, +5] (#16013)
+    ATK: +100
+  $ ATK: +125/150
+
+* {Royal Family's Brilliant Ring} [Legendary, +5] (#16015)
+    ATK: +100
+  $ ATK: +125/150
+
+* {Mana Ring} [Rare, +5] (#16019)
+    ATK: +50
+  $ ATK: +75/100
+
+* {Mana Ring} [Heroic, +5] (#16019)
+    ATK: +75
+  $ ATK: +100/125
+
+* {Mana Ring} [Legendary, +5] (#16019)
+    ATK: +100
+  $ ATK: +125/150
+
+* {Black Flame Heart} [Rare, +5] (#16020)
+    ATK: +50
+  $ ATK: +75/100
+
+* {Black Flame Heart} [Heroic, +5] (#16020)
+    ATK: +75
+  $ ATK: +100/125
+
+* {Black Flame Heart} [Legendary, +5] (#16020)
+    ATK: +100
+  $ ATK: +125/150
+
+* {Golden Ring of Blessing} [Rare, +5] (#16021)
+    ATK: +50
+  $ ATK: +75/100
+
+* {Golden Ring of Blessing} [Heroic, +5] (#16021)
+    ATK: +75
+  $ ATK: +100/125
+
+* {Golden Ring of Blessing} [Legendary, +5] (#16021)
+    ATK: +100
+  $ ATK: +125/150
+
+* {Ennead's Blessing} [Rare, +5] (#16022)
+    ATK: +50
+  $ ATK: +75/100
+
+* {Ennead's Blessing} [Heroic, +5] (#16022)
+    ATK: +75
+  $ ATK: +100/125
+
+* {Ennead's Blessing} [Legendary, +5] (#16022)
+    ATK: +100
+  $ ATK: +125/150
+
+* {Queen's Arrogance} [Rare, +5] (#16023)
+    ATK: +50
+  $ ATK: +75/100
+
+* {Queen's Arrogance} [Heroic, +5] (#16023)
+    ATK: +75
+  $ ATK: +100/125
+
+* {Queen's Arrogance} [Legendary, +5] (#16023)
+    ATK: +100
+  $ ATK: +125/150
+
+* {Furious Avenger} [Rare, +5] (#16024)
+    ATK: +50
+  $ ATK: +75/100
+
+* {Furious Avenger} [Heroic, +5] (#16024)
+    ATK: +75
+  $ ATK: +100/125
+
+* {Furious Avenger} [Legendary, +5] (#16024)
+    ATK: +100
+  $ ATK: +125/150
+
+* {Chaotic Ring} [Rare, +5] (#16026)
+    ATK: +50
+  $ ATK: +75/100
+
+* {Chaotic Ring} [Heroic, +5] (#16026)
+    ATK: +75
+  $ ATK: +100/125
+
+* {Chaotic Ring} [Legendary, +5] (#16026)
+    ATK: +100
+  $ ATK: +125/150
+
+* {Worked Copper Ring} [Rare, +5] (#16501)
+    ATK: +50
+  $ ATK: +75/100
+
+* {Worked Copper Ring} [Heroic, +5] (#16501)
+    ATK: +75
+  $ ATK: +100/125
+
+* {Worked Copper Ring} [Legendary, +5] (#16501)
+    ATK: +100
+  $ ATK: +125/150
+
+* {Serraborg Ring} [Rare, +5] (#16502)
+    ATK: +50
+  $ ATK: +75/100
+
+* {Serraborg Ring} [Heroic, +5] (#16502)
+    ATK: +75
+  $ ATK: +100/125
+
+* {Serraborg Ring} [Legendary, +5] (#16502)
+    ATK: +100
+  $ ATK: +125/150
+
+* {Murky Green Quartz Ring} [Rare, +5] (#16503)
+    ATK: +50
+  $ ATK: +75/100
+
+* {Murky Green Quartz Ring} [Heroic, +5] (#16503)
+    ATK: +75
+  $ ATK: +100/125
+
+* {Murky Green Quartz Ring} [Legendary, +5] (#16503)
+    ATK: +100
+  $ ATK: +125/150
+
+* {Silvery Ring} [Rare, +5] (#16504)
+    ATK: +50
+  $ ATK: +75/100
+
+* {Silvery Ring} [Heroic, +5] (#16504)
+    ATK: +75
+  $ ATK: +100/125
+
+* {Silvery Ring} [Legendary, +5] (#16504)
+    ATK: +100
+  $ ATK: +125/150
+
+* {Radiant Serraborg Ring} [Rare, +5] (#16505)
+    ATK: +50
+  $ ATK: +75/100
+
+* {Radiant Serraborg Ring} [Heroic, +5] (#16505)
+    ATK: +75
+  $ ATK: +100/125
+
+* {Radiant Serraborg Ring} [Legendary, +5] (#16505)
+    ATK: +100
+  $ ATK: +125/150
+
+* {Radiant Silvery Ring} [Rare, +5] (#16507)
+    ATK: +50
+  $ ATK: +75/100
+
+* {Radiant Silvery Ring} [Heroic, +5] (#16507)
+    ATK: +75
+  $ ATK: +100/125
+
+* {Radiant Silvery Ring} [Legendary, +5] (#16507)
+    ATK: +100
+  $ ATK: +125/150
+
+* {Shabby Copper Ring} [Rare, +5] (#16511)
+    ATK: +50
+  $ ATK: +75/100
+
+* {Shabby Copper Ring} [Heroic, +5] (#16511)
+    ATK: +75
+  $ ATK: +100/125
+
+* {Shabby Copper Ring} [Legendary, +5] (#16511)
+    ATK: +100
+  $ ATK: +125/150
+
+* {Shabby Sapphire Ring} [Rare, +5] (#16512)
+    ATK: +50
+  $ ATK: +75/100
+
+* {Shabby Sapphire Ring} [Heroic, +5] (#16512)
+    ATK: +75
+  $ ATK: +100/125
+
+* {Shabby Sapphire Ring} [Legendary, +5] (#16512)
+    ATK: +100
+  $ ATK: +125/150
+
+* {Anubis's Ring} [Rare, +5] (#16513)
+    ATK: +50
+  $ ATK: +75/100
+
+* {Anubis's Ring} [Heroic, +5] (#16513)
+    ATK: +75
+  $ ATK: +100/125
+
+* {Anubis's Ring} [Legendary, +5] (#16513)
+    ATK: +100
+  $ ATK: +125/150
+
+* {Metal Alloy Ring} [Rare, +5] (#16514)
+    ATK: +50
+  $ ATK: +75/100
+
+* {Metal Alloy Ring} [Heroic, +5] (#16514)
+    ATK: +75
+  $ ATK: +100/125
+
+* {Metal Alloy Ring} [Legendary, +5] (#16514)
+    ATK: +100
+  $ ATK: +125/150
+
+* {Hogan's Ring} [Rare, +5] (#16515)
+    ATK: +50
+  $ ATK: +75/100
+
+* {Hogan's Ring} [Heroic, +5] (#16515)
+    ATK: +75
+  $ ATK: +100/125
+
+* {Hogan's Ring} [Legendary, +5] (#16515)
+    ATK: +100
+  $ ATK: +125/150
+
+* {Leatvar Ring} [Rare, +5] (#16516)
+    ATK: +50
+  $ ATK: +75/100
+
+* {Leatvar Ring} [Heroic, +5] (#16516)
+    ATK: +75
+  $ ATK: +100/125
+
+* {Leatvar Ring} [Legendary, +5] (#16516)
+    ATK: +100
+  $ ATK: +125/150
+
+* {Shadow Ring} [Rare, +5] (#16519)
+    ATK: +50
+  $ ATK: +75/100
+
+* {Shadow Ring} [Heroic, +5] (#16519)
+    ATK: +75
+  $ ATK: +100/125
+
+* {Shadow Ring} [Legendary, +5] (#16519)
+    ATK: +100
+  $ ATK: +125/150
+
+* {Purified Green Quartz Ring} [Rare, +5] (#16523)
+    ATK: +50
+  $ ATK: +75/100
+
+* {Purified Green Quartz Ring} [Heroic, +5] (#16523)
+    ATK: +75
+  $ ATK: +100/125
+
+* {Purified Green Quartz Ring} [Legendary, +5] (#16523)
+    ATK: +100
+  $ ATK: +125/150
+
+* {Transcender's Token} [Rare, +5] (#16524)
+    ATK: +50
+  $ ATK: +75/100
+
+* {Transcender's Token} [Heroic, +5] (#16524)
+    ATK: +75
+  $ ATK: +100/125
+
+* {Transcender's Token} [Legendary, +5] (#16524)
+    ATK: +100
+  $ ATK: +125/150
+
+* {Radiant Pride} [Rare, +5] (#16525)
+    ATK: +50
+  $ ATK: +75/100
+
+* {Radiant Pride} [Heroic, +5] (#16525)
+    ATK: +75
+  $ ATK: +100/125
+
+* {Radiant Pride} [Legendary, +5] (#16525)
+    ATK: +100
+  $ ATK: +125/150
+
+* {Berserker's Cry} [Rare, +5] (#16526)
+    ATK: +50
+  $ ATK: +75/100
+
+* {Berserker's Cry} [Heroic, +5] (#16526)
+    ATK: +75
+  $ ATK: +100/125
+
+* {Berserker's Cry} [Legendary, +5] (#16526)
+    ATK: +100
+  $ ATK: +125/150
+
+* {Veteran's Mark} [Rare, +5] (#16527)
+    ATK: +50
+  $ ATK: +75/100
+
+* {Veteran's Mark} [Heroic, +5] (#16527)
+    ATK: +75
+  $ ATK: +100/125
+
+* {Veteran's Mark} [Legendary, +5] (#16527)
+    ATK: +100
+  $ ATK: +125/150
+
+* {Victor's Proof} [Rare, +5] (#16528)
+    ATK: +50
+  $ ATK: +75/100
+
+* {Victor's Proof} [Heroic, +5] (#16528)
+    ATK: +75
+  $ ATK: +100/125
+
+* {Victor's Proof} [Legendary, +5] (#16528)
+    ATK: +100
+  $ ATK: +125/150
+
+* {Ultimate Angler's Ring} [Rare, +5] (#16529)
+    ATK: +50
+  $ ATK: +75/100
+
+* {Ultimate Angler's Ring} [Heroic, +5] (#16529)
+    ATK: +75
+  $ ATK: +100/125
+
+* {Ultimate Angler's Ring} [Legendary, +5] (#16529)
+    ATK: +100
+  $ ATK: +125/150
+
+* {Bestowed Hogan's Ring} [Rare, +5] (#16530)
+    ATK: +50
+  $ ATK: +75/100
+
+* {Bestowed Hogan's Ring} [Heroic, +5] (#16530)
+    ATK: +75
+  $ ATK: +100/125
+
+* {Bestowed Hogan's Ring} [Legendary, +5] (#16530)
+    ATK: +100
+  $ ATK: +125/150
+
+* {Bestowed Serraborg Ring} [Rare, +5] (#16531)
+    ATK: +50
+  $ ATK: +75/100
+
+* {Bestowed Serraborg Ring} [Heroic, +5] (#16531)
+    ATK: +75
+  $ ATK: +100/125
+
+* {Bestowed Serraborg Ring} [Legendary, +5] (#16531)
+    ATK: +100
+  $ ATK: +125/150
+
+* {Sharp Howling} [Rare, +5] (#16532)
+    ATK: +50
+  $ ATK: +75/100
+
+* {Sharp Howling} [Heroic, +5] (#16532)
+    ATK: +75
+  $ ATK: +100/125
+
+* {Sharp Howling} [Legendary, +5] (#16532)
+    ATK: +100
+  $ ATK: +125/150
+
+* {Moonbow Ring} [Rare, +5] (#16533)
+    ATK: +50
+  $ ATK: +75/100
+
+* {Moonbow Ring} [Heroic, +5] (#16533)
+    ATK: +75
+  $ ATK: +100/125
+
+* {Moonbow Ring} [Legendary, +5] (#16533)
+    ATK: +100
+  $ ATK: +125/150
+
+* {Agatha's Sacred Ring} [Rare, +5] (#16534)
+    ATK: +50
+  $ ATK: +75/100
+
+* {Agatha's Sacred Ring} [Heroic, +5] (#16534)
+    ATK: +75
+  $ ATK: +100/125
+
+* {Agatha's Sacred Ring} [Legendary, +5] (#16534)
+    ATK: +100
+  $ ATK: +125/150
+
+* {Hogan's Earrings (Event)} [Rare, +5] (#33900)
+    XP acquired after enemy elimination %: +1%
+  $ XP acquired after enemy elimination %: +3/5%
+
+* {Hogan's Earrings (Event)} [Heroic, +5] (#33900)
+    XP acquired after enemy elimination %: +3%
+  $ XP acquired after enemy elimination %: +5/7%
+
+* {Hogan's Earrings (Event)} [Legendary, +5] (#33900)
+    XP acquired after enemy elimination %: +5%
+  $ XP acquired after enemy elimination %: +7/10%
+
+* {Shadow Ring (Event)} [Rare, +5] (#33916)
+    ATK: +50
+  $ ATK: +75/100
+
+* {Shadow Ring (Event)} [Heroic, +5] (#33916)
+    ATK: +75
+  $ ATK: +100/125
+
+* {Shadow Ring (Event)} [Legendary, +5] (#33916)
+    ATK: +100
+  $ ATK: +125/150
+
+* {Shadow Earrings (Event)} [Rare, +5] (#33917)
+    XP acquired after enemy elimination %: +1%
+  $ XP acquired after enemy elimination %: +3/5%
+
+* {Shadow Earrings (Event)} [Heroic, +5] (#33917)
+    XP acquired after enemy elimination %: +3%
+  $ XP acquired after enemy elimination %: +5/7%
+
+* {Shadow Earrings (Event)} [Legendary, +5] (#33917)
+    XP acquired after enemy elimination %: +5%
+  $ XP acquired after enemy elimination %: +7/10%
+
+* {Shadow Necklace (Event)} [Rare, +5] (#33918)
+    All Abnormal Status RES Rate %: +1%
+  $ All Abnormal Status RES Rate %: +3/5%
+
+* {Shadow Necklace (Event)} [Heroic, +5] (#33918)
+    All Abnormal Status RES Rate %: +3%
+  $ All Abnormal Status RES Rate %: +5/7%
+
+* {Shadow Necklace (Event)} [Legendary, +5] (#33918)
+    All Abnormal Status RES Rate %: +5%
+  $ All Abnormal Status RES Rate %: +7/10%
+
+* {Murky Green Quartz Ring (Event)} [Rare, +5] (#33924)
+    ATK: +50
+  $ ATK: +75/100
+
+* {Murky Green Quartz Ring (Event)} [Heroic, +5] (#33924)
+    ATK: +75
+  $ ATK: +100/125
+
+* {Murky Green Quartz Ring (Event)} [Legendary, +5] (#33924)
+    ATK: +100
+  $ ATK: +125/150
+
+* {Murky Green Quartz Earrings (Event)} [Rare, +5] (#33925)
+    XP acquired after enemy elimination %: +1%
+  $ XP acquired after enemy elimination %: +3/5%
+
+* {Murky Green Quartz Earrings (Event)} [Heroic, +5] (#33925)
+    XP acquired after enemy elimination %: +3%
+  $ XP acquired after enemy elimination %: +5/7%
+
+* {Murky Green Quartz Earrings (Event)} [Legendary, +5] (#33925)
+    XP acquired after enemy elimination %: +5%
+  $ XP acquired after enemy elimination %: +7/10%
+
+* {Murky Green Quartz Necklace (Event)} [Rare, +5] (#33926)
+    All Abnormal Status RES Rate %: +1%
+  $ All Abnormal Status RES Rate %: +3/5%
+
+* {Murky Green Quartz Necklace (Event)} [Heroic, +5] (#33926)
+    All Abnormal Status RES Rate %: +3%
+  $ All Abnormal Status RES Rate %: +5/7%
+
+* {Murky Green Quartz Necklace (Event)} [Legendary, +5] (#33926)
+    All Abnormal Status RES Rate %: +5%
+  $ All Abnormal Status RES Rate %: +7/10%
+
+* {Shabby Sapphire Ring (Event)} [Rare, +5] (#33927)
+    ATK: +50
+  $ ATK: +75/100
+
+* {Shabby Sapphire Ring (Event)} [Heroic, +5] (#33927)
+    ATK: +75
+  $ ATK: +100/125
+
+* {Shabby Sapphire Ring (Event)} [Legendary, +5] (#33927)
+    ATK: +100
+  $ ATK: +125/150
+
+* {Shabby Sapphire Earrings (Event)} [Rare, +5] (#33928)
+    XP acquired after enemy elimination %: +1%
+  $ XP acquired after enemy elimination %: +3/5%
+
+* {Shabby Sapphire Earrings (Event)} [Heroic, +5] (#33928)
+    XP acquired after enemy elimination %: +3%
+  $ XP acquired after enemy elimination %: +5/7%
+
+* {Shabby Sapphire Earrings (Event)} [Legendary, +5] (#33928)
+    XP acquired after enemy elimination %: +5%
+  $ XP acquired after enemy elimination %: +7/10%
+
+* {Shabby Sapphire Necklace (Event)} [Rare, +5] (#33929)
+    All Abnormal Status RES Rate %: +1%
+  $ All Abnormal Status RES Rate %: +3/5%
+
+* {Shabby Sapphire Necklace (Event)} [Heroic, +5] (#33929)
+    All Abnormal Status RES Rate %: +3%
+  $ All Abnormal Status RES Rate %: +5/7%
+
+* {Shabby Sapphire Necklace (Event)} [Legendary, +5] (#33929)
+    All Abnormal Status RES Rate %: +5%
+  $ All Abnormal Status RES Rate %: +7/10%
+
+* {Purified Green Quartz Ring (Event)} [Rare, +5] (#33930)
+    ATK: +50
+  $ ATK: +75/100
+
+* {Purified Green Quartz Ring (Event)} [Heroic, +5] (#33930)
+    ATK: +75
+  $ ATK: +100/125
+
+* {Purified Green Quartz Ring (Event)} [Legendary, +5] (#33930)
+    ATK: +100
+  $ ATK: +125/150
+
+* {Purified Green Quartz Earrings (Event)} [Rare, +5] (#33931)
+    XP acquired after enemy elimination %: +1%
+  $ XP acquired after enemy elimination %: +3/5%
+
+* {Purified Green Quartz Earrings (Event)} [Heroic, +5] (#33931)
+    XP acquired after enemy elimination %: +3%
+  $ XP acquired after enemy elimination %: +5/7%
+
+* {Purified Green Quartz Earrings (Event)} [Legendary, +5] (#33931)
+    XP acquired after enemy elimination %: +5%
+  $ XP acquired after enemy elimination %: +7/10%
+
+* {Purified Green Quartz Necklace (Event)} [Rare, +5] (#33932)
+    All Abnormal Status RES Rate %: +1%
+  $ All Abnormal Status RES Rate %: +3/5%
+
+* {Purified Green Quartz Necklace (Event)} [Heroic, +5] (#33932)
+    All Abnormal Status RES Rate %: +3%
+  $ All Abnormal Status RES Rate %: +5/7%
+
+* {Purified Green Quartz Necklace (Event)} [Legendary, +5] (#33932)
+    All Abnormal Status RES Rate %: +5%
+  $ All Abnormal Status RES Rate %: +7/10%
+
+* {Great Hierarch's Ring (Event)} [Legendary, +5] (#33942)
+    ATK: +100
+  $ ATK: +125/150
+
+* {Enhanced Great Hierarch's Ring (Event)} [Legendary, +5] (#33943)
+    ATK: +100
+  $ ATK: +125/150
+
+* {Baldur's Ring (Event)} [Rare, +5] (#33977)
+    ATK: +50
+  $ ATK: +75/100
+
+* {Baldur's Ring (Event)} [Heroic, +5] (#33977)
+    ATK: +75
+  $ ATK: +100/125
+
+* {Baldur's Ring (Event)} [Legendary, +5] (#33977)
+    ATK: +100
+  $ ATK: +125/150
+
+* {Baldur's Earrings (Event)} [Rare, +5] (#33978)
+    XP acquired after enemy elimination %: +1%
+  $ XP acquired after enemy elimination %: +3/5%
+
+* {Baldur's Earrings (Event)} [Heroic, +5] (#33978)
+    XP acquired after enemy elimination %: +3%
+  $ XP acquired after enemy elimination %: +5/7%
+
+* {Baldur's Earrings (Event)} [Legendary, +5] (#33978)
+    XP acquired after enemy elimination %: +5%
+  $ XP acquired after enemy elimination %: +7/10%
+
+* {Baldur's Necklace (Event)} [Rare, +5] (#33979)
+    All Abnormal Status RES Rate %: +1%
+  $ All Abnormal Status RES Rate %: +3/5%
+
+* {Baldur's Necklace (Event)} [Heroic, +5] (#33979)
+    All Abnormal Status RES Rate %: +3%
+  $ All Abnormal Status RES Rate %: +5/7%
+
+* {Baldur's Necklace (Event)} [Legendary, +5] (#33979)
+    All Abnormal Status RES Rate %: +5%
+  $ All Abnormal Status RES Rate %: +7/10%
+
+* {Purified Green Quartz Necklace} [Rare, +5] (#33854)
+    All Abnormal Status RES Rate %: +1%
+  $ All Abnormal Status RES Rate %: +3/5%
+
+* {Purified Green Quartz Necklace} [Heroic, +5] (#33854)
+    All Abnormal Status RES Rate %: +3%
+  $ All Abnormal Status RES Rate %: +5/7%
+
+* {Purified Green Quartz Necklace} [Legendary, +5] (#33854)
+    All Abnormal Status RES Rate %: +5%
+  $ All Abnormal Status RES Rate %: +7/10%
+
+* {Purified Green Quartz Earrings} [Rare, +5] (#33855)
+    XP acquired after enemy elimination %: +1%
+  $ XP acquired after enemy elimination %: +3/5%
+
+* {Purified Green Quartz Earrings} [Heroic, +5] (#33855)
+    XP acquired after enemy elimination %: +3%
+  $ XP acquired after enemy elimination %: +5/7%
+
+* {Purified Green Quartz Earrings} [Legendary, +5] (#33855)
+    XP acquired after enemy elimination %: +5%
+  $ XP acquired after enemy elimination %: +7/10%
+
+* {Purified Green Quartz Ring} [Rare, +5] (#33856)
+    ATK: +50
+  $ ATK: +75/100
+
+* {Purified Green Quartz Ring} [Heroic, +5] (#33856)
+    ATK: +75
+  $ ATK: +100/125
+
+* {Purified Green Quartz Ring} [Legendary, +5] (#33856)
+    ATK: +100
+  $ ATK: +125/150
+
+* {Improved Shadow Necklace} [Heroic, +5] (#57323)
+    All Abnormal Status RES Rate %: +3%
+  $ All Abnormal Status RES Rate %: +5/7%
+
+* {Improved Shadow Earrings} [Heroic, +5] (#57324)
+    XP acquired after enemy elimination %: +3%
+  $ XP acquired after enemy elimination %: +5/7%
+
+* {Improved Shadow Ring} [Heroic, +5] (#57325)
+    ATK: +75
+  $ ATK: +100/125
+
+* {Improved Baldur's Ring} [Legendary, +5] (#57353)
+    ATK: +100
+  $ ATK: +125/150
+
+* {Improved Baldur's Earrings} [Legendary, +5] (#57354)
+    XP acquired after enemy elimination %: +5%
+  $ XP acquired after enemy elimination %: +7/10%
+
+* {Improved Baldur's Necklace} [Legendary, +5] (#57355)
+    All Abnormal Status RES Rate %: +5%
+  $ All Abnormal Status RES Rate %: +7/10%
+
+* {Improved Athena's Ring} [Legendary, +5] (#57383)
+    ATK: +100
+  $ ATK: +125/150
+
+* {Improved Athena's Earrings} [Legendary, +5] (#57384)
+    XP acquired after enemy elimination %: +5%
+  $ XP acquired after enemy elimination %: +7/10%
+
+* {Improved Athena's Necklace} [Legendary, +5] (#57385)
+    All Abnormal Status RES Rate %: +5%
+  $ All Abnormal Status RES Rate %: +7/10%
+
+* {Improved Acubens's Ring} [Legendary, +5] (#57413)
+    ATK: +100
+  $ ATK: +125/150
+
+* {Improved Acubens's Earrings} [Legendary, +5] (#57414)
+    XP acquired after enemy elimination %: +5%
+  $ XP acquired after enemy elimination %: +7/10%
+
+* {Improved Acubens's Necklace} [Legendary, +5] (#57415)
+    All Abnormal Status RES Rate %: +5%
+  $ All Abnormal Status RES Rate %: +7/10%
+
+* {Improved Anubis's Necklace} [Legendary, +5] (#57443)
+    All Abnormal Status RES Rate %: +5%
+  $ All Abnormal Status RES Rate %: +7/10%
+
+* {Improved Anubis's Earrings} [Legendary, +5] (#57444)
+    XP acquired after enemy elimination %: +5%
+  $ XP acquired after enemy elimination %: +7/10%
+
+* {Improved Anubis's Ring} [Legendary, +5] (#57445)
+    ATK: +100
+  $ ATK: +125/150
+
+* {Improved Tubalcain's Ring} [Legendary, +5] (#57473)
+    ATK: +100
+  $ ATK: +125/150
+
+* {Improved Tubalcain's Earrings} [Legendary, +5] (#57474)
+    XP acquired after enemy elimination %: +5%
+  $ XP acquired after enemy elimination %: +7/10%
+
+* {Improved Tubalcain's Necklace} [Legendary, +5] (#57475)
+    All Abnormal Status RES Rate %: +5%
+  $ All Abnormal Status RES Rate %: +7/10%
+
+* {Improved Herald of Moonlight's Ring} [Legendary, +5] (#57501)
+    ATK: +100
+  $ ATK: +125/150
+
+* {Improved Herald of Moonlight's Earrings} [Legendary, +5] (#57502)
+    XP acquired after enemy elimination %: +5%
+  $ XP acquired after enemy elimination %: +7/10%
+
+* {Improved Herald of Moonlight's Necklace} [Legendary, +5] (#57503)
+    All Abnormal Status RES Rate %: +5%
+  $ All Abnormal Status RES Rate %: +7/10%
+
+* {Improved Herald of Peace's Ring} [Legendary, +5] (#57529)
+    ATK: +100
+  $ ATK: +125/150
+
+* {Improved Herald of Peace's Earrings} [Legendary, +5] (#57530)
+    XP acquired after enemy elimination %: +5%
+  $ XP acquired after enemy elimination %: +7/10%
+
+* {Improved Herald of Peace's Necklace} [Legendary, +5] (#57531)
+    All Abnormal Status RES Rate %: +5%
+  $ All Abnormal Status RES Rate %: +7/10%
+
+* {Alesha's Necklace} [Legendary, +5] (#57643)
+    All Abnormal Status RES Rate %: +5%
+  $ All Abnormal Status RES Rate %: +7/10%
+
+* {Alesha's Earrings} [Legendary, +5] (#57644)
+    XP acquired after enemy elimination %: +5%
+  $ XP acquired after enemy elimination %: +7/10%
+
+* {Alesha's Ring} [Legendary, +5] (#57645)
+    ATK: +100
+  $ ATK: +125/150
+
+* {Chaos Ring} [Legendary, +5] (#57669)
+    ATK: +100
+  $ ATK: +125/150
+
+* {Chaos Earrings} [Legendary, +5] (#57670)
+    XP acquired after enemy elimination %: +5%
+  $ XP acquired after enemy elimination %: +7/10%
+
+* {Chaos Necklace} [Legendary, +5] (#57671)
+    All Abnormal Status RES Rate %: +5%
+  $ All Abnormal Status RES Rate %: +7/10%
+
+* {Enhanced Chaos Ring} [Legendary, +5] (#57695)
+    ATK: +100
+  $ ATK: +125/150
+
+* {Enhanced Chaos Earrings} [Legendary, +5] (#57696)
+    XP acquired after enemy elimination %: +5%
+  $ XP acquired after enemy elimination %: +7/10%
+
+* {Enhanced Chaos Necklace} [Legendary, +5] (#57697)
+    All Abnormal Status RES Rate %: +5%
+  $ All Abnormal Status RES Rate %: +7/10%
+
+* {Enhanced Alesha's Necklace} [Legendary, +5] (#57912)
+    All Abnormal Status RES Rate %: +5%
+  $ All Abnormal Status RES Rate %: +7/10%
+
+* {Enhanced Alesha's Earrings} [Legendary, +5] (#57913)
+    XP acquired after enemy elimination %: +5%
+  $ XP acquired after enemy elimination %: +7/10%
+
+* {Enhanced Alesha's Ring} [Legendary, +5] (#57914)
+    ATK: +100
+  $ ATK: +125/150
+
+* {Improved Alesha's Necklace} [Legendary, +5] (#57938)
+    All Abnormal Status RES Rate %: +5%
+  $ All Abnormal Status RES Rate %: +7/10%
+
+* {Improved Alesha's Earrings} [Legendary, +5] (#57939)
+    XP acquired after enemy elimination %: +5%
+  $ XP acquired after enemy elimination %: +7/10%
+
+* {Improved Alesha's Ring} [Legendary, +5] (#57940)
+    ATK: +100
+  $ ATK: +125/150
+
+* {Improved Chaos Ring} [Legendary, +5] (#57964)
+    ATK: +100
+  $ ATK: +125/150
+
+* {Improved Chaos Earrings} [Legendary, +5] (#57965)
+    XP acquired after enemy elimination %: +5%
+  $ XP acquired after enemy elimination %: +7/10%
+
+* {Improved Chaos Necklace} [Legendary, +5] (#57966)
+    All Abnormal Status RES Rate %: +5%
+  $ All Abnormal Status RES Rate %: +7/10%
+
+* {Athena's Ring} [Rare, +5] (#59145)
+    ATK: +50
+  $ ATK: +75/100
+
+* {Athena's Ring} [Heroic, +5] (#59145)
+    ATK: +75
+  $ ATK: +100/125
+
+* {Athena's Ring} [Legendary, +5] (#59145)
+    ATK: +100
+  $ ATK: +125/150
+
+* {Athena's Earrings} [Rare, +5] (#59146)
+    XP acquired after enemy elimination %: +1%
+  $ XP acquired after enemy elimination %: +3/5%
+
+* {Athena's Earrings} [Heroic, +5] (#59146)
+    XP acquired after enemy elimination %: +3%
+  $ XP acquired after enemy elimination %: +5/7%
+
+* {Athena's Earrings} [Legendary, +5] (#59146)
+    XP acquired after enemy elimination %: +5%
+  $ XP acquired after enemy elimination %: +7/10%
+
+* {Athena's Necklace} [Rare, +5] (#59147)
+    All Abnormal Status RES Rate %: +1%
+  $ All Abnormal Status RES Rate %: +3/5%
+
+* {Athena's Necklace} [Heroic, +5] (#59147)
+    All Abnormal Status RES Rate %: +3%
+  $ All Abnormal Status RES Rate %: +5/7%
+
+* {Athena's Necklace} [Legendary, +5] (#59147)
+    All Abnormal Status RES Rate %: +5%
+  $ All Abnormal Status RES Rate %: +7/10%
+
+* {Herald of Moonlight's Ring} [Legendary, +5] (#59381)
+    ATK: +100
+  $ ATK: +125/150
+
+* {Herald of Moonlight's Earrings} [Legendary, +5] (#59382)
+    XP acquired after enemy elimination %: +5%
+  $ XP acquired after enemy elimination %: +7/10%
+
+* {Herald of Moonlight's Necklace} [Legendary, +5] (#59383)
+    All Abnormal Status RES Rate %: +5%
+  $ All Abnormal Status RES Rate %: +7/10%
+
+* {Herald of Peace's Ring} [Legendary, +5] (#59409)
+    ATK: +100
+  $ ATK: +125/150
+
+* {Herald of Peace's Earrings} [Legendary, +5] (#59410)
+    XP acquired after enemy elimination %: +5%
+  $ XP acquired after enemy elimination %: +7/10%
+
+* {Herald of Peace's Necklace} [Legendary, +5] (#59411)
+    All Abnormal Status RES Rate %: +5%
+  $ All Abnormal Status RES Rate %: +7/10%
+
+* {Enhanced Herald of Moonlight's Ring} [Legendary, +5] (#59493)
+    ATK: +100
+  $ ATK: +125/150
+
+* {Enhanced Herald of Moonlight's Earrings} [Legendary, +5] (#59494)
+    XP acquired after enemy elimination %: +5%
+  $ XP acquired after enemy elimination %: +7/10%
+
+* {Enhanced Herald of Moonlight's Necklace} [Legendary, +5] (#59495)
+    All Abnormal Status RES Rate %: +5%
+  $ All Abnormal Status RES Rate %: +7/10%
+
+* {Enhanced Herald of Peace's Ring} [Legendary, +5] (#59521)
+    ATK: +100
+  $ ATK: +125/150
+
+* {Enhanced Herald of Peace's Earrings} [Legendary, +5] (#59522)
+    XP acquired after enemy elimination %: +5%
+  $ XP acquired after enemy elimination %: +7/10%
+
+* {Enhanced Herald of Peace's Necklace} [Legendary, +5] (#59523)
+    All Abnormal Status RES Rate %: +5%
+  $ All Abnormal Status RES Rate %: +7/10%
+
+* {Baldur's Ring} [Rare, +5] (#59801)
+    ATK: +50
+  $ ATK: +75/100
+
+* {Baldur's Ring} [Heroic, +5] (#59801)
+    ATK: +75
+  $ ATK: +100/125
+
+* {Baldur's Ring} [Legendary, +5] (#59801)
+    ATK: +100
+  $ ATK: +125/150
+
+* {Baldur's Earrings} [Rare, +5] (#59802)
+    XP acquired after enemy elimination %: +1%
+  $ XP acquired after enemy elimination %: +3/5%
+
+* {Baldur's Earrings} [Heroic, +5] (#59802)
+    XP acquired after enemy elimination %: +3%
+  $ XP acquired after enemy elimination %: +5/7%
+
+* {Baldur's Earrings} [Legendary, +5] (#59802)
+    XP acquired after enemy elimination %: +5%
+  $ XP acquired after enemy elimination %: +7/10%
+
+* {Baldur's Necklace} [Rare, +5] (#59803)
+    All Abnormal Status RES Rate %: +1%
+  $ All Abnormal Status RES Rate %: +3/5%
+
+* {Baldur's Necklace} [Heroic, +5] (#59803)
+    All Abnormal Status RES Rate %: +3%
+  $ All Abnormal Status RES Rate %: +5/7%
+
+* {Baldur's Necklace} [Legendary, +5] (#59803)
+    All Abnormal Status RES Rate %: +5%
+  $ All Abnormal Status RES Rate %: +7/10%
+
+* {Acubens's Ring} [Rare, +5] (#59827)
+    ATK: +50
+  $ ATK: +75/100
+
+* {Acubens's Ring} [Heroic, +5] (#59827)
+    ATK: +75
+  $ ATK: +100/125
+
+* {Acubens's Ring} [Legendary, +5] (#59827)
+    ATK: +100
+  $ ATK: +125/150
+
+* {Acubens's Earrings} [Rare, +5] (#59828)
+    XP acquired after enemy elimination %: +1%
+  $ XP acquired after enemy elimination %: +3/5%
+
+* {Acubens's Earrings} [Heroic, +5] (#59828)
+    XP acquired after enemy elimination %: +3%
+  $ XP acquired after enemy elimination %: +5/7%
+
+* {Acubens's Earrings} [Legendary, +5] (#59828)
+    XP acquired after enemy elimination %: +5%
+  $ XP acquired after enemy elimination %: +7/10%
+
+* {Acubens's Necklace} [Rare, +5] (#59829)
+    All Abnormal Status RES Rate %: +1%
+  $ All Abnormal Status RES Rate %: +3/5%
+
+* {Acubens's Necklace} [Heroic, +5] (#59829)
+    All Abnormal Status RES Rate %: +3%
+  $ All Abnormal Status RES Rate %: +5/7%
+
+* {Acubens's Necklace} [Legendary, +5] (#59829)
+    All Abnormal Status RES Rate %: +5%
+  $ All Abnormal Status RES Rate %: +7/10%
+
+* {Tubalcain's Ring} [Rare, +5] (#59853)
+    ATK: +50
+  $ ATK: +75/100
+
+* {Tubalcain's Ring} [Heroic, +5] (#59853)
+    ATK: +75
+  $ ATK: +100/125
+
+* {Tubalcain's Ring} [Legendary, +5] (#59853)
+    ATK: +100
+  $ ATK: +125/150
+
+* {Tubalcain's Earrings} [Rare, +5] (#59854)
+    XP acquired after enemy elimination %: +1%
+  $ XP acquired after enemy elimination %: +3/5%
+
+* {Tubalcain's Earrings} [Heroic, +5] (#59854)
+    XP acquired after enemy elimination %: +3%
+  $ XP acquired after enemy elimination %: +5/7%
+
+* {Tubalcain's Earrings} [Legendary, +5] (#59854)
+    XP acquired after enemy elimination %: +5%
+  $ XP acquired after enemy elimination %: +7/10%
+
+* {Tubalcain's Necklace} [Rare, +5] (#59855)
+    All Abnormal Status RES Rate %: +1%
+  $ All Abnormal Status RES Rate %: +3/5%
+
+* {Tubalcain's Necklace} [Heroic, +5] (#59855)
+    All Abnormal Status RES Rate %: +3%
+  $ All Abnormal Status RES Rate %: +5/7%
+
+* {Tubalcain's Necklace} [Legendary, +5] (#59855)
+    All Abnormal Status RES Rate %: +5%
+  $ All Abnormal Status RES Rate %: +7/10%
+
+* {Castor's Ring} [Rare, +5] (#59879)
+    ATK: +50
+  $ ATK: +75/100
+
+* {Castor's Ring} [Heroic, +5] (#59879)
+    ATK: +75
+  $ ATK: +100/125
+
+* {Castor's Ring} [Legendary, +5] (#59879)
+    ATK: +100
+  $ ATK: +125/150
+
+* {Castor's Earrings} [Rare, +5] (#59880)
+    XP acquired after enemy elimination %: +1%
+  $ XP acquired after enemy elimination %: +3/5%
+
+* {Castor's Earrings} [Heroic, +5] (#59880)
+    XP acquired after enemy elimination %: +3%
+  $ XP acquired after enemy elimination %: +5/7%
+
+* {Castor's Earrings} [Legendary, +5] (#59880)
+    XP acquired after enemy elimination %: +5%
+  $ XP acquired after enemy elimination %: +7/10%
+
+* {Castor's Necklace} [Rare, +5] (#59881)
+    All Abnormal Status RES Rate %: +1%
+  $ All Abnormal Status RES Rate %: +3/5%
+
+* {Castor's Necklace} [Heroic, +5] (#59881)
+    All Abnormal Status RES Rate %: +3%
+  $ All Abnormal Status RES Rate %: +5/7%
+
+* {Castor's Necklace} [Legendary, +5] (#59881)
+    All Abnormal Status RES Rate %: +5%
+  $ All Abnormal Status RES Rate %: +7/10%
+
+* {Radiant Castor's Ring} [Rare, +5] (#59905)
+    ATK: +50
+  $ ATK: +75/100
+
+* {Radiant Castor's Ring} [Heroic, +5] (#59905)
+    ATK: +75
+  $ ATK: +100/125
+
+* {Radiant Castor's Ring} [Legendary, +5] (#59905)
+    ATK: +100
+  $ ATK: +125/150
+
+* {Radiant Castor's Earrings} [Rare, +5] (#59906)
+    XP acquired after enemy elimination %: +1%
+  $ XP acquired after enemy elimination %: +3/5%
+
+* {Radiant Castor's Earrings} [Heroic, +5] (#59906)
+    XP acquired after enemy elimination %: +3%
+  $ XP acquired after enemy elimination %: +5/7%
+
+* {Radiant Castor's Earrings} [Legendary, +5] (#59906)
+    XP acquired after enemy elimination %: +5%
+  $ XP acquired after enemy elimination %: +7/10%
+
+* {Radiant Castor's Necklace} [Rare, +5] (#59907)
+    All Abnormal Status RES Rate %: +1%
+  $ All Abnormal Status RES Rate %: +3/5%
+
+* {Radiant Castor's Necklace} [Heroic, +5] (#59907)
+    All Abnormal Status RES Rate %: +3%
+  $ All Abnormal Status RES Rate %: +5/7%
+
+* {Radiant Castor's Necklace} [Legendary, +5] (#59907)
+    All Abnormal Status RES Rate %: +5%
+  $ All Abnormal Status RES Rate %: +7/10%
+
+* {Procyon's Ring} [Legendary, +5] (#59931)
+    ATK: +100
+  $ ATK: +125/150
+
+* {Procyon's Earrings} [Legendary, +5] (#59932)
+    XP acquired after enemy elimination %: +5%
+  $ XP acquired after enemy elimination %: +7/10%
+
+* {Procyon's Necklace} [Legendary, +5] (#59933)
+    All Abnormal Status RES Rate %: +5%
+  $ All Abnormal Status RES Rate %: +7/10%
+
+* {Radiant Procyon's Ring} [Legendary, +5] (#59957)
+    ATK: +100
+  $ ATK: +125/150
+
+* {Radiant Procyon's Earrings} [Legendary, +5] (#59958)
+    XP acquired after enemy elimination %: +5%
+  $ XP acquired after enemy elimination %: +7/10%
+
+* {Radiant Procyon's Necklace} [Legendary, +5] (#59959)
+    All Abnormal Status RES Rate %: +5%
+  $ All Abnormal Status RES Rate %: +7/10%
+
+* {Herald of Triumph's Ring} [Legendary, +5] (#57746)
+    ATK: +100
+  $ ATK: +125/150
+
+* {Herald of Triumph's Earrings} [Legendary, +5] (#57747)
+    XP acquired after enemy elimination %: +5%
+  $ XP acquired after enemy elimination %: +7/10%
+
+* {Herald of Triumph's Necklace} [Legendary, +5] (#57748)
+    All Abnormal Status RES Rate %: +5%
+  $ All Abnormal Status RES Rate %: +7/10%
+
+* {Enhanced Herald of Triumph's Ring} [Legendary, +5] (#57774)
+    ATK: +100
+  $ ATK: +125/150
+
+* {Enhanced Herald of Triumph's Earrings} [Legendary, +5] (#57775)
+    XP acquired after enemy elimination %: +5%
+  $ XP acquired after enemy elimination %: +7/10%
+
+* {Enhanced Herald of Triumph's Necklace} [Legendary, +5] (#57776)
+    All Abnormal Status RES Rate %: +5%
+  $ All Abnormal Status RES Rate %: +7/10%
+
+* {Improved Herald of Triumph's Ring} [Legendary, +5] (#57802)
+    ATK: +100
+  $ ATK: +125/150
+
+* {Improved Herald of Triumph's Earrings} [Legendary, +5] (#57803)
+    XP acquired after enemy elimination %: +5%
+  $ XP acquired after enemy elimination %: +7/10%
+
+* {Improved Herald of Triumph's Necklace} [Legendary, +5] (#57804)
+    All Abnormal Status RES Rate %: +5%
+  $ All Abnormal Status RES Rate %: +7/10%
+
+* {Herald of Justice's Ring} [Legendary, +5] (#57830)
+    ATK: +100
+  $ ATK: +125/150
+
+* {Herald of Justice's Earrings} [Legendary, +5] (#57831)
+    XP acquired after enemy elimination %: +5%
+  $ XP acquired after enemy elimination %: +7/10%
+
+* {Herald of Justice's Necklace} [Legendary, +5] (#57832)
+    All Abnormal Status RES Rate %: +5%
+  $ All Abnormal Status RES Rate %: +7/10%
+
+* {Enhanced Herald of Justice's Ring} [Legendary, +5] (#57858)
+    ATK: +100
+  $ ATK: +125/150
+
+* {Enhanced Herald of Justice's Earrings} [Legendary, +5] (#57859)
+    XP acquired after enemy elimination %: +5%
+  $ XP acquired after enemy elimination %: +7/10%
+
+* {Enhanced Herald of Justice's Necklace} [Legendary, +5] (#57860)
+    All Abnormal Status RES Rate %: +5%
+  $ All Abnormal Status RES Rate %: +7/10%
+
+* {Improved Herald of Justice's Ring} [Legendary, +5] (#57886)
+    ATK: +100
+  $ ATK: +125/150
+
+* {Improved Herald of Justice's Earrings} [Legendary, +5] (#57887)
+    XP acquired after enemy elimination %: +5%
+  $ XP acquired after enemy elimination %: +7/10%
+
+* {Improved Herald of Justice's Necklace} [Legendary, +5] (#57888)
+    All Abnormal Status RES Rate %: +5%
+  $ All Abnormal Status RES Rate %: +7/10%
+
+* {Alesha's Necklace (Event)} [Legendary, +5] (#58512)
+    All Abnormal Status RES Rate %: +5%
+  $ All Abnormal Status RES Rate %: +7/10%
+
+* {Alesha's Earrings (Event)} [Legendary, +5] (#58513)
+    XP acquired after enemy elimination %: +5%
+  $ XP acquired after enemy elimination %: +7/10%
+
+* {Alesha's Ring (Event)} [Legendary, +5] (#58514)
+    ATK: +100
+  $ ATK: +125/150
+
+* {Chaos Ring (Event)} [Legendary, +5] (#58515)
+    ATK: +100
+  $ ATK: +125/150
+
+* {Chaos Earrings (Event)} [Legendary, +5] (#58516)
+    XP acquired after enemy elimination %: +5%
+  $ XP acquired after enemy elimination %: +7/10%
+
+* {Chaos Necklace (Event)} [Legendary, +5] (#58517)
+    All Abnormal Status RES Rate %: +5%
+  $ All Abnormal Status RES Rate %: +7/10%
+
+* {Typhon's Necklace} [Legendary, +5] (#58064)
+    All Abnormal Status RES Rate %: +5%
+  $ All Abnormal Status RES Rate %: +7/10%
+
+* {Typhon's Earrings} [Legendary, +5] (#58065)
+    XP acquired after enemy elimination %: +5%
+  $ XP acquired after enemy elimination %: +7/10%
+
+* {Typhon's Ring} [Legendary, +5] (#58066)
+    ATK: +100
+  $ ATK: +125/150
+
+* {Enhanced Typhon's Necklace} [Legendary, +5] (#58092)
+    All Abnormal Status RES Rate %: +5%
+  $ All Abnormal Status RES Rate %: +7/10%
+
+* {Enhanced Typhon's Earrings} [Legendary, +5] (#58093)
+    XP acquired after enemy elimination %: +5%
+  $ XP acquired after enemy elimination %: +7/10%
+
+* {Enhanced Typhon's Ring} [Legendary, +5] (#58094)
+    ATK: +100
+  $ ATK: +125/150
+
+* {Improved Typhon's Necklace} [Legendary, +5] (#59980)
+    All Abnormal Status RES Rate %: +5%
+  $ All Abnormal Status RES Rate %: +7/10%
+
+* {Improved Typhon's Earrings} [Legendary, +5] (#59981)
+    XP acquired after enemy elimination %: +5%
+  $ XP acquired after enemy elimination %: +7/10%
+
+* {Improved Typhon's Ring} [Legendary, +5] (#59982)
+    ATK: +100
+  $ ATK: +125/150
+
+* {Aire's Ring} [Legendary, +5] (#59225)
+    ATK: +100
+  $ ATK: +125/150
+
+* {Aire's Earrings} [Legendary, +5] (#59226)
+    XP acquired after enemy elimination %: +5%
+  $ XP acquired after enemy elimination %: +7/10%
+
+* {Aire's Necklace} [Legendary, +5] (#59227)
+    All Abnormal Status RES Rate %: +5%
+  $ All Abnormal Status RES Rate %: +7/10%
+
+* {Enhanced Aire's Ring} [Legendary, +5] (#59253)
+    ATK: +100
+  $ ATK: +125/150
+
+* {Enhanced Aire's Earrings} [Legendary, +5] (#59254)
+    XP acquired after enemy elimination %: +5%
+  $ XP acquired after enemy elimination %: +7/10%
+
+* {Enhanced Aire's Necklace} [Legendary, +5] (#59255)
+    All Abnormal Status RES Rate %: +5%
+  $ All Abnormal Status RES Rate %: +7/10%
+
+* {Improved Aire's Ring} [Legendary, +5] (#59281)
+    ATK: +100
+  $ ATK: +125/150
+
+* {Improved Aire's Earrings} [Legendary, +5] (#59282)
+    XP acquired after enemy elimination %: +5%
+  $ XP acquired after enemy elimination %: +7/10%
+
+* {Improved Aire's Necklace} [Legendary, +5] (#59283)
+    All Abnormal Status RES Rate %: +5%
+  $ All Abnormal Status RES Rate %: +7/10%
+
+* {Worked Shadow Ring} [Rare, +5] (#58152)
+    ATK: +50
+  $ ATK: +75/100
+
+* {Worked Shadow Ring} [Heroic, +5] (#58152)
+    ATK: +75
+  $ ATK: +100/125
+
+* {Worked Shadow Ring} [Legendary, +5] (#58152)
+    ATK: +100
+  $ ATK: +125/150
