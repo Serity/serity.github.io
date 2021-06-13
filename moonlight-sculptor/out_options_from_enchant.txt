@@ -1,4 +1,4 @@
-When your {item] reaches level [quality, +enchant], it will get one of the below bonus modifiers.
+When your {item} reaches level [quality, +enchant], it will get one of the below bonus modifiers.
 I've never enchanted one of these items so I'm unsure if these variables *always* take the first value,
 or if it picks one of them at random, or if it does the first value and then you can reroll it somehow
 for the others?
