@@ -800,3 +800,135 @@
               Fine => Superb: 15x Orange Lunarium, 100x Sapphire
        Superb => Masterpiece: 15x Orange Lunarium, 100x Emerald
  Masterpiece => Transcendent: 30x Orange Lunarium, 100x Crystal, 5x Radiant Crystallization
+
+* Cat Guild Sculpture - 30x Composite Lumber, 40x Ancient Breath, 100x Soulstone Fragment
+* Repair Cost: 1500x Gold, 3x Composite Lumber, 5x Soulstone Fragment
+       Average: XP acquired after enemy elimination +2%
+    ...Average Failed Repair: XP acquired after enemy elimination +1%
+          Fine: XP acquired after enemy elimination +3%
+       ...Fine Failed Repair: XP acquired after enemy elimination +1.5%
+        Superb: XP acquired after enemy elimination +5%
+     ...Superb Failed Repair: XP acquired after enemy elimination +2.5%
+   Masterpiece: XP acquired after enemy elimination +10%
+...Masterpiece Failed Repair: XP acquired after enemy elimination +5%
+
+* Calico Cat Guild Sculpture - Cat Guild Sculpture, 60x Composite Leather, 500x Soulstone Fragment
+* Repair Cost: 2250x Gold, 3x Composite Lumber, 5x Soulstone Fragment
+       Average: XP acquired after enemy elimination +2%, ACC +2%
+    ...Average Failed Repair: XP acquired after enemy elimination +1%, ACC +1%
+          Fine: XP acquired after enemy elimination +3%, ACC +3%
+       ...Fine Failed Repair: XP acquired after enemy elimination +1.5%, ACC +1.5%
+        Superb: XP acquired after enemy elimination +5%, ACC +5%
+     ...Superb Failed Repair: XP acquired after enemy elimination +2.5%, ACC +2.5%
+   Masterpiece: XP acquired after enemy elimination +10%, ACC +10%
+...Masterpiece Failed Repair: XP acquired after enemy elimination +5%, ACC +5%
+
+* Goddess Freya Guild Sculpture - 30x Composite Stone, 40x Ancient Breath, 100x Soulstone Fragment
+* Repair Cost: 1500x Gold, 3x Composite Stone, 5x Soulstone Fragment
+       Average: XP acquired after enemy elimination +2%
+    ...Average Failed Repair: XP acquired after enemy elimination +1%
+          Fine: XP acquired after enemy elimination +3%
+       ...Fine Failed Repair: XP acquired after enemy elimination +1.5%
+        Superb: XP acquired after enemy elimination +5%
+     ...Superb Failed Repair: XP acquired after enemy elimination +2.5%
+   Masterpiece: XP acquired after enemy elimination +10%
+...Masterpiece Failed Repair: XP acquired after enemy elimination +5%
+
+* Flowerbed Freya Guild Sculpture - Goddess Freya Guild Sculpture, 60x Decorative Flower, 500x Soulstone Fragment
+* Repair Cost: 2250x Gold, 3x Composite Stone, 5x Soulstone Fragment
+       Average: XP acquired after enemy elimination +2%, Item acquisition chance after enemy elimination +2%
+    ...Average Failed Repair: XP acquired after enemy elimination +1%, Item acquisition chance after enemy elimination +1%
+          Fine: XP acquired after enemy elimination +3%, Item acquisition chance after enemy elimination +3%
+       ...Fine Failed Repair: XP acquired after enemy elimination +1.5%, Item acquisition chance after enemy elimination +1.5%
+        Superb: XP acquired after enemy elimination +5%, Item acquisition chance after enemy elimination +5%
+     ...Superb Failed Repair: XP acquired after enemy elimination +2.5%, Item acquisition chance after enemy elimination +2.5%
+   Masterpiece: XP acquired after enemy elimination +10%, Item acquisition chance after enemy elimination +10%
+...Masterpiece Failed Repair: XP acquired after enemy elimination +5%, Item acquisition chance after enemy elimination +5%
+
+* Elk Guild Sculpture - 30x Composite Lumber, 40x Ancient Breath, 100x Soulstone Fragment
+* Repair Cost: 1500x Gold, 3x Composite Lumber, 5x Soulstone Fragment
+       Average: XP acquired after enemy elimination +2%
+    ...Average Failed Repair: XP acquired after enemy elimination +1%
+          Fine: XP acquired after enemy elimination +3%
+       ...Fine Failed Repair: XP acquired after enemy elimination +1.5%
+        Superb: XP acquired after enemy elimination +5%
+     ...Superb Failed Repair: XP acquired after enemy elimination +2.5%
+   Masterpiece: XP acquired after enemy elimination +10%
+...Masterpiece Failed Repair: XP acquired after enemy elimination +5%
+
+* Forest Elk Guild Sculpture - Elk Guild Sculpture, 60x Decorative Flower, 500x Soulstone Fragment
+* Repair Cost: 2250x Gold, 3x Composite Lumber, 5x Soulstone Fragment
+       Average: XP acquired after enemy elimination +2%, Bait Retrieval Rate +5%, Night Fishing Success Level:  Rare, +10%
+    ...Average Failed Repair: XP acquired after enemy elimination +1%, Bait Retrieval Rate +2.5%, Night Fishing Success Level:  Rare, +5%
+          Fine: XP acquired after enemy elimination +3%, Bait Retrieval Rate +8%, Night Fishing Success Level:  Rare, +15%
+       ...Fine Failed Repair: XP acquired after enemy elimination +1.5%, Bait Retrieval Rate +4%, Night Fishing Success Level:  Rare, +7.5%
+        Superb: XP acquired after enemy elimination +5%, Bait Retrieval Rate +15%, Night Fishing Success Level:  Rare, +25%
+     ...Superb Failed Repair: XP acquired after enemy elimination +2.5%, Bait Retrieval Rate +7.5%, Night Fishing Success Level:  Rare, +12.5%
+   Masterpiece: XP acquired after enemy elimination +10%, Bait Retrieval Rate +25%, Night Fishing Success Level:  Rare, +40%
+...Masterpiece Failed Repair: XP acquired after enemy elimination +5%, Bait Retrieval Rate +12.5%, Night Fishing Success Level:  Rare, +20%
+
+* Steel Dragon Guild Sculpture - 30x Composite Metal, 40x Ancient Breath, 100x Soulstone Fragment
+* Repair Cost: 1500x Gold, 3x Composite Metal, 5x Soulstone Fragment
+       Average: Gold acquired after enemy elimination +8%
+    ...Average Failed Repair: Gold acquired after enemy elimination +4%
+          Fine: Gold acquired after enemy elimination +10%
+       ...Fine Failed Repair: Gold acquired after enemy elimination +5%
+        Superb: Gold acquired after enemy elimination +14%
+     ...Superb Failed Repair: Gold acquired after enemy elimination +7%
+   Masterpiece: Gold acquired after enemy elimination +20%
+...Masterpiece Failed Repair: Gold acquired after enemy elimination +10%
+
+* Thunder Dragon Guild Sculpture - Steel Dragon Guild Sculpture, 60x Dazzling Powder, 500x Soulstone Fragment
+* Repair Cost: 2250x Gold, 3x Composite Metal, 5x Soulstone Fragment
+       Average: Gold acquired after enemy elimination +8%, All Element RES +10
+    ...Average Failed Repair: Gold acquired after enemy elimination +4%, All Element RES +5
+          Fine: Gold acquired after enemy elimination +10%, All Element RES +20
+       ...Fine Failed Repair: Gold acquired after enemy elimination +5%, All Element RES +10
+        Superb: Gold acquired after enemy elimination +14%, All Element RES +30
+     ...Superb Failed Repair: Gold acquired after enemy elimination +7%, All Element RES +15
+   Masterpiece: Gold acquired after enemy elimination +20%, All Element RES +50
+...Masterpiece Failed Repair: Gold acquired after enemy elimination +10%, All Element RES +25
+
+* Cockatrice Guild Sculpture - 30x Composite Stone, 40x Ancient Breath, 100x Soulstone Fragment
+* Repair Cost: 1500x Gold, 3x Composite Stone, 5x Soulstone Fragment
+       Average: Gold acquired after enemy elimination +8%
+    ...Average Failed Repair: Gold acquired after enemy elimination +4%
+          Fine: Gold acquired after enemy elimination +10%
+       ...Fine Failed Repair: Gold acquired after enemy elimination +5%
+        Superb: Gold acquired after enemy elimination +14%
+     ...Superb Failed Repair: Gold acquired after enemy elimination +7%
+   Masterpiece: Gold acquired after enemy elimination +20%
+...Masterpiece Failed Repair: Gold acquired after enemy elimination +10%
+
+* Courageous Cockatrice Guild Sculpture - Cockatrice Guild Sculpture, 60x Dazzling Powder, 500x Soulstone Fragment
+* Repair Cost: 2250x Gold, 3x Composite Stone, 5x Soulstone Fragment
+       Average: Gold acquired after enemy elimination +8%, Acquired Scramble Points +50%
+    ...Average Failed Repair: Gold acquired after enemy elimination +4%, Acquired Scramble Points +25%
+          Fine: Gold acquired after enemy elimination +10%, Acquired Scramble Points +80%
+       ...Fine Failed Repair: Gold acquired after enemy elimination +5%, Acquired Scramble Points +40%
+        Superb: Gold acquired after enemy elimination +14%, Acquired Scramble Points +130%
+     ...Superb Failed Repair: Gold acquired after enemy elimination +7%, Acquired Scramble Points +65%
+   Masterpiece: Gold acquired after enemy elimination +20%, Acquired Scramble Points +200%
+...Masterpiece Failed Repair: Gold acquired after enemy elimination +10%, Acquired Scramble Points +100%
+
+* Hippogriff Guild Sculpture - 30x Composite Metal, 40x Ancient Breath, 100x Soulstone Fragment
+* Repair Cost: 1500x Gold, 3x Composite Metal, 5x Soulstone Fragment
+       Average: Gold acquired after enemy elimination +8%
+    ...Average Failed Repair: Gold acquired after enemy elimination +4%
+          Fine: Gold acquired after enemy elimination +10%
+       ...Fine Failed Repair: Gold acquired after enemy elimination +5%
+        Superb: Gold acquired after enemy elimination +14%
+     ...Superb Failed Repair: Gold acquired after enemy elimination +7%
+   Masterpiece: Gold acquired after enemy elimination +20%
+...Masterpiece Failed Repair: Gold acquired after enemy elimination +10%
+
+* Jeweled Plume Hippogriff Guild Sculpture - Hippogriff Guild Sculpture, 60x Dazzling Powder, 500x Soulstone Fragment
+* Repair Cost: 2250x Gold, 3x Composite Metal, 5x Soulstone Fragment
+       Average: Gold acquired after enemy elimination +8%, All Abnormal Status RES Rate +2%
+    ...Average Failed Repair: Gold acquired after enemy elimination +4%, All Abnormal Status RES Rate +1%
+          Fine: Gold acquired after enemy elimination +10%, All Abnormal Status RES Rate +3%
+       ...Fine Failed Repair: Gold acquired after enemy elimination +5%, All Abnormal Status RES Rate +1.5%
+        Superb: Gold acquired after enemy elimination +14%, All Abnormal Status RES Rate +5%
+     ...Superb Failed Repair: Gold acquired after enemy elimination +7%, All Abnormal Status RES Rate +2.5%
+   Masterpiece: Gold acquired after enemy elimination +20%, All Abnormal Status RES Rate +10%
+...Masterpiece Failed Repair: Gold acquired after enemy elimination +10%, All Abnormal Status RES Rate +5%
